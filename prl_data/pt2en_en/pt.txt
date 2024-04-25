@@ -1,0 +1,460 @@
+1	A Síndrome de Waardenburg (SW) é uma condição genética rara de padrão autossômico dominante e que pode cursar com perda auditiva neurossensorial.
+2	Nesse relato, apresentamos o desempenho da audição e linguagem de três crianças com SW, com zero, três, nove, doze e sessenta meses de seguimento após implante coclear (IC).
+3	As crianças foram avaliadas através dos questionários Escala de Integração Auditiva IT-MAIS (até 5 anos), MAIS (maiores de 5 anos), Escala de Utilização da Fala (MUSS) e categorizados quanto à audição e linguagem.
+4	Os resultados demonstraram uma melhora no desempenho da audição e linguagem ao longo do tempo, sendo que os dois pacientes que usaram o IC por 5 anos alcançaram 100% no IT-MAIS, MAIS e MUSS.
+5	Além disso, ambos foram capazes de compreender sentenças em conjunto aberto e possuem fala fluente, considerando-se as categorias de audição e linguagem.
+6	O terceiro paciente, com 50 meses de seguimento, encontra-se, na avaliação aos 48 meses, na categoria 5 de audição e 3 de linguagem.
+7	Conclui-se assim que as crianças da pesquisa, que apresentavam níveis baixos de audição e linguagem antes do implante coclear, passaram a apresentar melhores respostas auditivas e linguísticas após a implantação e reabilitação.
+8	O grau de fluxo TIMI e a contagem quadro a quadro TIMI corrigida (CTFC) são métodos amplamente utilizados para avaliar o fluxo sanguíneo coronariano angiográfico.
+9	Trinta pacientes foram estudados e divididos em 2 grupos: fluxo sanguíneo coronariano normal (FN) e fluxo sanguíneo coronariano lento (FL), de acordo com a definição da CTFC.
+10	O MD foi aplicado à amostra do estudo para diferenciar entre FN e FL.
+11	A estatística não paramétrica foi usada para avaliar diferenças entre os grupos com p<0,05.
+12	O valor de referência normal do MD obtido para o fluxo sanguíneo coronariano foi de 9 [5–10] quadros.
+13	Os grupos FN vs. FL foi comparado e expresso como mediana [intervalo interquartil], para a artéria descendente anterior esquerda: 10 [7–11] vs. 21 [8–33]; p=0,016; artéria circunflexa: 9 [4–13] vs. 14 [11–30]; p=0,012 e artéria coronária direita: 5 [3–11] vs. 13 [8–26]; p=0,009.
+14	O MD mostrou a viabilidade de medir o fluxo sanguíneo coronariano com precisão, consistência e reprodutibilidade em um angiograma coronariano padrão, mostrando a capacidade adicional de diferenciar FN de FL em pacientes com dor precordial e artérias coronárias normais.
+15	(Arq Bras Cardiol. 2020; 115(3):503-512).
+16	A ectasia da artéria coronária (EAC) é definida como a dilatação difusa ou localizada do lúmen da artéria coronária com diâmetro de 1,5 a 2,0 vezes o diâmetro da artéria coronária normal adjacente.
+17	A relação proteína C-reativa/albumina (CAR, sigla em inglês) é um marcador inflamatório útil que tem sido documentado em doença arterial coronariana.
+18	Analisar a associação entre a EAC e a CAR.
+19	Um protocolo caso-controle foi utilizado neste estudo.
+20	Foram incluídos 102 pacientesconsecutivos com EAC isolada sem estenose (56 homens e 46 mulheres; idade média de 60,4 ± 8,8 anos).
+21	O grupo controle era constituido pelo mesmo número de pacientes pareados por sexo e idade com artérias coronárias normais (55 homens e 47 mulheres; idade média de 61,2 ± 9,1 anos).
+22	Características clínicas, achados laboratoriais e histórico de uso de medicamentos foram registrados.
+23	Foram realizados teste t de Student, teste U de Mann-Whitney, teste do qui-quadrado, análise de regressão linear e logística.
+24	Foi considerado estatisticamente significativo p bilateral < 0,05.
+25	A CAR estava aumentada nos pacientes com EAC em comparação com os controles (32 e 16; p < 0,001).
+26	Além disso, foi verificado que a CAR era um preditor independente da EAC (razão de chances = 2,202; intervalo de confiança 95%, 1,184 – 5,365; p < 0,001).
+27	No presente estudo, determinamos que os níveis da CAR estavam significativamente mais altos no grupo EAC que no grupo controle e a CAR estava significativamente correlacionada com a EAC.
+28	(Arq Bras Cardiol. 2020;
+29	[online].ahead print, PP.0-0).
+30	Quando dão à luz durante o período de aprisionamento, as mulheres presas têm o direito de conviver com seus filhos em unidades específicas para mães e bebês, pelo período mínimo de seis meses.
+31	Essa convivência tem como foco o cuidado e a proteção da criança, mas ocorre em um ambiente ordenado pela ordem prisional.
+32	Este estudo tem como objetivo analisar o exercício das práticas de cuidado materno na prisão.
+33	Foram realizadas seis entrevistas narrativas no Rio de Janeiro, Brasil: duas com mulheres que vivenciaram a experiência de maternagem no período de aprisionamento na Unidade Materno Infantil do Complexo Penitenciário de Gericinó e quatro com profissionais de organizações não governamentais que trabalharam com mulheres que tiveram seus bebês no período de encarceramento.
+34	A análise das narrativas foi feita a partir da interpretação dos papéis e das relações entre as personagens narradas e a forma como suas interações modelam as histórias contadas.
+35	Por fim, realizou-se a articulação interpretativa entre as narrativas e o referencial teórico sobre gênero e prisões.
+36	Concluiu-se que as normas prisionais e as normas de cuidado se tensionam e convergem em uma dinâmica que busca beneficiar o bebê, sem deixar de punir a mulher.
+37	O estudo analisou as ideias em disputa em torno das atribuições do Estado na prevenção e controle da obesidade infantil no Brasil com base no referencial de análise cognitiva de políticas públicas.
+38	Realizou-se análise documental e entrevista semiestruturada com 20 depoentes referenciados às esferas do Estado/Governo, sociedade civil organizada e do setor privado comercial.
+39	O Estado foi considerado o principal responsável pelo enfrentamento da obesidade infantil, mas as concepções sobre suas atribuições variaram de acordo com as narrativas sobre os condicionantes da obesidade e as soluções apresentadas.
+40	O setor privado comercial critica o Estado regulador em nome da liberdade de decisão dos pais.
+41	Representantes da sociedade civil e de parte do governo valorizam ações regulatórias e reconhecem que são fundamentais.
+42	Consideram que os acordos para a redução de ingredientes, realizados entre o governo e a indústria alimentícia, não são efetivos.
+43	Porém, alguns representantes do governo os defendem.
+44	Essas tensões e contradições também se expressam nos documentos de políticas que reconhecem que as práticas do setor privado comercial favorecem a obesidade, mas o consideram parceiro.
+45	Os argumentos contrários ao Estado regulador são pautados nos condicionantes individuais da obesidade, contudo, as práticas institucionais do setor privado comercial é que são objeto de regulação e não o comportamento dos indivíduos.
+46	No entanto, esse tipo de argumento é parte da ação política corporativa, pois omite os conflitos de interesses que vêm contribuindo para retardar a redução da prevalência da obesidade.
+47	Estimar a cobertura da primeira e da segunda dose da vacina papilomavírus humano (HPV) no Brasil, conforme a microrregião, comparando-se as coortes de meninas com 14, 15 e 16 anos em 2017, e investigar a associação da heterogeneidade espacial na cobertura vacinal com variáveis sociodemográficas.
+48	A informação sobre doses aplicadas nos anos de 2013 a 2017 por idade foi obtida do Programa Nacional de Imunizações.
+49	O número de meninas residentes com sete, oito e nove anos em 2010, em cada microrregião, é oriundo do censo brasileiro de 2010.
+50	Para a análise, a cobertura vacinal acumulada por microrregião (n = 558) foi categorizada em baixa (< 80%) e adequada (≥ 80%), e um modelo logístico com intercepto aleatório foi ajustado, tendo cobertura vacinal adequada como desfecho.
+51	O efeito aleatório (unidade da federação) foi incluído para captar a correlação entre microrregiões que pertencem ao mesmo estado.
+52	O percentual de microrregiões que alcançou a cobertura vacinal adequada foi significativamente maior para a primeira dose (entre 91,8 e 159,2%), independentemente da coorte.
+53	Observou-se menor cobertura da segunda dose (entre 7 e 79,9%), com heterogeneidade associada ao grau de urbanização e à presença de domicílios com banheiro de uso próprio no município.
+54	O efeito aleatório mostrou forte poder explicativo, sugerindo importantes diferenças entre os estados brasileiros no alcance da cobertura vacinal.
+55	Apesar de a vacina HPV estar disponível no Programa de Imunização, os achados do presente estudo apontam para uma dificuldade do alcance da cobertura vacinal adequada.
+56	O objetivo do trabalho foi comparar biomarcadores em grupos de adolescentes classificados simultaneamente pelo índice de massa corporal (IMC) e percentual de gordura corporal, mensurados por meio da pletismografia por deslocamento de ar.
+57	Estudo transversal com 533 adolescentes de 18 e 19 anos de São Luís, Maranhão, Brasil.
+58	O IMC foi classificado em adequado (< 25kg/m2) e excesso de peso (≥ 25kg/m2).
+59	Definiu-se percentual de gordura corporal elevado ≥ 25% para o sexo masculino e ≥ o feminino.
+60	Os adolescentes foram classificados em quatro grupos: “eutrófico” (IMC e percentual de gordura corporal adequados), “obeso de peso normal” (IMC adequado com percentual de gordura corporal elevado), “excesso de peso com percentual de gordura corporal adequado” e “excesso de peso com percentual de gordura corporal elevado”.
+61	As meninas registraram maiores valores de “obesidade de peso normal” (15,6%) e “excesso de peso com percentual de gordura corporal elevado” (17,1%).
+62	Os adolescentes “obesos de peso normal” apesentaram maiores médias para colesterol total (172,5mg/dL) e LDL-colesterol (103,5mg/dL).
+63	Aqueles com “excesso de peso e percentual de gordura corporal elevado” registraram a menor média para HDL-colesterol (43,2mg/dL) em relação aos outros grupos; maior média para interleucina-6 (2,7pg/mL) em relação aos “eutróficos” e “excesso de peso e percentual de gordura corporal adequado”; e maiores medianas para triglicerídeos (114,0mg/dL) e proteína C reativa (0,14ng/mL) em relação aos “eutróficos” e “obesos de peso normal”.
+64	Os com “excesso de peso e percentual de gordura corporal adequado” apresentaram proteína C reativa igual aos com “excesso de peso e percentual de gordura corporal elevado”.
+65	Avaliar a eficácia, segurança e tolerabilidade do medicamento oromucosal nabiximols canabinóide como terapia adjunta para crianças com espasticidade devida a paralisia cerebral/lesão traumática do sistema nervoso central com resposta inadequada a tratamentos existentes.
+66	MÉTODO: Em geral, 72 pacientes (média [DP] idade 12a 4m [3a 1m], variação 8-18a) foram randomizados em uma taxa de 2:1 para receber nabiximols (n=47; 29 sexo masculino, 18 sexo feminino) ou placebo (n=25; 15 sexo masculino, 10 sexo feminino) por 12 semanas (12 sprays/dia máx. com base na resposta clínica/tolerabilidade).
+67	Resultados secundários incluíram medidas adicionais de espasticidade, qualidade do sono, dor, qualidade de vida relacionada à saúde, conforto, depressão, e segurança.
+68	Não houve diferença significativa na espasticidade Segundo a ENP 0 a 10 entre os grupos nabiximols versus placebo após 12 semanas.
+69	Nenhuma diferença estatisticamente significativa foi observada para nenhum desfecho secundário.
+70	Eventos adversos foram predominantemente leves ou moderados em severidade; no entanto, três casos de alucinações foram reportados.
+71	INTERPRETAÇÃO: Nabiximols foi em geral bem tolerado; no entanto eventos adversos neuropsiquiátricos foram observados.
+72	Nenhuma redução significativa na espasticidade com o tratamento com nabiximols versus placebo foi observada.
+73	Avaliar os resultados do tratamento de graves sequelas do quadril pela dupla osteotomia do fêmur.
+74	Pacientes imaturos, com perda da articulação do quadril, foram tratados com osteotomia de apoio pélvico associada à osteotomia na região distal do fêmur para correção do eixo do membro inferior e do encurtamento, foram avaliados clínica e radiograficamente.
+75	Onze casos (onze quadris) foram avaliados, com seguimento médio de três anos.
+76	A média de idade no tratamento foi de 14,7 anos.
+77	Sete indivíduos tinham sequela de artrite séptica, três de displasia do desenvolvimento do quadril e um de escorregamento epifisário proximal do fêmur.
+78	Pré-operatoriamente, a marcha por insuficiência do glúteo médio esteve presente em todos os sujeitos e se tornou negativa em dez deles.
+79	O encurtamento médio inicial do membro afetado foi de 5 cm (2,5 a 7 cm) e o reduzido teve média de 1,9 cm (0 a 4 cm).
+80	Segundo classificação de Paley, 72,7% apresentaram intercorrências consideradas problemas, 90,9% obstáculos e 27,2% complicações, entre as quais a limitação da amplitude de movimento do joelho foi a mais frequente.
+81	A técnica produziu bons resultados em face da gravidade da sequela e da falta de outra opção terapêutica melhor.
+82	Não houve sequela importante associada ao tratamento.
+83	Os enxertos de veias safenas (EVS) são frequentemente usados em pacientes submetidos a cirurgia de revascularização do miocárdio (CRM).
+84	Avaliar as relações entre índices aterogênicos e estenose de EVS.
+85	Métodos: No total, 534 pacientes (27,7% mulheres, com idade média de 65±8,4 anos) submetidos a CRM e angiografia coronariana eletiva foram incluídos no estudo.
+86	Pacientes com pelo menos uma estenose EVS ≥50% foram alocados ao grupo estenose EVS (+) (n=259) e pacientes sem estenose foram classificados como EVS (-) (n=275).
+87	O índice aterogênico plasmático (IAP) e o coeficiente aterogênico (CA) foram calculados a partir dos parâmetros lipídicos de rotina dos pacientes.
+88	A significância foi estabelecida no nível p<0,05.
+89	O número de pacientes com histórico de hipertensão (HT), diabetes mellitus (DM), acidente vascular cerebral e insuficiência cardíaca (IC) se mostrou significativamente maior no grupo EVS (+) do que no grupo EVS (-). O colesterol total, triglicerídeos e colesterol LDL mostraram-se significativamente mais altos e o colesterol HDL mostrou-se menor no grupo EVS (+) do que no grupo EVS (-). IAP (p<0,001) e CA (p<0,001) apresentaram-se significativamente mais altos no grupo EVS (+) do que no grupo EVS (-). A análise ROC mostra que tanto o IAP quanto o CA mostraram-se melhores que o colesterol HDL, colesterol LDL e colesterol não HDL na predição de estenose de EVS.
+90	Na análise multivariada, histórico de DM, HT, acidente vascular cerebral, IC, número de enxertos de safena, colesterol HDL, colesterol LDL, colesterol não HDL, IAP e CA foram fatores de risco independentes para estenose de EVS.
+91	O IAP e o CA foram preditores independentes de estenose de EVS.
+92	Além disso, tanto o IAP quanto o CA têm melhor desempenho na predição de estenose de EVS do que o colesterol LDL, colesterol HDL e colesterol não HDL.
+93	(Arq Bras Cardiol. 2020; 115(3):538-544).
+94	Este estudo teve como objetivo determinar os níveis séricos de proteína 3 contendo um domínio NACHT, porção C-terminal rica em repetições de leucina e de domínio pirina (NLRP3) e catelicidina LL-37, bem como investigar sua importância prognóstica em pneumonia adquirida na comunidade (PAC).
+95	Este estudo prospectivo incluiu 76 pacientes com PAC.
+96	Foram obtidos dados demográficos e características clínicas.
+97	Os níveis séricos de NLRP3 e LL-37 foram determinados por meio do teste ELISA.
+98	A correlação entre NLRP3 e LL-37 foi estimada por intermédio da análise de Spearman.
+99	A associação entre NLRP3 e LL-37 com 30 dias de taxa de sobrevida e de mortalidade foi avaliada pela curva de Kaplan-Meier e análise de regressão logística.
+100	Os níveis séricos de NLRP3 estavam elevados, enquanto os níveis de LL-37 apresentaram redução significativa em pacientes com PAC grave.
+101	Observou-se correlação significativa entre os níveis séricos de NLRP3 e LL-37 em pacientes com PAC.
+102	Pacientes com níveis elevados de NLRP3 e níveis reduzidos de LL-37 exibiram maior taxa de sobrevida em 30 dias e de mortalidade quando comparados com aqueles com níveis inferiores de NLRP3 e LL-37.
+103	Pacientes com PAC grave tendem a apresentar níveis séricos elevados de NLRP3 e níveis reduzidos de LL-37, o que pode ser utilizado como um potencial biomarcador prognóstico.
+104	Poucos estudos já examinaram a relação do nível habitual de atividade física e a modulação do sistema nervoso autônomo (SNA) na qualidade do sono de fumantes.
+105	O objetivo deste estudo foi identificar alterações na qualidade do sono de fumantes e sua relação com nível habitual de atividade física e modulação do SNA.
+106	Um total de 42 fumantes foram divididos em dois grupos de acordo com o 50º percentil de atividade física de moderada a vigorosa (AFMV).
+107	A qualidade do sono foi avaliada utilizando-se o Mini-Sleep Questionnaire (mini questionário do sono), e a modulação do SNA foi avaliada por índices de variabilidade de frequência cardíaca (VFC).
+108	Para a análise de possíveis diferenças de média, foi utilizada a análise de covariância (ANCOVA) para ajuste de idade, gênero, composição corporal, maços-ano, betabloqueadores, ansiedade, e depressão, em log base 10, exceto por dados qualitativos, tais como gênero e betabloqueadores.
+109	Foram estabelecidas correlações utilizando-se a correlação de postos de Spearman.
+110	A significância estatística foi definida em 5%.
+111	Os fumantes que eram menos ativos demonstraram pior qualidade do sono (p=0,048) e insônia (p=0,045).
+112	Além disso, o grupo menos ativo apresentou redução na modulação parassimpática [HF (un; p=0,049); RMSSD (ms; p=0,047) e SD1 (ms; p=0,047)] e aumento do índice de LF (un) index (p=0,033) e razão LF/HF (p=0,040).
+113	Houve correlação positiva entre a pontuação total no Mini-sleep com o índice de LF (un) (r=0,317, p=0,041) e razão LF/HF (r=0,318, p=0,040) e correlação negativa com o índice de HF (un) (r= -0,322, p=0,038). Fumantes com baixo nível de atividade física habitual apresentaram baixa qualidade do sono e alterações na modulação do sistema nervoso autônomo.
+114	(Arq Bras Cardiol. 2020;
+115	[online].ahead print, PP.0-0).
+116	Avaliar o cumprimento das atividades de monitoramento do tratamento e verificação de cura pelos profissionais do Programa de Controle da Malária.
+117	A coleta dos dados foi realizada no município amazônico de Cruzeiro do Sul no estado do Acre.
+118	Os dados foram analisados por meio de estatística descritiva.
+119	Foram observados 15 agentes de controle de endemias, 5 enfermeiros e 5 microscopistas, no desempenho de suas funções no programa.
+120	As atividades de monitoramento do tratamento e verificação de cura obtiveram os respectivos percentuais totais de cumprimento: 72,0% e 12,1%.
+121	Os microscopistas, avaliados em 9 atividades, obtiveram maior percentual de cumprimento de atividades, enquanto que enfermeiros e agentes de controle de endemias tiveram índice de cumprimento parcial ou não realizam determinadas atividades.
+122	O Programa de Controle da Malária apresenta desempenho abaixo do preconizado, não atendendo ao padrão ouro estabelecido, podendo significar a manutenção ou a elevação dos casos de malária.
+123	Não há estudos avaliando o intervalo Tpico-Tfim (Tpe), a relação Tpe/QT e a relação Tpe/QTc para avaliar arritmias cardíacas em pacientes com COVID-19.
+124	Visamos investigar se há alterações nos intervalos QT, QTc e Tpe e nas relações Tpe/QT e Tpe/QTc em pacientes com COVID-19.
+125	O estudo incluiu 90 pacientes com infecção por COVID-19 e 30 controles saudáveis pareados por sexo e idade.
+126	Foram aferidos os intervalos QT, QTc e Tpe e as relações Tpe/QT e Tpe/QTc.
+127	Os participantes incluídos no estudo foram divididos nos seguintes 4 grupos: controles saudáveis (grupo I), pacientes com COVID-19 sem pneumonia (grupo II), pacientes com COVID-19 e pneumonia leve (grupo III) e pacientes com COVID-19 e pneumonia grave (grupo IV).
+128	Significância estatística foi definida por valor p < 0,05.
+129	Verificou-se que a frequência cardíaca basal, a presença de hipertensão e diabetes, a contagem de leucócitos, o nitrogênio ureico no sangue, a creatinina, o potássio, o aspartato aminotransferase, a alanina aminotransferase, o NT-proBNP, a proteína C reativa de alta sensibilidade, o dímero-D, a TncI-as, o intervalo Tpe, a relação Tpe/QT e a relação Tpe/QTc aumentaram do grupo I para o grupo IV e foram significativamente mais altos em todos os pacientes do grupo IV (p < 0,05).
+130	A pressão arterial sistólica, a hemoglobina e os níveis de cálcio eram menores no grupo IV e significativamente menores em comparação com os demais grupos (< 0,05).
+131	Os intervalos QT e QTc eram semelhantes entre grupos.
+132	Determinou-se que os níveis elevados de frequência cardíaca, cálcio, dímero-D, NT-proBNP e PCR-as eram significativamente relacionados a Tpe, Tpe/QT e Tpe/QTc.
+133	Em pacientes com COVID-19 e pneumonia grave, o intervalo Tpe, a relação Tpe/QT e a relação Tpe/QTc, que estão entre os parâmetros de repolarização ventricular, foram aumentados, sem prolongação dos intervalos QT e QTc.
+134	A partir deste estudo, não podemos definitivamente concluir que as alterações eletrocardiográficas observadas estão diretamente relacionadas à infecção por COVID-19 ou à inflamação, mas sim associadas a cenários graves de COVID-19, que podem envolver outras causas de inflamação e comorbidades.
+135	A indústria de tabaco normalmente superestima o tamanho do mercado ilegal para reforçar a ideia de sua relação direta com a escolha de aumentar impostos feita pela administração tributária.
+136	No Brasil, o último aumento de tributos sobre produtos de tabaco foi em 2016.
+137	O crescimento da demanda por cigarros ilegais tem outros determinantes macrossociais que a indústria não considera, tal como o aumento da capacidade econômica de adquirir cigarros legais.
+138	O objetivo deste artigo é testar essa hipótese da “razão econômica do consumidor brasileiro”, entre 2015 e 2019, ao comparar a estimativa do consumo de cigarros ilegais obtida com base em fontes de dados oficiais do governo sobre produção legal e consumo de cigarros com a “estimativa extraoficial” fornecida pela indústria.
+139	Utilizaram-se, ainda, os dados oficiais nacionais de rendimento mensal oriundo do trabalho.
+140	A “capacidade aquisitiva de cigarros legais” da população brasileira aumentou sistematicamente entre 2016 e 2019, passando de 412 maços/mês para 460 maços/mês.
+141	A diferença absoluta entre a estimativa da indústria do tabaco e a estimativa com base em dados oficiais do volume de cigarros ilegais consumidos aumentou no tempo, chegando a +30,2 bilhões de unidades em 2019.
+142	Já o consumo de cigarros legais, calculado com dados oficiais, aumentou entre 2016 e 2019 (+7,8 bilhões), sendo que a indústria encontrou uma redução deste consumo (-9,5 bilhões).
+143	Os gestores deveriam basear suas decisões em estimativas geradas valendo-se de fontes oficiais de informação, incluindo os dados macroeconômicos de emprego e renda, ao invés de se apoiarem em estimativas geradas pela indústria do tabaco com o intuito de interferir sobre as políticas públicas.
+144	O monóxido de carbono e o cianeto são toxinas que induzem hipóxia celular; ambos podem ser produzidos em contexto de incêndios domésticos e podem exercer um efeito tóxico sinérgico.
+145	Apresentamos o caso de um homem, vítima de incêndio doméstico, que foi inicialmente diagnosticado como intoxicação por monóxido de carbono, mas que posteriormente apresentou também sinais e sintomas compatíveis com intoxicação por cianeto, tendo sido tratado com sucesso com antídotos dirigidos.
+146	Pretendemos alertar para esta associação de intoxicações relativamente frequente e para a necessidade de tratamento empírico urgente.
+147	Analisar as notificações de síndrome gripal segundo o intervalo de tempo decorrido entre início dos sintomas e realização do exame para COVID-19.
+148	Estudo transversal, utilizando registros de casos de síndrome gripal contendo resultados de testes diagnósticos da COVID-19 nas capitais brasileiras e no Distrito Federal, no sistema e-SUS Notifica, entre 1º/março/2020 e 18/agosto/2020.
+149	Comparou-se o intervalo de tempo entre início dos sintomas e realização do exame (teste ANOVA), classificando-o segundo a adequação/oportunidade do exame.
+150	Entre 1.942.514 notificações, o tempo médio entre início dos sintomas e execução dos testes foi de 10,2 dias (±17,1).
+151	Entre testados, predominou o sexo feminino (55,1%), idade de 20-39 anos (43,8%) e região Sudeste (43,0%).
+152	O teste ELISA IgM foi realizado em tempo adequado para 58,8%; e o teste rápido-antígeno, em tempo inadequado para 68,0%.
+153	Observou-se inadequação entre início dos sintomas e realização dos testes para COVID-19 nas regiões brasileiras.
+154	O mesotelioma pleural é uma doença associada à exposição ao amianto.
+155	Embora raro, é a principal neoplasia maligna da pleura, sendo o seu diagnóstico difícil e o seu prognóstico reservado.
+156	O caso clínico apresentado refere-se a um doente de 62 anos, do género masculino, com história ocupacional de exposição prolongada a amianto e clínica arrastada, com meses de evolução, de dispneia para pequenos esforços e tosse produtiva.
+157	Imagiologicamente, apresentava um envolvimento intersticial extenso com marcado espessamento dos septos interlobulares e centrilobulares, associado a ténues alterações pleurais.
+158	Várias hipóteses diagnósticas foram equacionadas tais como, asbestose, pneumonia organizativa criptogénica, pneumonia intersticial descamativa, metástases pleuropulmonares, e/ou patologia infeciosa broncopulmonar, mas o resultado histológico e imunohistoquímico foi compatível com mesotelioma pleural- uma neoplasia maligna rara, de origem pleural, com uma taxa de mortalidade elevada.
+159	O presente artigo se propõe a discutir as muitas complexidades envolvidas na incorporação de novas tecnologias em saúde para doenças raras, tomando como foco central da discussão o caso da fibrose cística.
+160	Tal escolha acontece por ser essa uma doença rara, genética, autossômica recessiva, considerada a mais comum entre as doenças raras.
+161	Também por ser uma doença que tem se beneficiado imensamente dos investimentos em pesquisa no campo da biologia molecular, feitos principalmente nos Estados Unidos, mas também em grupos de pesquisa europeus que resultaram no registro e comercialização de quatro novos medicamentos.
+162	Esses novos fármacos atuam, pela primeira vez, no defeito básico da fibrose cística.
+163	Numa perspectiva que entende as doenças raras como um campo de pesquisa tecido entre muitos outros, o presente texto tenta problematizar, com base em uma perspectiva mais centrada nas pessoas com fibrose cística, a dualidade de testemunhar de longe a molecularizaçao da vida, o surgimento de medicamentos de última geração que interrompem, em nível molecular, a cascata de erros e portanto sintomas e evolução de sua doença.
+164	O texto busca trazer para o debate os vários elementos que atravessam a complexa realidade local dos pacientes brasileiros com fibrose cística, num contexto global de inovação tecnológica e de quebra de paradigma em seus tratamentos.
+165	Baseando-se no campo das doenças raras, passando pela apresentação da fibrose cística em tempos da medicina de precisão, aliado a discussões sobre biopolíticas num contexto de inovação em saúde e medicamentos de alto custo, o artigo tenta dar visibilidade aos desafios e possibilidades do tempo presente.
+166	Analisar a relação da ansiedade com a compulsão alimentar e a qualidade do sono em adultos com sobrepeso ou obesidade.
+167	Estudo transversal, realizado entre maio de 2015 e janeiro de 2017, com amostra intencional composta por indivíduos de ambos os sexos, alfabetizados, com idade entre 20 e 59 anos, que apresentavam índice de massa corporal maior ou igual a 25 kg/m2.
+168	Utilizaram-se o Inventário de Ansiedade Traço-Estado, Escala de Compulsão Alimentar Periódica e Questionário de Padrão do Sono de Pittsburgh.
+169	Adotaram-se o coeficiente de correlação de Pearson ou Spearman na análise dos dados, de acordo com a distribuição destes.
+170	A amostra foi constituída por 130 indivíduos.
+171	A amostra geral e os adultos jovens apresentaram correlação positiva entre os escores de ansiedade e os de compulsão alimentar (p=0,0011) e qualidade do sono (p=0,0081).
+172	Adultos com 45 anos ou mais apresentaram relação inversa da idade com a ansiedade (p=0,0003).
+173	Contrariamente, nos adultos de meia-idade, quanto maior a idade, menor o escore de ansiedade.
+174	Registro Brasileiro de Ensaios Clínicos: n° RBR-47kfxh.
+175	Perfis visuoperceptuais de crianças usando o questionário Flemish de deficiência visual cerebral OBJETIVOS: Investigar a estrutura de fator do questionário Flemish de deficiência visual cerebral (DVC) com 46 itens, diferenciar os escores de fator de crianças com e sem DVC, e examinar o impacto de comorbidades nos escores de fator.
+176	MÉTODO: Os prontuários de 630 crianças (386 do sexo masculino, 244 do sexo feminino; idade mediana 77m; intervalo interquartil 63-98m;) que visitaram a clínica de DVC e o Centro para Desordens do Desenvolvimento nos Hospitais Universitários de Leuven de 2001 a 2018 foram sistematicamente revisados.
+177	Os critérios de inclusão foram um questionário atualizado, um diagnóstico definitivo, e uma avaliação clínica.
+178	RESULTADOS: Trezentas e quarenta e cinco crianças (179 com DVC [108 do sexo masculino, 71 do sexo feminino; idade mediana 74m; intervalo interquartil 61-93m] e 166 sem DVC [110 do sexo masculino, 56 do sexo feminino; idade mediana 88m; intervalo interquartil 70-107m]) foram incluídas.
+179	Uma análise exploratória de fator resultou em um modelo com 5 fatores (deficiências no processamento de objeto e face; (des)interesse visual; deficiências na visão de espaços abarrotados e distância; deficiências na movimentação no espaço; e comportamentos relacionados a ansiedade) biológica e clinicamente plausível, que reteve 35 itens e explicou 56% da variância total.
+180	Os testes U de Mann-Whitney indicaram que fatores de 1 a 4 foram significativamente mais altos nas crianças com DVC comparadas com aquelas sem (valores de p variaram de p<0,001 a p<0,05; os tamanhos de efeito variaram de 0,11 a 0,33); o fator 5 não mostrou diferenças.
+181	Autismo, transtorno do desenvolvimento da coordenação, epilepsia e paralisia cerebral impactaram os escores de fator.
+182	INTERPRETAÇÃO: Uma estrutura com 5 fatores do questionário Flemish para DVC diferencia crianças com e sem DVC.
+183	Comorbidades devem ser consideradas quando se pesquisar a DVC.
+184	Construir cenários e analisar o impacto das políticas de distanciamento social na propagação da COVID-19 e a necessidade de leitos de unidades de terapia intensiva (UTI).
+185	Sobre modelo compartimental de transição dinâmica e simulações de Monte Carlo, construíram-se três cenários de propagação conforme o nível de adesão às medidas de distanciamento social no Distrito Federal, Brasil.
+186	Os valores dos parâmetros do modelo fundamentaram-se em fontes oficiais, bases com indexação bibliográfica e repositórios públicos de dados.
+187	O cenário favorável, com manutenção constante de 58% de adesão ao distanciamento social, estimou pico de 189 (intervalo interquartil [IIQ]: 57 a 394) internações-UTI em 7/3/2021.
+188	A ausência do distanciamento implicaria grave cenário, com pico de 6.214 (IIQ: 4.618 a 8.415) internações-UTI já na data provável de 14/7/2020. as projeções indicam alto impacto das medidas de distanciamento social e reforçam a aplicabilidade de indicadores públicos no monitoramento da COVID-19.
+189	Introdução: A insuficiência cardíaca frequentemente coexiste com diversas comorbilidades.
+190	O nosso objetivo é avaliar o valor prognóstico de diferentes comorbilidades no risco de desenvolvimento de insuficiência cardíaca aguda.
+191	Material e Métodos: As comorbilidades dos doentes com insuficiência cardíaca aguda foram, retrospetivamente, comparadas com um grupo controlo de doentes com insuficiência cardíaca crónica admitidos numa unidade de Medicina Interna no período de dois anos.
+192	Modelos de regressão logística foram construídos para determinar as comorbilidades associadas a insuficiência cardíaca aguda e para a construção do comorbidoma.
+193	Resultados: Foram identificados 229 doentes com insuficiência cardíaca aguda e 201 com insuficiência cardíaca crónica.
+194	A idade e género feminino foram superiores no grupo insuficiência cardíaca aguda (p < 0,001), tal como o número de comorbilidades (4,0 ± 3,0 vs 4,0 ± 2,0, p = 0,044).
+195	A hiperuricemia (odds ratio 2,46, intervalo confiança 95% 1,41 – 4,31, p = 0,002), a obesidade (odds ratio 2,22, intervalo confiança 95% 1,31 – 3,76, p = 0,003), a fibrilação auricular (odds ratio 1,93, intervalo confiança 95% 1,31 – 2,87, p = 0,001), a doença arterial periférica (odds ratio 2,12, intervalo confiança 95% 1,01 – 4,42, p = 0,046) e a doença renal crónica (odds ratio 2,47, intervalo confiança 95% 1,65 – 3,71, p < 0,001) associaram-se com a insuficiência cardíaca aguda.
+196	A obesidade, a fibrilação auricular, a doença arterial periférica e a doença renal crónica foram identificadas como fatores de risco independentes.
+197	Doentes com múltiplas comorbilidades tiveram um risco superior de hospitalização por insuficiência cardíaca: zero comorbilidades – odds ratio 0,43, 95% intervalo confiança 0,28 – 0,67, p < 0,001; uma comorbilidade – odds ratio 0,69, 95% intervalo confiança 0,47 – 1,01, p = 0,057; duas comorbilidades – odds ratio 1,85, 95% intervalo confiança 1,11 – 3,08, p = 0,019;
+198	≥ três comorbilidades – odds ratio 5,81, 95% intervalo confiança 2,77 – 12,16, p < 0,001.
+199	Discussão: Este estudo mostra uma associação entre várias comorbilidades e a hospitalização por insuficiência cardíaca aguda.
+200	A associação parece fortalecer-se na presença de múltiplas comorbilidades.
+201	Conclusão: O comorbidoma é uma ferramenta útil para identificar comorbilidades associadas a maior risco de insuficiência cardíaca aguda.
+202	A identificação de doentes vulneráveis pode permitir a instituição de intervenções multidimensionais para minimizar hospitalizações futuras.
+203	A intervenção percutânea em pacientes com disfunção de prótese biológica mitral apresenta-se como uma alternativa ao tratamento cirúrgico convencional.
+204	Relatar a primeira experiência brasileira de implante transcateter de bioprótese valve-in-valve mitral via transeptal (TMVIV-via transeptal).
+205	Foram incluídos pacientes portadores de disfunção de bioprótese cirúrgica submetidos ao TMVIV-transeptal em 12 hospitais brasileiros.
+206	Foram considerados estatisticamente significativos valores de p<0,05.
+207	Entre junho/2016 e fevereiro/2019, 17 pacientes foram submetidos ao TMVIV-via transeptal.
+208	A mediana de idade foi 77 anos (IIQ,70-82), a mediana do escore STS-PROM foi 8,7% (IIQ,7,2-17,8).
+209	Todos os pacientes tinham sintomas limitantes de insuficiência cardíaca (CF≥III), tendo 5 (29,4%) sido submetidos a mais de uma toracotomia prévia.
+210	Obteve-se sucesso do TMVIV-via transeptal em todos os pacientes.
+211	A avaliação ecocardiográfica demonstrou redução significativa do gradiente médio (pré-intervenção, 12±3,8 mmHg; pós-intervenção, 5,3±2,6 mmHg; p<0,001), assim como aumento da área valvar mitral (pré-intervenção, 1,06±0,59 cm2; pós-intervenção, 2,18±0,36 cm2; p<0,001) sustentados em 30 dias.
+212	Houve redução significativa e imediata da pressão sistólica de artéria pulmonar, com redução adicional em 30 dias (pré-intervenção, 68,9±16,4 mmHg; pós-intervenção, 57,7±16,5 mmHg; 30 dias, 50,9±18,7 mmHg; p<0,001).
+213	Durante o seguimento, com mediana de 162 dias (IIQ, 102-411), observou-se marcada melhora clínica (CF≤II) em 87,5%.
+214	Um paciente (5,9%) apresentou obstrução de via de saída de ventrículo esquerdo (VSVE), evoluindo para óbito logo após o procedimento, e outro morreu aos 161 dias de seguimento.
+215	Conclusão: A primeira experiência brasileira de TMVIV-transeptal demonstra a segurança e a efetividade dessa nova técnica.
+216	A obstrução da VSVE é uma complicação potencialmente fatal, reforçando a importância da seleção dos pacientes e do planejamento do procedimento.
+217	(Arq Bras Cardiol. 2020;
+218	[online].ahead print, PP.0-0).
+219	Correlacionar a capacidade funcional e a qualidade de vida de pessoas idosas internadas no serviço de emergência.
+220	Trata-se de um estudo transversal e analítico, realizado com idosos internados no serviço de emergência de um hospital universitário no município de São Paulo, entre dezembro de 2015 e janeiro de 2017.
+221	Os dados foram coletados por meio de entrevistas, utilizando questionário estruturado, o Medical Outcome Study 36, a Escala de Independência em Atividades de Vida Diária e a Medida de Independência Funcional.
+222	Participaram 250 idosos com média de idade 71,9 anos, sexo masculino (56,8%), cor de pele branca (67,2%), casados (54,0%), baixa escolaridade (32,0%), baixa renda (58,0%), com comorbidades (81,2%) e provedores do lar (53,6%).
+223	As dimensões da qualidade de vida mais comprometidas foram aspecto físico (11,4%), aspecto emocional (21,6%) e capacidade funcional (25,2%).
+224	Sobre a capacidade funcional, caracterizou-se independência para as Atividades Básicas de Vida Diária, e dependência moderada, para as Atividades Instrumentais de Vida Diária.
+225	Quanto maior os escores da Medida de Independência Funcional maiores foram os escores de qualidade de vida.
+226	Quanto mais independente o idoso, melhor é sua qualidade de vida.
+227	A taxa de falha de enxerto de veia safena um ano após a cirurgia de revascularização do miocárdio varia de 10% a 25%.
+228	O objetivo deste estudo foi de investigar se a atorvastatina pode reduzir o acúmulo de células musculares lisas vasculares para inibir a hiperplasia intimal por meio da inibição da via p38 MAPK.
+229	Quarenta e cinco ratos Sprague-Dawley foram randomizados em três grupos.
+230	Trinta ratos foram submetidos à cirurgia de enxerto de veia e randomizados para tratamento com veículo ou atorvastatina; quinze ratos foram submetidos à cirurgia sham.
+231	Detectamos a hiperplasia intimal por meio de coloração com hematoxilina-eosina e a expressão de proteínas relacionadas por meio de análise imuno-histoquímica e Western blot.
+232	Foram realizadas as comparações por análise de variância de fator único e pelo teste da diferença mínima significativa de Fisher, com p < 0,05 considerado significativo.
+233	A íntima analisada pela coloração com hematoxilina-eosina era dramaticamente mais espessa no grupo controle que no grupo atorvastatina e no grupo sham (p < 0,01).
+234	Os resultados da coloração imuno-histoquímica de α-SMA demonstraram que a porcentagem de células positivas para α-SMA no grupo controle era mais alta que no grupo atorvastatina (p < 0,01).
+235	Nós também avaliamos α-SMA, PCNA, p38 MAPK e fosforilação de p38 MAPK após o tratamento com estatina por meio de análise de Western blot e os resultados indicaram que a atorvastatina não levou à redução de p38 MAPK (p < 0,05); no entanto, resultou na inibição da fosforilação de p38 MAPK (p < 0,01) e reduziu significativamente os níveis de α-SMA e PCNA, em comparação com o grupo controle (p < 0,01).
+236	Nós demonstramos que a atorvastatina pode inibir o acúmulo de células musculares lisas vasculares por meio da inibição da via p38 MAPK e é capaz de inibir a hiperplasia intimal em modelos de enxerto de veia em ratos.
+237	Geralmente vista como uma característica da velhice, a fragilidade também pode ocorrer em pessoas não idosas, principalmente naquelas que sofrem de doenças crônicas.
+238	A fragilidade pode aumentar o risco operatório.
+239	Determinar a prevalência de fragilidade em pacientes submetidos à cirurgia de revascularização do miocárdio (CRM) e/ou troca ou reconstrução valvar e/ou cirurgia valvar, bem como a influência da fragilidade nos desfechos pós-operatórios.
+240	Nosso estudo incluiu 100 adultos que foram submetidos a operações cardíacas eletivas consecutivas.
+241	A fragilidade foi avaliada por meio da escala de Fried.
+242	Os pacientes também realizaram um teste de caminhada de 6 minutos, e medimos as pressões inspiratória e expiratória máximas.
+243	Um valor de p < 0,05 foi considerado significativo.
+244	De uma coorte de 100 pacientes, com base nos critérios de fragilidade de Fried, 17 pacientes (17%) foram considerados frágeis, 70 (70%) pré-frágeis e apenas 13 (13%) não frágeis.
+245	Entre os portadores de valvopatia, 11 (18,6%) foram considerados frágeis e 43 (73%) pré-frágeis.
+246	Cinquenta e três por cento dos pacientes considerados frágeis tinham menos de 60 anos (mediana=48 anos).
+247	As diferenças no fenótipo de fragilidade entre os pacientes com valvopatia e doença arterial coronariana não foram estatisticamente significativas (p=0,305).
+248	A comparação entre pacientes não frágeis, pré-frágeis e frágeis não mostrou diferença significativa na distribuição das comorbidades e do estado funcional cardíaco, independentemente da doença cardíaca.
+249	No entanto, a mortalidade hospitalar mostrou-se significativamente maior em pacientes frágeis (29,4%, p=0,026) que em pacientes pré-frágeis (8,6%) e não frágeis (0%).
+250	A fragilidade é prevalente mesmo entre pacientes não idosos submetidos a CRM ou cirurgia cardíaca valvar e está associada a maior mortalidade hospitalar pós-operatória.
+251	O presente Ensaio apresenta uma reflexão com base em algumas formas vigentes de promoção de atividade física, propondo visibilidade a atividades de lazer e suas desigualdades.
+252	O cenário atual de (aumento das) desigualdades e a importância do seu enfrentamento, destacando a pertinência das políticas públicas, são apresentados e discutidos à luz de duas teorias: a Hipótese da Equidade Inversa e a Lei dos Cuidados Inversos.
+253	A Hipótese da Equidade Inversa busca compreender como as desigualdades tendem a se estabelecer em indicadores de saúde, partindo de aumento esperado dessas desigualdades quando surgem inovações em saúde que atingem inicialmente os mais privilegiados social e economicamente.
+254	Já a Lei dos Cuidados Inversos destaca que a disponibilidade de uma atenção adequada em saúde tende a variar inversamente à necessidade da população.
+255	Nesse sentido, ao relacionar as teorias e a promoção de atividade física de lazer, o presente ensaio defende a ampliação das políticas públicas, buscando evitar o aumento das desigualdades.
+256	São as políticas públicas e a vinculação com o Sistema Único de Saúde (SUS) e com seus princípios que precisam ser compreendidas como prioridade.
+257	É nessa perspectiva que acreditamos em um avanço de ações de promoção das atividades físicas de lazer contextualizadas socialmente que sejam capazes de priorizar aqueles que mais necessitam.
+258	O objetivo foi revisar a literatura sobre os incidentes, eventos adversos e seus fatores contribuintes no cuidado hospitalar, descritos segundo a perspectiva do paciente.
+259	Foi realizada revisão em artigos publicados nas bases MEDLINE, Scopus e LILACS entre os anos de 2008 e 2019.
+260	Dentre 2.686 estudos inicialmente levantados, 167 foram pré-selecionados para leitura, 24 selecionados e categorizados de acordo com a análise temática de conteúdo.
+261	Na síntese das informações extraídas dos 24 artigos emergiram quatro categorias: terminologia usada para definir incidentes e eventos adversos, destacando-se diferentes nomenclaturas como erro e erro médico; incidentes e eventos adversos identificados pelos pacientes, familiares e cuidadores relacionados ao processo de medicação, cirurgia, infecções relacionadas à assistência à saúde, quedas e lesão por pressão; percepção do paciente quanto os fatores contribuintes para o cuidado inseguro, destacando-se problemas relacionados à comunicação, higienização das mãos e identificação do paciente; sugestões dos pacientes para prevenir a ocorrência de incidentes e eventos adversos, incluindo treinamento de profissionais, elaboração de listas de verificação, escuta do paciente e adequação do ambiente.
+262	Pacientes foram capazes de identificar incidentes, eventos adversos e fatores contribuintes na prática do cuidado, que aliados às informações oriundas dos profissionais de saúde podem potencialmente contribuir para a prestação do cuidado em saúde mais seguro.
+263	A ecocardiografia é essencial para o diagnóstico e a quantificação da insuficiência aórtica (IA).
+264	A integral velocidade-tempo (IVT) do fluxo da IA pode estar relacionada à gravidade da IA.
+265	Este estudo tem por objetivo avaliar se a IVT é um marcador ecocardiográfico de gravidade da IA.
+266	Foram incluídos todos os pacientes com IA nativa moderada ou grave e ritmo sinusal que visitaram o nosso laboratório de imagem entre janeiro e outubro de 2016.
+267	Todos os indivíduos foram submetidos a um ecocardiograma completo com medição da IVT da IA.
+268	A associação entre a IVT e a gravidade da IA foi analisada por regressão logística e modelos de regressão multivariada.
+269	Valores p<0,05 foram considerados estatisticamente significativos.
+270	Entre os 62 pacientes incluídos (68,5±14,9 anos; 64,5%: IA moderada; 35,5%: IA grave), a IVT foi maior em indivíduos com IA moderada em comparação àqueles com IA grave (2,2±0,5 m versus 1,9±0,5 m, p=0,01).
+271	Pacientes com IA grave apresentaram valores maiores de diâmetro diastólico final do ventrículo esquerdo (DDFVE) (56,1±7,1 mm versus 47,3±9,6 mm, p=0,001), volume diastólico final do ventrículo esquerdo (VDFVE) (171±36,5 mL versus 106±46,6 mL, p<0,001), orifício regurgitante efetivo (0,44±0,1 cm2 versus 0,18±0,1 cm2, p=0,002) e volume regurgitante (71,3±25,7 mL versus 42,5±10,9 mL, p=0,05), assim como menor fração de ejeção do ventrículo esquerdo (FEVE) (54,1±11,2% versus 63,2±13,3%, p=0,012). A IVT mostrou ser um marcador de gravidade da IA, independentemente do DDFVE, VDFVE e FEVE ( odds ratio 0,160, p=0,032) e da frequência cardíaca e pressão arterial diastólica (PAD) ( odds ratio 0,232, p=0,044). A IVT do fluxo da IA apresentou associação inversa com a gravidade da IA, independentemente do diâmetro e volume do ventrículo esquerdo, frequência cardíaca, PAD e FEVE.
+272	A IVT pode ser um marcador de gravidade da IA em pacientes com IA nativa e ritmo sinusal.
+273	(Arq Bras Cardiol. 2020;
+274	[online].ahead print, PP.0-0).
+275	Resultados prévios com o uso de circulação extracorpórea (CEC) geram dificuldades na escolha do melhor tratamento para cada paciente na cirurgia de revascularização miocárdica (CRM) no contexto atual.
+276	Avaliar o impacto da CEC no cenário atual da CRM no estado de São Paulo.
+277	Foram analisados 2.905 pacientes submetidos à CRM de forma consecutiva em 11 centros do estado de São Paulo pertencentes ao Registro Paulista de Cirurgia Cardiovascular (REPLICCAR) I. Dados perioperatórios e de seguimento foram colocados via on-line por especialistas treinados e capacitados em cada hospital.
+278	Foram analisadas as associações das variáveis perioperatórias com o tipo de procedimento (com ou sem CEC) e com os desfechos.
+279	A mortalidade esperada foi calculada por meio do EuroSCORE II (ESII).
+280	Os valores de p menores de 5% foram considerados significativos.
+281	Não houve diferença significativa em relação à idade dos pacientes entre os grupos (p=0,081).
+282	Dentre os pacientes, 72,9% eram de sexo masculino; 542 pacientes foram operados sem CEC (18,7%).
+283	Das características pré-operatórias, pacientes com infarto agudo do miocárdio (IAM) prévio (p=0,005) e disfunção ventricular (p=0,031) foram operados com CEC; no entanto, pacientes de emergência ou em classe funcional New York Heart Association (NYHA) IV foram operados sem CEC (p<0,001).
+284	O valor do ESII foi semelhante para ambos os grupos (p=0,427).
+285	Na CRM sem CEC, houve preferência pelo uso do enxerto radial (p<0,001) e com CEC pela artéria mamária direita (p<0,001).
+286	No pós-operatório, o uso de CEC esteve associado com reoperação por sangramento (p=0,012).
+287	Atualmente, no REPLICCAR, reoperação por sangramento foi o único desfecho associado ao uso da CEC na CRM.
+288	(Arq Bras Cardiol. 2020; 115(4):595-601).
+289	O parágrafo único do art. 40 da Lei de Propriedade Industrial brasileira estabelece a extensão de vigência de patentes pela mora do exame, ao menos, até dez anos a partir da concessão.
+290	Pensado como exceção, esse dispositivo tornou-se a regra no caso das patentes farmacêuticas, prolongando o prazo de exclusividade de exploração de medicamentos.
+291	Isso impacta o consumo privado e o orçamento do Sistema Único de Saúde (SUS).
+292	Este trabalho investiga o custo, para o SUS, da extensão de vigência de nove medicamentos, por ser proibida a compra de versões genéricas ou biossimilares.
+293	Foram analisados três grupos: (a) quatro já em extensão; (b) três que, com a concessão das patentes, terão extensão; e (c) dois com patentes mailbox que estão em domínio público, mas que podem ter a extensão garantida judicialmente.
+294	A partir de valores unitários e quantidades totais de compra pelo Departamento de Logística em Saúde do Ministério da Saúde (DLOG), foi estimado um gasto total de R$ 10,6 bilhões com os nove medicamentos entre 2014 a 2018.
+295	Assim, foi projetado o gasto total nos respectivos períodos de extensão: R$ 6,8 bilhões.
+296	Uma busca de mercado por preços de alternativas genéricas retornou uma redução potencial de R$ 1,2 bilhão para o gasto do DLOG com apenas quatro medicamentos.
+297	Selecionar a estratégia de tratamento ideal para a revascularização coronária é um desafio.
+298	Um desfecho crucial a ser considerado no momento dessa escolha é a necessidade de refazer a revascularização, uma vez que ela se torna muito mais frequente após a intervenção coronária percutânea (ICP) do que após a cirurgia de revascularização do miocárdio (CRM).
+299	Pretende-se, com este estudo, trazer reflexões acerca das preferências dos pacientes pelas estratégias de revascularização sob a perspectiva de pacientes que tiveram que refazer a revascularização.
+300	Selecionamos uma amostra de pacientes que haviam sido submetidos à ICP e hospitalizados para refazer a revascularização coronária e elicitamos suas preferências por nova ICP ou CRM.
+301	Morte perioperatória, mortalidade a longo prazo, infarto do miocárdio e repetir a revascularização foram utilizados para a construção de cenários a partir da descrição de tratamentos hipotéticos que foram rotulados como ICP ou CRM.
+302	A ICP era sempre apresentada como a opção com menor incidência de morte perioperatória e maior necessidade de se refazer o procedimento.
+303	O modelo logístico condicional foi empregado para analisar as escolhas dos pacientes, utilizando-se o software R. Valores de p <0,05 foram considerados estatisticamente significativos.
+304	Ao todo, 144 pacientes participaram, a maioria dos quais (73,7%) preferiram a CRM à ICP (p < 0,001).
+305	Os coeficientes de regressão foram estatisticamente significativos para o rótulo ICP, mortalidade a longo prazo da ICP, morte perioperatória da CRM, mortalidade a longo prazo da CRM e refazer a CRM.
+306	O rótulo ICP foi o parâmetro mais importante (p < 0,05).
+307	A maioria dos pacientes que enfrentam a necessidade de refazer a revascularização coronária rejeitam uma nova ICP, com base em níveis realistas de riscos e benefícios.
+308	Incorporar as preferências dos pacientes à estimativa do risco-benefício e às recomendações de tratamento poderia melhorar o cuidado centrado no paciente.
+309	Identificar a conduta referida de profissionais da enfermagem, do estado de São Paulo, sobre Práticas de Medicações Injetáveis.
+310	Estudo tipo survey que identificou a frequência referida sobre Práticas de Medicações Injetáveis mediante resposta de questionário eletrônico, validado, entre setembro e dezembro de 2017.
+311	Considerando as 1.295 respostas computadas, foram identificadas inconformidades como compartilhamento de frascos multidoses para dois ou mais pacientes (10,8%), reutilização de insumos de uso único, como seringas para salinização de pacientes diferentes (1,2%) e reencape de agulhas após uso (4,9%).
+312	Foram referidas maior adesão ao uso de luvas para administração de injeções endovenosas (80,5%) e falta de treinamento para manipulação de dispositivos de segurança (13%).
+313	Dados correlacionais apontaram que, quanto maior a idade, melhor era a conduta referida na prática de injetáveis.
+314	Embora a maioria das condutas configure-se dentro das Boas Práticas de Medicações Injetáveis, há relatos de práticas de risco, como compartilhamento de insumos de uso único.
+315	O treinamento para uso de dispositivos de segurança ainda não é uma realidade para todos os profissionais, visto que muitos o referiram como raro.
+316	Investigar a influência de estímulos de fala distintos na identificação perceptivo-auditiva da hipernasalidade em indivíduos com fissura labiopalatina operada (FLP).
+317	Foram editadas amostras de fala gravadas em áudio de 80 indivíduos com FLP unilateral operada, de ambos os sexos, com idades entre 9 e 17 anos (média=12 anos e 7 meses).
+318	As amostras foram gravadas durante a produção de 9 estímulos de fala distintos: contagem de números e conjuntos de frase orais, sendo 1 constituído por consoantes de baixa pressão e 7 constituídos por consoantes de alta pressão.
+319	Três fonoaudiólogas identificaram a presença ou ausência da hipernasalidade ao analisarem 864 gravações (80 indivíduos X 9 estímulos + 144 gravações repetidas para análise de concordância intra-avaliador).
+320	Os índices de concordância intra e interavaliadores foram estabelecidos para todos os 9 estímulos de fala e comparados entre si por meio do Teste Z, com nível de significância de 5%, com maiores índices de concordância interpretados como melhores estímulos para identificação da hipernasalidade.
+321	Índices de concordância intra-avaliadores de estímulos de fala vozeados foram significativamente menores do que outros estímulos.
+322	Índices de concordância entre os pares de fonoaudiólogas variaram de 0,11 (concordância estímulos plosivos vozeados) a 0,57 (12 frases, uma com cada consoante de alta pressão), com média de 0,47 entre as três avaliadoras, indicando concordância moderada para identificação da hipernasalidade.
+323	Gravações de fala obtidas durante a produção de estímulos mais longos, incluindo 12 frases, uma com cada consoante de pressão, podem favorecer a concordância interavaliador na identificação da hipernasalidade.
+324	Este estudo objetivou avaliar a frequência e os fatores associados à não utilização do serviço de teleconsultoria por médicos que atuam na Estratégia Saúde da Família (ESF) no Norte de Minas Gerais.
+325	Trata-se de um estudo transversal que utilizou questionário autoaplicado, previamente testado.
+326	A análise de regressão de Poisson com variância robusta foi empregada após análises bivariadas para identificação dos fatores associados à não utilização do serviço de teleconsultoria.
+327	Participaram do estudo 385 médicos de 73 municípios.
+328	A frequência de não utilização do serviço de teleconsultoria pelos médicos da ESF foi de 55,8%.
+329	Foram identificadas como variáveis associadas após análise múltipla a indisponibilidade de computador com internet na Unidade Básica de Saúde (UBS) para uso do profissional médico (p = 0,001; RP = 1,10; IC95%: 1,04-1,17), a falta de informação sobre o serviço (p < 0,001; RP = 1,47; IC95%: 1,38-1,56) e a falta de treinamento para uso da teleconsultoria (p < 0,001; RP = 1,15; IC95%: 1,08-1,24).
+330	Os resultados reforçam que a infraestrutura de informática das UBS, a divulgação do serviço e a oferta de treinamento devem direcionar as estratégias para implementação, difusão e melhoria da qualidade do serviço de teleconsultoria na atenção primária.
+331	Os pacientes em pós-operatório (PO) de cirurgia de revascularização miocárdica (CRM) internados em unidade de terapia intensiva (UTI) apresentam risco de complicações que aumentam o tempo de permanência e a morbimortalidade.
+332	Portanto, é fundamental o reconhecimento precoce desses riscos para otimizar estratégias de prevenção e desfecho clínico satisfatório.
+333	Analisar o desempenho de índices de gravidade na predição de complicações em pacientes no PO de CRM durante a permanência na UTI.
+334	Estudo transversal, com análise retrospectiva de prontuários eletrônicos de pacientes com idade ≥ 18 anos submetidos à CRM isolada e admitidos na UTI de um hospital cardiológico, em São Paulo, Brasil.
+335	As áreas sob as curvas receiver operating characteristic (AUC) com intervalo de confiança de 95% foram analisadas para verificar a acurácia dos índices European System for Cardiac Operative Risk Evaluation (EuroScore), Acute Physiology and Chronic Health Evaluation (APACHE II), Simplified Acute Physiology Score (SAPS II) e Sequential Organ Failure Assessment (SOFA) na predição de complicações.
+336	A casuística foi composta por 366 pacientes (64,58±9,42 anos; 75,96% sexo masculino).
+337	As complicações identificadas foram respiratórias (24,32%), cardiológicas (19,95%), neurológicas (10,38%), hematológicas (10,38%), infecciosas (6,56%) e renais (3,55%).
+338	O APACHE II apresentou satisfatório desempenho para a predição de complicações neurológicas (AUC 0,72) e renais (AUC 0,78).
+339	O APACHE II se destacou na previsão das complicações neurológicas e renais.
+340	Nenhum dos índices teve bom desempenho na predição das outras complicações analisadas.
+341	Portanto, os índices de gravidade não devem ser utilizados indiscriminadamente com o objetivo de predizer todas as complicações frequentemente apresentadas por pacientes após CRM.
+342	(Arq Bras Cardiol. 2020; 115(3):452-459).
+343	Introdução: A imunidade contra o sarampo poderá resultar do contacto anterior com o vírus ou da vacinação.
+344	O objetivo deste estudo foi avaliar a prevalência de imunidade contra o sarampo em profissionais de saúde de um hospital central.
+345	Material e Métodos: Estudo retrospetivo com caraterização dos resultados do doseamento de imunoglobulina G (IgG) específica contra o sarampo em profissionais de saúde, entre maio de 2010 e março de 2018.Resultados: Analisaram-se os resultados de 1339 trabalhadores, média de idades 39,3 ± 10,11 anos, 71,1% mulheres.
+346	A prevalência de IgG positiva foi de 81,5%, mais elevada entre os profissionais nas faixas etárias dos 40 aos 49 e mais de 50 anos (91,9% e 94,6% respetivamente).
+347	Por sua vez, 83,1% dos profissionais com IgG negativa ou equívoca tinham maioritariamente idades inferiores a 40 anos (p < 0,05).Discussão: Verificou-se que a prevalência de profissionais imunes ao sarampo foi mais baixa que noutros estudos, podendo, contudo, esse resultado dever-se a diferenças entre as caraterísticas das amostras estudadas.
+348	Foi encontrada uma maior suscetibilidade ao sarampo em profissionais nas faixas etárias inferiores.
+349	Estes resultados podem refletir uma baixa cobertura vacinal nesta faixa etária, um esquema de vacinação incompleto, ou a possibilidade dos profissionais mais velhos terem tido a doença, o que contribuíu para uma resposta imunitária com níveis de IgG mais elevados.
+350	Conclusão: Conhecer a prevalência de profissionais suscetíveis ao sarampo, permitiu definir estratégias de prevenção face aos surtos que possam vir a acontecer.
+351	A vacinação continua a ser a melhor medida preventiva, uma terceira dose de vacina poderá vir a ser equacionada em determinados contextos epidemiológicos, especialmente nos profissionais expostos mais jovens.
+352	Descrever as doações e os transplantes de órgãos no Ceará, Brasil, após a declaração da pandemia da COVID-19.
+353	Estudo descritivo, com dados da Associação Brasileira de Transplantes de Órgãos.
+354	O número de doadores e transplantes do período de abril a junho de 2020 foi comparado ao mesmo período de 2019 e ao primeiro trimestre de 2020.
+355	No primeiro semestre de 2020, o estado registrou 72 doadores efetivos.
+356	Destes, 17 (23,6%) no segundo trimestre.
+357	Dos 352 transplantes do primeiro semestre de 2020, 37 (10,7%) foram realizados no segundo trimestre.
+358	Em comparação ao período de abril a junho de 2019, houve redução de 67,9% e 89,3% no número de doadores e transplantes, respectivamente, no mesmo período de 2020.
+359	Os números de doadores e transplantes do Ceará apresentaram importante declínio nos três meses seguintes ao decreto da pandemia da COVID-19, especialmente os das modalidades de rim, coração e córneas.
+360	Analisar os fatores associados ao acesso precário aos serviços de saúde pela população brasileira de 19 anos ou mais.
+361	Trata-se de estudo transversal, com base nos dados da Pesquisa Nacional de Saúde, 2013, obtidos de uma amostragem complexa.
+362	O desfecho acesso precário foi definido como não ter conseguido atendimento na última vez que procurou e não ter tentado novo atendimento por falta de acessibilidade.
+363	Foi analisada a prevalência do acesso precário e sua associação com fatores socioeconômicos e de saúde, por meio do cálculo da razão de prevalências (RP) com intervalos de confiança de 95%.
+364	Aplicou-se, ainda, o modelo multivariado pela regressão de Poisson, com teste de Wald para estimação robusta.
+365	Das 60.202 respostas válidas, 12.435 indivíduos enquadraram-se nos critérios do acesso precário.
+366	A prevalência do acesso precário foi de 18,1% (IC95% 16,8 - 19,4) e associou-se com os seguintes fatores: ter cor da pele preta/parda (RP = 1,2; IC95% 1,0 - 1,4); residir na região Norte (RP = 1,5; 1,3 - 1,9) e Nordeste (RP = 1,4; 1,2 - 1,6) em relação à região Sudeste; viver na zona rural (RP = 1,2; 1,1 - 1,4); ser fumante (RP = 1,2; 1,0 - 1,4); ter autoavaliação de saúde ruim/muito ruim (RP = 1,3; 1,1 - 1,6); não ter plano de saúde privado (RP = 2,3; 1,7 - 2,9).
+367	O acesso aos serviços de saúde ainda é precário para uma parcela considerável da população brasileira, com destaque para a população mais vulnerável.
+368	Descrever as características dos óbitos por COVID-19 no estado de Rondônia.
+369	Estudo descritivo, com dados do Sistema Estratégia de Informatização do Sistema Único de Saúde Vigilância Epidemiológica (E-SUS-VE), notificados entre 1º de janeiro e 20 de agosto de 2020.
+370	Foram aplicados testes estatísticos (qui-quadrado e procedimento de Marascuilo), considerando-se como diferenças significantes quando os testes apresentaram p-valor <0,05.
+371	Foram notificados 184.146 casos suspeitos, dos quais 49.804 foram confirmados como COVID-19, e 1.020 evoluíram para óbito (letalidade 2,1%).
+372	Observaram-se diferenças significantes estatisticamente entre as faixas etárias e a letalidade (p-valor <0,001); maior letalidade quanto maior a idade (procedimento de Marascuilo, significativo na comparação entre maiores de 60 anos com as demais faixas etárias); maior óbito no sexo masculino (letalidade de 2,7%); e maior letalidade entre as pessoas de cor preta (3,0%).
+373	Em Rondônia, observou-se maior letalidade entre idosos, homens e pessoas pardas e pretas.
+374	Analisar as situações-limite enfrentadas pelos enfermeiros nas práticas de atenção à saúde da criança, na perspectiva do empoderamento na promoção da saúde.
+375	Pesquisa de abordagem qualitativa, do tipo ação-participante, apoiada no Itinerário de Pesquisa de Paulo Freire, desenvolvida por Círculos de Cultura, constituída de três etapas: Investigação temática, Codificação e Descodificação e Desvelamento crítico.
+376	Foram realizados 13 Círculos de Cultura com enfermeiros da Estratégia Saúde da Família de cinco Unidades Básicas de Saúde no município de Manaus, Amazonas.
+377	Participaram 16 enfermeiros.
+378	Emergiram dos Círculos de Cultura 20 temas geradores, seis deles considerados pelos participantes pertinentes às situações-limite: acúmulo de atividades, dificuldade de monitoramento e acompanhamento das crianças, trabalho centrado na produtividade, falta de capacitação, limitação de recursos humanos, dificuldade de acolhimento.
+379	O estudo contribuiu para fortalecimento dos enfermeiros a partir de diálogos reflexivos quanto à realidade vivenciada, possibilitando tomada de consciência e intervenções para a transformação de suas práticas na atenção à saúde da criança.
+380	Verificar se o Hylan G-F20 melhora os resultados da lavagem e injeção de triancinolona na osteoartrite do quadril (OAQ).
+381	82 pacientes com HOA Kellgren e Lawrence graus II e III foram randomizados: lavagem e triamcinolona (G0); lavagem, triancinolona e 2 mL de Hylan G-F20 (G1); lavagem, triamcinolona e 4 mL de Hylan G-F20 (G2); lavagem, triancinolona e 6 mL de Hylan G-F20 (G3).
+382	A escala visual analógica (EVA), amplitude de movimento (ADM), questionários Womac e Lequesne foram obtidos no início, um, três, seis e doze meses após a injeção.
+383	Todos os grupos apresentaram melhora clinicamente relevante (> 20%) entre o início e o primeiro mês, mantendo resultados subjetivos durante o estudo (p <0,001).
+384	Não foram encontradas diferenças entre os grupos nas avaliações subjetivas (p > 0,05).
+385	A flexão aumentou no G2 e G3 até um ano (p = 0,028).
+386	A rotação externa melhorou nos grupos Hylan no primeiro mês, mantendo os resultados até um ano (G1, p = 0,041; G2, p = 0,007), enquanto G0 nunca melhorou (p = 0,336).
+387	Lavagem do quadril e injeção de triancinolona, com ou sem Hylan, melhoram a dor, função e qualidade de vida até um ano na OAQ.
+388	Hylan pode melhorar a ADM até um ano.
+389	destacar o tratamento cirúrgico das fraturas que envolvem a articulação interfalangiana do hálux, suas indicações atuais e as opções de tratamento.
+390	Realizamos uma revisão da literatura de estudos clínicos relevantes em múltiplas bases de dados, incluindo PubMed, MedLine e Scopus, de janeiro de 1989 a outubro de 2020.
+391	Há consenso para o tratamento cirúrgico de fraturas intra-articulares com desvio superior a 2 mm, fraturas metadiafisárias com má rotação e/ou malangulação, fraturas expostas e fraturas instáveis.
+392	O uso de implantes mais rígidos permite a manutenção do alinhamento durante o processo de consolidação e menor risco de perda da redução.
+393	As complicações que devem ser evitadas são a deformidade em valgo e a osteoartrite da articulação interfalangeana.
+394	Identificar o custo direto médio dos procedimentos realizados para o tratamento do evento adverso flebite em pacientes de uma Unidade de Internação Clínica e estimar o custo dos procedimentos realizados para o tratamento das flebites nesta unidade.
+395	Pesquisa quantitativa, exploratório-descritiva, do tipo estudo de caso único.
+396	Inicialmente, identificaram-se os registros dos procedimentos realizados para o manejo das flebites em 2017.
+397	Em seguida, o custo foi calculado multiplicando o tempo (cronometrado) despendido por técnicos de enfermagem pelo custo unitário da mão de obra direta, somando-o ao custo dos materiais.
+398	Foram notificadas 107 flebites referentes a 96 pacientes.
+399	No tratamento dos diferentes graus de flebite, realizaram-se três procedimentos “aplicação de pomada de extrato de flor de camomila”;
+400	“aplicação de compressas”;
+401	“instalação de acesso venoso periférico”.
+402	A “instalação de acesso venoso periférico com cateter Íntima®” correspondeu ao procedimento mais oneroso (US$ 8,90-DP=0,06).
+403	Considerando o registro da execução de 656 (100%) procedimentos, a estimativa do custo direto médio total correspondeu a US$ 866,18/ano.
+404	O conhecimento sobre os custos dos procedimentos pode subsidiar tomadas de decisão que incrementem a alocação eficiente dos recursos consumidos.
+405	O isolamento elétrico das veias pulmonares é reconhecidamente base fundamental para o tratamento não farmacológico da fibrilação atrial (FA) e, portanto, tem sido recomendado como passo inicial na ablação de FA em todas as diretrizes.
+406	A técnica com balão de crioenergia, embora amplamente utilizada na América do Norte e Europa, ainda se encontra em fase inicial em muitos países em desenvolvimento, como o Brasil.
+407	Avaliar o sucesso e a segurança da técnica de crioablação em nosso serviço, em pacientes com FA paroxística e persistente.
+408	Cento e oito pacientes consecutivos com FA sintomática e refratária ao tratamento farmacológico foram submetidos à crioablação para isolamento das veias pulmonares.
+409	Os pacientes foram separados em dois grupos, de acordo com a classificação convencional da FA paroxística (duração de até sete dias) e persistente (FA por mais de sete dias).
+410	Dados de recorrência e segurança do procedimento foram analisados respectivamente como desfechos primário e secundário.
+411	O nível de significância adotado foi de 5%.
+412	Cento e oito pacientes, com idade média de 58±13 anos, 84 do sexo masculino (77,8%), foram submetidos ao procedimento de crioablação de FA.
+413	Sessenta e cinco pacientes apresentavam FA paroxística (60,2%) e 43, FA persistente (39,2%).
+414	O tempo médio do procedimento foi de 96,5±29,3 minutos e o tempo médio de fluoroscopia foi de 29,6±11,1 minutos.
+415	Foram observadas cinco (4,6%) complicações, nenhuma fatal.
+416	Considerando a evolução após os 3 meses iniciais, foram observadas 21 recorrências (19,4%) em período de um ano de seguimento.
+417	As taxas de sobrevivência livre de recorrência nos grupos paroxístico e persistente foram de 89,2% e 67,4%, respectivamente.
+418	A crioablação para isolamento elétrico das veias pulmonares é um método seguro e eficaz para tratamento da FA.
+419	Nossos resultados estão consoantes com demais estudos, que sugerem que a tecnologia pode ser utilizada como abordagem inicial, mesmo nos casos de FA persistente.
+420	(Arq Bras Cardiol. 2020;
+421	[online].ahead print, PP.0-0).
+422	Este estudo teve por objetivo determinar a expressão de esclerostina (SOST) em pacientes com fraturas vertebrais osteoporóticas por compressão na coluna toracolombar antes e depois da Cifoplastia Percutânea (PKP).
+423	Os níveis de SOST no soro foram quantificados por meio de um Ensaio de Imunoadsorção Ligado à Enzima (ELISA) sanduíche, realizado no pré-operatório e aos seis meses pós-operatório.
+424	Foram também registrados a altura do corpo vertebral anterior, os ângulos cifóticos, e os valores obtidos na escala analógica visual (VAS).
+425	O nível de SOST no soro foi altamente expresso nos pacientes, e permaneceu correlacionado negativamente com a densidade mineral óssea (DMO).
+426	As alturas vertebrais, os ângulos cifóticos locais, e as pontuações obtidas na escala VAS foram significativamente melhores após o PKP.
+427	No entanto, o SOST foi correlacionado positivamente com a DMO aos seis meses pós-operatório.
+428	O PKP foi uma estratégia eficaz para o tratamento de fraturas vertebrais osteoporóticas por compressão na coluna toracolombar, melhorando os níveis de DMO e diminuindo os níveis de SOST no soro.
+429	Diferenças entre as versões atualizadas da Diretriz Brasileira de Dislipidemias e da Diretriz de Colesterol da American Heart Association (AHA)/American College of Cardiology (ACC) quanto à estratificação de risco cardiovascular e à elegibilidade para a terapia com estatina não são conhecidas.
+430	Comparar a categorização de risco cardiovascular e a elegibilidade à terapia com estatina estabelecidas segundo a diretriz brasileira ou a diretriz da AHA/ACC em pacientes em prevenção primária.
+431	Nós avaliamos retrospectivamente indivíduos com idade entre 40 e 74 anos sem condições de alto risco, com LDL-c 70 -< 190 mg/dL, sem tratamento com agentes hipolipemiantes, e que passaram por avaliação clínica de rotina.
+432	O risco cardiovascular foi estratificado de acordo com a diretriz brasileira e a da AHA/ACC.
+433	Os indivíduos foram considerados elegíveis para estatina se os níveis de LDL-c estivessem no mínimo 30 mg/dL acima da meta para o risco cardiovascular (diretriz brasileira) ou se o risco em 10 anos para doença cardiovascular aterosclerótica fosse ≥ 7,5% (diretriz da AHA/ACC).
+434	Um valor de p < 0,05 foi considerado estatisticamente significativo.
+435	A amostra do estudo consistiu 18525 indivíduos (69% homens, idade 48 ± 6 anos).
+436	Entre os indivíduos considerados de risco intermediário ou alto segundo a diretriz brasileira, mais de 80% seriam classificados em uma categoria de risco mais baixo segundo a diretriz da AHA/ACC.
+437	Entre os homens, 45% e 16% seriam considerados elegíveis para a terapia com estatina segundo as diretrizes brasileira e da AHA/ACC, respectivamente (p < 0,001).
+438	Entre as mulheres, as respectivas proporções seriam 16% e 1% (p < 0,001).
+439	Oitenta e dois porcento das mulheres e 57% dos homens elegíveis para estatina com base no critério da diretriz brasileira não seriam considerados elegíveis para estatina segundo o critério da AHA/ACC.
+440	Em comparação à diretriz da AHA/ACC, a diretriz brasileira classifica uma maior proporção dos pacientes em prevenção primária em categorias de risco mais alto e aumenta substancialmente a elegibilidade para estatina.
+441	(Arq Bras Cardiol. 2020; 115(3):440-449).
+442	O objetivo deste estudo foi validar a versão brasileira dos bancos de itens Distúrbio do Sono e Distúrbio da Vigília do Patient-Reported Outcomes Measurement Information System (PROMIS).
+443	A validação desses bancos de itens foi feita por meio da Teoria Clássica dos Testes, Teoria de Resposta ao Item, calibração dos itens conforme o modelo de resposta gradual proposto por Samejima e análise do Funcionamento Diferencial do Item (DIF), sendo a amostra constituída por 627 participantes com mais de 18 anos.
+444	Em relação à qualidade dos dados, observou-se que não houve dados perdidos, e cinco itens do banco Distúrbio do Sono e quatro itens do banco Distúrbio da Vigília tiveram efeito piso, e nenhum dos bancos apresentou efeito teto.
+445	Os dois bancos mostraram excelente confiabilidade com uma escala homogênea e boa estabilidade temporal.
+446	Com a Análise Fatorial Confirmatória, através dos índices de qualidade de ajuste absoluto e incremental, verificou-se um bom ajuste para os dois bancos, o que revela que os instrumentos são válidos e suficientemente unidimensionais.
+447	A calibração evidenciou que as propriedades psicométricas dos itens foram satisfatórias com boa cobertura do construto sono-vigília.
+448	No tocante ao DIF, tanto o banco Distúrbio do Sono quanto o banco Distúrbio da Vigília mostraram ser homogêneos para os diferentes grupos testados.
+449	Pode-se concluir que a versão para a língua portuguesa falada no Brasil dos bancos de itens Distúrbio do Sono e Distúrbio da Vigília do PROMIS demonstrou ser uma medida confiável, precisa e válida, com análises psicométricas robustas.
+450	A Organização Mundial de Saúde define a qualidade de vida como a percepção que o indivíduo tem de sua posição na vida dentro do contexto cultural e do sistema de valores nos quais ele está inserido.
+451	Ela está intrinsicamente relacionada aos objetivos, expectativas, padrões e preocupações deste indivíduo.
+452	Sabe-se que, quando um membro da família é acometido por alguma doença, a qualidade de vida de todos ao seu redor sofre forte impacto.
+453	Uma das grandes preocupações das famílias em relação ao desenvolvimento da criança com Transtorno do Espectro do Autismo (TEA) é a ausência da fala.
+454	Sendo assim, o objetivo deste estudo foi analisar a interferência do meio comunicativo da criança com TEA na qualidade de vida de suas mães.
+455	Trata-se de um estudo transversal.
+456	A amostra foi constituída por 41 mães de crianças diagnosticadas, por equipe multidisciplinar, com TEA que foram divididas em dois grupos: 20 mães de crianças não verbais - GTEA-NV e 21 mães de crianças verbais - GTEA.
+457	Para a análise da qualidade de vida das mães, aplicou-se o questionário WHOQOL-Bref.
+458	Não houve diferença significante na percepção materna acerca dos domínios que refletem a qualidade de vida na comparação entre os grupos de mães.
+459	Em ambos os grupos, observamos índices elevados de insatisfação.
+460	Verificamos que a qualidade de vida das mães das crianças com TEA esteve afetada independentemente do meio comunicativo utilizado pela criança.

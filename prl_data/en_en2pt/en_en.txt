@@ -1,0 +1,494 @@
+1	The study aims to evaluate the association between teenage pregnancy and prematurity.
+2	The data are from the Birth in Brazil study, a national survey consisting of 23,894 postpartum women and their newborn infants.
+3	The information was obtained from interviews with the mothers during their postpartum hospital stay.
+4	A matching method was established, based on propensity scores, to deal with differences between the groups due to the non-experimental design of the Birth in Brazil study.
+5	The study outcome was gestational age, considering all the premature births (gestational age < 37 weeks) and term births (gestational age 37 weeks to 41 weeks and 6 days).
+6	The study revealed social, economic, and maternal care disparities between the women according to age bracket.
+7	The highest proportions of teenage mothers were in the least developed regions of Brazil (North and Northeast) and in the poorest economic classes.
+8	After matching for socioeconomic and obstetric care characteristics, the highest odds of spontaneous prematurity were seen in younger adolescents compared to older adolescents (OR = 1.49; 95%CI: 1.07-2.06), and young adults (OR = 2.38; 95%CI: 1.82-3.12).
+9	Prematurity is still an issue in the field of maternal and child health, and the association with teenage pregnancy identified in this study is worrisome, especially because younger adolescent mothers were associated with higher odds of spontaneous prematurity.
+10	Coyhaique (Southern Chile) is one of the most polluted cities in the Americas due to the burning of firewood.
+11	In 2016, a mass substitution of residential heating technology was launched to decrease the air concentrations of particulate matter in the winter.
+12	Based on time series analyses, the article discusses the effect of this measure on PM2.5 levels and hospitalizations for acute respiratory conditions in individuals under 15 years of age.
+13	To analyze the Coaching Leadership exercised by nursing coordinators in the Mobile Emergency Care Service units, in the coordinators and nursing technicians' perception, in addition to its correlation with three sociodemographic variables.
+14	Descriptive and analytical study carried out on nursing coordinators and nursing technicians from the pre-hospital care units, using the Coaching Leadership questionnaires and the Spearman correlation test to analyze the results.
+15	11 nursing coordinators and 155 nursing technicians participated in the study.
+16	The Coaching Leadership exercise was observed in the perception of two professional categories: "giving and receiving feedback", which was the domain with the highest average for the coordinators (21.45; SD=2.84); and "communication" (20.43; SD=5.57) for technicians.
+17	Furthermore, in the coordinators' self-perception of the Coaching Leadership, there was an indirect correlation between the domains "giving and receiving feedback" (Spearman -0.720; p-value 0.012) and "total scale score" (Spearman -0.652 and p-value 0.029) with regard to "training time".
+18	The research results indicate significant contributions to nursing practices and denote this competence impact on the pre-hospital care nursing staff, in the work environment, and in the care provided to the patient.
+19	Brazil has an estimated 900,000 indigenous people (0.4% of the country's population), belonging to more than 300 different ethnic groups.
+20	However, information is scarce on cancer epidemiology and the antineoplastic drugs used in treatment of these individuals.
+21	The study's objectives are to identify the antineoplastic drugs used and to describe the profile of use of these drugs in the indigenous population treated in Brazil, as well as to describe the patients' epidemiological profile.
+22	An ecological study was performed involving outpatient chemotherapy care from January 2014 to December 2018 throughout Brazil.
+23	The data source was the Outpatient Information System of the Brazilian Health Informatics Department, considering only Authorizations for High-Complexity Chemotherapy Procedures.
+24	We identified 2,425 authorizations for chemotherapy procedures for treatment of indigenous patients.
+25	Of these, 2,292 authorizations for a total of 210 individuals were analyzed.
+26	We found an increase in the number of authorizations and of indigenous persons receiving chemotherapy over the period, with a higher concentration of individuals living in and receiving treatment in the South of Brazil, plus a wide diversity in the types of diagnosed tumors (n = 63) and of treatment regimen used during the treatment (n = 107).
+27	The current study provided a new overview of the epidemiological profile of indigenous patients receiving chemotherapy in the Brazilian Unified National Health System.
+28	The findings help fill a current knowledge gap on indigenous people's health in Brazil.
+29	We still do not have information regarding the impact of the COVID-19 pandemic on medical care activity in Brazil.
+30	To describe the repercussions of the COVID-19 pandemic on the care routine of a tertiary hospital, which is a regional reference in cardiology and oncology.
+31	Cross-sectional cohort study.
+32	We conducted a survey of medical visits from March 23, 2020 (when local commerce was closed) to April 23, 2020 (P20), in comparison with the same period in 2019 (P19).
+33	We found decreases in the number of cardiology consultations, exercise tests, Holter, ambulatory blood pressure monitoring, electrocardiogram, and echocardiogram (90%, 84%, 94%, 92%, 94%, and 81%, respectively).
+34	In relation to cardiac surgery and cardiac catheterization, there were 48% and 60% decreases, respectively.
+35	There was an increase in the number of percutaneous transluminal coronary angioplasties (33%) and definitive pacemaker implantations (29%).
+36	There were 97 admissions to the ICU during P19, in contrast with 78 during P20, a 20% decrease.
+37	Visits to the cardiac emergency room (45%) and admissions to the cardiology ward (36%) also decreased.
+38	The decrease in oncology consultations was 30%.
+39	Chemotherapy sessions decreased from 1,944 to 1,066 (45%), and radiotherapy sessions decreased by 19%.
+40	COVID-19 has led to a considerable decrease in the number of consultations in outpatient clinics for cardiology, oncology, and other specialties.
+41	There was a concerning decrease in the number of cardiac surgeries, chemotherapy sessions, and radiotherapy sessions during the initial weeks of the pandemic.
+42	The number of people seeking care in the cardiac emergency room and the number of admissions to the cardiology ward and ICU also decreased, generating concern regarding the evolution and prognosis of these patients with pathologies other than COVID-19 during this pandemic time.
+43	(Arq Bras Cardiol. 2020;
+44	[online].ahead print, PP.0-0).
+45	The monocrotaline (MCT)-induced pulmonary arterial hypertension model is one of the most reproduced today, presenting as a limitation the absence of plexiform lesions, typical manifestations of the severe disease in humans.
+46	To evaluate the severity of MCT-induced pulmonary arteriopathy by pathological findings of lung and heart tissue samples, clinical course and 37-day survival.
+47	Fifty male Wistar rats were divided into one of the four groups - control (CG) (n = 10) and three intervention (MCT) groups.
+48	The MCT groups received intraperitoneal injection (60 mg/kg) of MCT and remained exposed to the substance for 15 days (G15, n = 10), 30 days (G30, n = 10) and 37 days (G37, n = 20).
+49	At the end of each period, the animals were sacrificed, and pulmonary and cardiac tissues were collected for anatomopathological and morphometric analysis.
+50	The Kruskal-Wallis test was used, considering a level of significance of 5%.
+51	In the lungs of MCT animals, lesions related to pulmonary arteriopathy were found, including muscularization of the arterioles, hypertrophy of the middle layer and concentric neointimal lesions.
+52	Complex lesions were observed in MCT groups, described as plexiform and plexiform-like lesions.
+53	Right ventricular hypertrophy was evidenced by increased thickness and diameter of the cardiomyocytes and a significant increase in the right ventricular wall thickness (p <0.0000).
+54	The MCT model was able to generate moderate-severe pulmonary arteriopathy associated with secondary right ventricular hypertrophy.
+55	The 37-day survival rate was 50%.
+56	To our knowledge, this study was the first to note the presence of complex vascular lesions, similar to those observed in patients with severe pulmonary arterial hypertension, in an isolated MCT model.
+57	(Arq Bras Cardiol. 2020; 115(3):480-490).
+58	The effects of non-pharmacological interventions such as calorie restriction and exercise training on health and prevention of cardiovascular diseases have been investigated in clinical and experimental studies.
+59	To analyze the influence of intermittent fasting and exercise training on functional fitness, glycemia and cardiac remodeling.
+60	Wistar rats (n=60) were randomly divided into four groups: control, exercise training (ET), intermittent fasting (IF) and exercise training plus intermittent fasting (ETI).
+61	Over 12 weeks, control and ET animals were fed daily a standard commercial diet ad libitum , while IF and ETI animals were fed every other day.
+62	In addition, the ET and ETI groups were submitted to a running protocol on a treadmill.
+63	After this period, functional fitness, nutritional parameters and blood glucose levels were analyzed.
+64	In addition to heart morphology, myocardial protein expression of extracellular signal-regulated kinase (ERK) and c-Jun N-terminal kinase (JNK) was assessed by Western-blot.
+65	The results were analyzed using two-way ANOVA and Student-Newman-Keuls test.
+66	The level of significance considered was 5%.
+67	Exercise training increased functional fitness in the ET and ETI groups and promoted cardiac fibrosis.
+68	The combination of intermittent fasting and exercise training resulted in a smaller area under the blood glucose curve and reduced cardiomyocyte cross-sectional area and interstitial collagen fraction in the ETI group compared to ET.
+69	ERK and JNK expression levels were similar among groups (p>0.05).
+70	Intermittent fasting is associated with improved glucose tolerance and attenuates cardiac remodeling induced by exercise training (Arq Bras Cardiol. 2020; 115(2):184-193).
+71	In clinical practice, there is evidence of failure to prescribe evidence-based therapies for patients at high cardiovascular risk.
+72	However, in Brazil, data on 1-year outcomes of these patients remain insufficient.
+73	To describe the use of evidence-based therapies and the occurrence of major cardiovascular outcomes and their major predictors in a 12-month follow-up of a Brazilian multicenter registry of patients at high cardiovascular risk.
+74	This prospective observational study documented the outpatient clinical practice of managing patients over 45 years of age and of high cardiovascular risk in both primary and secondary prevention.
+75	Patients were followed-up for 1 year, and the prescription of evidence-based therapies and the occurrence of major cardiovascular events (myocardial infarction, stroke, cardiac arrest, and cardiovascular death) were assessed.
+76	P-values < 0.05 were considered statistically significant.
+77	From July 2010 to August 2014, a total of 5076 individuals were enrolled in 48 centers, 91% of the 4975 eligible patients were followed-up in cardiology centers, and 68.6% were in secondary prevention.
+78	At 1 year, the concomitant use of antiplatelet agents, statins, and angiotensin-converting enzyme inhibitors reduced from 28.3% to 24.2% (p < 0.001).
+79	Major cardiovascular event rate was 5.46%, and the identified predictors were age, patients in secondary prevention, and diabetic nephropathy.
+80	In this large national registry of patients at high cardiovascular risk, risk predictors similar to those of international registries were identified, but medical prescription adherence to evidence-based therapies was inferior and significantly worsened at 1 year.
+81	(Arq Bras Cardiol. 2020;
+82	[online].ahead print, PP.0-0).
+83	After a decade experiencing clear difficulties, the Portuguese National Health Service needs a significant public investment for its development.
+84	This means more resources for the National Health Service, but also an increased capacity to manage its necessary transformation.
+85	Current health challenges differ significantly from those prevailing when the National Health Service was institutionalized, 40 years ago: (i) A significant increase in the prevalence of patients with multimorbidity has been observed;
+86	(ii)There is a need to delay and attenuate the expression of multimorbidity;
+87	(iii) In this context, a strong investment in integrating health care is of a paramount importance.
+88	The transformations that the National Health Service needs to respond to these challenges are very complex and demanding: (i) Effective local adaptive change management requires a very elaborate strategic, governance and government framework, which is yet to be developed;
+89	(ii) Collaborative architectures, processes and tools need to be promoted in order to induce and facilitate change in the Portuguese health system;
+90	(iii) Common understanding of current challenges and increased capabilities to deal with complex change processes may facilitate the implementation of effective strategic management in the National Health Service, focused on its more critical domains - financing, infrastructures and resource management, organizational development, policies for attracting and retaining health professional and cooperation with the social and private sectors.
+91	Such a transformation agenda is urgently needed.
+92	To estimate the reporting rates of coronavirus disease 2019 (COVID-19) cases for Brazil as a whole and states.
+93	We estimated the actual number of COVID-19 cases using the reported number of deaths in Brazil and each state, and the expected case-fatality ratio from the World Health Organization.
+94	Brazil's expected case-fatality ratio was also adjusted by the population's age pyramid.
+95	Therefore, the notification rate can be defined as the number of confirmed cases (notified by the Ministry of Health) divided by the number of expected cases (estimated from the number of deaths).
+96	The reporting rate for COVID-19 in Brazil was estimated at 9.2% (95%CI 8.8% - 9.5%), with all the states presenting rates below 30%.
+97	São Paulo and Rio de Janeiro, the most populated states in Brazil, showed small reporting rates (8.9% and 7.2%, respectively).
+98	The highest reporting rate occurred in Roraima (31.7%) and the lowest in Paraiba (3.4%).
+99	The results indicated that the reporting of confirmed cases in Brazil is much lower as compared to other countries we analyzed.
+100	Therefore, decision-makers, including the government, fail to know the actual dimension of the pandemic, which may interfere with the determination of control measures.
+101	Although team-based care is recommended for patients with hypertension, results of this intervention in a real-world setting are missing in the literature.
+102	To report the results of a real-world long-term team-based care for hypertensive patients we conducted this study.
+103	Data of hypertensive patients attending a multidisciplinary treatment center located in the Midwest region of Brazil in June 2017 with at least two follow-up visits were retrospectively assessed.
+104	Anthropometric, blood pressure (BP), follow-up time, pharmacological treatment, diabetes and lifestyle data were collected from the last visit to the service.
+105	BP values < 140 x 90 mmHg in non-diabetics and < 130 x 80 mmHg in diabetics were considered controlled.
+106	A logistic regression model was built to identify variables independently associated to BP control.
+107	Significance level adopted p < 0.05.
+108	A total of 1,548 patients were included, with a mean follow-up time of 7.6 ± 7.1 years.
+109	Most patients were female (73.6%; n=1,139) with a mean age of 61.8 ±12.8 years.
+110	BP control rates in all the sample, and in non-diabetics and diabetics were 68%, 79%, and 37.9%, respectively.
+111	Diabetes was inversely associated with BP control (OR 0.16; 95%CI 0.12-0.20; p<0.001) while age ≥ 60 years (OR 1.48; 95%CI 1.15-1.91; p=0.003) and female sex (OR 1.38; 95%CI 1.05-1.82; p=0.020) were directly associated.
+112	A BP control rate around 70% was found in patients attending a multidisciplinary team care center for hypertension.
+113	Focus on patients with diabetes, younger than 60 years and males should be given to further improve these results.
+114	(Arq Bras Cardiol. 2020; 115(2):174-181).
+115	To identify the main challenges of the family of a child with meningomyelocele (MMC) and correlate the Zarit Burden Interview (ZBI) scale with the World Health Organization Quality of Life-BREF (WHOQOL - BREF).
+116	Questionnaires were sent through an online platform to groups of parents and caregivers of children with MMC.
+117	Four WHOQOL-BREF domains were evaluated: physical, psychological, social and environmental.
+118	All correlations among the domains of the WHOQOL-BREF questionnaire with the Zarit Burden Interview (ZBI) scale were negative and significant with a higher magnitude value for ZBI × psychological domain with - 57.4% correlation (p < 0.001).
+119	The results of this study suggest the quality of life of mothers and caregivers of children with meningomyelocele is affected regarding functional capacity, emotional aspect, and mental health.
+120	Despite this, the participants present a positive view of their lives.
+121	The most common difficulties faced by caregivers were: performing bladder catheterization, providing general care, financial burden, and accessibility.
+122	To compare antirotator proximal femoral nail (A-PFN) with antirotator dynamic hip screw (A-DHS).
+123	Fourteen proximal femur models with type 31/A2 fracture, according to the AO Foundation/Orthopaedic Trauma Association (AO/OTA) classification, were separated into two groups.
+124	Group 1 bones (n = 7) were fixed with A-PFN and Group 2 (n = 7) with A-DHS.
+125	A 5 mm/min axial load was applied to femur heads using a testing device.
+126	Two of the seven models in the A-PFN group fractured at the proximal, and the other five at distal locking screw level.
+127	All models in the A-DHS group fractured at the tightened distal screw region.
+128	The median fracture load for the A-PFN group was 132.1 N (97.1-173.69 N range), and for the A-DHS group it was 81.7 N (75.15-89.12 N range).
+129	A-PFN-treated unstable intertrochanteric fractured models resisted to higher levels of axial load than the A-DHS-treated group, with statistically significant difference.
+130	However, clinical studies are required to support these results.
+131	The association between physical activity and health has been clearly established, and the promotion of physical activity should be viewed as a cost-effective approach that is universally prescribed as a first-line treatment for nearly every chronic disease.
+132	Health care providers involved in the care for individuals with cerebral palsy (CP) are encouraged to take an active role in promoting their health and well-being.
+133	Balancing activity behaviours across the whole day, with improved physical activity, reduced sedentary time, and healthy sleep behaviours, can set up infants, preschool-, and school-aged children with CP for a healthy trajectory across their lifetime.
+134	However, most clinicians do not apply a systematic surveillance, assessment, and management approach to detect problems with physical activity or sleep in children with CP.
+135	Consequently, many children with CP miss out on an important first line of treatment.
+136	This article presents an evidence-informed clinical practice guide with practical pointers to help practitioners in detecting 24-hour activity problems as a critical step towards adoption of healthy lifestyle behaviours for children with CP that provide long-term health benefits.
+137	To analyze the profiles of the individuals who access the website regarding congenital clubfoot (CC) information and the first ten years of Ponseti method implementation in Brazil.
+138	This is a retrospective documentary study, with quantitative database analysis, from 2002 to 2012.
+139	Parents or caregivers completed a semi-structured questionnaire regarding the main difficulties encountered, the search for different professionals in the area, and what were the main questions the reader might have when searching on a technical website.
+140	In total, 94% of participants had a family member or acquaintance with CC, most participants were women (74%), higher education level (40%), married (75%), income above one minimum wage (80%), working in administrative positions (21%,) and living in the urban area (99%).
+141	Of the participants, 44% sought three or more physicians at the beginning of treatment, and an average of 77% of the participants used health insurance or a private physician.
+142	The participants' profile regarding CC is composed of women, married, living in urban areas, predominantly from Southeastern Brazil, higher education level, with income above 1.5 minimum wages, and who were treating their children with a private physician.
+143	The weaknesses of Guinea-Bissau's health system have long been highlighted.
+144	The purpose of this study is to contribute with evidence for decision-making on the reform of the country's healthcare map, by analyzing the availability and readiness of services at the facilities that may become part of a Hospital Complex in Bissau, proposed in the National Health Development Plan.
+145	We analyzed 13 public and private facilities with inpatient capacity, located in Bissau and Biombo.
+146	Service Availability and Readiness Assessment (SARA) tools were used for data collection, treatment and analysis.
+147	A comprehensive overview of these facilities has been provided, describing their general capacity to provide care and their readiness to implement it, along with the availability and readiness of specific services: diagnosis, family planning, mother and child health, obstetrics, communicable and non communicable diseases, blood transfusion and surgery.
+148	We observed a greater concentration of beds and professionals in the facilities of public sector, the only that provides all the specific services analyzed.
+149	Private sector services with agreements to supply the public sector have higher readiness levels and the private sector has the lowest operating capacity.
+150	Findings reflect the lack of equipment, infrastructure and resources, the predominance of the public sector and the growth of the private for-profit and non-profit sectors, as well as inadequacies in planning and regulation.
+151	Similarities and differences between our findings and those described in the literature for other African countries are identified.
+152	This study reinforces the relevance of developing integrated and rational responses of health services and provides evidence for this.
+153	Excess Weight and Cardiovascular Diseases are health problems with increasing prevalence among children and adolescents, hence the need to investigate the issues related to them to better deal with the problem.
+154	To investigate the influence of excess adiposity on the levels of apolipoprotein B and A1 in children and adolescents.
+155	A systematic search was conducted in the PubMed, Embase, Lilacs, Web of Science, Ovid and Science direct databases, searching for cohort eligible studies and evaluating their results, methodological quality and risk of bias; combinable studies with good quality and low risk of bias were evaluated by meta-analysis.
+156	The summary measure used was the weighted mean difference (WMD) with its respective 95% confidence interval.
+157	8 articles attended the eligibility criteria including individuals with age mean varying from 9 to 15.7 years of age.
+158	The meta-analysis included 4 articles with a total of 7,974 children and adolescents.
+159	It was observed a mean increase of 4,94mg/dL (95%CI: 4,22 to 5,67) in the ApoB levels in individuals with excess of body adiposity.
+160	For the ApoA1, we identified a mean reduction of -8,13mg/dL (95%CI: -9,09 to -7,17 mg/dL) in its levels in children and adolescents with higher body adiposity.
+161	Beside this, the influence of excess adiposity on the ApoB and ApoA1 levels was higher between adolescents than children.
+162	The excess of body adiposity influenced both the reduction of ApoA1 values and the increase of ApoB levels, being these changes more relevant among adolescents.
+163	(Arq Bras Cardiol. 2020;
+164	[online].ahead print, PP.0-0).
+165	The effects of long-distance walking on the cardiovascular system have been little studied.
+166	The general objective of this study was to verify these effects on the behavior of diastolic function and the cardiac biomarkers CK-MB (mass), troponin T, and NT-proBNP, in amateur athletes.
+167	This longitudinal study, conducted in 2015, evaluated participants during the following 5 stages: E0 (baseline) before starting the trajectory and the others, E1, E2, E3, and E4, at the end of each day, totaling 244.7 km.
+168	At all stages, the biomarkers NT-proBNP, CK-MB (mass), and troponin T were measured.
+169	Echocardiogram was performed to analyze the E, A and E' waves.
+170	P < 0.05 was adopted as significant.
+171	The study evaluated 25 participants, with an average age of 46 ± 10.5 years and body mass index of 20.2 ± 2.3 kg/m2.
+172	Increased values were found for NT-proBNP from E0 to E1, E2, E3, and E4 (p < 0.001), CK-MB (mass) from E0 to E2 (p < 0.001), and E' wave from E0 to E1, E2, E3, and E4 (p < 0.001).
+173	Positive correlations were identified between the following: CK-MB (mass) and troponin T (E1: r = 0.524, p = 0.010; E4: r = 0.413, p = 0.044);
+174	CK-MB (mass) and NT-proBNP (E4: r = 0.539, p = 0.006); and E/A and E' (E0: r = 0.603, p < 0.001; E1: r = 0.639, p < 0.001; E4: r = 0.593, p = 0.002).
+175	A negative correlation was found between CK-MB (mass) and E/A (E1: r = -0.428, p = 0.041).
+176	The effects of intense, prolonged, and interspersed physical activity were verified based on significant variations in the behavior of CK-MB (mass), NT-proBNP, and the E' wave.
+177	Notwithstanding the alterations found, there were no criteria suggestive of myocardial damage.
+178	Cardiovascular disease is the leading cause of mortality in the world.
+179	Parietal calcifications of the arteries may be visualized and quantified at initial and subclinical states by computed tomography (CT), and expressed as calcium score (CS).
+180	It is possible to estimate the prognosis of future cardiovascular events using this score.
+181	To correlate the detection and quantification of the CS obtained by chest CT with that obtained by electrocardiography (ECG)-synchronized cardiac computed tomography (the gold-standard).
+182	Cross-sectional, descriptive study of 73 consecutive patients in investigation for coronary artery disease who underwent cardiac CT between June 2013 and October 2014.
+183	Chest computed tomography and CS protocols were performed in a 64-channel TC scanner.
+184	P-values <0.05 were considered statistically significant.
+185	In the per-patient analysis, after logarithmic transformation, mean CS was 8.7 and 9.4 by the ECG-synchronized method and chest CT, respectively.
+186	The prevalence of disease was 49.3% (n=36), with a sensitivity of 97.2% and specificity of 100.0%.
+187	There was an excellent correlation between the methods (r= 0.993, p<0.001).
+188	In the per-segment analysis, after logarithmic transformation, mean CS was 3.0 and 3.2 by the ECG-synchronized method and chest CT, respectively.
+189	The prevalence of disease was 29.5% (n=86), with a sensitivity of 95.3% and specificity of 97.5%.
+190	There was an excellent correlation between the methods (r= 0.985, p<0.001).
+191	ECG-synchronized CT is well correlated with the non-ECG-synchronized CT for CS determination, without statistical difference between the methods.
+192	(Arq Bras Cardiol. 2020; 115(3):493-500).
+193	To assess the neural and non-neural contributions to spasticity in the impaired ankle of children with cerebral palsy (CP).
+194	Instrumented tapping of the Achilles tendon was done isometrically to minimize non-neural contributions and elicit neural contributions.
+195	Robot-controlled ankle stretching was done at various velocities, including slow stretching, with minimized neural contributions.
+196	Spasticity was assessed as having neural (phasic and tonic stretch reflex torque, tendon reflex gain, contraction rate, and half relaxation rate) and non-neural origin (elastic stiffness and viscous damping) in 17 children with CP (six females and 11 males; mean age [SD] 10y 8mo [3y 11mo], range 4y-18y) and 17 typically developing children (six females and 11 males; mean age [SD] 12y 7mo [2y 9mo], range 7y-18y).
+197	All torques were normalized to weight×height.
+198	Children with CP showed increased phasic and tonic stretch reflex torque (p=0.004 and p=0.001 respectively), tendon reflex gain (p=0.02), contraction rate (p=0.038), half relaxation rate (p=0.02), elastic stiffness (p=0.01), and viscous damping (p=0.01) compared to typically developing children.
+199	Controlled stretching and instrumented tendon tapping allow the systematic quantification of various neural and non-neural changes in CP, which can be used to guide impairment-specific treatment.
+200	Ankle spasticity is associated with increased phasic and tonic stretch reflexes, tendon reflex gain, and contraction and half relaxation rates.
+201	Ankle spasticity is also associated with increased elastic stiffness and viscous damping.
+202	The Brazilian Information System on Mortality (SIM) is of vital importance in monitoring the trends of cardiovascular diseases (CVDs) and is aimed at supporting public policies.
+203	To compare historical series of CVD mortality based on data from the SIM, with and without correction, and from the Brazil Global Burden of Disease (GBD) Study 2017, in the 2000-2017 period.
+204	Analysis of CVD mortality in Brazil between 2000 and 2017.
+205	Three CVD mortality estimates were compared: Crude SIM, Corrected SIM, and GBD 2017.
+206	Absolute numbers and age-standardized rates were used to compare the estimates for Brazil, its states and the Federal District.
+207	In the SIM, the total of deaths ranged from 261,000, in 2000, to 359,000, in 2017.
+208	In the GBD 2017, the total of deaths ranged from 292,000 to 388,000, for the same years, respectively.
+209	A high proportion of the causes of death from CVD corresponded to garbage codes, classified according to the GBD 2017, reaching 42% in 2017.
+210	The rates estimated by GBD ranged from 248.8 (1990) to 178.0 (2017) deaths per 100,000 inhabitants.
+211	The rates of the Crude SIM and Corrected SIM also showed a reduction for the whole series analyzed, the Crude SIM showing lower rates: 204.9 (1990) and 155.1 (2017) deaths per 100 thousand inhabitants.
+212	When analyzing by the states and Federal District, the Crude SIM trends reversed, with an increase in mortality rates in the Northern and Northeastern states.
+213	This study shows the decrease in CVD mortality rates in Brazil in the period analyzed.
+214	Conversely, when analyzing by the states and Federal District, the Crude SIM showed an increase in those rates for the Northern and Northeastern states.
+215	The use of crude data from the SIM can result in interpretation errors, indicating an increase in rates, due to the increase in death data capture and the improvement in the definition of the underlying causes of death in the past decade, especially in the Northern and Northeastern regions, justifying the use of corrected data in mortality analyses.
+216	(Arq Bras Cardiol. 2020; 115(2):152-160).
+217	Performance autoethnography is qualitative research methodology that aims to problematize resistances between the "self" (auto-) and the collective (ethno-) in the act of writing (-graphy).
+218	The article thus aims to discuss the theoretical and practical construction of performance autoethnography and its applicability as a qualitative research and analytical method in the field of Collective Health through a performance autoethnography writing.
+219	By problematizing the epistemic and ontological basis of performance autoethnography, pointing to possibilities for its development and inclusion in studies in the field of Collective Health, the article presents performance autoethnography as a strategy to expand the possibilities for social justice, democratization, and pluralisms in and from research practices.
+220	Performance autoethnography, oriented by the episteme "postcolonial", explores decolonializing approaches that provoke and create conditions for the transformation of the academic view itself and the knowledge that prioritizes certain representations of "the other" and thus mainly problematizes how subaltern and marginalized histories relate to what are considered hegemonic systems.
+221	Men are the main group affected by HIV infection in Brazil, with an upward trend in the last 10 years.
+222	According to official data, heterosexual men represent 49% of cases, followed by homosexuals with 38% and bisexuals with 9.1%.
+223	Heterosexual men have been subsumed in the category "overall population" and have failed to receive specific attention in preventive policies or activities.
+224	The article proposes to analyze the circumstances and strategies by which heterosexual men learn of their HIV diagnosis.
+225	The study thus seeks to understand the paths and social actors involved in their HIV/AIDS diagnosis.
+226	The data are from a qualitative study interviewing 36 men living with HIV/AIDS that did not self-identify as homosexuals and/or bisexuals.
+227	The men were contacted in three specialized AIDS services in Porto Alegre, Rio Grande do Sul State, Brazil.
+228	The results indicate that men consider themselves immune to HIV, and that the diagnosis is an unexpected event.
+229	Women (affective-sexual partners and/or former partners) are fundamental components in the men's diagnosis, since they reveal the presence of HIV through either prenatal care or their own illness.
+230	An important share of these men discover that they are HIV-positive through some illness such as tuberculosis or after several visits to health services.
+231	Spontaneous search for HIV testing only occurs through situations and signs associated with possible infection.
+232	Heterosexual men have few opportunities for HIV diagnosis, and beyond gender issues, they are subject to programmatic vulnerability.
+233	To investigate associations between functioning, community participation, and quality of life (QoL) and identify whether participation mediates the effects of functioning on QoL.
+234	The caregivers of 435 children (211 females, 224 males; mean age 12y; SD 3y 11mo; age range 5-18y) with intellectual disability and autism spectrum disorder, cerebral palsy, Down syndrome, or Rett syndrome reported on their child's functioning (dependence for managing personal needs, mobility, communication, eye contact when speaking), frequency of participation, and QoL. Linear regression and mediation analyses were used to evaluate the relationships between child functioning, participation, and QoL. Children with greater dependency for managing personal needs and limited eye contact when speaking experienced poorer QoL. Less impaired functioning was associated with more frequent participation, which, in turn, was associated with a 3-point gain in QoL for each additional point in frequency of participation (coefficient=2.67, 95% confidence interval 1.56-3.78).
+235	The effect of impaired functioning on QoL was partially mediated by participation in children with greater dependency in managing personal needs and those with mildly impaired communication.
+236	Greater levels of impairments with poorer functioning, notably a high level of dependence, were associated with poorer QoL. Poorer QoL can be partly explained by less frequent community participation.
+237	Familial hypercholesterolemia (FH) is a genetic disease caused by a primary defect in the LDL-receptor gene.
+238	Distinct variants in the same gene characterize a compound heterozygote, but little is known about the phenotypes of the carriers.
+239	Therefore, herein, we describe the cascade screening of a Brazilian family with this characteristic.
+240	The index case, a 36-year-old male, had a total cholesterol level of 360 mg/dL (9.3 mmol/L) and LDL-c value of 259 mg/dL (6.7 mmol/L), in addition to Achilles tendon xanthomas, obesity and prehypertension.
+241	Genotyping identified the variants 661G>A, 670G>A, 682G>A in exon 4 and 919G>A in exon 6.
+242	The same variant in exon 4 was found in the index case's son (7-y), who also had hypercholesterolemia and xanthomas, while the index case's daughter (9-y) had the variant in exon 6 and hyperlipidemia, without xanthomas.
+243	In summary, this report allows for a better insight into the molecular basis of FH in Brazil, a multi-racial country where a heterogeneous population is expected.
+244	To identify emerging mental health problems, strategies to address them, and opportunities to reform mental health systems during the COVID-19 pandemic in South America.
+245	An online questionnaire was sent to mental health decision-makers of ministries of health in 10 South American countries in mid-April 2020.
+246	The semi-structured questionnaire had 12 questions clustered into three main sections: emerging challenges in mental health, current and potential strategies to face the pandemic, and key elements for mental health reform.
+247	We identified keywords and themes for each section through summative content analysis.
+248	Increasing mental health burden and needs were reported as direct and indirect consequences of the COVID-19 pandemic.
+249	National lockdowns challenge the delivery and access to mental health treatment and care.
+250	Strategies to meet mental health needs rely heavily on timely and adequate responses by strengthened mental health governance and systems, availability of services, virtual platforms, and appropriate capacity-building for service providers.
+251	Short- and medium-term strategies focused on bolstering community-based mental health networks and telemedicine for high-risk populations.
+252	Opportunities for long-term mental health reform entail strengthening legal frameworks, redistribution of financial resources, and collaboration with local and international partners.
+253	Mental health and psychosocial support have been identified as a priority area by South American countries in the COVID-19 response.
+254	The pandemic has generated specific needs that require appropriate actions, including implementing virtual interventions, orienting capacity-building toward protecting users and health providers, strengthening evidence-driven decision-making, and integrating mental health and psychosocial support in high-level mechanisms guiding the response to COVID-19.
+255	Many studies have shown that the diterpenoid classes exert a significant effect on the cardiovascular system.
+256	Diterpenes, in particular, are among the main compound links to cardiovascular properties such as vasorelaxant, inotropic, diuretic and hypotensive activity.
+257	While the manool vasorelaxation mechanism is visible, its effect on blood pressure (BP) is still unknown.
+258	To evaluate the in vivo hypotensive effect of manool and check the ex vivo vasorelaxation effect in rat aortic rings.
+259	The animals were divided randomly into two groups: normotensive and hypertensive.
+260	The normotensive group was sham-operated, and the 2K1C model was adopted for the hypertensive group.
+261	Invasive BP monitoring was performed for manool tests at different doses (10, 20 and 40 mg/kg).
+262	Concentration-response curves for manool were obtained in the aorta rings, with endothelium, pre-contracted with phenylephrine (Phe) after incubation with Nω-nitro-L-arginine methyl ester(L-NAME) or oxadiazole [4,3-a]quinoxalin-1-one (ODQ).
+263	Nitric oxide (NOx) plasma levels were measured by chemiluminescence assay.
+264	After manool administration, BP was reduced in normotensive and hypertensive groups, and this effect was inhibited by L-NAME in hypertensive animals only in 10 mg/kg dose.
+265	Ex vivo manool promoted vasorelaxation, which was inhibited by L-NAME and ODQ incubation or endothelium removal.
+266	NOx plasma levels increased in the hypertensive group after manool administration.
+267	Manool elicits endothelium-dependent vascular relaxation in rat aorta mediated by the NO/cGMP signaling pathway and BP reduction, also by NOx plasma increase.
+268	These combined effects could be involved in modulating peripheral resistance, contributing to the antihypertensive effect of diterpene.
+269	These effects together could be involved in modulating peripheral resistance, contributing to the antihypertensive effect of diterpene.
+270	To systematically review and meta-analyze the performance of return to play (RTP) and non-RTP patients in different assessment tools after anterior cruciate ligament reconstructions (ACLR).
+271	Out of 182 studies searched on PubMed, 11 presented RTP and non-RTP groups assessing the performance of young individuals, practitioners of different sports, with different tools.
+272	There was higher limb symmetry
+273	(7.13% [95%CI 4.55; 9.70],  We confirmed that these different tools can differentiate RTP for non-RTP patients, which may contribute to the physician's decision about the ideal time for RTP.
+274	Women seem to be more susceptible to psychosocial stress than men, and stress is associated with worse outcomes after acute myocardial infarction (AMI).
+275	To investigate whether the female gender is an independent predictor of risk for stress and to compare stress levels between women and men after AMI.
+276	Cross-sectional study of a case series.
+277	Patients aged 18 to 65 years who were treated for AMI at the study facility between January 2017 and June 2018 were eligible.
+278	The presence of stress was assessed using Lipp's Stress Symptoms Inventory for Adults (ISSL), which categorizes stress into four phases (alertness, resistance, near-exhaustion, and exhaustion), through a list of physical and psychological symptoms.
+279	Data were analyzed using SPSS Version 24.0.
+280	The significance level was set at p<0.05.
+281	Of the 330 respondents, 89% of women and 70% of men experienced stress.
+282	The female gender was associated with nearly threefold higher odds of experiencing stress (EXP (B)2.79, p = 0.02).
+283	Regarding the phases of stress, women were more often in the near-exhaustion and exhaustion phases, while men were more often in the resistance phase.
+284	This study showed that women are most often in the third and fourth phases of stress, i.e., in situations of long-standing psychosocial stress.
+285	These findings can assist in the development of gender-specific strategies for health promotion and disease prevention, aiming to minimize the effects of stress in this population.
+286	Canine atopic dermatitis (cAD) is a common inflammatory and pruritic skin disease, with various treatment options.
+287	The use of topical products containing natural ingredients has proven increasingly popular.
+288	To evaluate the effects of a spray solution containing heat-killed Lactobacillus rhamnosus and L. reuteri, on the clinical signs and cutaneous microbiota of atopic dogs.
+289	Ten privately owned, mildly affected, nonseasonally atopic dogs.
+290	The spray was applied to the ventrum every 24 h for 28 days.
+291	Clinical scores, skin barrier function and owner assessment were evaluated on day (D)0, D14, D28 and D42.
+292	The cutaneous microbiota was analysed on D0 and D28.
+293	A reduction in the total clinical score was seen at each time point (D14, P = 0.03; D28, P = 0.04; D42, P = 0.001).
+294	A reduction in the regional clinical scores was seen after D28 (P = 0.01) and D42 (P = 0.003).
+295	A significant reduction in the pruritus score was seen on D42 (P = 0.01).
+296	A lower hydration value was seen on D28 (P = 0.02) and D42 (P = 0.02) on the pinnae.
+297	A good-to-excellent response and an easy-to-use administration was reported by owners.
+298	There were no significant changes in the cutaneous microbiota after 28 days.
+299	There was a significant and rapid decrease in the clinical signs associated with cAD after use of the spray.
+300	Future larger, randomized, controlled studies are needed to confirm these results and to assess the effects on the cutaneous immunity and microflora of atopic dogs.
+301	This study aimed to measure the occurrence of multimorbidity and to estimate the number of individuals in the Brazilian population 50 years or older at risk for severe COVID-19.
+302	This was a cross-sectional nationwide study based on data from the Brazilian Longitudinal Study of Aging (ELSI-Brazil), conducted in 2015-2016, with 9,412 individuals 50 years or older.
+303	Multimorbidity was defined as ≥ 2 chronic conditions based on a list of 15 diseases considered risk conditions for severe COVID-19.
+304	The analyses included calculation of prevalence and estimation of the absolute number of persons in the population at risk.
+305	Self-rated health status, frailty, and basic activities of daily living were used as markers of health status.
+306	Sex, age, region of the country, and schooling were used as covariables.
+307	Some 80% of the sample had at least one of the target conditions, which represents some 34 million individuals.
+308	Multimorbidity was reported by 52% of the study population, with higher proportions in the Central, Southeast, and South of Brazil.
+309	Cardiovascular diseases and obesity were the most frequent chronic conditions.
+310	An estimated 2.4 million Brazilians are at serious health risk.
+311	The results revealed inequalities according to schooling.
+312	The number of persons 50 years or older who presented risk conditions for severe COVID-19 is high both in absolute and relative terms.
+313	The estimate is important for planning strategies to monitor persons with chronic conditions and for preventive strategies to deal with the novel coronavirus.
+314	The article analyzes actions in the prevention and control of overweight and obesity that have been developed in the 92 municipalities (counties) in the state of Rio de Janeiro, Brazil, based on underlying principles in the typology of public policies developed by Lowi and Line of Care for Overweight and Obesity, according to the following analytical dimensions: program actions in prevention and control of obesity, characterization of macro policies according to the Lowi typology, and characterization of macro policies according to the Line of Care for Overweight and Obesity.
+315	The study is part of a research project from 2014 to 2018 that aimed to identify the strategies and challenges in the consolidation of the actions planned in the Line of Care for Overweight and Obesity, based on analysis of secondary data and government documents; searches in the municipalities' official websites; interviews; focus groups; and online questionnaires with health professionals and managers.
+316	The documents point to a series of actions such as individual consultations, support groups, health gyms, school health programs, and others, reinforced by the interviewees' narratives.
+317	Even with so many initiatives, the municipalities in the state of Rio de Janeiro face challenges with limited human resources and precarious infrastructure and equipment in the health units.
+318	To achieve mobilization in the actions to deal with obesity, the issue should be addressed specifically on the state and local agendas and not diluted among other activities and programs.
+319	Type 2 Diabetes Mellitus (T2DM) is common in older adults, who also present a high level of risk factors for cardiovascular disease (CVD), such as dyslipidemia.
+320	However, the role of depression in T2DM patients and its relationship with CVD risk factors are understudied.
+321	The present study aimed to investigate the relationship between depressive symptoms (DS) and known cardiovascular risk factors in community dwelling older adults with T2DM.
+322	This is a cross sectional study, in which 85 community-dwelling older adults with T2DM were assessed.
+323	DS was assessed using the Yesavage Geriatric Depression Scale - short version (GDS-15).
+324	The following cardiovascular risk factors were evaluated: systolic (SBP) and diastolic blood pressure (DBP), fasting plasma glucose (FPG), lipid profile (serum triglycerides - TG, serum total cholesterol - TC, serum low-density lipoprotein cholesterol - LDL-C, and serum high-density lipoprotein cholesterol - HDL-C) and body mass index (BMI).
+325	Poisson multiple regression was performed to test the association between DS and each cardiovascular risk factor adjusted by sex, age, time spent in moderate physical activity, and functional status.
+326	The significance level adopted for the analysis was 5%.
+327	Among all the analyzed risk factors, only high levels of LDL-C were related to high DS (PR=1.005, CI 95% 1.002-1.008).
+328	A significant association was observed between HDL-C levels (PR=0.99, CI 95% 0.98-0.99) and SBP (PR=1.009, CI 95% 1.004-1.014).
+329	In older adults with T2DM, the presence of DS was associated with LDL-C, HDL-C levels and SBP, even after adjusting for sex, age, physical activity level and functional capacity.
+330	(Arq Bras Cardiol. 2020;
+331	[online].ahead print, PP.0-0).
+332	The study aimed to compare two concepts of rurality, one proposed by the Brazilian Institute of Geography and Statistics (IBGE) and the other by the World Bank, to determine which is better fitted to the territory's reality, besides analyzing the infant mortality profile of rural municipalities (counties) in the state of Paraíba, Brazil, according to the best criterion for rurality.
+333	This was an observational epidemiological study conducted in the state of Paraíba.
+334	The method for analyzing rural/urban typologies was based on data mining, using the Apriori algorithm of association.
+335	Infant mortality was analyzed with descriptive statistics.
+336	The data were obtained from the Mortality Information System of the Brazilian Ministry of Health, from 2007 to 2016, and municipal indicators were from IBGE.
+337	The World Bank definition of rurality showed kappa = 0.337, compared to the IBGE definition, with kappa = 0.616. Among the 223 municipalities that were analyzed, the World Bank classified 130 (65.66%) correctly, and the IBGE 183 (82.06%).
+338	The predominant epidemiological profile of infant mortality in rural municipalities in Paraiba state was male gender (57.4%), brown skin color (61.1%), age from 0 to 7 days (52.4%), low birthweight (44%), and gestational age less than 37 weeks (43.2%).
+339	Underlying cause of death was classified as avoidable death via interventions by the Brazilian Unified National Health System (65.2%).
+340	The urban/rural typology adopted by the IBGE was better than the World Bank at classifying the municipalities in Paraiba state.
+341	This classification allowed studying the infant mortality profile in rural municipalities, which was similar to the overall profile, except for maternal schooling.
+342	The timeline of the COVID-19 pandemic began on December 31, 2019, in China, with SARS-CoV-2 identified as the etiological agent.
+343	This article aims to describe the COVID-19 epidemic's spatial and temporal dynamics in the first hundred days in the State of Pernambuco, Brazil.
+344	We present the evolution in cases and deaths according to epidemiological weeks.
+345	We analyzed the series of accumulated daily confirmed COVID-19 cases, with projections for the subsequent 15 days, using the JoinPoint app.
+346	This software allows identifying turning points, testing their statistical significance.
+347	We also analyze the trend in the spread of COVID-19 to the interior of the state, considering the percent distribution of cases in the state capital, Recife, municipalities in Greater Metropolitan Recife, and the state's interior, by sets of three weeks, constructing thematic maps.
+348	The first hundred days of the COVID-19 epidemic resulted in 52,213 cases and 4,235 deaths from March 12, or epidemiological week 11, until June 20, 2020 (epidemiological week 25).
+349	The peak in the epidemic curve occurred in epidemiological week 21 (May 23), followed by deceleration in the number of cases.
+350	We initially detected the spread of cases from the city center to the periphery of the state capital and Metropolitan Area, followed by rapid spread to the state's interior.
+351	There was a decrease in the mean daily growth starting in April, but with an average threshold of more than 6,000 weekly cases of COVID-19.
+352	At the end of the period, the state's case series indicates the persistence of SARS-CoV-2 circulation and community transmission.
+353	Finally, paraphrasing Gabriel Garcia Marques in One Hundred Years of Solitude, we ask whether we are facing "a pause in the storm or a sign of redoubled rain".
+354	This essay discusses the repercussions of the COVID-19 pandemic on the relation between labor and health, from the perspective of the workers' risk and vulnerability.
+355	The pandemic has represented a humanitarian crisis, since both the disease and the measures to contain it lead to persistent socioeconomic effects.
+356	In this context, the labor category has an important role, either because of the feasibility of maintaining the social distancing and living conditions allowed by the employment relationship, or because of the impossibility of adopting protection strategies due to job insecurity.
+357	The essay was initially built on the basis of a literature review on the interface between COVID-19 and workers' health, carried out from December 2019 to April 2020, on the PubMed, BIREME, Cochrane Library, medRxiv and LitCovid bases, as well as using gray literature.
+358	Health professionals are more affected, but they also have greater access to diagnosis; however, data are still scarce on other professional categories, as well as on the social determinants that lead to greater labor-related vulnerability.
+359	In Brazil, the pandemic coincides with a situation in which workers accumulate significant losses of labor and social security rights, in addition to pre-existing social inequalities, such as precarious housing, with greater exposure and risk.
+360	Although the pandemic is still evolving, social inequalities are expected to intensify, with the deep retraction of the economy, and workers must be a priority target of attention in the control and spread of the disease, in addition to being the axis for planning public social and health protection policies.
+361	To describe leisure participation in adolescents with congenital heart defects (CHD) and identify factors associated with intensity of participation.
+362	Eighty adolescents with CHD were recruited (39 males, 41 females; mean age [SD] 15y 8mo [1y 8mo] range 11y 5mo-19y 11mo) of whom 78 completed the Children's Assessment of Participation and Enjoyment (CAPE) outcome measure of leisure participation.
+363	The measure has five subscales: recreational, active-physical, social, skill-based, and self-improvement.
+364	Associations between the CAPE and age, sex, and development were examined.
+365	Motor ability (Movement Assessment Battery for Children, Second Edition), cognition (Leiter International Performance Scale-Revised), behavior (Strengths and Difficulties Questionnaire), and motivation (Dimensions of Mastery Questionnaire) were assessed.
+366	Participants exhibited impaired motor (43.5%), behavioral (23.7%), and cognitive (29.9%) development.
+367	The most intense participation was in social (mean [SD] 3.3 [0.99]) and recreational (2.9 [0.80]) activity types on the CAPE.
+368	Male sex (p<0.05) and younger age were associated with greater physical activity (<15y: 1.87; ≥15y: 1.31, p<0.05).
+369	Greater engagement in social activities was related to better cognition (r=0.28, p<0.05), higher motor function (r=0.30-0.36, p<0.01), and fewer behavioral difficulties (r=-0.32 to -0.47, p<0.01).
+370	Cognitive ability (r=0.27, p<0.05), dexterity and aiming/catching (r=0.27-0.33, p<0.05), and behavior problems (r=0.38-0.49, p=0.001) were correlated with physical activity participation.
+371	Persistence in tasks, an aspect of motivation, correlated with physical (r=0.45, p<0.001) and social activity involvement (r=0.28, p<0.05).
+372	Ongoing developmental impairments in adolescents with CHD are associated with decreased active-physical and social engagement, putting them at risk of poor physical and mental health.
+373	Health promotion strategies should be considered.
+374	Adolescents with congenital heart defects (CHD) have limited engagement in active-physical leisure activities.
+375	Cognitive, motor, and behavioral impairments are associated with decreased participation in leisure in children with CHD.
+376	Female sex and older age are associated with less engagement in leisure.
+377	Mastery motivation correlates with participation, suggesting an avenue for intervention.
+378	The aim of this study was to investigate factors associated with sex practice under the effect of drugs (chemsex) among men who have sex with men (MSM) during the period of social isolation in the context of the COVID-19 pandemic.
+379	A multicenter online survey was applied to Brazil and Portugal in April 2020 when the two countries were under restrictive health measures due to the pandemic.
+380	Participants were recruited with an adaptation of the respondent driven sampling (RDS) method in the online environment.
+381	Data were collected using social networks and dating apps for MSM.
+382	We used bivariate and multivariate logistic regression to produce crude (OR) and adjusted odds ratios (aOR).
+383	In a universe of 2,361 subjects, 920 (38.9%) reported engaging in chemsex practice, which involved casual partners in 95% of the cases.
+384	Higher OR of engaging in chemsex were associated with Brazil (aOR = 15.4; 95%CI: 10.7-22.1), not being in social isolation (aOR = 4.9; 95%CI: 2.2-10.9), engaging in casual sex during social distancing (aOR = 52.4; 95%CI: 33.8-81.4), group sex (aOR = 2.9; 95%CI: 2.0-4.4), not presenting any symptom of COVID-19 (aOR = 1.3; 95%CI: 1.1-1.8), not living with the sex partner (aOR = 1.8; 95%CI: 1.2-2.6), and using pre-exposure prophylaxis (aOR = 2.6; 95%CI: 1.8-3.7).
+385	The occurrence of chemsex was high, especially in Brazil, where the proposed social distancing did not gain adherence by MSM.
+386	To analyze the impact of the Peripheral Diabetic Neuropathy (PDN) on the postural and functional balance and quality of life of Brazilian older adults.
+387	A cross-sectional study.
+388	Sixty older men and women (60-79 years) were divided into three groups: control, DM without and with PDN.
+389	The following parameters were evaluated: anthropometry; quality of life; postural balance (BESTest); functional balance in force plate (NeuroCom Balance).
+390	PDN group presented significant differences compared with the other groups, with the worst performance in quality of life than DM2 without PDN in: sensory functioning
+391	( This study showed that neuropaths presented worse physical performance and postural balance deficits, sensorial limitations, affecting the daily tasks and, as a consequence, decreasing the quality of life in Brazilian older adults.
+392	Allogeneic stem cell transplantation is an established procedure for a variety of diseases of the hematopoietic system.
+393	Our transplant program started in 1987 and since then advances have been made in the care of patients undergoing transplantation.
+394	We conducted a study to evaluate whether the changes implemented over time have improved the outcomes of transplantation.
+395	We analyzed changes in patients, cell source, transplantation and outcome among 682 consecutive patients receiving their first transplant between 1987 and 2016.
+396	We compared overall survival, progression-free survival, the incidence of nonrelapse mortality and relapse in 10-year cohorts over the three decades of the study.
+397	The median age of transplanted patients, the use of peripheral blood and unrelated donors all increased very significantly.
+398	There was an increase in the number of high-risk patients when comparing the first decade with the two subsequent ones.
+399	The 3-year non-relapse mortality decreased significantly from 29% to 20% (p = 0.045), while the overall survival, progression free survival and cumulative incidence of relapse remained stable.
+400	Allogeneic hematopoietic stem cell transplantation has evolved considerably since its introduction in clinical practice.
+401	In the present study, we evaluated how these changes affected our practice along 30 years of activity and compared the results with those published in the literature.
+402	Despite increasing age, higher risk patients and the increasing use of unrelated donors our results show a continuous significantly reduced non-relapse mortality, with stable overall survival, progression free survival and relapse rate.
+403	Equity is a central goal of health policy in Portugal.
+404	However, empirical evidence regarding healthcare usage is scarce and there is a lack of up-to-date results.
+405	Our objective is to evaluate whether the principle of equal utilisation for equal need has been met.
+406	We use data from the National Health Survey 2014.
+407	Healthcare usage is measured by the number of visits to a Family Physician or to a hospital-based specialist.
+408	To assess the factors affecting usage we adopted a multivariate regression analysis (Negative Binomial Model).
+409	To quantify income-related inequality/inequity in utilisation we computed the concentration index.
+410	Better self-assessed health and absence of limitations in daily activities decrease usage; suffering from chronic disease increases usage.
+411	Income is not statistically significant; education positively affects usage with a pronounced effect.
+412	Living in urban areas increases usage as well as living in Lisbon (compared to North).
+413	Living in Algarve or Madeira, or benefiting only from the National Health Service coverage negatively affects usage.
+414	The possibility for equity in Family Physician visits cannot be discarded.
+415	Regarding hospital based specialist and total visits, the evidence suggests the existence of pro-rich inequity.
+416	The observed income-related inequity seems to reflect inequalities in other non-need variables.
+417	Whether the results are affected by overuse, in the case of hospital based specialist visits, is an issue open to question.
+418	Portugal evolved favourably in terms of equity in healthcare usage but several challenges remain.
+419	To verify the association among overweight, obesity and high blood pressure in Brazilian students aged between 6 and 10 years old.
+420	Cross-sectional study carried out in the city of Macaé, RJ, in which body mass, height and blood pressure were collected.
+421	The body mass index was calculated using the Anthro Plus software and classified according to SISVAN.
+422	High systolic/diastolic blood pressure when ≥ 90th percentile by age, gender and height/age percentile (7th Brazilian Guideline on Hypertension).
+423	Logistic regression with a 95% confidence interval, using SPSS software were done.
+424	A total of 911 children were evaluated and, after stratification by nutritional status, the underweight were excluded.
+425	Among the remaining 888 children, the prevalence of overweight was 17.7% and obesity 16.2%.
+426	The prevalence of high blood pressure was 34%, with no statistical difference between gender (p=0.57).
+427	Overweight was significantly associated with high blood pressure in the 8-9 year old group (OR 1.99; p=004), while obesity was associated in both groups (6-7 year old OR 2.50; p=0.004 and 8-9 year old OR 4.21 p=0.001).
+428	The results showed that overweight and obesity significantly increased the chance of high blood pressure among children aged 6 to 10 years old.
+429	This study aimed to describe the estimated means for weight, height, and body mass index (BMI) according to two imputation methods, using data from Vigitel (Risk and Protective Factors Surveillance System for Chronic Non-Communicable Diseases Through Telephone Interview).
+430	This was a cross-sectional study that used secondary data from the Vigitel survey from 2006 to 2017.
+431	The two imputation methods used in the study were hot deck and Predictive Mean Matching (PMM).
+432	The weight and height variables imputed by hot deck were provided by Vigitel.
+433	Two models were conducted with PMM: (i) explanatory variables - city, sex, age in years, race/color, and schooling; (ii) explanatory variables - city, sex, and age in years.
+434	Weight and height were the outcome variables in the two models.
+435	PMM combines linear regression and random selection of the value for imputation.
+436	Linear prediction is used as a measure of distance between the missing value and the possible donors, thereby creating the virtual space with the candidate cases for yielding the value for imputation.
+437	One of the candidates from the pool is randomly selected, and its value is assigned to the missing unit.
+438	BMI was calculated by dividing weight in kilograms by height squared.
+439	The result shows the means and standard deviations for weight, height, and BMI according to imputation method and year.
+440	The estimates used the survey module from Stata, which considers the sampling effects.
+441	The mean values for weight, height, and BMI estimated by hot deck and PMM were similar.
+442	The results with the Vigitel data suggest the applicability of PMM to the set of health surveys.
+443	Attention deficit and hyperactivity disorder (ADHD) is considered one of the most frequent behavioral and neurodevelopmental problems in school-age children and adolescents, both in Portugal and worldwide.
+444	The diagnostic categorization of ADHD and the prescription of psychostimulants as its first-line treatment have been the object not only of scientific research and clinical validation, but also of controversy and social critique, especially in light of the concept of medicalization.
+445	Despite its high profile and salience in such diverse fields as education, pharmaceuticals, mental health, and public policy, a significant gap remains in the characterization of social-historical, ethical, and institutional dimensions of ADHD outside English-speaking countries.
+446	Combining historical and ethnographic research with document and media analysis, the article addresses that challenge by tracing the social trajectory of ADHD in Portugal, from the emergence of "hyperactivity" in the 1970s and 1980s to the current public and political debates on psychostimulant treatments and prescribing trends.
+447	From this interdisciplinary perspective and based on the Portuguese case study, the aim of this article is to contextualize the definition, validation, and expansion of ADHD as part of a dynamic and socially situated process in which global diagnostic and pharmaceutical systems intersect with institutional and socioeconomic contingencies, as well as local specificities and needs.
+448	More broadly, the article discusses how the case study of ADHD contributes to the development of interdisciplinary research that helps rethinking the social scope of mental health across local and global health contexts.
+449	To compare the postoperative outcomes of transforaminal intersomatic lumbar arthrodesis with structured iliac bone autograft and PEEK device.
+450	The total of 93 medical records of patients undergoing transforaminal intersomatic fusion between January 2012 and July 2017 with at least 1 year of postoperative follow-up, with complete medical record, containing clinical file and radiological exams, were reviewed.
+451	From the medical records evaluated, 48 patients underwent the procedure with structured iliac autograft (group 1) and 45 with PEEK device (group 2).
+452	There was an improvement in functional capacity in both groups (p < 0.001), however there was no difference when comparing them (p = 0.591).
+453	The postoperative clinical and radiological results of lumbar arthrodesis with TLIF technique, using a structured iliac bone autograft compared to a PEEK device, were similar.
+454	Data on the management and prognosis of patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease are limited in Brazil, showing that the available revascularization strategies should be investigated.
+455	To assess the outcomes of complete revascularization versus treatment of the culprit artery only in patients with STEMI and multivessel disease.
+456	A prospective cohort study was conducted at two medical centers in southern Brazil with a 1-year follow-up after the index procedure.
+457	The primary outcome was a composite of cardiac death, reinfarction, or recurrent angina, while the secondary outcome was stroke, nonfatal cardiac arrest, major bleeding, or need for reintervention.
+458	The probability of outcomes occurring was compared between the groups using binary logistic regression.
+459	A p-value < 0.05 was considered statistically significant.
+460	Eighty-five patients were included.
+461	Their mean age was 62±12 years, and 61 (71.8%) were male.
+462	Fifty-eight (68.2%) were treated with complete revascularization and 27 (31.8%) with incomplete revascularization.
+463	The chance of both the primary and secondary outcomes occurring was significantly greater among patients treated with incomplete revascularization when compared to those treated with complete revascularization (odds ratio [OR] 5.1, 95% confidence interval [CI] 1.6-16.1 vs. OR 5.2, 95% CI 1.2-22.9, respectively), as well as cardiac death (OR 6.4, 95% CI 1.2-35.3).
+464	Registry data from two centers in southern Brazil demonstrate that the complete revascularization strategy is associated with a significant reduction in primary and secondary outcomes in a 1-year follow-up when compared to the incomplete revascularization strategy (Arq Bras Cardiol. 2020; 115(2):229-237).
+465	Low-dose edoxaban and enoxaparin sodium have been the subject of a retrospective comparison implemented with the propensity score technique in order to mitigate the effects of the differences in the basal clinical features of two cohorts and minimize the risk of bias.
+466	Subsequently, using a Cox proportional-hazards model, the association of each type of therapy with the risk of the composite of all-cause death, stroke/transient ischemic attack, hospitalizations and major bleeding events was assessed.
+467	For this analysis, a p-value < 0.05 was considered statistically significant.
+468	Therapy with enoxaparin and liver cirrhosis as causing thrombocytopenia were associated with increased risk of the composite endpoint (enoxaparin: hazard ratio (HR): 3.31; 95% CI: 1.54 to 7.13; p = 0.0023; liver cirrhosis, HR: 1.04; 95% CI: 1.002 to 1.089; p = 0.0410).
+469	Conversely, edoxaban therapy was significantly associated with decreased risk of the composite endpoint (HR: 0.071; 95% CI: 0.013 to 0.373; p = 0.0019).
+470	Based on this retrospective analysis, edoxaban at low doses would appear as an effective and safe pharmacological tool for the prophylaxis of cardioembolic events in patients with AF and thrombocytopenia.
+471	Transcatheter aortic valve replacement (TAVR) can reduce mortality among patients with aortic stenosis.
+472	Knowledge of pressure distribution and shear stress at the aortic wall may help identify critical regions, where aortic remodeling process may occur.
+473	Here a numerical simulation study of the influence of positioning of the prosthetic valve orifice on the flow field is presented.
+474	The present analysis provides a perspective of great variance on flow behavior due only to angle changes.
+475	A 3D model was generated from computed tomography angiography of a patient who had undergone a TAVR.
+476	Different mass flow rates were imposed at the inlet valve.
+477	Small variations of the tilt angle could modify the nature of the flow, displacing the position of the vortices, and altering the prerssure distribution and the location of high wall shear stress.
+478	These hemodynamic features may be relevant in the aortic remodeling process and distribution of the stress mapping and could help, in the near future, the optimization of the percutaneous prosthesis implantation.
+479	(Arq Bras Cardiol. 2020;
+480	[online].ahead print, PP.0-0).
+481	The conditions affecting the calcaneal tendon remain extremely prevalent in the clinical practice.
+482	The search for information about these diseases in national and international scientific databases are commonly hampered in the use of search tools, requiring the use if an eponym in the strategy.
+483	Achilles, in reference to the hero of the Greek mythology, is often used by several authors in scientific publications despite the new Nomina Anatomica.
+484	This article intends to recover the history behind the use of this term, which heroically resists in the clinical discussions of everyday life in articles and textbooks.
+485	Distal radius fractures are one of the most common orthopedic injuries and appear in various patterns.
+486	Volar plate fixation is not always considered the gold standard treatment.
+487	To measure the resistance of a fragment-specific fixation assembly model obtained by plate fixation associated with different K-wire sizes.
+488	In this original experimental study, novel II, axial compression of bone materials was tested.
+489	In both groups, the maximum force supported by the fixation method in our study was ten times greater than the physiological load to which the wrist was subjected under physiological conditions.
+490	In this study, we obtained encouraging results when compared to results reported in the literature.
+491	Our study showed that our bone fixating system was mechanically adequate for articular fractures of the intermediate column of the radius (Melone classification).
+492	The results were similar or superior to the results of pressure resistance and stiffness when data from the literature was used as reference.
+493	The proposed fixation method demonstrated adequate resistance for fixation of the intermediate column of the distal radius.
+494	Increasing K wire size caused augmented resistance of the fixation.
