@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+myenv 
+
+.env
+src/utils/GPT4-Biomedical-MT.json
+
 # C extensions
 *.so
 

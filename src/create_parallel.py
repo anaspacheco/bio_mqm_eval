@@ -2,7 +2,7 @@ import os
 import csv 
 
 LANGUAGE_CODES = {
-    "1":"en_en",
+    "1":"en",
     "2":"pt",
     "3":"de",
     "4": "es", 
