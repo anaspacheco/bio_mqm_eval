@@ -1,0 +1,516 @@
+1	Die geriatrische Rehabilitationsversorgung dient der Erhaltung der selbstbestimmten teilhabefähigen älteren Menschen.
+2	Sie trägt zur Verringerung der Pflegebedürftigkeit bei, die eine der größten Herausforderungen der Gesellschaft darstellt.
+3	Der Schwerpunkt der Arbeit liegt auf älteren Patienten, meist mit mehrfachen Beeinträchtigungen und begrenzten Reserven.
+4	Diese Personen sind daher einem hohen Risiko ausgesetzt, im Rahmen einer akuten Erkrankung weitere Aktivitätseinschränkungen und Teilhabeeinschränkungen zu entwickeln.
+5	Dies rechtfertigt den hohen Anteil der bereits stationären Frührehabilitation, die ein wesentlicher Bestandteil der geriatrischen Rehabilitation in Deutschland ist.
+6	Sein Ziel ist es, damit verbundene Rückschläge in Bezug auf das selbstständige Leben so schnell und so weit wie möglich zu reduzieren oder zu verhindern.
+7	Eine eventuell notwendige weitere medizinische Rehabilitation kann jedoch nicht durch eine kostengünstige Rehabilitation ersetzt werden – insbesondere unter den Voraussetzungen einer Pauschalvergütung im Rahmen des DRG-Systems.
+8	Einrichtungen zur weiteren medizinischen Rehabilitation gibt es jedoch nur in einigen Bundesländern in Deutschland.
+9	Darüber hinaus werden geriatrische Rehabilitationsleistungen überwiegend in stationären Einrichtungen in Deutschland erbracht.
+10	Dieses bisherige System nutzt nur selten die Vorteile anderer Formen der Rehabilitation.
+11	So könnte beispielsweise die ambulante geriatrische Rehabilitation mit langsam zunehmender Verschlechterung der funktionellen Gesundheit bereits heute vermehrt zur Vermeidung einer Pflegebedürftigkeit eingesetzt werden.
+12	Die mobile Rehabilitation, die von Rehabilitanden in ihrem Wohnumfeld besucht wird, könnte effizienter und nachhaltiger für Patienten sein, deren Rehabilitations- und Partizipationsziele durch die Wiederherstellung verlorener Funktionen als durch die Anpassung kontextueller Faktoren und die Verbesserung von Förderregelungen erreicht werden können.
+13	Zusätzlich werden Fragebögen zur Messung des subjektiven Ergebnisses des Hörgeräte-Nutzens in der Diagnostik der Schwerhörigkeit verwendet.
+14	Seit 2012 ist die APHAB Teil der Qualitätsvereinbarung für gesetzlich versicherte Patienten in der Hörgeräteanpassung.
+15	Tatsächlich bewirkt die Berechnung des Nutzens durch die gegebene Formel (Verbesserungsquotient a) eine Verbesserung durch den Patienten mit negativen Ergebnissen.
+16	Im Allgemeinen sind diese Gebühren für die Fehlinterpretation der Ergebnisse.
+17	In dieser Studie haben wir zwei alternative Berechnungsmethoden vorgeschlagen und die Ergebnisse miteinander verglichen.
+18	Anhand der Daten von 6861 Hörgerätepatienten aus einer Datenbank errechneten wir den Nutzen durch eine und zwei neue Formeln (Verbesserungsquotient b und kumulierter Nutzen) und verglichen die Ergebnisse miteinander.
+19	Der Mittelwert für a betrug -29,02% (sd ± 47,94) und ein Minimum von -637,93%. der Mittelwert für b betrug -13,42% (sd ± 13,14) und ein Minimum von -78,63.
+20	Durch Berechnung der Verbesserungsquotienten zwischen A und B werden keine relevanten Unterschiede festgestellt.
+21	Der durchschnittliche Aphab-Score (EC-, BN- und RV-Subskala) betrug 50,70 vor und 29,29 nach Hörgeräteanpassung, der Durchschnitt des kumulierten Nutzens betrug 21,41. Der Quotient b vermeidet das intrinsische Verzerrungspotential von a zugunsten von Patienten mit negativem Hörgerätegewinn.
+22	Für die Weiterentwicklung der Qualitätsvereinbarung wäre es sinnvoll, wenn sie im Austausch für a und zusätzlich der kumulierte Nutzen genutzt würde.
+23	Die nekrotisierende Fasziitis (NF) ist eine lebensbedrohliche, meist bakterielle Weichteilinfektion, die nur selten im Kopf- und Halsbereich auftritt.
+24	Ein rasches Fortschreiten der Erkrankung und eine systemische Erkrankung sind typisch für die Erkrankung und eine schwere Diagnosestellung.
+25	Eine sofortige chirurgische und antimikrobielle Therapie ist erforderlich.
+26	In diesem Fallbericht werden drei Fälle von Zervikofazialer n. f. vorgestellt.
+27	Alle Patienten zeigen eine rasch fortschreitende, schmerzhafte Schwellung und Rötung im zervikofazialen Bereich.
+28	Nach Diagnosestellung der NF anhand klinischer Symptome, Laborparameter und CT wurden die Patienten mit systemischen Antibiotika und mehreren Extensionsdebridements behandelt.
+29	Zwei der drei Patienten verstarben innerhalb von 48 Stunden an einer systemischen Erkrankung mit septischem Organversagen; Bei einem Patienten wurden nach intensiver Behandlung und Rekonstruktion die durch Debridement verursachten Gewebedefekte beseitigt.
+30	NF ist eine sich schnell entwickelnde Weichteilinfektion, die mit einer hohen Mortalität und Morbidität einhergeht und oft zu spät erkannt wird.
+31	Die Diagnose basiert auf klinischen Anzeichen wie fortschreitende diffuse Schwellung, Schmerzen, Erythem und frühe systemische Erkrankungen.
+32	Laborparameter (Laboratory Risk Indicator for Necrotizing Fasciitis [LRINEC]-Score) und Bildgebung mittels CT oder MRT sind hilfreich.
+33	CT/MRT-Bilder können Weichteilschwellungen mit pathognomonischer Gasbildung zeigen.
+34	Das sofortige chirurgische Debridement und die antimikrobielle Therapie sind entscheidend für das Überleben.
+35	Intravenös verabreichte Immunglobuline und eine Therapie mit Überdruck sollten nur als ergänzende Behandlung angewendet werden.
+36	Strahlenösophagitis ist eine häufige Nebenwirkung der therapeutischen Strahlentherapie.
+37	In diesem Fallbericht beschreiben wir einen Patienten mit einer vollständigen Remission der Ösophagitis nach Therapie mit orodispersibler Budesonid-Formulierung.
+38	Besondere gastrointestinale Symptome gehören zu den häufigsten Gründen für eine ärztliche Beratung und stellen eine Herausforderung für Hausärzte in der ambulanten Versorgung dar.
+39	Anamnese, Symptombelastung und körperliche Untersuchung sind die entscheidenden Schritte zur Erstellung einer Erstdiagnose.
+40	Die nachfolgende abdominale Sonografie und Laboranalysen sind wesentliche Instrumente für die Differentialdiagnose.
+41	In Deutschland sterben 2018 durchschnittlich 25 Menschen pro Tag durch Selbstmord.
+42	Diese Rate ist seit den 1980er Jahren stetig rückläufig und hat sich bis heute halbiert; eine absolute Suizidprävention gibt es jedoch nicht; Selbst unter optimal geschützten Bedingungen durch Therapie und Betreuung treten etwa 5 % der erfolgreichen Suizide in psychiatrischen Einrichtungen auf.
+43	Trotz des hohen Risikobewusstseins für potenziell gefährliche Gegenstände fehlt es an einheitlichen schriftlichen Handlungsanweisungen.
+44	Ziel der Studie war es, den Umgang mit potenziell kritischen Objekten auf Akutstationen während der Behandlung von suizidalen Patienten zu evaluieren, wobei der Umgang mit Einwegrasierern im Vordergrund stand.
+45	Ein 10-Punkte-Fragebogen zum Umgang mit potenziell kritischen Punkten auf geschlossene/fakultativ offene Intensivstationen/Akutstationen wurde entwickelt und an 100 psychiatrische Kliniken in ganz Deutschland versandt.
+46	Die bundesweite Befragung ergab Rückmeldungen aus 39 psychiatrischen Kliniken in ganz Deutschland.
+47	Die Ergebnisse bestätigten ein breites kritisches Bewusstsein für potenziell gefährliche Objekte; der umgang mit diesen objekten erwies sich jedoch als heterogen.
+48	Psychiatrische Kliniken und Abteilungen praktizieren seit zehn Jahren die Kontrolle und Sicherung dieser Objekte, es mangelt jedoch an schriftlichen Empfehlungen für deren Handhabung.
+49	Jeden Tag wird der Übergang mit diesen Objekten auf die Station, durch die Stationsregeln und/oder mündlich vermittelt.
+50	Dies verdeutlicht das Fehlen einer einheitlichen bundesweiten Regelung bzw. richtlinien in deutschland und damit das fehlen entsprechender schriftlicher handlungsanweisungen.
+51	Die proliferative Vitreoretinopathie (PVR) ist auch nach einem halben Jahrhundert Forschung ein ungelöstes Problem.
+52	Dieser Artikel gibt einen Überblick über die Mechanismen, die im Rahmen der Wundheilungsforschung zur PVR führen.
+53	Die Wundheilung ist ein physiologischer Reparaturprozess, der in allen Organen in ähnlicher Weise abläuft und in Narbenbildung enden kann.
+54	Die Entwicklung des PVR basiert auf diesem Wundheilungsmechanismus.
+55	Die Lokalisierung und die Strukturen führen zu spezifischen Charakteristika und Konsequenzen.
+56	Bislang waren die pharmakotherapeutischen Strategien nicht ausreichend wirksam.
+57	Das wachsende Verständnis der Mechanismen der narbenfreien fetalen Wundheilung könnte jedoch zu einer Lösung des PVR-Problems führen.
+58	Die PVR ist ein physiologischer Prozess mit einem pathologischen Ergebnis.
+59	Die komplexen Schritte der vitreoretinalen Wundheilung sind gut verstanden.
+60	Derzeit gibt es weder in der Ophthalmologie noch in anderen medizinischen Disziplinen einen therapeutischen Ansatz, der darin besteht, die ursprüngliche Funktion und Struktur des betroffenen Gewebes oder Organs wiederherzustellen, aber es besteht Hoffnung, dass dies in Zukunft gelingen kann.
+61	Über die Rolle der indirekten Klemmfreisetzung bei der Koronaren Bypass-Transplantation (CABG) ist wenig bekannt.
+62	Das auf Loop Isolation basierende Uploading Preonditioning (LIUPHD) wurde modifiziert, um das Herz vor Schäden zu schützen und die Frage, ob dies durch eine Reperfusionsverletzung nach globaler Myokardischämie abschwächen kann, untersucht wurde.
+63	Eine post-hoc vergleichende Analyse einer prospektiven einarmigen Studie zur Anwendung der LIUPHD-Strategie bei 60 Patienten mit Mehrgefäßsyndrom, die sich isolierten erstmalig elektiven On-Pump-CABG unterzogen, gegenüber 1:1-Propensity-Score-gematchten Patienten aus der historischen Datenbank desselben Zentrums wurde durchgeführt.
+64	Insgesamt hatten 120 übereinstimmende Patienten einen Median alter von 62,0 (Interquartilsabstand [iqr] 55,8-69,0) Jahren, 27 (22,5%) Frauen, 35 (29,2%) mit linker Hauptkrankheit und eine mediane Nachbeobachtungszeit von 18,5 (10,9-35,4) Monaten.
+65	Die liuphd-Gruppe hatte kürzere Post-Bypass-Zeiten als konventionelle Kontrollen (10 [6-13] vs.14 [10-19] min; p = 0,003).
+66	Die liuphd-Gruppe hatte ähnliche Bedürfnisse hinsichtlich der kombinierten herzspezifischen Interventionen (38/60 vs. 44/60; p = 0,29).
+67	Bei der Nachbeobachtung der Sicherheit war das Risiko für kombinierte schwere unerwünschte kardiale und zerebrovaskuläre Ereignisse zwischen den Gruppen ähnlich (ereignisfreies Überleben: 82,3% gegenüber 73,8%; Hazard Ratio 1,00 [0,39; 2,54], p-Log-Rank-Test = 0,99).
+68	Die LIUPHD-Strategie besteht mit kurzen Post-Bypass-Zeiten, einem vergleichbaren Risiko für eine Myokardverletzung und einer ähnlichen Sicherheit verbunden wie die konventionelle direkte Klemmfreisetzung.
+69	Pd1/pd-l1) kann unter Verwendung von Immun-Checkpoint-Inhibition (ICI) das Überleben signifikant verlängern und eine Remission bei Patienten mit fortgeschrittenem nicht-kleinzelligen Lungenkarzinom (NSCLC) induzieren.
+70	Weniger bekannt ist über neoadjuvante ici bei Patienten mit resezierbarem (UICC-Stadium III) oder oligometastatischem (UICC-Stadium IV) NSCL.
+71	Gewebebiopsien von Patienten mit fortgeschrittenem oder oligometastatischem NSLC wurden auf PD-L1-Expression untersucht.
+72	Im Falle einer PD-L1-Expression &gt; 50 %, eines ECOG-Status von 0 oder 1 und erwarteter Operabilität besprechen die Patienten hiermit.
+73	Nach etwa vier Wochen wurden die Patienten einer thoraxchirurgischen Resektion unterzogen.
+74	Bei allen Patienten wurde ein komplettes Staging inklusive PET-CT, MRT und endobronchialer Ultraschall durchgeführt.
+75	Die Verträglichkeit, die radiologische und histopathologische Tumorreaktion sowie die chirurgischen und onkologischen Ergebnisse wurden analysiert.
+76	Vier Patienten (2 männlich, 2 weiblich, alter 56–78 Jahre, n = 3 Adenokarzinom, n = 1 Plattenepithelkarzinom) mit lokal fortgeschrittenen Tumoren übergeben vor der operativen Resektion eine ici.
+77	In drei Fällen waren die mediastinalen Lymphknoten positiv.
+78	Ein Patient hatte eine einzelne zerebrale Metastasierung, die mit Strahlentherapie behandelt wurde.
+79	Alle vier Patienten wurden mit zwei bis sechs Zyklen ici (3 × Pembrolizumab, 1 × Atezolizumab) komplikationslos behandelt, wobei die ici die chirurgische Resektion nicht verzögerte.
+80	Nach irecist zeigten drei Patienten ein partielles Ansprechen (pr), ein Patient eine stabile Erkrankung (sd).
+81	Alle Tumoren wurden vollständig reseziert.
+82	Die chirurgischen Eingriffe am Thorax erweisen sich trotz entzündlicher Veränderungen als technisch unproblematisch.
+83	Es gab weder behandlungsbedingte Todesfälle noch perioperative Komplikationen.
+84	In den Resektaten wurde ein komplettes pathologisches Ansprechen (CPR, Regressionsgrad III) und Regressionsgrad IIb zweimal nachgewiesen.
+85	Die durchschnittliche Nachbeobachtungszeit betrug 12 (1-24) Monate.
+86	Bei Patienten mit PPR entwickeln sich nach sechs Monaten Fernmetastasen oder nach vier Monaten ein lokales Rezidiv.
+87	Der CPR-Patient ist bis heute rezidivfrei.
+88	Bei ausgewählten Patienten ist die neoadjuvante Therapie mit ici gut verträglich und kann zu einer vollständigen Remission des Tumors führen.
+89	Die Behandlung mit dieser Methode hat keinen negativen Einfluss auf den chirurgischen Eingriff.
+90	Die Prognose scheint bei CPR vielversprechend und bei PPR begrenzt zu sein.
+91	Im Alter von 4 Monaten wurde uns ein Kleinkind mit einem knotigen subkutanen Tumor am rechten Arm von 2 cm vorgestellt, der bereits pränatal mittels Ultraschall gesehen wurde.
+92	Eine im Alter von 4,5 Monaten durchgeführte MRT in Sedierung zeigte keine diagnostische Spezifität.
+93	Durch eine Biopsie im Alter von 5 Monaten konnte eine maligne Erkrankung ausgeschlossen werden.
+94	Im Alter von 16 Monaten konnte schließlich der inzwischen auf eine monströse Größe (5 cm Durchmesser) angewachsene Tumor durch mikrochirurgische Technik unter Bewahrung der Integrität aller intrinsischen Strukturen vollständig entfernt werden.
+95	Die Diagnose eines myxoiden Lipoblastoms wurde bestätigt.
+96	Der Literatur zufolge treten Lipoblastome häufig als konnatale, schnell wachsende Weichteiltumoren auf und sind gutartig.
+97	Zur Vermeidung eines lokalen Bewohners ist eine vollständige Entfernung essentiell.
+98	Dieser Artikel untersucht anhand von Quellen wie Einrichtungshandbüchern, Hygiene- und Haushaltshandbüchern sowie literarischen Texten, wie das häusliche Interieur des 19. Jahrhunderts als ein durch Textilien reguliertes funktionelles Umfeld betrachtet werden kann.
+99	In der Debatte um den korrekten Einsatz von Textilien im Einklang mit den zeitgenössischen ästhetischen und hygienischen Standards wurden Frauen für die Regulierung dieser textilen Umgebungen verantwortlich gemacht.
+100	Während dies einerseits zu einer völlig natürlichen und mechanischen Verschmelzung von Frauen und häuslichem Raum führte, die oft als restriktiv und einkapselnd interpretiert wurde, ist es mein Ziel, eine spezifische weibliche Agentur zu identifizieren, die ihren Ursprung im häuslichen Umfeld hat, aber nicht darauf beschränkt ist.
+101	Durch die Verfolgung der Verhandlungen dieser geschlechterbezogenen Textilexpertise in verschiedenen Wissens- und Repräsentationsfeldern wird in diesem Artikel die Beziehung zwischen Textilien, Domestizität und Weiblichkeit im 19. Jahrhundert neu bewertet.
+102	Fibromyalgie ist eine chronische Erkrankung unbekannter Ursache, die unter anderem durch weit verbreitete Schmerzen, Müdigkeit, Schlafstörungen und Gelenksteifheit gekennzeichnet ist.
+103	Vergleich der Ergebnisse der manuellen Lymphdrainage und der myofaszialen Therapie bei Patienten mit Fibromyalgie.
+104	Es handelte sich um eine systematische Übersichtsarbeit.
+105	Die Datenbanken PubMed/Medline, Cinahl, Scopus, Scielo, Pedro, Dialnet, Web of Science und Elsevier wurden nach Artikeln in englischer oder spanischer Sprache durchsucht, die die Wirksamkeit der myofaszialen Therapie und/oder der manuellen Lymphdrainage zur Behandlung der Fibromyalgie untersuchten.
+106	Von 356 extrahierten Artikeln erfüllten sechszehn Artikel und eine Doktorarbeit die Einschlusskriterien.
+107	Die methodische Qualität der in den Artikeln berichteten Studien war gut (Pedro-Score 7,49 ± 1,47).
+108	In den eingeschlossenen Studien wurden verschiedene Behandlungen mit Lymphdrainage und/oder myofaszialer Therapie verglichen.
+109	Die Ergebnisse zeigen in allen Studien eine verbesserte Lebensqualität für beide Therapien.
+110	Eine myofasziale Therapie und Lymphdrainage kann bei Patienten mit Fibromyalgie wirksam sein.
+111	Weitere Arbeiten sind erforderlich, da die Verfügbarkeit wissenschaftlicher Daten noch nicht ausreichen.
+112	Die pulmonale Beteiligung ist ein wichtiger Aspekt bei der Behandlung von rheumatischen Erkrankungen.
+113	Bindegewebskrankheiten-assoziierte interstitielle Lungenerkrankungen (CTD-ILD) sind von besonderer Bedeutung, da ihr Auftreten oft entscheidend für das Outcome des Patienten ist.
+114	Mit Durchführung der „Scleroderma Lung Study“ (SLS) I und II, die die Wirksamkeit der immunsuppressiven Arzneimittel Cyclophosphamid (CYC) und Mycophenolatmofetil (MMF) bei pulmonaler Beteiligung von Sklerodermie (SSC-ILD) bestätigen, liegen nur wenige Daten zur Behandlung anderer CTD-ILD vor.
+115	Innerhalb der Gruppe der Biologika gewinnt die Anwendung von Rituximab (RTX) an Bedeutung.
+116	Die derzeit erwarteten Studienergebnisse vergleichen die Wirksamkeit von Immunsuppressiva (insbesondere MMF und Cyc) mit RTX.
+117	Weitere untersuchte biologische Präparate sind Tocilizumab bei SSC-ILD und Abatacept bei pulmonaler Beteiligung bei rheumatoider Arthritis (RA-ILD).
+118	Die autologe Stammzelltransplantation ist eine potente, aber potenziell risikoreiche Therapie bei schwerer Sklerodermie.
+119	Für die Gruppe der pulmonalen interstitiellen Erkrankungen unterschiedlicher Art, einschließlich CTD-ILD, mit zunehmend fibrosierendem Verlauf trotz adäquater Therapie (z. B. chronische Hypersensitivitätspneumonitis, Sarkoidose), wird der Begriff und das Konzept der „fibrosierenden interstitiellen Lungenerkrankungen mit progressivem Phänotyp“ (PF-ILD) etabliert.
+120	In den letzten Monaten wurden Studien veröffentlicht, die eine positive Wirkung von antifibrotischen Arzneimitteln (Nintedanib, Pirfenidon) in solchen Konstellationen zeigen.
+121	Derzeit wird erwartet, dass eine Reihe weiterer Studien zur Wirksamkeit von Antifibrotika bei CTD-ILD veröffentlicht werden.
+122	Die Studien auf diesem Gebiet bringen neue Aspekte in das Verständnis interstitieller Erkrankungen und haben das Potenzial, die Therapieoptionen bei CTD-ILD zu erweitern. das Thema CTD-ILD ist ein schwieriges, aber gleichzeitig spannendes Feld.
+123	Das Bewusstsein für die Bedeutung der Arbeit, so aseptisch wie möglich, entstand erstmals im 19. Jahrhundert.
+124	In der Zwischenzeit besteht die Verpflichtung, die Übertragung und weitere Verbreitung von Krankheitserregern zu verhindern, einschließlich der Einhaltung des Infektionsschutzgesetzes.
+125	Erreger können auch lange auf unbelebten Oberflächen überleben, von wo aus sie über die Hände des Patienten übertragen werden und so zu Infektionen führen.
+126	Studien haben gezeigt, dass auch eine Kontamination von unberührten Instrumenten nach einer otorhinolaryngologischen Untersuchung nicht selten vorkommt.
+127	Die Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) des Robert-Koch-Instituts gibt Empfehlungen für allgemeine Hygienemaßnahmen (Grund- oder Standardhygiene).
+128	Diese müssen für die otorhinolaryngologische Untersuchung entsprechend angepasst und implementiert werden.
+129	Aufgrund der zunehmenden Resistenzentwicklung nosokomialer Erreger und der aktuellen Pandemie ist die konsequente Umsetzung dieser Infektionspräventionsmaßnahmen wichtig.
+130	Die „Disability and Diversity Studies“ (DDS) sind Forschungsfelder, die sich ähnlich wie die Sozialarbeit mit sozialen Inklusions- und Ausgrenzungsprozessen beschäftigen.
+131	Dimensionen von Hintertür und Vielfalt können zu Benachteiligungen und Ungleichheiten im individuellen Leben und sozialen Zusammenleben der Menschen führen.
+132	Die DDS untersucht diese Ungleichheiten und identifiziert intersektionelle Beziehungen zwischen Diversitätskategorien.
+133	Das Konzept der Intersektionalität eröffnet den Blick auf die Einschränkung von Diversitäten, die zur Verschärfung von Ungleichheiten und Mehrfachdiskriminierungen führen können, etwa bei Frauen und Angehörigen einer ethnischen Minderheit.
+134	Der Ausgangspunkt ist daher nicht die Differenzkategorie an sich, sondern der Schnittpunkt mehrerer Kategorien [5].
+135	Dieses Wissen um die Kategorisierung von Klassifikation und Ausgrenzung in ihrer Intersektionalität ist grundlegend für die Auflösung sozialer, gesellschaftlicher, politischer und wirtschaftlicher Ungleichheit.
+136	Der DDS-Bachelorstudiengang an der Fachhochschule Kärnten, der Disability and Diversity Studies kombiniert, fokussiert auf diese Forschungsfelder und entwickelt praxisnahe Lösungen.
+137	Auch in der medizinischen Ausbildung ist es wichtig, dass Lehrer und Schüler, aber auch Patienten die komplexen Zusammenhänge der Divergenzen in der medizinischen Praxis und das daraus resultierende Stigma, das beseitigt werden muss, erkennen.
+138	Das DDS kann als Grundlage dienen, um diese Zusammenhänge zu berücksichtigen, kreative Lösungsansätze und eine diversitätssensible Einstellung in die Arzt-Patienten-Beziehung und medizinische Behandlung einzubinden.
+139	So wurde im ersten und bislang einzigen World Report on Disability aus dem Jahr 2011 eine noch bestehende negative Infiltration von Arzt-Patienten-Interaktionen durch Stigmatisierung von Menschen mit Rückfällen und Abweichungen festgestellt.
+140	Missverständnisse, mangelndes Wissen und falsche Voreinstellungen können die Behandlung gefährden [32].
+141	Um die Rahmenbedingungen für eine angemessene Beachtung von Diversität und Hintergrund im Programm zu schaffen, ist es notwendig, den anschließenden Ärzten sechs Kernkompetenzen zu vermitteln [20]: Diese sollten möglichst immer in den jeweiligen Ausbildungsgängen aller Gesundheitsberufe patientenzentriert, über alle Berufsgruppen hinweg und unter der Prämisse &quot;nichts für uns ohne uns&quot; [1] gestaltet werden.
+142	Dies entspricht den Prinzipien der Disability Studies.
+143	Im Hinblick auf ästhetische und funktionelle Aspekte werden sowohl lokale als auch regionale Ansätze für die plastische Gesichtschirurgie empfohlen.
+144	Eine sorgfältige präoperative Planung ist unerlässlich.
+145	Eine angemessene Kenntnis verschiedener chirurgischer Möglichkeiten der Rekonstruktion sowie deren Umsetzung in die klinische Praxis sind von größter Bedeutung.
+146	Der chirurgische Eingriff wird anhand der Anforderungen des Patienten und der Eigenschaften des Operationsortes, an den die ausgewählte Technik angepasst werden muss, ausgewählt.
+147	Die vorliegende Übersichtsarbeit stellt häufig angewandte und empfehlenswerte Methoden zur Rekonstruktion von Nasendefekten vor.
+148	Bei einer 66-jährigen Patientin mit chronischer Hepatitis B und antiviraler Therapie treten Ikterus und Übelkeit 2 Wochen nach der Erstmanifestation auf.
+149	Die Behandlung wurde von dem Patienten 6 Monate zuvor abgebrochen.
+150	Das Leber wurde vergrößert, der Bauch und der weitere Körperstatus waren unauffällig.
+151	Die chemischen Ergebnisse zeigen erhöhte Leberenzym- und Bilirubinwerte.
+152	Der Hepatitis-B-Status deutet auf einen chronischen Verlauf hin (HBSAG-positiv), die Virusmenge betrug &gt; 21 Mio. IE/ml.
+153	Der sonographische Bauchstatus war normal.
+154	Die antivirale Therapie wurde wiederhergestellt und die Leberenzyme verbesserten sich.
+155	Die Virusmenge nahm ab, und nach 22 Wochen war eine antivirale Therapie, Serokonversion (HBSAG-negativ) und Abheilung der Hepatitis-B-Infektion objektiviert.
+156	Eine akute Verschlimmerung der chronischen Hepatitis B nach Beendigung der antiviralen Behandlung kann zu einer Heilung durch Verlust des HbSag führen.
+157	Ende 2019 läutete eine Kohorte von Patienten mit unklarer Ätiologie in Wuhan, China, den Ausbruch der Coronavirus-Erkrankung 19 (COVID-19) ein.
+158	Frühere schwere Infektionen mit dem Akute Respiratorische Syndrom (SARS) des Beta-Coronavirus wurden mit Tachyarrhythmien und Anzeichen einer Herzinsuffizienz in Verbindung gebracht.
+159	Das Auftreten des SARS-Coronavirus 2 (SARS-COV-2), das Covid-19 verursacht, hat sich schnell zu einer Pandemie entwickelt, und bei einer großen Anzahl infizierter Patienten wurde über eine kardiovaskuläre Grunderkrankung berichtet.
+160	Da nur spärliche wissenschaftliche Daten zur kardiovaskulären Belastung nach viralen Epidemien vorliegen, zielte diese Studie darauf ab, die kardiale Beteiligung an Covid-19 zu untersuchen.
+161	Diese prospektive Kohortenstudie umfasst 40 erwachsene stationäre Patienten an zwei Zentren in Deutschland.
+162	Erwachsene Patienten mit der Diagnose Covid-19 gemäß der vorläufigen Leitlinie der Weltgesundheitsorganisation (WHO) wurden in die Studie eingeschlossen, die sich auf die potenzielle kardiale Beteiligung von SARS-COV-2 konzentrierte.
+163	Es basiert auf Laborparametern sowie elektro- und echokardiographischen Werten, um den Einfluss des SARS-CoV-2-Virus auf das Herzgewebe zu bestimmen.
+164	Die durchgeführten Untersuchungen bestätigten den Zusammenhang zwischen dem Vorliegen einer akuten Herzschädigung und Covid-19.
+165	Myokardschädigungen und beeinträchtigte Myokardfunktion aufgrund von Covid-19 sind häufig; es wurde jedoch keine Korrelation zwischen kardialen Laborwerten oder echokardiographischen Werten und Mortalität festgestellt.
+166	Das kardiovaskuläre Monitoring bei einer Covid-19-Infektion ist entscheidend, um die Belastung durch die kardiale Beteiligung zu bestimmen.
+167	Eisenmangel und Anämie sind häufige Ursachen.
+168	Die Behandlung der Anämie verbessert die Lebensqualität.
+169	Neurologische Symptome wie Depression oder Angst sind ebenfalls häufig bei CED; ihr Zusammenhang mit ID wurde jedoch nicht im Detail untersucht.
+170	Prospektive, monozentrische, nicht-interventionelle Studie in einer IBD-Kohorte (n = 98), die im Allgemeinen ein ID-Risiko aufweist.
+171	Die Schlafqualität (unter Verwendung des Pittsburgh Sleep Quality Index, der Epworth Sleepiness Scale und des Insomnia Severity Index) und das vorliegen von Müdigkeit (Piper Fatigue Scale), Depression (Self-Rating Depression Scale [SDS]) oder Angst (Self-Rating Anxiety Scale [SAS]) stehen in Beziehung zu ID (Ferritin, Transferrinsättigung), Anämie (Hämoglobin) und entzündlicher Krankheitsaktivität (CRP).
+172	Die Gesamtqualität des Schlafes in dieser Kohorte war vergleichbar mit der, über die für die allgemeine Bevölkerung berichtet wurde.
+173	Id, Anämie oder Entzündung hatten keinen Einfluss auf den PSQI (Median 4,0 [KI 3,0-5,0]), das Ess 5,5 (5,0-7,0) und den ISI 4,00 (2,5-5,5).
+174	Müdigkeit
+175	(pfs; in 30% vorhanden), Angst
+176	(sas; in 24%) und Depression
+177	(sds; in 33%) waren häufiger als in der Allgemeinbevölkerung.
+178	Eisenmangel- und Anämiepatienten waren mit höherer Wahrscheinlichkeit depressiv (p = 0,02 und p &lt; 0,01) und zeigten einen Trend zum Auftreten von Müdigkeit (p = 0,06 und 0,07).
+179	Eine systemische Entzündung, gemessen mittels CRP, hatte keinen Einfluss auf eine dieser Erkrankungen.
+180	In dieser IBD-Kohorte beeinflussen ID und Anämie, Depressionen und möglicherweise Müdigkeit unabhängig von der vorliegenden Entzündung.
+181	Mitarbeiterausflüge in Emil Kraepelins Königlicher Abteilung für Psychiatrie wurden als „katatonische Spaziergänge“ bezeichnet.
+182	Eine bemerkenswerte Anzahl bedeutender deutscher und internationaler Besucher nahm 1906 teil: Nicolas Achucarro, Henry Cotton, Eduard Flatau, Smith Ely Jelliffe, Gaetano Perusini, Edward Scripture, Maurycy Urstein und andere.
+183	Viele von Kraepelins Mitarbeitern waren von seinen Ideen inspiriert und getrieben von wissenschaftlicher Erkenntnis, die zu bedeutenden wissenschaftlichen Fortschritten beitrug, sondern auch nahmen sie zu sehr unterschiedlichen Enden von der Zahn- und Darmchirurgie zur Psychoanalyse und schließlich evidenzbasierten Medizin; von Rassenhygiene und Nationalismus auf die Präsidentschaft des kommunistischen Rumäniens.
+184	Es wurde berichtet, dass Sprachbarrieren einen nachteiligen Effekt auf verschiedene Ergebnisse in der pädiatrischen Versorgung haben, wie die Therapietreue, haben und sogar zu medizinischen Behandlungsfehlern führen können.
+185	Um dieses Problem anzugehen, haben wir einen Satz von 63 Karten entwickelt, mit denen eine Vielzahl spezifischer Botschaften nonverbal in einem klinischen Kontext vermittelt werden können.
+186	Die Konzeptualisierung des Tools erfolgte in mehreren Phasen.
+187	In Studie 1 führen wir einen Workshop mit 11 Kindern und Jugendlichen zwischen 8 und 19 Jahren durch, die wegen onkologischer Erkrankungen behandelt worden waren, um ein Verständnis für die spezifischen Herausforderungen zu gewinnen.
+188	In Studie 2 stellen wir 3 Kindern und 14 Erwachsenen einen ersten Prototyp vor; Die Teilnehmer wurden gebeten, die Karten auf mehreren Dimensionen zu bewerten.
+189	Basierend auf Informationen aus den vorherigen Studien haben wir einen zweiten Prototyp entwickelt und 10 Kinder und 7 Erwachsene gebeten, die Karten auf mehreren Dimensionen zu bewerten.
+190	In diesem multidisziplinären Ansatz haben wir neben unseren Experten aus der klinischen Psychologie, Patientenanwälten und Grafikdesignern in den Prozess einbezogen, um eine hohe Machbarkeit und Nachvollziehbarkeit zu erreichen; Basierend auf dem Workshop, Expertenkonsensbefragungen, der in der Evaluation erhobenen Daten, allen Prototypen und dem endgültigen Kartensatz wurden in enger Zusammenarbeit entwickelt.
+191	Die Teilnehmer hatten wenig Schwierigkeiten, die Karten zu interpretieren und bewerteten den Informationsinhalt als angemessen.
+192	Wichtig ist, dass die Mehrzahl der Teilnehmerangaben, das Tool während ihres Krankenhausaufenthaltes weiter zu verwenden.
+193	Insgesamt impliziert die Bewertung eine hohe Akzeptanz und Benutzerfreundlichkeit.
+194	Das finale Kartenset ist ein vielversprechendes Kommunikationsinstrument in der klinischen Pädiatrie mit verschiedenen Sprachbarrieren.
+195	Weitere Untersuchungen sollten untersuchen, wie sich die Verwendung der Tools auf die Ergebnisse der Patienten auswirkt.
+196	Die neue ATS/ERS/ESCMID/IDSA-Leitlinie beantwortet 22 Pico-Fragen zur Behandlung von Lungenerkrankungen, die durch diese verursacht werden. insbesondere bei Patienten mit mikroskopischem Nachweis säurefester Bakterien im Sputum oder mit kavernöser Krankheitsmanifestation sollte der Behandlungsbeginn nicht verzögert werden.
+197	Die Behandlung sollte auf speziesspezifischen Resistenztests (gemäß den Clsi-Leitlinien) basieren.
+198	Bei ausgewählten Patienten wird eine adjuvante chirurgische Resektion nach Rücksprache mit einem Experten empfohlen.
+199	Die Therapie basiert auf einem Therapieschema mit mindestens drei Arzneimitteln, einschließlich eines Makrolids (Anstelle von Azithromycin als Clarithromycin) und Ethambutol.
+200	Bei Patienten mit Kavitation, ausgeprägter knotiger bronchiektatischer Erkrankung oder Makrolidresistenz sollte die tägliche orale Therapie durch parenterales Amikacin oder Streptomycin erweitert werden.
+201	Liposomal verkapseltes Amikacin zur Inhalation wird bei Patienten mit Therapieversagen empfohlen.
+202	Patienten mit der Manifestation einer nodulär-bronchiektatischen Erkrankung sollten eine orale Therapie auf Makrolidbasis erhalten, die je nach Ausmaß 3-mal wöchentlich verabreicht werden kann.
+203	Die empfohlene Dauer beträgt 12 Monate nach Umstellung der Sputumkultur.
+204	M. die Dreifachkombination aus Rifampicin, Ethambutol und Makrolid (oder Isoniazid) wird für mindestens 12 Monate empfohlen.
+205	Bei Patienten mit Rifampicin-Resistenz oder-Unverträglichkeit wird Moxifloxacin als Ersatzstoff empfohlen.
+206	M. die Kombination aus Rifampicin, Ethambutol und Makrolid (und/oder Moxifloxacin) wird für mindestens 12 Monate nach Umstellung der Sputumkultur empfohlen.
+207	Für Patienten mit einer Manifestation einer Schwellkörpererkrankung wird empfohlen, mindestens parenterales Amikacin hinzuzufügen und sich von Experten untersuchen zu lassen.
+208	M. mindestens 3, am Anfang eher 4 Medikamente werden für die Therapie empfohlen.
+209	Die Wahl der Substanz sollte auf einem In-vitro-Resistenztest basieren.
+210	Makrolide sind die Grundlage, sollten aber bei Patienten mit Stämmen mit induzierbarer Makrolidresistenz nicht gezählt werden.
+211	Aufgrund fehlender Daten werden keine ausdrücklichen Empfehlungen zur Therapiedauer gegeben; eine Beratung durch Experten wird empfohlen.
+212	Es sollte untersucht werden, ob T1- und T2-Mapping in der Lage sind, zwischen krankem und gesundem Myokard bei Patienten mit systemischer Sarkoidose zu unterscheiden, und die Standard-Mapping-Messung (Messung innerhalb des gesamten Myokards der midventrikulären Kurzachsenscheibe (SAX)) mit einer stärker standardisierten Methode zur Messung der Relaxationszeiten innerhalb des midventrikulären Septums (Konseptum) verglichen werden.
+213	24 Patienten mit bioptisch gesicherter extrakardialer Sarkoidose und 17 gesunde Kontrollprobanden wurden prospektiv in diese Studie eingeschlossen und einer CMR-Bildgebung mit 1,5 T einschließlich nativem T1- und T2-Mapping unterzogen.
+214	Die Patienten wurden in Patienten mit (Lge+) und ohne (Lge-) Herzsarkoidose eingeteilt.
+215	T1- und T2-Relaxationszeiten wurden zwischen Patienten und Kontrollen verglichen.
+216	Weiterhin wurden der Saxophon- und der Konzept-Ansatz hinsichtlich der Differenzierung zwischen gesundem und krankem Myokard verglichen.
+217	Die T1- und T2-Relaxationszeiten waren bei allen Patienten signifikant länger als bei den Kontrollen, die sowohl den Saxophon- als auch den Konzept-Ansatz verwendeten (p &lt; 0,05).
+218	Bei Lge+- und Lge-Patienten zeigten sich jedoch keine signifikanten Unterschiede in den t1- und t2-Relaxationszeiten unabhängig vom verwendeten Messansatz (Konsept/Sax) (p &gt; 0,05). der direkte Vergleich des Konzepts und des Sax-T1-Mapping zeigte eine hohe Konformität in der Unterscheidung zwischen gesundem und krankem Myokard (Kappa = 0,844).
+219	T1- und T2-Mapping ermöglichen nicht nur die nichtinvasive Erkennung einer kardialen Beteiligung bei Patienten mit systemischer Sarkoidose, sondern dienen auch als Marker für eine frühzeitige kardiale Beteiligung der Erkrankung, was eine rechtzeitige Behandlung ermöglicht.
+220	Das Konzept-T1-Mapping stellt im Vergleich zum Sax-Ansatz ein äquivalentes Verfahren zur Gewebecharakterisierung in dieser Population dar.
+221	Weitere Studien, einschließlich Nachuntersuchungen, sind notwendig, um diese vorläufigen Ergebnisse zu bestätigen.
+222	· das Mapping kann die nichtinvasive Erkennung einer kardialen Beteiligung bei Patienten mit systemischer Sarkoidose ermöglichen.
+223	· das Mapping kann als Marker für eine frühe kardiale Beteiligung bei Patienten mit systemischer Sarkoidose dienen.
+224	· der Konzept-Ansatz kann als alternative Messmethode bei Sarkoidosepatienten eingesetzt werden.
+225	· Dabir D., Lütkens J., Kütting D. et al.
+226	Myokardiale Mapping bei systemischer Sarkoidose: ein Vergleich zweier Messansätze.
+227	Fortschröntgenstr 2021; 193: 68-76.
+228	Das gesundheitswesen sah sich aufgrund der Covid-19-Pandemie und der damit verbundenen Sperrvorschriften erneut gefordert.
+229	Um den Einfluss der Pandemie auf die Versorgung von Patienten mit chronischer Hepatitis C in Deutschland zu analysieren, führen wir einen strukturierten Fragebogen unter allen am Deutschen Hepatitis C-Register (DHC-R) teilnehmenden Zentren durch. 320 Zentren des DHC-R wurden zu einer Online-Befragung eingeladen.
+230	Von diesen 74 Zentren waren in den letzten 12 Monaten ≥ 5 Patienten eingeschlossen.
+231	64 Zentren schickten einen vollständig beantworteten Fragebogen zurück.
+232	Aufgrund der Sperrvorschriften haben 11 % der Zentren ihre regelmäßigen Konsultationen zwischen März und Mai 2020 eingestellt.
+233	58 % hatten die Beratungen reduziert und 32 % änderten die Beratungen nicht.
+234	Mehr als 50 % der Terminabbrüche wurden von den Patienten vorgenommen.
+235	52 % der Zentren bieten eine neue oder zusätzliche telefonische Beratung an und 17 % bieten eine neue Video-Beratung an.
+236	Zwischen März und Mai 2020 war die Anzahl der Patienten, die mit neuen antiviralen Medikamenten behandelt wurden, deutlich geringer als im gleichen Zeitraum des Jahres 2019.
+237	Alle Zentren hatten im Juli 2020 ihre üblichen Konsultationsverfahren wieder aufgenommen.
+238	Fast 80 % gaben an, dass es keine signifikanten Einschränkungen in der Gesundheitsversorgung der Patienten gibt.
+239	22 % der Zentren gaben jedoch an, dass die Leberdekompensation spät festgestellt wurde, und 9,4 % gaben an, dass die Diagnose eines hepatozellulären Karzinoms verzögert wurde.
+240	In 56 % der Zentren war eine ausreichende Menge an persönlicher Schutzausrüstung (einschließlich Desinfektionsmitteln) verfügbar.
+241	Die offiziellen Informationen der Gesundheitsbehörden wurden von 63 % der Zentren als ausreichend erachtet.
+242	Diagnose, Therapie und Überwachung von Patienten mit chronischer Hepatitis C waren während der Covid-19-Pandemie beeinträchtigt.
+243	Dennoch gab es in den meisten Mittel- und Langzeitzentren keine gesundheitlichen Probleme für diese Patienten.
+244	Die Tatsache, dass die Diagnose von Leberdekompensationen mit potenziell tödlichen Folgen bei einer beträchtlichen Anzahl von Patienten verzögert wurde, gibt jedoch Anlass zu großer Sorge.
+245	Um die Durchführbarkeit und das Ergebnis zu untersuchen, wurde die neue und günstige Option einer endoskopischen Sonographie (EUS)-gesteuerten antegraden oder sogar retrograden Gallensteinextraktion über einen transhepatischen Weg bei Patienten (Patient(inn)en) ohne Option auf den üblichen Goldstandard, ERCP, untersucht.
+246	Alle konventionellen Patienten mit Cholangiolithiasis und chirurgisch veränderter Anatomie des oberen Gastrointestinaltrakts mit und ohne vorherige Versuche eines ECP wurden in diese unizentrische Fallstudie aufgenommen und hinsichtlich des technischen und klinischen Erfolgs dieses Ansatzes charakterisiert.
+247	Von 2004 bis 03/2020 wurden insgesamt 449 Patienten einer EUS-gesteuerten Cholangiodrainage unterzogen (n = 37 Patienten mit Cholangiolithiasis).
+248	Bei 8 dieser 37 Patienten wurde die Gallensteinextraktion mit der EUS-ERCP-Rendezvous-Technik durchgeführt (nicht in die Studie eingeschlossen, da keine chirurgisch veränderte Anatomie des oberen Gastrointestinaltrakts vorlag).
+249	Bei 13 der verbleibenden 29 Patienten
+250	(45%) wurden bisherige Versuche, die Papille des Vaters zu erreichen, oder eine biliodigestive Anastomose mittels ballonenteroskopisch gesteuerter ECP nicht erfolgreich durchgeführt.
+251	Der EU-gesteuerte Zugriff auf das Gallengangssystem wurde in allen 29 Fällen erreicht.
+252	Die Steinextraktion wurde in 26 Einzelpersonen durchgeführt.
+253	(90%) durch anterograde Push-Technik nach Ballondilatation der Vaterpapille bzw. biliodigestive Anastomose vor.
+254	In 11/29 Fällen
+255	Anschließend wurden Doppelzopfprothesen zur Aufspürung von Papillen der vater/biliodigestiven Anastomose („Ringdrainage“) eingesetzt, die drei Monate später nach vorheriger Ultraschall- und Laborkontrolle gastroskopisch entfernt wurden.
+256	Auf zwei Klamotten.
+257	(7%), Gallensteine ​​wurden mittels einer transhepatischen Zugangsstelle retrograd extrahiert; bei einem Patienten
+258	(3%) wurden Steine ​​mittels kombinierter Ante-/Retrograder-Technik entfernt.
+259	Bei zwei Patienten
+260	(7%) wurde die Cholangioskopie mit elektrohydraulischer Lithotripsie eingesetzt.
+261	Die technische und klinische Erfolgsrate betrug 100 % (29 von 29 Patienten).
+262	In 6/29 Fällen waren erneute Interventionen erforderlich.
+263	(21%), Komplikationen treten bei 6 Personen auf
+264	Die EUS-gesteuerte Steinextraktion in antegrader oder retrograder Technik bei Patienten mit chirurgisch veränderter Anatomie des oberen Magen-Darm-Traktes kann als günstiger und sicherer, aber anspruchsvoller Ansatz der interventionellen Endoskopie/EUS angesehen werden.
+265	Sie können einen hohen technischen und klinischen Erfolg und geringe Komplikationsraten bieten; Sie hat das Potenzial, die zeitintensive ballonenteroskopisch gesteuerte ERCP sowie insbesondere PTCD und damit sekundäre und tertiäre Therapiealternativen zu ersetzen.
+266	Die Ausrichtung kranialer CT-Scans (CCTs) auf einer gemeinsamen Bezugsebene vereinfacht die anatomisch-landmarkenbasierte Orientierung und erleichtert die Nachuntersuchung intrakranieller Funde.
+267	Wir entwickelten und eröffneten ein vollautomatisches System, das CCTs an die Linie vordere Kommissur/hintere Kommissur (ACPC) anpasst und die Ergebnisse an das PACS exportiert.
+268	Im Ausrichtungsschritt wird das lineare Bildregistrierungstool (Flirt) von FMRIB mit einem ACPC-ausgerichteten Atlas verwendet.
+269	Es werden mittlere Drähte von 5 mm erzeugt, wobei die obere nicht luftdurchlässige Scheibe der Ausgangspunkt ist.
+270	Zur Auswertung wurden 301 Trauma-CCTs aus dem CQ500-Datensatz verarbeitet.
+271	Im visuellen Vergleich mit dem jeweiligen ACPC-ausgerichteten Atlas wurden alle erfolgreich ausgerichtet.
+272	Die Bildqualität (IQ) und die einfache Identifizierung des zentralen Sulcus (CS) wurden auf einer Likert-Skala (5 = exzellenter IQ/sofortiger CS-Identifizierung) bewertet.
+273	Der mediane IQ betrug 4 (Bereich: 2-4) in der Originalserie und 5 (Bereich: 4-5) in der ACPC-ausgerichteten Serie (p &lt; 0,0001).
+274	Die CS wurden leichter nach Fatbacpc identifiziert (Original-Scans: 4 (Bereich: 2-5); ACPC-aligned: 5 (Bereich: 4-5); P &lt; 0,0001).
+275	Die mittlere Rotation zum Erreichen der Ausrichtung betrug |x| = 6,4 ± 5,2° ([-x, +x] = -26,8°-24,2°), |y| = 2,1 ± 1,7° ([-y, +y] = -8,7°-9,8°) und |z| = 3,1 ± 2,4° ([-z, +z] = -14,3°-12,5°).
+276	Das entwickelte System kann CCTs robust und automatisch an die ACPC-Linie anpassen.
+277	Zur Qualitätssicherung könnten Abweichungen von der idealen Ausrichtung herangezogen werden.
+278	Schlüsselpunkte:: · fatbacpc richtet Schädel-CT-Aufnahmen automatisch auf die Commissura anterior/Commissura posterior aus. .
+279	· ACPC-ausgerichtete Bilder vereinfachen die anatomisch-wegweisende Orientierung. .
+280	· fatbacpc hat keinen Einfluss auf die Bildqualität. .
+281	· fatbacpc ist robust, vollständig PAC-integriert und Open Source: https://github.com/brainimaccs.
+282	Zitationsformat: · Rubbert C, Turowski B, Caspers J. Automatische Ausführung der CT-Untersuchungen an der Vorderkommissur/Hinterkommissur (ACPC) – Referenzebene für zuverlässige Interpretation und Qualitätssicherung.
+283	Fortschröntgenstr 2021; 193: 61-67.
+284	Seit der Einführung im Jahr 2013 wird das Bromelain-basierte enzymatische Debridement (ED) zunehmend in Verbrennungszentren eingesetzt.
+285	Die publizierten Evidenz zeigt ihre Effizienz bei der Schorfentfernung sowie eine Überlegenheit beim Blutverlust und die Notwendigkeit weiterer chirurgischer Eingriffe im Vergleich zur Standardversorgung.
+286	Obwohl das Verfahren sicher ist und zuverlässige Ergebnisse in erfahrenen Händen zeigt, müssen einige praktische und logistische Aspekte in Frage gestellt werden, die in der verfügbaren Literatur nicht ausreichend beschrieben sind.
+287	Ein multiprofessionelles Panel, bestehend aus erfahrenen Ed-Anwendern aus deutschsprachigen Verbrennungsanlagen, wurde zu einem Experten-Workshop eingeladen.
+288	Im Vorfeld wurden die Themen Indikation, Definition der Behandlungspfade, praktische Aspekte, Nachbehandlung und Behandlung von Komplikationen koordiniert, um eine Diskussion während des Workshops zu ermöglichen.
+289	Zu jedem Thema wurden praktische Empfehlungen erarbeitet und abgestimmt.
+290	Zusätzlich wurden die wichtigsten Aussagen zusammengefasst.
+291	Sie sollen helfen, optimale Ergebnisse zu erzielen, nachdem die Technik von neuen Anwendern eingeführt wurde, sowie die Ergebnisse von erfahrenen Anwendern zu optimieren.
+292	Die daraus resultierenden Empfehlungen beziehen sich unter anderem auf Indikationen für ED jenseits des klassischen Bereichs, unterschiedliche Behandlungspfade je nach Verbrennungstiefe und primärem Ergebnis nach ED mit angepasster Nachbehandlung, Behandlung des Therapieversagens und Implementierung infrastruktureller Bedingungen.
+293	Während die Effizienz der Behandlung sowie die Überlegenheit in einigen Aspekten der Behandlung von Verbrennungswunden in der verfügbaren Literatur aufgezeigt werden konnten, sind anwenderorientierte Empfehlungen zur praktischen Umsetzung selten.
+294	Obwohl die hier veröffentlichten Empfehlungen und Expertenmeinungen nur teilweise belegt sind, basieren sie dennoch auf den gesammelten Erfahrungen der Panelisten, die die bisher in der Literatur veröffentlichten Fälle leicht übertreffen und wertvolle Unterstützung für eine erfolgreiche Anwendung der Technik ermöglichen.
+295	Die Studie untersuchte den prädiktiven Wert des kritischen Status eines Neugeborenen hinsichtlich des Risikos für die Entwicklung einer hypoxischen ischämischen Enzephalopathie (HIE).
+296	Auf Grundlage des Datensatzes aus der Perinatalerhebung in Hessen, Deutschland, wurden im Jahr 2016 unter Einbeziehung von 52.122 Lebendgeburten (Einlingsgeburten, 37+0 GA) kritische Neugeborene identifiziert.
+297	Eine verknüpfte Analyse mit dem Datensatz der Neugeborenenbefragung aus dem identischen Zeitraum lieferte die Grundlage, um den Zusammenhang mit durch ihn kompromittierten Fällen zu bewerten.
+298	Die Häufigkeit von Fällen mit kritischem Ausgang (n = 11) und von Fällen mit hohem Ausgang (n = 29) war niedrig.
+299	Die Sensitivität des Status des Neugeborenen für den Nachweis eines Hochrisikos betrug 10,34 %.
+300	Die Spezifität betrug 99,98%.
+301	Der positive Vorhersagewert betrug 27,35 %.
+302	Der negative Vorhersagewert betrug 99,95 %.
+303	Die detaillierte, vertrauliche Einzelfallanalyse zeigte die Fähigkeit, negative Ergebnisse in etwa einem dritten der Fälle mit kritischem Status des Neugeborenen (11.04.) und hier (29.09.) zu vermeiden.
+304	Die Wahrscheinlichkeit, dass sich eine Enzephalopathie (Hie) entwickelt, steigt nach einem kritischen Ausgang nach der Geburt.
+305	Eine verstärkte Überwachung dieser Neugeborenen ist gerechtfertigt.
+306	In einer Einzelfallanalyse werden mögliche Wege zur Verbesserung der perinatalen Ergebnisse aufgezeigt.
+307	Maßnahmen der externen Qualitätssicherung sollten die Analyse von perinatalen und neonatalen Erhebungen als Grundlage für das Qualitätsmanagement (QM) integrieren.
+308	Protonenpumpenhemmer sind wertvolle Behandlungsoptionen bei magensäureassoziierten Erkrankungen wie peptischen Ulzera oder Refluxerkrankungen.
+309	Aufgrund ihrer irreversiblen Hemmung der Protonenpumpen in den Parietalzellen des Magens kann die Magensäuresekretion effektiv reduziert werden.
+310	Durch die Reduzierung der Magensäure blockieren Protonenpumpenhemmer aber auch einen hochkonservierten, entscheidenden Teil des unspezifischen Immunsystems.
+311	Die Magenbarriere schützt den Körper – und hier vor allem das Darmmikrobiom – vor lebensmittelbedingten Krankheitserregern und oralen Bakterien, die während einer Protonenpumpeninhibitor-Therapie mehrere distale Teile des Magen-Darm-Trakts erreichen können.
+312	Die daraus resultierenden Veränderungen des intestinalen Mikrobioms, wie die Reduktion der mikrobiellen Diversität oder des Dünndarm-Bakterienüberwuchses, können mit Nebenwirkungen einer (Langzeit-)Protonenpumpeninhibitor-Therapie, wie dem erhöhten Risiko für Clostridium difficile-Infektionen oder gastrointestinale Beschwerden, in Verbindung gebracht werden.
+313	Bei Patienten mit Leberzirrhose ist die Aufnahme von oralen Bakterien im Darm mit einer intestinalen Entzündung und Permeabilität assoziiert und kann sogar als Biomarker für eine 3-jährige leberbedingte Mortalität verwendet werden.
+314	Daher sollten die durch das Mikrobiom vermittelten Nebenwirkungen in die Risikobewertung der Protonenpumpenhemmer-Therapie und die Beurteilung potenzieller Alternativen einbezogen werden.
+315	Die Aktivierung von Immunzellen führt zu einer gesteigerten Glukoseaufnahme, die durch
+316	[ dc wurden aus Knochenmark-Vorläufern (bmdc) generiert oder aus Milz (spdc) von c57bl/6-Mäusen isoliert.
+317	Nach Stimulation mit den TLR-Liganden wurden LPS und CPG oder Anti-CD40-Antikörper für bis zu 72 Stunden Aktivierungsmarker und Glukosetransporter (Gluts) mittels Durchflusszytometrie gemessen.
+318	Aufnahme von
+319	[ bmdc und spdc zeigen eine starke hochregulation der aktivierungsmarker vorwiegend 24 stunden nach tlr-stimulation, gefolgt von einer höheren aufnahme von
+320	[ immunstimulation von dc führt zu gesteigerter
+321	[
+322	Frühere Studien haben gezeigt, dass bei Patienten mit nicht-kleinzelligem Lungenkarzinom die videoassistierte Thorakoskopie hinsichtlich der perioperativen und postoperativen Komplikationen der Thorakotomie funktionell überlegen ist.
+323	Ziel dieser Arbeit ist es, zu ermitteln, ob es einen Unterschied in der gesundheitsbezogenen Lebensqualität (HRQOL) von Patienten mit nicht-kleinzelligem Lungenkarzinom – im Vergleich zur deutschen Normalbevölkerung – vor und nach der Operation gibt.
+324	Darüber hinaus wurde die HRQOL nach Thorakotomie mit der HRQOL nach videoassistierter Thorakoskopie (VATS) verglichen.
+325	Basierend auf retrospektiven Daten aus einem Zeitraum von 7 Jahren (2010–2017) wurden 327 Patienten mit nicht-kleinzelligem Bronchialkarzinom untersucht.
+326	Die Patienten wurden entweder einer Thorakotomie oder einer videoassistierten Thorakoskopie unterzogen. 456 Kurzform-12-Fragebögen wurden ausgewertet.
+327	Vor und nach der Behandlung wurden mittels normbasiertem Scoring und physischen und mentalen Komponenten (PCS und MCS) berechnet.
+328	Mittels t-Tests wurden potenzielle Unterschiede in der körperlichen und geistigen Komponente zwischen Patienten und der deutschen Normalbevölkerung sowie zwischen Patienten nach Thoraktomie und nach VATS ausgewertet.
+329	Bis zu 24 Monate nach der Operation ist die körperliche Dimension des Gesundheitswesens signifikant reduziert, während sich die Zusammenfassung der mentalen Komponenten nicht signifikant von der deutschen Bevölkerung unterscheidet.
+330	Darüber hinaus ergaben sich Thorakotomie- und VAT-Äquivalente für die gesundheitsbezogene Lebensqualität.
+331	Im Blick auf die gesundheitsbezogene Lebensqualität sind die Thorakotomie und die videoassistierte Thoraxchirurgie gleichermaßen gleichwertig.
+332	Aber es gab einen Trend zur Verbesserung mit beiden zusammenfassenden Scores, die auf eine Überlegenheit der videoassistierten thorakoskopischen Chirurgie hindeuten könnten.
+333	Die deutsche Sepsis-Leitlinie ist eine interdisziplinäre Leitlinie (S3-Klassifikation).
+334	Es ist ein evidenz- und konsensbasiertes Instrument zur Verbesserung und Qualitätssicherung von Prävention, Diagnostik, Therapie und Nachsorge von Sepsis.
+335	Sie fassen geeignete, wissenschaftlich fundierte und aktuelle Verfahren zur Diagnose, Therapie und Nachsorge zusammen.
+336	Die Empfehlungen der Leitlinie sollen dem Kliniker als unterstützende Informations- und Entscheidungsgrundlage bei der Behandlung von erwachsenen Patienten mit Sepsis oder septischem Schock dienen.
+337	Fortschritte in der rekonstruktiven Mikrochirurgie haben zu signifikanten Verbesserungen in der chirurgischen Versorgung komplexer interdisziplinärer Fälle geführt.
+338	Gleichzeitig erhöht sich dadurch aber auch der Ressourcenaufwand des plastischen Chirurgen.
+339	Ziel dieser Studie war es, den Zusammenhang zwischen Einnahmeanstieg und Ressourcenaufwand in der rekonstruktiven Mikrochirurgie an einem Universitätsklinikum der Maximalversorgung im Blick auf die Behandlung interdisziplinärer Patienten zu untersuchen.
+340	2018 und 2019 wurden sämtliche Fälle interdisziplinärer Zusammenarbeit an einem Standort einer plastisch-chirurgischen Abteilung einer Universitätsklinik nachverfolgt.
+341	Die interdisziplinären chirurgischen Fälle wurden aus dem Kollektiv identifiziert und hinsichtlich stationärer Behandlungsstage, Ressourcenaufwand und ökonomischer Entwicklung (DRG vor und nach mikrochirurgischer Rekonstruktion) prospektiv evaluiert.
+342	In den Jahren 2018 und 2019 wurden insgesamt 68 mikrochirurgische Eingriffe in 64 interdisziplinären Fällen durchgeführt.
+343	62 dieser Fälle erfüllten die Kriterien für eine interdisziplinäre chirurgische Behandlung.
+344	In Betrachtung des Beitrags der plastischen Chirurgie zur wirtschaftlichen Entwicklung und des damit verbundenen Ressourcenaufwands ergibt sich ein signifikanter Anstieg aller Parameter (p &lt; 0,0001).
+345	So stieg der Case-Mix-Index (CMI) um 20,2%, die stationären Behandlungstage um 79,1%, die Anzahl der chirurgischen Eingriffe um 62,4%, die kumulative Schnitt-Naht-Zeit um 131,4% und die Gesamtzahl der chirurgischen Eingriffe um 75,4%. rekonstruktive mikrochirurgische Eingriffe führen zu einem signifikanten Anstieg der Einnahmen in interdisziplinären chirurgischen Fällen.
+346	Es ist jedoch auch ein signifikanter Anstieg des Ressourcenverbrauchs zu beobachten.
+347	Darüber hinaus schlagen sich diese Mehrkosten nicht immer angemessen in den Einnahmen der DRG nieder.
+348	Dies gilt insbesondere für DRGs mit hohem Ausgangkostengewicht.
+349	Um eine moderne, individuelle, patientenorientierte und leitliniengerechte Patientenversorgung zu gewährleisten, ist es daher dringend notwendig, das (G-)DRG-System an den zusätzlichen Ressourcenverbrauch anzupassen.
+350	Darüber hinaus muss bei interdisziplinären chirurgischen Fällen eine klare interne Kostenverteilung entsprechend dem chirurgischen Ressourcenaufwand erfolgen.
+351	Die akute Pankreatitis (AP) ist die häufigste gastrointestinale Ursache für einen Krankenhausaufenthalt und eine der Hauptursachen für Todesfälle im Krankenhaus.
+352	Eine schwere akute Pankreatitis ist häufig mit Multiorganschäden und insbesondere mit akuter Nierenschädigung (AKT) verbunden.
+353	Aki kann sich früh oder spät im Krankheitsverlauf entwickeln und ist ein starker Determinator des Ergebnisses.
+354	Die Mortalität bei dialysepflichtigem AKI und akuter Pankreatitis steigt bei den betroffenen Patienten exponentiell an.
+355	Der AP-induzierte AKI (AP-AKI) weist viele Ähnlichkeiten auf, aber auch deutliche Unterschiede zu anderen Ursachen des AKI auf der Intensivstation.
+356	Das Wissen der genauen Pathophysiologie kann dabei helfen, therapeutische Ansätze der Erkrankung einzustellen, zu kontrollieren und zu verbessern.
+357	Leider gibt es nur wenige Studien, die sich mit AP und AKI beschäftigen. In dieser Übersichtsarbeit werden aktuelle Daten zur Pathogenese, den Ursachen und dem Management von AP-AKI bei Patienten mit schwerer akuter Pankreatitis diskutiert und in diesem Zusammenhang das diagnostische und prognostische Potenzial der jeweiligen neueren Serum- und Urinmarker genutzt.
+358	Rezidive nach einer Therapie mit direkt wirkenden antiviralen Substanzen (DAA) bei chronischen Hepatitis-C-Virus (HCV)-Infektionen sind aufgrund der hohen Wirksamkeit interferonfreier Therapieregime selten.
+359	Das Vorhandensein von resistenzassoziierten Substitutionen (RAS) in Proteinen, auf die die Therapie abzielt, kann zu niedrigeren Raten von anhaltendem virologischem Ansprechen (SVR) bei Patienten, die eine DAA-Therapie erhalten, führen, und es gibt wenig Beweise, wie diese Patienten zu behandeln sind.
+360	Wir berichten über einen Fall einer multiresistenten HCV-Genotyp-3a-Infektion bei einer 50-jährigen Patientin ohne bestätigte Zirrhose, aber mit fortgeschrittener Fibrose (Lebersteifigkeit 11,6 kPa) und niedriger Viruslast.
+361	Resistenztests ergaben eine y93h-Mutation im NS5a-Gen.
+362	Therapien mit Sofosbuvir und Daclatasvir
+363	(1) Die Kombination aus Sofosbuvir, Glecaprevir/Pibrentasvir und Ribavirin könnte eine Notfalltherapie nach früheren Schüben der DAA-Therapie sein, insbesondere bei Patienten mit einem Rezidiv nach einer Therapie mit Sofosbuvir, Velpatasvir und Voxilaprevir.
+364	Die chronisch-amyopathische Dermatomyositis (CADM) ist eine seltene Entität der Dermatomyositis.
+365	In der Regel tritt CADM ohne muskuläre Beteiligung auf.
+366	Daher liegt der Kreatinkinase-Spiegel am häufigsten im Normalbereich.
+367	Dermale Manifestationen von CADM sind Gottron-Papiere und Mechanikerhände.
+368	Im Falle des Melanom-Differenzierungs-assoziierten Gen-5-intrazellulären Pathogensensors (MDA5-Antikörper) ist das CADM oft mit einer schnell progredienten und schweren Form der interstitiellen Lungenerkrankung assoziiert.
+369	Lungenfunktionstests zeigen Restriktionen und Hypoxämien unterschiedlicher schwerer Grade.
+370	In hochauflösenden CT-Aufnahmen werden Merkmale von Boden-Glas-Trübungen, Retikulationen und Konsolidierungen nachgewiesen.
+371	In der bronchioloalveolären Lavage sind Lymphozyten manchmal vorherrschend.
+372	Pathologen sehen ein ähnliches Bild wie unspezifische interstitielle Lungenerkrankung oder organisierende Pneumonie.
+373	Eine ausgeprägte Immunsuppression ist die häufigste Therapie.
+374	Manchmal ist jedoch eine Kombination verschiedener immunsuppressiver Therapien notwendig.
+375	Eine neue Strategie zur Behandlung von CADM mit rasch fortschreitender interstitieller Lungenerkrankung ist der Janus-Kinase-Inhibitor Tofacitinib.
+376	Die Behandlung kann anhand des Ferritin- und des MDA5-Antikörpertiters überwacht werden.
+377	Die Sterilität liegt bei 84%.
+378	Adenokarzinome der Speiseröhre sind denen des Magens sehr ähnlich und entwickeln sich höchstwahrscheinlich in der Magenkardie, von wo aus sich proliferierende Zellen in der Speiseröhre ausdehnen und gutartige Barrett-Schleimhaut bilden.
+379	Eine weitere genomische Instabilität führt zur klonalen Evolution bestimmter Zellen, was zur Entwicklung eines Adenokarzinoms führen kann.
+380	Für eine bessere Risikostratifizierung und die Festlegung präventiver Strategien ist eine klare Definition der Faktoren dringend erforderlich.
+381	Aktuelle Prognosemodelle, die Übergewicht, Diät oder Tabakkonsum beinhalten, konnten sich bisher nicht in der klinischen Anwendung etablieren.
+382	Für Diagnose und Überwachung existieren aktuelle Richtlinien.
+383	Die Diagnose der Barrett-Speiseröhre wird histopathologisch aus 4-Quadranten-Biopsien durchgeführt.
+384	Darüber hinaus sollten makroskopisch auffällige Bereiche der Barrett-Schleimhaut-Biopsie sein.
+385	Die Erkennung neoplastischer Bereiche kann durch Chromoendoskopie in Kombination mit Vergrößerungsendoskopie und Färbetechniken (Methylenblau oder Essigsäure) verbessert werden.
+386	Die kurativ vorgesehene endoskopische Resektion ist die Standardtherapie bei dysplastischer Barrett-Metaplasie, mukosalem (T1a M) und oberflächlichem submukosalem (T1a SM1) Adenokarzinom.
+387	Hier stellen die CAP- und Ligaturresektion sowie die endoskopische Submukosadissektion (ESD) die empfohlenen Resektionstechniken und in Kombination mit der Radiofrequenzablation die leitliniengerechte Therapie dar.
+388	Vergleich der B-Flow-Sonographie (BFS) mit der Farb-Doppler-Sonographie (CDS) zur Darstellung der Gefäßbildung nach Nierentransplantation bei Kindern.
+389	Alle Kinder, die eine Nierentransplantation unterzogen wurden und zwischen Januar 2013 und Januar 2016 eine protokollbasierte Ultraschalluntersuchung (Loqiq 9, GE Medical Systems, Milwaukee, WI, USA) unter Anwendung der BFS- und CDS-Technik mit gleichen Einstellungen und Sondenpositionen unterzogen wurden, wurden retrospektiv ausgewertet (n = 40).
+390	Die gewonnenen Datensätze wurden visuell nach folgenden Kriterien klassifiziert: (i) Darstellung des Nierengefäßbaums
+391	(Grad 1-klare Abgrenzung von interlobären, zusammen mit bogenförmigen und interlobulären Gefäßen;
+392	Grad 2-klare Abgrenzung von interlobären und kortikalen Gefäßen, jedoch keine Unterscheidung zwischen interlobulären und bogenförmigen Gefäßen;
+393	Grad 3 – nur klare Abgrenzung von interlobären Gefäßen, Grad 4 – unzureichende Abgrenzung, (ii) Abgrenzung der kortikalen Gefäßdichte im ventralen, lateralen und dorsalen Teil des Transplantats, (iii) kleinster Gefäß-Kapsel-Abstand und (iv) maximale kortikale Gefäßzählung.
+394	Der Vergleich zwischen den Methoden wurde mit exakten und konsistenten t-Tests von Fisher durchgeführt.
+395	Bei Anwendung eines gekrümmten Wandlers (C1-6) zeigte das BFS eine überlegene Abgrenzung des Nierengefäßbaums (p &lt; 0,001), einen niedrigeren Gefäß-Kapsel-Abstand (p &lt; 0,001), eine höhere kortikale Gefäßzahl (p &lt; 0,001) und eine höhere kortikale Gefäßdichte im oberflächlichen Kortex (p = 0,01) als das CDS.
+396	In den dorsalen und lateralen Aspekten des Transplantats war die kortikale Gefäßdichte mit bfs niedriger (beide p &lt; 0,001).
+397	Bei Verwendung eines linearen hochauflösenden Wandlers (ML 6-15) wurden keine signifikanten Unterschiede zwischen den Methoden gefunden.
+398	Eine verbesserte Darstellung der Vaskularisation von Nierentransplantationen kann bei Kindern durch die Ergänzung eines Standardprotokolls mit BFS erreicht werden.
+399	Die bfs-technik ist besonders vorteilhaft für die Gesamtbeurteilung des Nierengefäßbaums zusammen mit dem Ausmaß der kortikalen Vaskularisation auf gekrümmten Array-Bildern.
+400	· die Darstellung von vaskulärem Baum und ventralen kortikalen Gefässen wird durch bfs verbessert. .
+401	· die dorso-laterale Kortex war durch höhere Penetration besser mit CDS vertreten. .
+402	· ein zusätzliches Monitoring mit BFS verbessert die Überwachung der Transplantatlebensfähigkeit. .
+403	· Dammann E., Groth M., Schild R. U.
+404	B-Flow-Sonographie vs. Farbdoppler-Sonographie zur Beurteilung der Vaskularität bei pädiatrischen Nierentransplantationen.
+405	Fortschröntgenstr 2021; 193: 49-60.
+406	Eine übermäßige mütterliche Gewichtszunahme (GWG) ist ein Risikofaktor für maternale und fetale Komplikationen.
+407	Das Lipidprofil verändert sich physiologisch während der Schwangerschaft.
+408	Eine Gewichtszunahme kann den Fettstoffwechsel beeinflussen.
+409	Die Hypothese der Studie lautet, dass die APOB-Spiegel in der frühen Schwangerschaft mit einem übermäßigen GWG-Gehalt assoziiert sind und einen negativen Ausgang vorhersagen.
+410	Von 547 Patienten hatten 95 Frauen ein unzureichendes GWG, 171 ein ausreichendes GWG und 281 ein übermäßiges GWG.
+411	Von 581 Patientinnen waren 14 Patientinnen mit schwangerschaftsinduziertem Hypertonus/Präeklampsie, 67 Patientinnen mit Small-for-gestational-age (SGA) und 7 Patientinnen mit fetaler Wachstumsretardierung (FGR).
+412	Die APOB-Spiegel wurden mittels Elisa gemessen.
+413	Es gab keinen signifikanten Unterschied in den APOB-Spiegeln zwischen den verschiedenen GWG-Gruppen.
+414	Wir fanden signifikant höhere APOB-Werte bei übergewichtigen und adipösen Patienten im Vergleich zu Patienten mit normalem BMI.
+415	Rauchen war mit höheren Apob-Spiegeln korreliert.
+416	Es gibt keine Unterschiede zwischen Frauen mit PIH/PE und normotensiven Frauen oder zwischen SGA/IUGR und Schwangerschaften ohne.
+417	Frauen mit vorübergehender Hypertonie zeigen einen signifikant höheren APOB-Spiegel als die Kontrollgruppe.
+418	APOB kann nicht als Marker zur Identifizierung des Risikos für übermäßiges GWG oder ungünstige Schwangerschaftsausgänge in der Frühschwangerschaft verwendet werden.
+419	Es könnte jedoch an der Pathophysiologie von unerwünschten Schwangerschaftsausgängen bei Hochrisikopatientinnen beteiligt sein.
+420	Das Refeeding-Syndrom ist eine potenziell lebensbedrohliche metabolische Komplikation, die nach Einleitung einer Ernährungstherapie bei unterernährten Patienten auftreten kann.
+421	Das Syndrom ist nicht bekannt und wahrscheinlich häufig unerkannt und unbehandelt.
+422	Die Pathophysiologie ist durch eine fortschreitende Verarmung von Kalium, Natrium und Phosphat gekennzeichnet, trotz überwiegend normaler Serumspiegel.
+423	Diese okkulte intrazelluläre Depletion wird durch die Wiedereinführung der Energieaufnahme verschlimmert und somit durch eine schnelle transzelluläre Verschiebung vom Extra-in den intrazellulären Raum kompensiert.
+424	In diesem Stadium treten plötzlich abnehmende Serumspiegel auf, die für die jeweiligen Symptome verantwortlich sind.
+425	Unterernährung, Gewichtsverlust, Chemotherapie, Diuretika und Alkoholismus sind die wichtigsten Risikofaktoren.
+426	Aufgrund der hohen Fehlernährungsprävalenz bei älteren Menschen tritt das Refeeding-Syndrom in dieser Patientengruppe häufig auf.
+427	Die Prävalenzdaten sind jedoch selten.
+428	Etwa 8 % der älteren hospitalisierten Patienten entwickeln das Refeeding-Syndrom, wenn eine Ernährungstherapie eingeleitet wird.
+429	Die Symptome des Refeeding-Syndroms sind vielfältig und unspezifisch.
+430	Bei geriatrischen Patienten tritt es häufig in Form eines Deliriums auf.
+431	Besonders spezifisch ist der zeitliche Verlauf.
+432	Das Refeeding-Syndrom entwickelt sich typischerweise innerhalb weniger Tage nach Beginn einer Ernährungstherapie.
+433	Wenn Serumelektrolyte, einschließlich Magnesium und Phosphat, überwacht und engmaschig ergänzt werden, kann das schwere Syndrom verhindert oder behandelt werden.
+434	Darüber hinaus sind die Messung und Ergänzung von Thiamin und der besonders langsame Anstieg der Energieaufnahme für die Prävention und Behandlung des Syndroms von fundamentaler Bedeutung.
+435	Verbesserungen in der Medizintechnik haben eine zu hohe Medikalisierung der Geburt gezeigt.
+436	Sectio caesarea (CS) ist ein lebensrettendes Verfahren, das sich bei der Senkung der mütterlichen und perinatalen Sterilität weltweit als wirksam erwiesen hat.
+437	Wie bei jedem medizinischen Verfahren besteht allerdings ein gewisses Risiko für den Empfänger der Körperschaftsteuer.
+438	In den letzten Jahren sind die CS-Raten in Ländern mit hohem Einkommen alarmierend gestiegen.
+439	Viele überschreiten die Empfehlung der Weltgesundheitsorganisation (WHO) einer vergleichbaren CS-Rate von 10 bis 15 %.
+440	Obwohl diese Situation ein erhöhtes Risiko für Frauen und ihre Kinder darstellt, stellt sie auch eine übermäßige menschliche und finanzielle Belastung für die Gesundheitssysteme dar.
+441	Aus Sicht des Gesundheitssystems fasst diese Studie daher unter Verwendung italienischer Fallstudien die vorhandenen Evidenzdaten, die für die Faktoren relevant sind, die das Phänomen der steigenden CS-Raten auslösen, systematisch zusammen.
+442	Unter Verwendung des WHO Health System Framework (WHOHSF) wurden in diesem systematischen Review die Prisma-Leitlinien zur Berichterstattung herangezogen.
+443	Bis zum 1. April 2020 wurden die Datenbanken PubMed, Scopus, Medline, Cochrane Library und Google Scholar durchsucht.
+444	Die Ergebnisse wurden anhand der sechs Dimensionen des WHOHSF-Rahmens organisiert: Bereitstellung von Dienstleistungen, Gesundheitspersonal, Informationen über das Gesundheitssystem, Inhaltsstoffe und Technologien für medizinische Produkte, Finanzierung sowie Führung und Governance.
+445	Die CS-Raten in Italien werden durch komplexe Wechselwirkungen zwischen verschiedenen Interessengruppen und Kontextfaktoren wie Hypermedizinalisierung der Entbindung, Unterschiede in Politik und Praxis zwischen den Einheiten und dem nationalen Kontext, Fragen des rechtlichen und sozialen Umfelds sowie die Einstellung von Frauen zu Schwangerschaft und Geburt beeinflusst.
+446	Um die hohen CS-Raten einzudämmen, ist eine synergistische Multistakeholder-Intervention erforderlich.
+447	Speziell mit Prozessen, die in der Lage sind, die offizielle Billigung von politischen Entscheidungsträgern zu gewinnen, die Übereinstimmung zwischen regionalen Behörden und lokalen Regierungen zu fördern und die systematische Einhaltung der Abgabeeinheiten mit ihren klinischen Leitlinien zu leiten.
+448	Der Einfluss von akuten histopathologischen Veränderungen (HC) des Rektums auf die Entwicklung einer späten klinischen Proktitis (LCP) nach einer externen Strahlentherapie (RT) bei Prostatakrebs ist nur unzureichend erforscht und war der primäre Endpunkt dieser prospektiven Studie.
+449	Bei 70 Patienten wurden 15 hc frühe rektale Biopsien nach RT identifiziert, wobei die RT in 41 Fällen konventionelle 2d-RT und in 29 Fällen konformationelle 3d-RT war.
+450	Assoziationen von HC in anterioren und posterioren Rektumwänden (ARW, PRW) mit LCP, akutem endoskopischem (AEP) und akuter klinischer Proktitis (ACP) wurden unter Rücksichtnahme auf die allgemeinen Charakteristika des Patienten und des HC als explikative Variablen statistisch ausgewertet.
+451	Die mittlere Nachbeobachtungszeit der Patienten betrug 123,5 Monate (24-209).
+452	Die mediane Prostatadosis betrug 72 Gy (2 Gy/Bruch).
+453	Bei den 41 und 29 Patienten betrugen die ARW- und PRW-Dosen 64 bzw. 49 gy versus 63 bzw. 50 gy.
+454	Die Inzidenz von lcp ≥ Grad 2 nach 10 Jahren betrug 12,9 %.
+455	Die univariaten (p = 0,02) und Kaplan-Meyer-Methoden (p = 0,007) zeigen, dass der Verlust an Drüsen (oder Krypten) in der ARW signifikant mit LCP assoziiert war.
+456	Aep und Acp traten in 14,3 bzw. 55,7 % der Fälle auf.
+457	Auf multivariater Ebene korrelierte AEP signifikant mit Hämorrhoiden (p = 0,014) und Neutrophilie in der ARW (p = 0,042).
+458	Früh nach der RT ist ein erheblicher Drüsenverlust in der ARW prädiktiv für die LCP.
+459	Um diese Komplikation bei konventioneller Fraktionierung zu reduzieren, empfehlen wir, die mittlere Dosis auf ARW ≤ 48–52 Gy zu belassen.
+460	Mehr als eine halbe Million Patienten erleiden in Deutschland pro Jahr größere Verbrennungen.
+461	Knapp 2000 Patienten mussten im Jahr 2018 intensivmedizinisch versorgt werden.
+462	Trotz hoher Standards in der Verbrennungspflege ist die Sterilität nach wie vor hoch.
+463	Brandverletzungen können zu Langzeitfolgen führen.
+464	Um eine aktuelle Verbrennungsbehandlung zu ermöglichen, sind Leitlinien online verfügbar und öffentlich zugänglich.
+465	Diese Übersicht stellt eine Zusammenfassung der deutschen AWMF-Leitlinie zur Behandlung thermischer Verletzungen bei Erwachsenen (https://www.awmf.org/leitlinien/detail/ll/044-001.html) vor.
+466	Experten aus elf verschiedenen medizinischen Organisationen und Fachgebieten haben mit ihrem Fachwissen zu dieser S2K-Leitlinie beigetragen.
+467	Der Schwerpunkt des Artikels liegt auf der Beurteilung akuter Brandwunden, der Indikation zur spezialisierten Versorgung in Verbrennungszentren, der Versorgung der Brandwunden am Unfallort und in Krankenhausern sowie dem Narbenmanagement und der Rehabilitation.
+468	Diese Übersichtsarbeit berichtet über die konsensbasierte Behandlung akuter Brandwunden bei Erwachsenen in Deutschland.
+469	Der Artikel soll Ärzten und professionellen Pflegern eine Anleitung zur Durchführung einer potenziellen Verbrennungsbehandlung geben.
+470	Die aktuelle Leitlinie zielt darauf ab, die Ergebnisse von Verbrennungen zu verbessern.
+471	In dieser Studie wurde untersucht, wie weit Zuhörer die Charakteristika von einigen unbekannten Sprechern dadurch identifizieren können, dass sie nur ihren Sprachaufnahmen zuhören (körperliche Charakteristika, Akzent/Dialekt, Rauchgewohnheiten, Bildungsgrad, Persönlichkeit, äußeres Erscheinungsbild).
+472	Es nahmen mehrere Zuhörergruppen unterschiedlichen Alters und unterschiedlichen Teils teil.
+473	Ziel der Studie war es, die Stimmwahrnehmung von Kindern/Jugendlichen und Erwachsenen sowie von naiven Zuhörern und phonetisch geschulten Zuhörern zu vergleichen.
+474	Insgesamt 197 Fächer, aufgeteilt in 4 Gruppen (Grundschüler, Sekundarschüler, Studenten, Fachärzte für Phoniatrie und Kinderaudiologie), hörten Sprachaufnahmen von 23 Sprechern.
+475	Sie wurden versucht, einen Fragebogen auszufüllen, in dem nach den Merkmalen der Redner gefragt wird.
+476	In Bezug auf die individuellen Merkmale erzielten die Zuhörer variable Ergebnisse und identifizierten Geschlecht, Alter, fremde Akzente und teilweise Bildungsniveau ziemlich genau, während sie andere Kategorien wie Größe, Body-Mass-Index, Dialekt und Rauchgewohnheiten weniger effizient beurteilten.
+477	Die Zuhörer der Grundschule erreichen in allen bis auf zwei Kategorien deutlich weniger korrekte Antworten als jede der anderen Zuhörergruppen; Sie fallen jedoch bereits einige korrekte Urteile über das Zufallsniveau.
+478	Die Ergebnisse der Spezialisten und Studierenden unterscheiden sich in keiner Kategorie signifikant.
+479	Es wurde bestätigt, dass die Stimmwahrnehmung oder die erforderlichen Fertigkeiten altersabhängig sind.
+480	Die erfahrenen Zuhörer schneiden nicht wesentlich besser ab als die naiven Zuhörer.
+481	Die zunehmende Evidenz hat es in den letzten Jahren immer wieder notwendig gemacht, die internationalen Empfehlungen zur Diagnose und Therapie der resistenten Tuberkulose zu ändern.
+482	In diesem Jahr hat die WHO umfassende Empfehlungen veröffentlicht, die diese Entwicklungen berücksichtigen.
+483	Die aktuelle deutsche Tuberkulose-Leitlinie wurde 2017 veröffentlicht und enthält in einigen Bereichen unterschiedliche Empfehlungen.
+484	Hier werden die neuen WHO-Empfehlungen von 2020 zur schnellen Diagnostik und Therapie der resistenten Tuberkulose zusammengefasst und die relevanten Unterschiede für Deutschland, Österreich und die Schweiz kommentiert.
+485	Eine vollständige Neubewertung der Literatur durch Aktualisierung der deutschsprachigen awmf 2k-Leitlinien findet derzeit statt.
+486	Smartphones eignen sich aufgrund ihres breiten Einsatzes in der Bevölkerung und ihres breiten Funktions- und Sensorenspektrums zur Datenerfassung für medizinische Zwecke.
+487	App-gestützte Eingabemasken, Patiententagebücher und Patienteninformationssysteme, der mobile Zugriff auf die Patientenakte sowie telemedizinische Dienste werden auch in Zukunft überall in unserem Fachgebiet zu finden sein.
+488	Darüber hinaus bieten der Einsatz von Smartphone-Sensoren (GPS- und Bewegungssensoren, Touch-Display, Mikrofon) und Kopplungsmöglichkeiten mit Biosensoren (z. B. mit kontinuierlichen Glukoseüberwachungssystemen [CGM]), fortschrittliche Kameratechnologie, die Möglichkeit einer regelmäßigen und terminunabhängigen Überprüfung des Sehsystems (Sehschärfe/Kontrastsehen) sowie die Echtzeit-Datenübertragung interessante Möglichkeiten für die Patientenbehandlung und klinische Forschung.
+489	Die vorliegende Übersichtsarbeit beschäftigt sich mit dem aktuellen Stand und den Zukunftsperspektiven der Smartphone-basierten Datenerfassung und Anwendungsmöglichkeiten in der Augenheilkunde.
+490	Aufgrund der erhöhten Lebenszeitprävalenz und der persönlichen, sozialen und wirtschaftlichen Belastung durch psychische Störungen bedarf die Psychiatrie einer signifikanten Veränderung in mehreren Aspekten ihrer klinischen und Forschungsansätze.
+491	In den letzten zehn Jahren hat sich die Entwicklung der personalisierten/Präzisionsmedizin in der Psychiatrie mit dem Fokus auf maßgeschneiderte Therapien entwickelt, die auf das individuelle, physiologische und genetische Profil jedes Patienten abgestimmt sind, nicht die gleichen Ergebnisse wie in anderen Branchen, wie beispielsweise der Onkologie, erzielt.
+492	Die lang erwartete Revolution ist noch nicht aufgetaucht.
+493	Dafür gibt es verschiedene Erklärungen, ua ungenaue diagnostische Kriterien, unvollständiges Verständnis der beteiligten molekularen Pathologie, fehlende klinische Hilfsmittel und schließlich die Charakteristika des Patienten.
+494	Darüber hinaus hat die Koexistenz der beiden Begriffe eine große Diskussion über die Definition und Differenzierung zwischen den beiden Arten der Psychiatrie ausgelöst, da sie oft ähnlich oder sogar überlagerbar erscheinen.
+495	Im Allgemeinen werden die beiden Terminologien unterschiedslos, alternativ und/oder getrennt innerhalb derselben wissenschaftlichen Arbeit verwendet.
+496	In dieser Arbeit wird ein Überblick über die Überlappung zwischen der Anwendung und der Bedeutung der Begriffe „Präzisionspsychiatrie“ und „personalisierte Psychiatrie“ gegeben.
+497	Der Begriff Sepsis wurde 2016 neu definiert als eine lebensbedrohliche Organdysfunktion, die durch eine unzureichende Reaktion des Körpers auf eine Infektion verursacht wird.
+498	Die deutschen S3-Leitlinien zur Behandlung von Sepsis wurden 2018 veröffentlicht.
+499	Was ist evidenzbasiert bei der Behandlung von Patienten mit Sepsis?
+500	Diskussion der S3-Leitlinien und Aufnahme der Studienergebnisse nach 2018.
+501	Die Eckpfeiler für die Behandlung der Sepsis bestehen weiterhin aus einer frühen hämodynamischen Stabilisierung, einer Antiinfektionsbehandlung und Organunterstützungsverfahren.
+502	Supportive und extrakorporale Therapien werden kontrovers diskutiert und weiterhin intensiv untersucht.
+503	Trotz eines besseren Verständnisses der Pathophysiologie gibt es noch keine wirksame kausale Sepsisbehandlung, dh gegen die pathologische Wirkreaktion.
+504	Die Behandlung von Patienten mit Sepsis basiert daher nach wie vor auf den Grundprinzipien der Korrektur von Volumendefiziten, Antiinfektiva, Quellenkontrolle und Organunterstützung, einschließlich der symptomatischen Behandlung der Vasoplegie mit Katecholaminen.
+505	Die Popularität von E-Zigaretten steigt.
+506	Neben Abhängigkeit und pulmonalen Gesundheitsschäden nehmen auch die Berichte über Brandverletzungen durch Explosionen von E-Zigaretten zu.
+507	Die meisten Explosionen von E-Zigaretten werden auf die Lithium-Ionen-Batterie zurückgeführt.
+508	Aufgrund zunehmender Fälle und fehlender Leitlinien wollen wir drei Fälle unseres Krankenhauses vorstellen und Empfehlungen für das Management von Brandverletzungen durch E-Zigaretten-Explosionen veröffentlichen.
+509	Es werden drei Fälle von E-Zigaretten-Explosionen zwischen 2016 und 2019 vorgestellt.
+510	Alle drei E-Zigaretten-Explosionen ereigneten sich in den Hosentaschen.
+511	Zwei Patienten waren männlich, ein Patient war weiblich.
+512	Das Alter reichte von 24 bis 64 Jahren, die verbrannte Gesamtkörperoberfläche (TBSA) von 3 % bis 12,5 %. Alle drei Patienten benötigten eine Hauttransplantation und die Verweildauer im Krankenhaus betrug zwischen fünf und elf Tagen.
+513	In der Zusammenfassung der aktuellen Literatur empfehlen wir die folgende Behandlung von Verbrennun- gen aufgrund von E-Zigaretten-Explosionen.
+514	Vor dem Spülen mit wässrigen Lösungen sollte ein Lackmustest durchgeführt werden, um exotherme Reaktionen mit verbliebenen Metallen zu vermeiden.
+515	Wenn der Lackmus-Test zeigt, dass der pH-Wert der Alkaliwunden mit Mineralöl gespült werden sollte.
+516	Der vorliegende Fall beschreibt die Diagnostik und Therapie des pulmorenalen Syndroms eines 40-jährigen Patienten, der sich aufgrund zunehmender respiratorischer Insuffizienz und Hämoptyse mit bestätigter Covid-19-Erkrankung in unserer Klinik vorstellte.

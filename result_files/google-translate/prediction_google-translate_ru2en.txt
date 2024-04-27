@@ -1,0 +1,428 @@
+1	AIM To study the possibilities of measuring the intracellular hydrogen index (pH) using phosphoric magnetic resonance spectroscopy in glioblastomas and to compare the obtained data with the values ​​of intracellular pH in healthy volunteers.
+2	The study included 10 patients aged from 41 to 67 years with supratentorial glioblastoma.
+3	Obtained values ​​of intracellular pH of glioblast tissue were compared with pH of brain tissues of healthy volunteers.
+4	There was a tendency to increase the level of intracellular pH in tumors compared to the pH level of healthy brain tissues.
+5	Data on changes in the intracellular hydrogen index of the brain matter can be further used as a potential marker of early pathological changes not visualized by standard magnetic resonance imaging, as well as in assessing the effectiveness of antitumor therapy.
+6	AIM To analyze the world literature devoted to the problem of treatment of the combination of stenosis of the internal carotid artery at the extracranial level and arterial cerebral aneurysm, as well as to demonstrate the results of surgical treatment of patients with this combined pathology of the carotid basin.
+7	SUBECTS AND METHODS
+8	From 2013 to 2019, the combined pathology of the internal carotid artery basin (intracranial aneurysm and stenosis of the internal carotid artery at the extracranial level) was detected in 35 of the 1638 examined patients.
+9	There were 10 men and 25 women.
+10	The average age was 66 7 years.
+11	In all 35 patients, intracranial aneurysm was asymptomatic and was detected in the diagnosis of atherosclerotic lesions of the internal carotid artery.
+12	Fifteen (43%) of 35 patients were operated.
+13	A two-stage surgical approach was used in 2 cases in patients with ipsilateral location of cerebral aneurysm and stenosis of the internal carotid artery: 1 stage was clipped arterial aneurysm, 2 stage was carotid endarterectomy.
+14	Only the vascular stage (carotid endarterectomy or stenting of the internal carotid artery) was performed in 9 patients, only the neurosurgical stage (aneurysm clipping) - in 4 patients.
+15	RESULTS
+16	The incidence of stenosis of the internal carotid artery with arterial cerebral aneurysm, according to our data, amounted to 2.1%.
+17	In the group of surgical treatment in 1 case (6.7%) after stenting of symptomatic stenosis of the internal carotid artery in a patient with ipsilateral asymptomatic aneurysm of the middle cerebral artery intraoperatively developed a &#39;small&#39; ischemic stroke.
+18	There were no perioperative aneurysm ruptures and fatal outcomes in the operated group.
+19	CONCLUSION
+20	An individual tactical approach to patients with a combination of cerebral arterial aneurysm and internal carotid artery stenosis at the extracranial level made it possible at this stage to avoid intracranial hemorrhagic complications and fatal outcomes.
+21	The frequency of perioperative ischemic cerebral events was 6.7%.
+22	A further set of clinical material is needed to develop optimal surgical tactics for combined lesions of the extra- and intracranial basin of the internal carotid artery.
+23	One of the key mechanisms of aging is the change of hormonal regulation, for effective impact on which in order to prolong life it is necessary to determine the root cause of these processes.
+24	Transposons can serve as molecular drivers controlling the dynamics of hormone levels.
+25	This is due to their use as sources of nucleotide sequences, perceiving specific signals of ribozymes, transcription factors, hormones and their messengers.
+26	In evolution, however, transposons are sources of ribozymes and proteins with DNA-binding domains.
+27	Starting with zygote division, the species-specific composition and distribution of transposons in the genome can be used as a biological coding necessary for consistent and cell-specific gene expression.
+28	It is suggested that hormonal regulation is one of the components of a complex system of ontogenesis control under the influence of mobile elements.
+29	As confirmation, the works on the role of transposons in the control of genes of the endocrine system, as well as the effect of hormones on the activity of transposons are presented.
+30	The study of these relationships may have prospects for the development of methods of life extension, since epigenetic changes under the influence of transposons are reversible.
+31	The SARS-CoV-2 (COVID-19) pandemic has drawn attention to neuroinflammation as an integral component of viral infection.
+32	Acute neuro-inflammatory response includes activation of resident tissue macrophages in the CNS and subsequent release of various cytokines and chemokines associated with activation of oxidative stress and delayed neuronal damage.
+33	In this regard, the search for drugs with mediated anti-inflammatory effects becomes relevant.
+34	From this point of view, further study of the treatment of patients with COVID-19 with dipyridamol (Curantil), which, having antiviral and anti-inflammatory effects, the ability to inhibit the activity of acute inflammation and the progression of fibrosis, is a promising drug, especially in patients with an early increase in the concentration of D-dimer and pronounced manifestations of microangiopathy, deserves attention.
+35	The 2010 Constitution of Kenya initiated a package of reforms across all sectors to bring them into line with new constitutional standards, including devolution of powers and a comprehensive bill of rights.
+36	The Constitution acts as a platform for advancing health rights and restructuring policy, legal, institutional and regulatory frameworks to address chronic gaps and improve health outcomes.
+37	These constitutional health reforms are complex.
+38	The transformation of all parts of the health system is occurring simultaneously, so several new laws have been adopted and public health authorities have been established.
+39	Inappropriate tools and approaches impeded such complex changes.
+40	To understand the scope of health reforms in the first 10 years of the Constitution, the authors developed an adapted framework for the health system, guided by the concepts and definitions of the World Health Organization.
+41	The framework was used to document which laws had been adopted and which bodies were already functioning and which were in the process of being established, and to compare the degree of change before and after the adoption of the 2010 Constitution.
+42	The analysis showed that there are many structures in the health care system (laws and executive state bodies), with a large number of new supervisory structures associated with the delegation of powers, but within the regulatory subfunction there is significant fragmentation.
+43	By deconstructing the normative functions of the health system, the framework enabled a comprehensive mapping of the various attributes of the health system (functions, laws and executive bodies).
+44	The authors consider this framework to be a useful tool for countries that want to develop and implement an enabling legal framework for universal health coverage.
+45	Constitutional reform is a driving force for significant progress in institutional change in the health sector, which reinforces two aspects of the feasibility of change: stakeholder acceptance and authority to implement.
+46	To give quantitative and qualitative characteristics of the structure of the mineral component of enamel of retinated teeth with and without connective tissue dysplasia in different periods of early postnatal ontogenesis of humans by means of densitometry and atomic force microscopy.
+47	The study involved 120 male patients with and without connective tissue dysplasia (DST), who were divided into three equal subgroups (60 people with DST and 60 people without DST), 20 people each, according to the age: 15 - 20, 21 - 30, 31 - 40 years, each of the subjects had one tooth 3.8 or 4.8 removed.
+48	The structure of dental enamel in connective tissue dysplasia in the early postnatal period of ontogenesis is characterized by pronounced polymorphism and insufficient level of maturity.
+49	In 15-20, 21-30 years the orderliness, orientation of enamel prisms was disturbed due to insufficient packing density and large distance between enamel prisms.
+50	The established changes indicate the incomplete nature of amelogenesis in these ages in connective tissue dysplasia.
+51	In connective tissue dysplasia in the early postnatal period of ontogenesis, there is a pattern of incomplete amelogenesis, manifested by lower values ​​of the optical density of the mineral component, low packing of enamel prisms, a large distance between enamel prisms and their irregular shape.
+52	Despite the fact that the basis for the prevention and treatment of venous thromboembolic complications is anticoagulant therapy, in cases where there are contraindications, complications, as well as in the case of ineffectiveness of anticoagulant therapy, the installation of a kava filter is indicated.
+53	The need for subsequent removal of this device from the inferior vena cava is associated with a potential risk of complications.
+54	The analysis of treatment cases of 4 patients treated from February 2015 to March 2017 was performed.
+55	Endovascular removal of the cava filter was unsuccessful.
+56	Patients underwent completely laparoscopic removal of the cava filter.
+57	The time required for phlebotomy, filter extraction and suturing of the phlebotomy zone took from 32 to 45 minutes.
+58	Maximum blood loss was 300 ml and did not require transfusion of blood products.
+59	There was no conversion to laparotomy.
+60	There were no significant systemic and wound complications in the postoperative period.
+61	It is concluded that in case of unsuccessful attempts of endovascular removal, if the surgical team has significant experience in performing laparoscopic and angiosurgical operations, completely laparoscopic removal of the cava filter can be considered a relatively safe minimally invasive method of treatment of this category of patients .
+62	The search for new methods of symptomatic therapy of dilated cardiomyopathy (DCMP) remains an urgent task of modern cardiology.
+63	This is due to the low and short-term effectiveness of available methods of conservative and surgical treatment, including drug therapy.
+64	AIM To evaluate the effectiveness of combined kineso- and laser therapy for the correction of regional hemodynamic disorders in patients with DCMP in the presence of supportive drug therapy.
+65	100 patients with DCMP were examined.
+66	All patients received differentiated drug maintenance therapy (-blockers, ACE inhibitors, with intolerance of the latter - angiotensin II receptor blockers, aldosterone antagonists, diuretics, cardiac glycosides, antiarrhythmic agents).
+67	At least 3 months after the selection of drug therapy, the patients were divided into two groups.
+68	Patients of the main group underwent intravenous laser irradiation of blood (IVLB) and selection of unloading therapeutic gymnastics.
+69	Patients of the control group received only drug therapy.
+70	The main method of the study was venous-occlusion plethysmography to assess the parameters of regional hemodynamics with the determination of blood flow (r) and regional vascular resistance (Rr) at rest, venous tone (Vt), reserve blood flow (H) and regional vascular resistance (RH) against the background of a functional exercise test.
+71	The data obtained during dynamic observation (after 1, 3, 6, 9 and 12 months) in the main group indicate a significant increase in r and H, a decrease in Rr and RH, Vt.
+72	There was no significant positive dynamics in the control group, and the regional hemodynamic parameters significantly worsened after 9 and 12 months of follow-up.
+73	Thus, in patients with DCMP, according to the data of venous-occlusion plethysmography, the use of unloading therapeutic gymnastics in combination with VLOC on the background of rationally selected differentiated drug therapy significantly improves the indicators of regional haemodynamics.
+74	The developed methods of symptomatic therapy can be applied in the work of cardiologists, general practitioners, therapists, doctors of physical and rehabilitation medicine to optimize the treatment of patients with DCMP.
+75	Systematization of neurological manifestations of COVID-19.
+76	Systematic computer analysis of all currently available publications on neurological manifestations of COVID-19 (2374 publications in PUBMED) using topological data analysis.
+77	A complex of interactions between SARS-CoV-2 infection, metabolic disorders of neurotransmitters (acetylcholine, dopamine, serotonin and GABA), enkephalins and neurotrophins, micronutrients, chronic and acute inflammation, encephalopathy, cerebral ischemia and neurodegeneration (including demyelination) is described.
+78	The most typical neurological manifestation of COVID-19 is anosmia/ageusia caused by ischemia, neurodegeneration and/or systemic increases in pro-inflammatory cytokine levels.
+79	COVID-19 provokes ischemic stroke, Guillain-Barr syndrome, polyneuropathy, encephalitis, meningitis, parkinsonism.
+80	Coronavirus infection significantly aggravates the course of multiple sclerosis and myopathies.
+81	Possible roles of human viroma in COVID-19 pathophysiology are considered.
+82	A clinical case of a patient with neurological complications of COVID-19 is described.
+83	In the long term, COVID-19 contributes to the intensification of neurodegenerative changes, which requires special neurological rehabilitation programs.
+84	It is advisable to use cholinergic drugs and antihypertensive drugs compatible with COVID-19 therapy.
+85	In obliterating atherosclerosis, various reconstructions are carried out on the arteries of the lower extremities, but, despite this, in the immediate and remote postoperative period, there is a need for repeated reconstructions, the causes of which may be shunt thrombosis, progression of atherosclerosis , etc.
+86	One of the ways to solve this problem is revascularization of lower-limb arteries through the deep hip artery with its plasticity.
+87	In occlusive lesion of the superficial femoral artery, the deep femoral artery is of great importance for the blood supply of the entire lower limb.
+88	The article highlights the principles of repeated surgical treatment of lower limb arteries using the deep hip artery, discusses the frequency of thrombosis in various positions and the role of the deep hip artery in the blood supply of the lower limb.
+89	The problem of increasing the efficiency of repeated operations on lower-limb arteries using the deep femoral artery is still relevant.
+90	Despite the possibility of lower limb revascularization through the deep hip artery, a high percentage of amputations remains.
+91	The patency of the reconstructed deep femoral artery is several times higher than that of the femoropopliteal and femorotibial shunts in the remote postoperative period.
+92	There are also no clear criteria for predicting the effectiveness of reconstructive interventions on the deep femoral artery in patients with multisegmental lesions of lower-limb arteries after primary interventions, so there is no single surgical strategy.
+93	The use of the deep femoral artery in patients with lower limb ischemia is explained by low trauma and effectiveness after a number of previously performed multi-storey operations, severe lesions of the distal bed, as well as in patients with severe concomitant diseases.
+94	Prosperity is important in all age groups, but it becomes even more important during aging.
+95	The aim of this study was to evaluate the psychometric properties of the Persian version of PERMA-Profiler for use as a tool for assessing success in life in elderly Iranians.
+96	This cross-examination was performed in three stages.
+97	At the first stage, the questionnaire was translated into Persian using the direct-translation method; at the second stage, the quantitative and qualitative reliability of the face, the validity of the content and the content validity index were assessed; at the third stage, the analysis of confirming and search factors, simultaneous reliability, convergent and divergent reliability and reliability were assessed.
+98	The reliability of the questionnaire was assessed by Kronbach coefficient, half-division coefficient and stability by the &quot;test-repeat test&quot; method.
+99	The lowest detectable change and standard measurement error were also calculated.
+100	The Persian version of PERMA-Profiler with 14 elements had a good correlation coefficient between the geriatric depression scale and CASP-19 (0 / 545 GDS and 0.303 CASP-19).
+101	In the research factor analysis, three factors were identified that explained the 52% variance of the PERMA-Profiler estimate.
+102	Factor analysis confirmed the presence of three factors.
+103	The questionnaire showed good stability and reliability (p 0.0001, 0.896, Spearman correlation coefficient 0.745 and ICC 0.693).
+104	The standard error size was small and acceptable.
+105	The Persian version of PERMA-Profiler is a suitable tool for assessing the quality of life of elderly Iranians and identifying their success.
+106	The modern interpretation of the pathogenesis of varicose veins in young patients indicates the genetically determined nature of this process.
+107	According to the diagnostic criteria of TI Kadurina, varicose veins of different localization belong to the so-called small phenomena of undifferentiated connective tissue dysplasia syndrome (UDST).
+108	However, its effect on the development of varicose veins is not considered by all researchers, probably due to the fact that its clinical manifestations still remain somewhat blurred.
+109	To prove the role of NDST syndrome in the development of varicose veins by studying biopsies of their walls at the ultrastructural level.
+110	Fragments of vein walls removed in 25 male patients were studied; the average age was 19 years.
+111	All patients were divided into three groups: 1st - patients with left-sided varicocele (VC), 2nd - patients with varicose veins of the lower extremities of VRVV, 3rd - control.
+112	Electron microscopic examination (EMI), morphometric and statistical analyzes were performed.
+113	Similar changes were found in both children and adult patients with EMI of biopsy specimens of the vein walls of patients with VC and VRVNA.
+114	Analysis of qualitative parameters of collagen fiber bundles revealed significant differences in their thickness compared to the control group, the phenomenon of &quot;structural chaos,&quot; variability of their number in bundles, uneven thickness of bundles, discontinuity of individual fibers due to their tortuous course, areas of disorganization of bundles and expansion of part of interfiber spaces.
+115	Morphometric analysis showed marked variability of the number series when measuring the thickness of their bundles.
+116	These changes indicate the primary failure of the connective tissue of the walls of varicose veins.
+117	The results of smooth muscle cell measurements showed a decrease in their volume compared to the control group; there was an excessive proliferation of connective tissue between them.
+118	There was no significant difference in the arithmetic mean values ​​of the results of the measurements at different degrees of BC and VRVN and age groups in these diseases.
+119	Ultrastructural analysis and morphometry results confirm the key role of NDST syndrome in the pathogenesis of VC and VRVN and make it possible to combine these diseases into one - systemic varicose disease.
+120	Malignant neoplasms of the eye and its appendage (C69) are rare tumors.
+121	To date, the state statistics in Russia (f. 7) &quot;Information on malignant neoplasms&quot; has data only for calculating the morbidity of the population.
+122	These data were included in f.
+123	7 according to our offer only since 2011
+124	In 2018, for the first time, we were able to have data on the morbidity of the population by age separately for men and women, but only for the whole of Russia.
+125	This possibility is also available in every territorial cancer register.
+126	Calculation of one- and five-year survival rates for this pathology is carried out only by us in 10 administrative territories of the North-Western Federal District, where in February 2019 we formed the first Russian Population Cancer Register (PRR) at the level of the Federal District with a total database of more than 1 million cases.
+127	Previously, similar work was carried out only on the materials of St. Petersburg PRR.
+128	This paper presents for the first time features of changes in the structure of oncological pathology of the eye and its appendage (C69) and calculations of five-year survival by age.
+129	Unfortunately, the Office of the Federal State Statistics Service classifies eye pathology (C69) as &quot;other INS&quot; and does not publish mortality data.
+130	At the same time, using the PRD database, it should be borne in mind that the reliability index (ratio of the number of deaths to the number of first-time patients) for NO of the eye (C69) is about 0.50% and is constantly decreasing, and the reliability of accounting is increasing.
+131	Never before in history has the population ageing been a factor in the development of epidemics to the extent that the current COVID-19 pandemic, with its sharp shift in mortality to older age groups.
+132	The results of the analysis of COVID-19 mortality data in Spain, Italy and Sweden presented in this article show that in the range of 30-90 years, the dependence of mortality logarithms on age falls on direct, strictly parallel lines of dependence of total mortality on age according to the Gompertz law.
+133	In all cases, regardless of the stage of the epidemic and the country of observation, the doubling of mortality in this age range is close to 7.5 years.
+134	The likelihood of infection with COVID-19, SARS-CoV-2 coronavirus, and symptomatic manifestations of infection depend on age to a much lesser extent.
+135	Three points were discussed on these grounds: (1) older persons were the main victims not only of SARS-CoV-2 itself, but also of measures taken against its spread;
+136	2) The elderly are not the main agents of the spread of SARS-CoV-2;
+137	3) Older people can and should be included in the fight against the pandemic and its consequences, but not through selective isolation and other forms of discrimination.
+138	People over the age of 65 constitute a significant proportion of the population and have the same right as citizens of other ages to have their needs and interests respected and observed, including the right to a quality of affordable life even in extreme situations.
+139	Prospects for complete SARS-CoV-2 control are unclear.
+140	Therefore, all those who make decisions about people over 65 years of age should bear in mind that at present, unlike the Middle Ages, 65 is a personal future for almost everyone.
+141	The paper presents the results of a single-stage study of bone mineral density (BMD) in 202 patients over 90 years of age suffering from CHD.
+142	Normal BMD values ​​in the lumbar spine were noted in 40.9%, osteoporosis - in 26.9%, osteopenia - in 32.2% of patients.
+143	Normal BMD values ​​in the proximal part of the hip were observed in 21.3%, osteoporosis in 39.9%, osteopenia in 38.8% of patients.
+144	There was a negative correlation between the severity of senile asthenia, assessed using the questionnaire &quot;Age is not a hindrance,&quot; and BMD indicators (r 0.26; p 0.01).
+145	There was a positive correlation between BMD and functional abilities of patients assessed by the Barthel index (r 0.44; p 0.000002) and the IADL scale (r 0.36; p 0.00008).
+146	Historical fractures were observed in 27.6% of patients.
+147	Restoration and optimization of psychofunctional state of the athlete&#39;s body is an urgent direction of sports medicine.
+148	Methods that allow to quickly level psycho-emotional and physical stress, acting on regulatory systems, are of interest.
+149	Such methods include transcranial electrical stimulation (TES), the use of which in sports requires testing and scientific justification.
+150	AIM To study the influence of TES used in the training process on the psychofunctional state of highly qualified athletes of various sports.
+151	The study included 86 athletes aged from 16 to 30 years with the qualification from the candidate for the master of sports to the master of sports of the international class of cyclic (athletics - 7 athletes, triathlon - 12), acyclic (weightlifting - 18) and situational (karate - 22, rugby - 27) sports.
+152	To substantiate the effects of TES, EEG, heart rate variability and psychophysiological testing, ergospirometric exercise testing on treadmill were performed.
+153	The positive effect of TPP application is shown, which is justified by significant changes in physiological and psychophysiological parameters.
+154	After a course of 7 TES procedures, triathlonists noted an increase in the economy of the heart, adaptation and mobilization reserves of the body, psychophysiological indicators.
+155	One procedure of TES in athletes (according to exercise testing) contributed to the optimization of performance and increase of myocardial functional capabilities, reduction of energy consumption during the work.
+156	During the period of urgent recovery, TPP contributed to the acceleration of heart rate recovery, oxygen consumption rate and carbon dioxide release, hemodynamics.
+157	In athletes of acyclic sports, the use of one procedure was effective for optimizing the psychofunctional state, reducing the tension of regulatory processes.
+158	After maximum strength exercises, the recovery processes accelerated and the performance of the CNS increased.
+159	In athletes of situational sports (rugby, karate), the use of TES helped to reduce the time of sensorimotor reactions and increase mental stability, optimize the functional state of the brain, economize the work of the heart.
+160	Given the positive effect of TES, expressed in the improvement of psychofunctional state and performance, acceleration of recovery processes of athletes after physical activity, this method can be widely recommended for use as a restorative and stimulating effect in medical and biological support in sports of higher achievements.
+161	Stroke is one of the most common neurological diseases with high prevalence, disability and mortality, which is an urgent medical and social problem.
+162	Clinically, stroke, depending on the nature and location, causes a wide range of neurological disorders, including motor, as well as a variety of cognitive and neuropsychiatric disorders.
+163	The management of patients with cerebrovascular pathology in the context of the COVID-19 pandemic requires appropriate knowledge and skills from the doctor.
+164	Rehabilitation measures for the correction of motor and cognitive disorders are very diverse.
+165	The use of drugs stimulating the production of neurotrophic factors is considered as a promising direction of drug therapy.
+166	Cerebrolysin contributes to a significant regression of motor and cognitive impairment in the acute and recovery periods of ischemic stroke.
+167	Based on clinical studies, Cerebrolysin is included in the recommendations for the rehabilitation of patients with stroke in Canada and Germany.
+168	To conduct a scientificometric analysis of evidence-based studies of physical methods of treating patients with the consequences of spinal cord injury (PSMT).
+169	The article presents the data of scientometric analysis of evidence-based studies published in the period from anuary 2014 to December 2019 on the use of therapeutic physical factors in the rehabilitation of patients with PSMT.
+170	Groups of effective technologies including physical activity, pulse electrotherapy and robotic mechanotherapy were identified.
+171	Significant effects of applied technologies in patients with spinal injury are shown.
+172	Perspective groups of physical methods of treatment requiring additional evidence-based research were identified.
+173	Recommendations on the use of therapeutic physical factors in the treatment of patients with PSMT are proposed.
+174	There was a tendency to increase the number of randomized controlled trials to assess the effectiveness and expand the range of physical and rehabilitative medicine technologies used in the rehabilitation of patients with PSMT.
+175	To improve the quality of rehabilitation measures in patients with PSMT, monitoring of technologies with proven effectiveness is necessary.
+176	Regardless of the chosen methods of breast cancer treatment, more than 85% of patients develop postmastectomy syndrome (PMES) after the course of therapy, which significantly worsens their quality of life and psychological state.
+177	Relatively recently, physiotherapy methods have appeared in conservative treatment of PMES and the results of using various rehabilitation complexes have been evaluated.
+178	AIM To evaluate the effectiveness of some physiotherapy methods in the rehabilitation of patients with PMES by clinical indicators, markers of endothelial dysfunction and questionnaire results.
+179	A total of 185 patients with PMES were examined and divided into 4 groups: group 1 (control group, 61 patients) received basic treatment (physical therapy, photometric therapy, manual lymphatic drainage massage of the affected upper limb, pneumatic compression); group 2 (43 patients) - basic treatment - sinusoidal modulated currents on the shoulder muscles; group 3 (42 patients) - basic treatment - electrostatic therapy of the upper limb on the side of the operation; group 4 (39 patients) - basic treatment - SMT therapy - electrostatic therapy.
+180	Before and after the course of rehabilitation, clinical symptoms, blood indicators for interleukin (IL) 6, 8, 10, homocysteine ​​were assessed, tests were carried out using the Short Form Medical Outcomes Study (SF-36), Health, Activity, Mood (SAN), and the Hamilton Depression Scale.
+181	There was a tendency to decrease the quantitative indicators of the immune status: mediators of the acute phase of inflammation - pro-inflammatory interleukin (IL-6, IL-8), homocysteine ​​and anti-inflammatory interleukin (IL-10).
+182	A statistically significant decrease in the circumference of the affected upper limb was registered in patients of groups 3 and 4, where electrostatic therapy was used in the rehabilitation program.
+183	In group 3, there was a statistically significant decrease in the lymphatic volume of the upper limb by 33.25%, in group 4 - by 35.45%.
+184	According to the multicentre Mirage study, each indicator of the physical health component and psychological health component of the SF-36 questionnaire after the course of rehabilitation was significantly close to the average population indicator in all groups.
+185	There was an objective improvement in the general well-being of the patients, an increase in activity and mood according to the results of the SUN questionnaire, psychological state according to the Hamilton scale.
+186	The inclusion in the rehabilitation program of electrostatic therapy procedures, sinusoidally modulated currents significantly enhances the therapeutic effect, reduces swelling of the upper limb, increases the amplitude of movements of the shoulder joint, which positively affects the quality of life and psycho-emotional state of patients.
+187	The level of IL-6, IL-8 tends to decrease, which indicates the absence of tumor growth and systemic inflammatory reactions.
+188	The decrease in the level of IL-10 and homocysteine ​​confirms the safety of physical factors in the treatment of PMES.
+189	The aim of the study was the comparative analysis of complaints and audiological indicators in patients of the Surdological Center depending on age.
+190	The paper presents the results of the examination of 300 primary patients (random sample), who applied to a surdologist-otolaryngologist within 1 month.
+191	The group of young patients (19-44 years) included 40 people; the group of middle age (45-59 years) - 62 people; the group of elderly (60-74 years) - 100 people; the group of senile age (75-90 years) - 98 people.
+192	The examination included the collection of complaints and anamnesis, ENT examination, tonal threshold audiometry, impedanceometry, speech audiometry in headphones to detect signs of central auditory disorders or in the free sound field to assess the effectiveness of hearing aids.
+193	It was found that for early diagnosis of hearing loss and prevention of age-related sensory-cognitive dysfunctions it is advisable to use not only the results of tonal threshold audiometry, but also the data of speech audiometry, as well as the analysis of subjective complaints .
+194	The results of the work indicate the need to organize screening of the hearing condition in the framework of medical examination of the population over 60 years.
+195	AIM To study the effect of Mexidol on serum corticosterone levels and the state of the adrenal cortex cells after light or dark deprivation and physical exercise before fatigue.
+196	Experiments were performed on 7 groups of rats (10 individuals) in the spring.
+197	The model of physical activity was chosen technique in own modification of forced swimming of rats to complete fatigue.
+198	For induction of experimental desynchronosis animals of experimental groups for 10 days around the clock were under artificial bright light 150 L or full darkening 2 - 3 L.
+199	Mexidol was administered intramuscularly at a dose of 10 mg/kg of animal 30 min before the swimming test.
+200	Control animals under similar conditions were injected with 0.9% sodium chloride solution.
+201	The serum level of corticosteroids was determined by enzyme immunoassay.
+202	Measurements were performed on a programmable photometer for microstrips STAR FA 303 PLUS (USA).
+203	Histological analysis of the adrenal glands was performed using standard methods.
+204	Microscopy of the preparations, photography and measurements were performed using the system from the microscope AxioLab A1, the camera AxioCamERc 5s and the software EN 2012 (&quot;Carl eiss Microscopy,&quot; Germany).
+205	Statistical results were processed by standard parametric and non-parametric methods depending on the nature of distributions.
+206	Mexidol in the conditions of combined, consistently applied stressors - desynchronosis and physical activity - demonstrated antistress properties at the level of not only the content of the hormone corticosterone in the serum of rats, but also adrenocorticocytes of the adrenal bundle zone.
+207	The severity of this effect of the drug depends on the number of stressors (isolated physical or presented in desynchronosis), the phase of stress and the nature of deprivation.
+208	Under natural light conditions and after light deprivation, when the animals were in the phase of anxiety of varying severity, the drug worked more reliably than after dark deprivation in conditions of developing exhaustion.
+209	Nevertheless, even in the latter case, it has shown itself as a means of preventing exhaustion and failure of adaptation in animals.
+210	The review presents current data on classification, epidemiology, etiology, neurological manifestations, prognosis, diagnosis and treatment of patients with fibromuscular dysplasia (FMD).
+211	The review is based on the selection of publications using a PubMed keyword search from the first sources until March 2019.
+212	FMD is a segmental non-atherosclerotic and non-inflammatory disease of large and medium caliber arteries, leading to their stenosis.
+213	The disease is more common (90%) in women, and manifests itself in the 5th decade of life.
+214	In the cerebral form of FMD, the extracranial portion of the internal carotid and vertebral arteries is usually affected.
+215	Diagnosis is based on the detection of alternating areas of narrowing and widening of arteries - a symptom of &quot;thread bead&quot; (multifocal form).
+216	Neurological manifestations include headache, tinnitus, ischemic disorders of cerebral circulation usually due to dissection or stenosis, rarely - intracerebral or subarachnoid hemorrhage.
+217	The prognosis in most cases is favorable, recurrent strokes are rare.
+218	Treatment includes taking antiaggregants, with their ineffectiveness in preventing recurrence of ischemic disorders of cerebral circulation, endovascular treatment is carried out.
+219	Approaches to the treatment of intracranial aneurysms do not differ from those in patients without FMD.
+220	Reperfusion syndrome is a complex of clinical manifestations due to the restoration of blood circulation in ischemic tissues, accompanied by damage to cells, tissues and organs at various levels, followed by the development of multiple organ failure.
+221	The review considers the main pathophysiological mechanisms of the development of reperfusion syndrome in the heart, brain, and lower extremities.
+222	Oxidative stress is considered the most important marker of ischemic-reperfusion injury syndrome regardless of the type of tissue affected.
+223	The data on current possibilities of influence on different stages and components of reperfusion injury development through drug therapy are presented.
+224	It is shown that in view of the importance of oxidative stress as a key component of the pathogenesis of reperfusion injury, antioxidant therapy should be the main component of the prevention and treatment of reperfusion injury.
+225	Mapping of effective speech connections between the frontal and temporal lobes of the brain using corticocortical evoked potentials.
+226	The study included 3 patients with intracerebral tumors of the left frontal-parietal region.
+227	The tumors were located in the speech-dominant hemisphere, in close proximity to the cortical speech centers and speech pathways.
+228	Intraoperatively, corticocortical evoked potentials (CCEPs) were recorded in response to bipolar DC electrical stimulation from two adjacent contacts of subdural electrodes: single rectangular biphasic pulses of 300 s duration and 1 Hz frequency.
+229	The intensity of stimulation increased gradually from 2 mA, within 3-4 mA.
+230	Direct electrical stimulation of the cerebral cortex was used to validate the results of corticocortical mapping of speech areas using the CCVP method.
+231	In the presented clinical cases, it was possible to obtain CCEP from the lower frontal gyrus by stimulating the upper temporal gyrus.
+232	In one case such effective communication was unidirectional, in the other two - reciprocal.
+233	Mean latency of peak N1 was 65 ms (49.6 - 90 ms), mean amplitude - 71 ms (50 - 100 ms).
+234	The results of corticocortical mapping were confirmed by finding the Broca zone by direct stimulation of the cortex using the &quot;conscious craniotomy&quot; protocol under the electrodes with the maximum amplitude of N1 in two of the three cases.
+235	In one case, the Broca area could not be detected by direct stimulation.
+236	There were no disorders of speech function in the postoperative period according to the results of neuropsychological examination.
+237	The first results of using the method of registration of cortical evoked potentials in a small number of patients showed its practical significance in determining cortical projections of effective speech connections between the frontal and temporal lobes of the brain.
+238	Further study of the presented method in a larger series of clinical cases is necessary.
+239	Modern vascular surgery has data on the significant role of endothelium in the pathogenesis of vascular diseases.
+240	Violation of its function is associated with a wide range of pathological processes, including chronic diseases of lower limb veins.
+241	The discovery of endothelial glycocalix made it possible to evaluate its role in the development of endothelial dysfunction as a trigger mechanism in impaired venous blood flow.
+242	Understanding the unifying role of endothelial dysfunction in the pathology of different areas of medicine makes it possible to predict the development of serious socially significant diseases, such as cardiovascular diseases, diabetes mellitus, obstetric complications and correct conditions associated with them.
+243	The aim of this work was to conduct a systematic review of the literature, which allowed to assess the role of endothelial glycocalix in the development of endothelial dysfunction, as well as to determine the therapy with sulodexide, which can reduce the likelihood of endothelial dysfunction due to anti-inflammatory, antithrombotic and angioprotective effects on the endothelial wall.
+244	AIM To study adverse reactions (AD) arising from the use of local anesthetics (MA) in patients living in the Republic of Crimea for the period 2010-2018.
+245	The objects of the study were 122 maps-notifications of HP MA, registered in the regional database (registry) of spontaneous messages ARCADe (Adverse Reactions in Crimea, Autonomic Database) for the relevant period.
+246	In most cases, HP was associated with the use of local anesthetic group of lidocaine amides - 69 cases (56.55% of the total number of cases of HP on MA), combined drugs containing articaine MA - 34 (27.87%) cases, single cases of HP - with the use of novocaine (9; 7.38%), bupivacaine (8; 6.56%) and mepivacaine (2; 1.64%).
+247	The main clinical manifestations of HP were immediate hypersensitivity reactions (38 cases), cardiovascular dysfunction (29 cases) and CNS (19 cases).
+248	Lack of efficacy of local anesthetics was observed in 13 (10.66%) patients.
+249	The study of the category of HP revealed a high incidence of life-threatening conditions in the use of MA - 31 (25.4%) cases, which indicates the seriousness of HP and the need to cancel the suspected drug and prescribe drug therapy.
+250	The need for hospitalization or prolongation of hospital treatment was observed in 7 (5.8%) cases, and temporary disability of patients - in 5 (4.1%).
+251	Particular attention is paid to 2 (1.6%) cases of death as a result of the development of anaphylactic shock in patients (1 case) and CNS disorders (seizures, development of respiratory failure).
+252	The high frequency and severity of adverse consequences in the use of local anesthetics require health professionals to exercise rational choice and strict control of the safety of patients when using drugs of this group.
+253	A rare case of decompensation of chronic internal hydrocephalus in an adult patient is presented.
+254	In a 35-year-old woman, 3 weeks after stopping the postoperative inflammatory process in the oral cavity associated with tooth extraction, the clinical picture of intracranial hypertension developed acutely.
+255	The first magnetic resonance imaging showed the presence of severe internal hydrocephalus.
+256	Cisternoventriculostomy of the bottom of the III ventricle was performed, after which the patient&#39;s condition significantly improved and stabilized.
+257	There was no significant decrease in ventricular size, as it turned out during postoperative control and subsequent tomography studies.
+258	Thus, there was a suggestion of decompensation of chronic hydrocephalus provoked by dental intervention complicated by inflammatory process in the oral cavity.
+259	As a pathogenetic mechanism can be considered deterioration of venous outflow from the brain and destabilization of the processes of displacement and absorption of cerebrospinal fluid.
+260	Anaplastic thyroid carcinoma is an aggressive tumor with a high degree of malignancy and a tendency to early metastasis.
+261	This article presents a rare observation, including clinical, instrumental, morphological and autopsy data, of anaplastic thyroid carcinoma IVB stage in a 66-year-old woman.
+262	Rheumatic diseases are a serious medical and social problem.
+263	Variability of mechanisms of development of this group of diseases requires different approaches: strategies of drugs and non-drug therapy in modern rheumatology are designed to complement each other.
+264	The EULAR recommendations give insufficient attention to the use of non-pharmacological methods for the treatment of joint diseases.
+265	According to current studies, multidisciplinary rehabilitation strategies, including educational programs, physical training of different intensity, as well as the use of hardware rehabilitation methods, have demonstrated the greatest effectiveness.
+266	Hardware physiotherapy is optimal for treating patients with rheumatic diseases due to the greater availability and lower cost compared to classical balneotherapy and peloid therapy.
+267	When using magnetic therapy, there is also greater safety and fewer contraindications to the procedures.
+268	The most reasonable method for the treatment of joint diseases is the use of pulsed magnetic fields, since the sensitivity of biological tissues to them is the highest.
+269	Clinical efficacy of pulsed magnetic therapy has been demonstrated in several randomized placebo-controlled multicenter studies.
+270	On the background of magnetic field therapy, patients showed a statistically significant decrease in pain and stiffness, improvement of joint function, which indicates the expediency of including a physical factor in the strategy of treating rheumatic diseases in combination with drug therapy.
+271	To increase the effectiveness of treatment of patients with functional dysphonia of the hypotonic type using physiotherapy aimed at correcting autonomic disorders.
+272	The examination of 42 patients aged from 25 to 64 years with impaired vocal function included an anamnestic analysis, objective examination of ENT organs according to conventional methods, videostroboscopy of the larynx, acoustic analysis of the voice, cytological examination of smear reprints from the mucous membrane of the larynx and determination of the functional state of the autonomic nervous system.
+273	Of the 42 patients with voice disorders, 10 clinical and physiological studies of the state of the autonomic nervous system indicated the presence of autonomic dysfunction (inadequate vegetative support of activity).
+274	In these patients, traditional conservative treatment was ineffective.
+275	To correct vegetative disorders, acupuncture was used in such patients, which significantly improved the results of traditional treatment.
+276	The obtained results indicate an increase in the effectiveness of treatment with the help of physiotherapy correction of the autonomic nervous system (reflexotherapy using magnetic-infrared laser radiation and acupuncture).
+277	These interventions can be carried out in conjunction with traditional treatments or if they are ineffective.
+278	Secondary hemophagocytic lymphohistiocytosis (hemophagocytic syndrome, massive activation syndrome of macrophages) is a rare, aggressive, severe syndrome with frequent fatal outcome.
+279	The pathogenesis of the syndrome, the role of viral infection, the development of excessive, aberrant, inflammatory reaction leading to multiple organ failure and sepsis, remain unclear.
+280	The article presents the data of the literature and describes her own observation of secondary hemophagocytic lymphohistiocytosis in a 14-year-old girl who had undergone Epstein-Barr virus infection and died due to severe organ failure.
+281	Lifetime diagnosis was based on a typical clinical picture of the disease, detection of the virus by polymerase chain reaction, determination of the level of ferritin in the blood.
+282	Criteria of modern morphological diagnostics are shown.
+283	(immunohistochemical reactions with monoclonal antibodies to EBV, CD68;
+284	The article analyzes the results of the effect of the complex solution of lifestyle modification, including Nordic walking, rational nutrition and pharmacotherapy, on the quality of life of elderly and senile people (mean age 72.5 3.6 years).
+285	There was a significant increase in the pain scale of the MOS SF-36 questionnaire after six months (p 0.001), determined by the end of the year (p 0.0001).
+286	There was a tendency to improve the quality of life according to the Minnesota questionnaire in six months (p 0.0617).
+287	A significant increase in the Minnesota uality of Life index was found after one year of using this approach (p 0.0001).
+288	The relationship between the improvement of quality of life indicators and a significant decrease in the parameters of SAD (p 0.0016) and DAD (p 0.0032) in elderly and senile people after one-year practice of the original complex of measures for lifestyle modification is discussed .
+289	The article presents a detailed protocol of cone-beam computed tomography (CBCT), including not only the classical analysis of dentoalveolar and skeletal disorders, but also the diagnosis of cranial patterns (M. Rocabado cranial cephalometric analysis, Sassouni PLUS cephalometric diagnosis data), the analysis of transverse jaw sizes (Penn analysis), as well as the measurement of respiratory tract volume for the screening of obstructive apnea.
+290	The literature review was conducted using the PubMed search engine in the Scopus and Medline electronic databases until April 2020.
+291	It is concluded that the combination of several methods of CBCT interpretation in a single protocol will allow doctors to obtain a more complete amount of information for a full-fledged plan of complex treatment.
+292	AIM To analyze genome variants of severe acute respiratory syndrome caused by coronavirus 2 (SARS-CoV-2).
+293	Between February 1 and May 1, 2020, the authors downloaded data on 10,022 SARS CoV-2 genomes from four databases.
+294	The genomes belonged to infected patients from 68 countries.
+295	The authors identified variants by extracting and pairwise comparing sequences with the reference genome NC 045512 using the EMBOSS toolkit.
+296	The nucleotide sequence variants in the coding regions were converted into corresponding encoded amino acid residues.
+297	We identified 5775 distinct genome variants, including 2969 missense mutations, 1965 synonymous mutations, 484 mutations in non-coding regions, 142 noncoding deletions, 100 deletions within the reading frame, 66 noncoding inserts, 36 variants of changing the DNA sequence with a new stop codon, 11 frame-shift deletions, and two insertions within the reading frame.
+298	The most common synonymous substitution was 3037C T (6334 samples), P4715L in the open frame 1ab (6319 samples) and D614G in the &quot;spike&quot; protein (6294 samples).
+299	Six major clades (base, D614G, L84S, L3606F, D448del and G392D) and 14 subclades were identified.
+300	In terms of base replacement, the most common mutation was cytosine substitution with thymine (CT), which occurred in 1670 variants.
+301	The authors discovered the existence of several variants of the SARS-CoV-2 genome and found that since December 2019, the most common variant is the D614G clade.
+302	Evolutionary analysis demonstrated a structured transfer of genetic data with the possibility of multiple introduction into the population.
+303	AIM To evaluate the state of individual hemodynamic parameters (heart rate - heart rate) and indicators of the respiratory system in dentists when performing local anesthesia.
+304	From April to December 2019, the heart rate and saturation (saturation) of arterial blood with oxygen were determined.
+305	(SpO The maximum HR limits in the groups of subjects were 185.6 3.1 beats / min in the 25-44-year-old group; 178.7 3.1 beats / min in the 35-44-year-old group; 171.5 3.4 beats / min in the 45-55-year-old group.
+306	The measurement of arterial oxygen saturation in dentists showed a tendency to a slight decrease in this indicator within the normal range when pain appeared in the patient.
+307	Thus, the limit of changes in the indicator against the background of local anesthesia on the lower jaw was 95.2-96.1%, on the upper jaw - 96.3-96.6%.
+308	Treatment of patients with diseases of peripheral arteries requires a comprehensive approach: correction of risk factors, drug therapy and, if necessary, endovascular / hybrid / open surgical intervention.
+309	Reconstructive surgery can effectively improve the quality of life of the patient with intermittent claudication, save the limb and life in case of severe ischemia.
+310	The article discusses the advantages and disadvantages of various types of surgical interventions in peripheral artery diseases, the concept of PLAN (Patient risk, Limb severity, and Anatomic complexity; OCA - risk assessment for the patient, classification of the limb condition, anatomical model of the disease) and a new system for assessing the nature of limb artery lesions GLASS.
+311	Adequate medication can help to ensure good long-term results of surgery.
+312	Variations of antithrombotic therapy are multifaceted and controversial.
+313	Long-term double antiplatelet or systemic anticoagulant therapy with vitamin K antagonists is not indicated in peripheral artery diseases.
+314	In this regard, the results of COMPASS and VOAGER PAD studies are analyzed.
+315	In the VOAGER PAD study, it was demonstrated that in patients with peripheral artery diseases who had undergone lower limb revascularization, the addition of rivaroxaban 2.5 mg twice daily to aspirin reduced the risk of adverse ischemic events from the limb and significant adverse cardiovascular events by 15 %.
+316	The findings open up new possibilities of conservative therapy, which has a significant role in reducing the risks of conditions threatening limb loss.
+317	The objective of the present study was to evaluate the perioperative clinical-demographic and anatomical-angiographic factors in patients who were candidates for coronary bypass surgery with acute coronary syndrome without ST elevation depending on the presence or absence of myocardial infarction.
+318	SUBECTS AND METHODS
+319	The study for the period from 2017 to 2018 included 166 consecutive patients admitted with acute coronary syndrome without ST segment elevation, who were recommended to perform coronary bypass grafting by the cardio-team.
+320	Depending on the outcome of acute coronary syndrome, the patients were divided into 2 groups: the first group included 98 patients (59%) with unstable angina, the second group included 68 (41%) patients with myocardial infarction.
+321	In the second group, 2 (3%) patients had a fatal outcome before revascularization, therefore they were not included in the analysis comparing the results of the operation in the two groups, but these data were taken into account and analyzed separately.
+322	RESULTS
+323	In the group of patients with myocardial infarction, there were significantly more female patients (20 (30.3%) compared with 15 (15.3%) in the group of patients with unstable angina, p 0.02).
+324	However, in such indicators as average age, left ventricular ejection fraction and incidence of diabetes, the compared groups did not differ significantly.
+325	The group with myocardial infarction was characterized by severe clinical and angiographic status: grade II obesity was more common (3%, n 3 in the first group and 10.6%, n 7 in the second group, p 0.04).
+326	In general, the majority of patients were of intermediate and high risk (44.7% in the group with unstable angina versus 81.8% in the group of myocardial infarction, p 0.05), in the second group three-vascular lesions of the coronary bed were significantly more common (40 (40.8%) and 39 (59%), p 0.02).
+327	Low-density lipoprotein levels were significantly higher in patients with myocardial infarction (3.3 1 mmol / l and 2.9 0.9, p 0.04).
+328	In the same group, peripheral artery lesions were more common (28 (21%) and 12 (11.3%), p 0.04).
+329	In turn, in the group of unstable angina significantly more patients received double antiplatelet therapy before surgery (44 (44.9%) and 17 (25%), p 0.01).
+330	About half of the patients in the first group (53%, n 52) had a history of myocardial infarction (p 0.001).
+331	CONCLUSION
+332	The results of the study indicate that among patients with acute coronary syndrome without ST elevation with an outcome in myocardial infarction, female patients with obesity, as a consequence, hypercholesterolemia and trivascular lesion prevailing.
+333	At the same time, postinfarction cardiosclerosis, renal dysfunction and haemodynamically significant lesions of lower-limb arteries occurred in the group of unstable angina.
+334	We analyzed the results of a postmortem study of 186 patients with COVID-19, presented in 20 literature sources.
+335	Pathological changes were polyorganic with predominant involvement of respiratory, circulatory and excretory systems.
+336	Changes in the lungs were characterized by an increase in organ weight (in 59.3% of cases), dark-red parenchyma (in 47.4%), pulmonary tissue compaction (in 56%) and signs of stagnation (in 37.3%).
+337	Histological characteristics found in the postmortem study of lung tissue, indicating diffuse alveolar damage, amounted in 82.2% of cases to the appearance of hyaline membranes lining the contours of the alveoli, in 65.2% to the proliferation of type II alveolocytes, and in 55% to interstitial edema.
+338	In the analyzed sources in 22% of cases there was marked thrombosis and thromboembolism of pulmonary artery branches associated with thrombosis of deep veins of the lower extremities.
+339	In all literature sources, acute necrosis of tubular epithelium, dilated tubular lumen and interstitial edema were found in the kidneys.
+340	After sphincter-preserving low anterior resection, a significant proportion of patients with rectal cancer have complaints of evacuation problems, as well as retention of intestinal contents, combined into &quot;low anterior resection syndrome&quot; (LAPS).
+341	To date, there are no clinical recommendations for the treatment and rehabilitation of patients with SNCD.
+342	To develop a rehabilitation program for patients with SNSD.
+343	At the first stage of the work, 29 patients with SNDS were examined and treated: 17 (58.6%) men (mean age 61.5 9.5 years), 12 (41.4%) women (mean age 61.2 7.8 years).
+344	At the 2nd stage, 17 patients (mean age 61.4 12.7 years) were examined and received conservative treatment: 9 (52.9%) men, 8 (47.1%) women.
+345	The functional state of the low intestine and the locking apparatus was assessed using anorectal manometry methods: sphincterometry and examination of the low intestine reservoir function before and after treatment (in 17 patients at the second stage).
+346	The patients were prescribed a course of 10-day conservative rehabilitation by the method of BFB therapy with the standard protocol at the first stage and the protocol of complex BFB therapy at the second stage, as well as tibial neuromodulation.
+347	The developed complex of rehabilitation measures led to the improvement of the results of treatment of patients with colorectal cancer due to the improvement of the quality of life after low anterior resection, reducing the manifestations of ANSD by 47.8%.
+348	Sustainable positive results of treatment remained in 36.4% of patients, positive dynamics from the treatment, according to the SNPP scale, slightly decreased in 54.5%, deterioration of indicators in 3 - 6 months after conservative rehabilitation was recorded in 9.1% of cases.
+349	The data obtained allowed to recommend a repeat course of treatment for 63.6% of patients.
+350	The authors modified and optimized a special complex of physical therapy for the rehabilitation of patients both in a medical institution and at home.
+351	These exercises are aimed at improving the functional state of pelvic floor muscles and sphincter apparatus.
+352	In the rehabilitation program of patients with SNCD should include: 1) BFB therapy (biofeedback) to improve retention function;
+353	2) BOS therapy aimed at improving the reservoir function and sensitivity of the low intestine to filling;
+354	3) Tibial neuromodulation.
+355	This program can improve the contractility of the anal sphincter and the reservoir function of the low intestine, as well as the urge to defecate.
+356	Merkel carcinoma (CM) is a rare aggressive neuroendocrine tumor of the skin with a high frequency of recurrence and local metastasis.
+357	The average age at which CM is diagnosed is 75 years.
+358	Identification of the role of somatic mutations and DNA repairs in the mechanisms of aging raises the question of their direct relationship with the processes of differentiation, age-related features of immunity, programmed cell death and malignant growth.
+359	In this regard, there is still a need for research aimed at improving the early diagnosis and pathogenetic treatment of elderly patients with CM.
+360	The influence of different modes of rhythmic extreme cold effects on the state of autonomic regulation of heart rate in young and old rats was studied.
+361	According to the spectral analysis of heart rate variability, it was found that in young rats the use of temperature regimes of rhythmic extreme cold effects, RECH (-120 C; 120 C; -120 C) and (-60 C; -120 C ; -120 C) significantly increased the adaptive capacity of the body due to activation of its own homeostatic regulatory systems.
+362	At the same time, the combined mode of RECP (60 C; 120 C; 120 C) was the most optimal for old animals, since its use was not accompanied by excessive activation of the sympathetic-adrenal system at the early stages of experimental studies , in contrast to the mode (-120 C; -120 C; -120 C).
+363	In addition, the use of this mode of cooling contributed to a statistically significant increase in the total power of the neurohumoral regulation spectrum not so much by increasing the activity of the humoral-metabolic regulation, the predominance of which is characteristic of the elderly, but by increasing the tone of vegetative centers, with parasympathetic effects on the myocardium prevailing over sympathetic ones.
+364	The declared COVID-19 pandemic in the world, the worsening of the epidemic situation in our country, the regime of self-isolation, the increase in fear in society against the background of panic rumors and misinformation spread in social networks and the media, cause concern for the fate of patients suffering from mental diseases and put our psychiatric service with urgent organizational and therapeutic tasks.
+365	Taking into account the experience of other countries that have already experienced the massive spread of COVID-19, an overview of the proposed emergency and preventive organizational and treatment measures is given, and practical recommendations are given for emergency temporary reorganization of the psychiatric service, psychological and psychotherapeutic support to the most vulnerable groups of the population, including medical personnel working with COVID-19 patients, and management of mental patients with severe acute respiratory syndrome.
+366	It is proposed that priority should be given to dividing the flow of persons in need of psychological support and mental health care and to providing these services remotely (telephone hotlines and telemedicine consultations).
+367	Particular attention is paid to the management of mental patients with coronavirus respiratory syndrome and the peculiarities of psychopharmacological therapy with a review of the potential risks of side effects and complications related primarily to respiratory function, including those due to adverse drug interactions.
+368	One of the leading negative factors on the human body is weather, including its abnormal regimes and extreme hydrometeorological and geophysical phenomena, which form the most biotropic external conditions that can have a negative impact and provoke weather-related exacerbations in persons with chronic non-communicable diseases.
+369	Today, the problem of the influence of climatic and weather factors is acquiring a new content and becoming relevant in connection with the observed global climate change and its regional manifestations.
+370	The study included 335 patients with the established diagnosis of osteoarthritis / osteoarthritis of various localizations, including after total hip and knee replacement.
+371	The patients were divided into four groups: group 1 consisted of 67 patients who received &quot;dry&quot; carbon dioxide baths and exercise therapy; group 2 consisted of 60 patients who received common radon baths and exercise therapy; group 3 consisted of 61 patients who received common sodium chloride baths and exercise therapy; group 4 consisted of 84 patients who underwent local cryotherapy and exercise therapy.
+372	Meteosensitivity was studied by questionnaire.
+373	The psychological examination was carried out using the tests SAN (well-being, activity, mood), SMOL (shortened multivariate questionnaire for personality research) and HADS (Hospital scale of anxiety and depression).
+374	Increased meteosensitivity was observed in 272 (81.2%) patients and was accompanied by mild manifestations in 24.3%, moderate - in 48.2%, severe - in 27.5%.
+375	The effectiveness of balneotherapy and cryotherapy was confirmed by the positive dynamics and distinct regression of meteopathic reactions in 76.1% of patients after a course of common radon and in 61.7% after &quot;dry&quot; carbon dioxide baths.
+376	General sodium chloride baths did not have a significant meteocorrecting effect, however, there was a positive dynamics of psychological testing, which indicates an improvement in psychological adaptation after the course of treatment.
+377	Local cryotherapy procedures helped to reduce only severe meteopathic reactions from 14.3 to 8.3% and improve the psycho-emotional state, which can be a choice if balneotherapy is not possible.
+378	In the climate of the Moscow metropolis, there is an increase in the repeatability of biotropic weather conditions (hypoxic and spastic).
+379	This increases the frequency and severity of meteopathology.
+380	The effectiveness of non-drug methods in the prevention of increased meteodependence in patients with joint diseases has been proven.
+381	Screening of children 18 - 48 months of life from the general population to identify the risk of mental development disorders (MDD).
+382	The survey was conducted by a complete epidemiological method in primary health care institutions in nine regions of Russia.
+383	For the period 2017 - 2019, 595,691 parents of children aged 18 - 48 months of life were surveyed according to the questionnaire developed by the authors (given in full).
+384	The prevalence of the risk of NSD was estimated at 1307 cases per 10,000.
+385	The prevalence of mental and behavioral disorders (ICD-10) was 151: 10,000.
+386	The structure of mental disorders and behavioral disorders was analyzed.
+387	There was an increase in cases of mental development disorders (F84) - autism spectrum disorders (ASD) with increasing age of children.
+388	The prevalence of ASD at the age of up to 48 months of life is 18: 10,000, compared to the data of 2015-2016.
+389	- 5: 10,000 under the age of 24 months.
+390	Tropical malaria is an acute infectious disease from the group of parasitoses, transmitted by a transmissible route.
+391	Fatalities of imported malaria cases are recorded in Russia.
+392	The paper presents brief information on the epidemiology, etiology and clinical manifestations of the disease, as well as the observation of the fatal outcome in the cerebral form of tropical malaria, and describes morphological changes in organs and tissues.
+393	76T mutation associated with drug resistance of parasites was identified in the structure of the plasmodium gene.
+394	The article presents the results of surgical treatment of a patient with bilateral stent restenosis in the internal carotid arteries eleven years after carotid angioplasty with stenting.
+395	The literature data reflecting the current state of the problem, lack of research and unresolved a number of important issues are presented.
+396	The main indications and contraindications for this type of reconstruction are indicated.
+397	Main stages of operations are demonstrated.
+398	In addition, a method of intraoperative protection of the brain, including invasive measurement of retrograde pressure, is described.
+399	The optimal terms of the second stage of treatment were determined.
+400	The efficacy and safety of carotid endarterectomy for correction of this condition are shown.
+401	AIM To determine the frequency of occurrence and identify clinical and morphological risk factors for epileptic seizures in patients with glial and metastatic brain tumors.
+402	The study included 225 (88.6%) patients with glial brain tumors, 29 (11.4%) - with metastatic tumors.
+403	There were statistically significant differences in the incidence of epileptic seizures depending on age, histological characteristics of the tumor, degree of malignancy, tumor localization, the fact of involvement of the cerebral cortex, the presence of displacement of the median structures.
+404	It was found that epilepsy and epileptic seizures develop in 51.11% and 24.14% of cases in glial and metastatic brain tumors.
+405	Risk factors for the development of epileptic seizures include younger age (up to 57 years), histological characteristics corresponding to diffuse astrocytomas, anaplastic astrocytomas, oligodendrogliomas, oligoastrocytomas, grade I-III malignancy, temporal lobe lesions, involvement of the cerebral cortex.
+406	Factors that reduce the risk of seizures include age over 57 years, histological characteristics corresponding to glioblastoma and metastatic tumors, grade IV malignancy, subcortical localization of the formation, lesion of the occipital lobe, involvement in the pathological process of the conductive pathways (commissure) , subtentorial localization of the tumor, absence of lesion of the temporal and frontal lobes of the brain, involvement in the pathological process of both hemispheres of the brain, involvement of two lobes of the brain and more, the presence of displacement of the median structures .
+407	An anonymous questionnaire study was conducted with a random sample of 186 patients with type 2 diabetes mellitus (105 women and 81 men) from Stara agora, Bulgaria.
+408	The aim of the study was to study the opinion of the respondents with diabetes mellitus about the need to provide them with comprehensive care and social support to improve their quality of life, about their desire to at home with a specialist in the care of patients with diabetes, about the topics on which they want to be consulted, as well as about their level of awareness about the complications of untreated diabetes, the symptoms of hypoglycemia and hyperglycemia, about the willingness of the respondents to receive training to acquire knowledge about how to live with diabetes and on what topics they prefer to be trained.
+409	It has become clear that elderly people with diabetes need health care, social support to improve the quality of life.
+410	More than half of the respondents over 65 years of age (52%) diagnosed with diabetes need assistance, social support and home nursing to improve their quality of life.
+411	A larger proportion (60%) of the respondents want to be informed about their treatment, while 50% want to be informed about nutrition, 39% about motor activity, and 50% about complications of diabetes.
+412	In previously published materials on the study of the use of pharmacopuncture (injections of drugs in the area of ​​reflexotherapy points), the authors of this article pointed to the effectiveness of pharmacopuncture with the antioxidant Ubiquinone compositum and (as a pilot study) similar in effect drug Coenzyme compositum (&quot;Heel,&quot; Germany).
+413	The present work develops this topic by further comparing the characteristics of pharmacopuncture with the presented means.
+414	Disclosure of mechanisms and therapeutic possibilities of pharmacopuncture in metabolic syndrome.
+415	The study included 160 patients (103 women and 57 men) with metabolic syndrome.
+416	In addition to clinical characteristics, lipid and carbohydrate metabolism, atherogenic coefficient, activity of catalase and superoxide dismutase, level of prooxidant processes and insulin resistance were assessed.
+417	In the clinical phase, patients were divided into four groups.
+418	In group 1, treatment was limited to standard medication, in others, pharmacopuncture was additionally performed.
+419	In group 2, physiological solution (placebo) was used as an agent, in groups 3 and 4 - Ubiquinone compositum and Coenzyme compositum, which differ mainly in antioxidant effect.
+420	At the same time, the results of the examination of 35 healthy persons of both sexes under the age of 40 were taken as the average indicators (&quot;control&quot;).
+421	It was found that pharmacopuncture with both drugs leads to comparable positive results, significantly exceeding the effectiveness of other methods.
+422	However, within these groups, there are certain differences: in the case of the use of Ubiquinone compositum, there is a predominant decrease in blood pressure and dyslipidemia, and in the use of Coenzyme compositum, a shift in insulin resistance against the background of a regression in the imbalance in the peroxidation system.
+423	The presented data suggest, on the one hand, in favor of the therapeutic breadth of pharmacopuncture effects, and on the other - show the possibility of a differentiated effect.
+424	Analysis of sociodemographic and clinical characteristics of first depressive episode and recurrent depression.
+425	A total of 321 patients with depressive disorders were examined, including 96 patients with newly developed depression and 225 patients with recurrent course.
+426	The examination was performed using psychopathological and psychometric methods.
+427	The clinical-anamnestic differences of the studied groups with similarity of the main socio-demographic indicators and such risk factors as hereditary burden and personality pathology were established.
+428	In the recurrent course of the disease, there was an increase in the severity of depression, the severity of depressive ideas and suicidal tendencies with each episode, which affects the noted features that require further study, especially taking into account the effect of therapy.

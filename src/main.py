@@ -83,6 +83,8 @@ def handle_evaluation(model, src, trg):
         test_file = os.path.join('../result_files/google-translate', f"prediction_google-translate_{appendix}.txt")
     refs, pred = detokenize(reference_file, test_file, SRC_LANGUAGE_CODES.get(trg))
     calculate_bleu(refs, pred, model, SRC_LANGUAGE_CODES.get(src), SRC_LANGUAGE_CODES.get(trg))
+    calculate_chrf(refs, pred, model, SRC_LANGUAGE_CODES.get(src), SRC_LANGUAGE_CODES.get(trg))
+    calculate_ter(refs, pred, model, SRC_LANGUAGE_CODES.get(src), SRC_LANGUAGE_CODES.get(trg))
     print(f"Evaluation complete.") 
     pass
 
@@ -97,10 +99,10 @@ def main():
         "3":"deepl",
     }
     model = TRANSLATION_MODELS.get(model)
-    src = input("Choose source language:\n(1)english\n(2)portuguese\n(3)german\n(4)spanish\n(5)french\n(6)italian\n(7)chinese\n(8)russian\n>").lower()
+    src = input("Choose source language:\n(1)english\n(2)portuguese\n(3)german\n(4)spanish\n(5)french\n(6)chinese\n(7)russian\n>").lower()
     if src not in SRC_LANGUAGE_CODES:
         raise ValueError("Invalid source language.")
-    trg = input("Choose target language:\n(1)english\n(2)portuguese\n(3)german\n(4)spanish\n(5)french\n(6)italian\n(7)chinese\n(8)russian\n>").lower()
+    trg = input("Choose target language:\n(1)english\n(2)portuguese\n(3)german\n(4)spanish\n(5)french\n(6)chinese\n(7)russian\n>").lower()
     if trg not in TRG_LANGUAGE_CODES:
         raise ValueError("Invalid target language.")
     elif src == trg:

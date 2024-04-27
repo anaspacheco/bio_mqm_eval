@@ -1,0 +1,432 @@
+1	Introduction: In patients with severe and morbid obesity, it has been observed that bioelectrical impedance analysis (BIA) leads to an underestimation of fat mass (FM) and weight lost as FM after bariatric surgery.
+2	Objective: To assess the reliability of bioelectrical impedance analysis (BIA) for estimating total body water (TBW), muscle mass (MLG), fat mass (FM), and changes after 6 months of a Roux-en-Y gastric bypass (RYGB) in severely obese patients.
+3	Methods: 36 adults with an indication of BPGYR were studied prospectively.
+4	The deuterium activation coefficient (D) was measured, and MLG and MG were calculated.
+5	With dual frequency BIA (5 and 200 kHz) (Bodistat Dualscan®), fat mass, lean body mass, total body water, extracellular water, intracellular water, and cell mass ratios were estimated.
+6	The ACS/AIC ratio showed a positive correlation with the overestimation of MLG by BIA (r = 0.49; p = 0.002).
+7	After surgery, the differences between BIA and D were not significant, and the MLG estimation error was not correlated with the ACS/AIC ratio.
+8	Conclusions: BIA underestimates the FM as reported, which is reduced after weight loss, underestimating the weight lost as fat mass and overestimating the loss of lean mass.
+9	Future investigations may assess whether these errors are replicated with other BIA teams.
+10	The objective of this study was to construct and validate a short form of the Narcissistic Personality Inventory (NPI).
+11	The NPI is the most widely applied measure for the assessment of narcissistic personality traits and is therefore of great relevance to many research questions on personality and social psychology.
+12	To develop the short scale, we first found the optimal solution of eight items among all valid combinations of NPI-15 items in an exploratory sub-sample.
+13	Please provide the sentence you would like to have translated into English.
+14	Non-immersive VR environments have less interactivity applied to virtual reality techniques, so interaction with the virtual reality environment can occur commonly without 3D television immersion.
+15	This study demonstrates how exposure to 3D television, combined with physiological recording, can induce fear of cockroaches in individuals with varying levels of fear.
+16	Additionally, participants who are more fearful are more likely to trigger the emergence of cockroaches in the virtual reality environment due to their increased heart rate.
+17	Overall results suggest that our VR environment is valid to induce fear of cockroaches, with potential use in the therapeutic domain.
+18	Infection by the SARS-CoV-2 virus and the development of all manifestations of COVID-19 predispose to arterial and venous thromboembolic disease.
+19	The coagulation system can be activated by various viruses, including SARS-CoV-2.
+20	Vascular endothelial damage, combined with the development of disseminated intravascular coagulation, affects the prognosis and mortality of this disease.
+21	Treatment is aimed at prevention, early detection, and timely intervention of all coagulation disorders caused by COVID-19.
+22	The recommended anticoagulant is low molecular weight heparin, taking into account creatinine clearance, and if major invasive procedures are performed, unfractionated heparin is a safe option.
+23	Throughout history, pandemics have had a great impact on humanity.
+24	Measures used to combat them caused collateral damage.
+25	In the COVID-19 pandemic, the actions taken to reduce exposure, the number of infections, and the death rate imply a focus on reducing mortality, but even more deaths can occur.
+26	In turn, both medical staff and patients are affected by the economic slowdown and the "effect of negativity."
+27	This review article analyzed the different tools for controlling the pandemic, its development in a historical context, and how they impact risk stratification for vulnerable patients (elderly, chronically degenerative, and oncological patients).
+28	Its presentation is acute respiratory insufficiency characterized by hyperinflation of the lung leading to increased capillaries and epithelial permeability, with loss of aeration of lung tissue and increased pulmonary rigidity.
+29	These changes lead to imbalances between ventilation and perfusion ratio, which ultimately result in hypoxemia and deterioration of carbon dioxide clearance.
+30	For the current review, a search was conducted in PubMed and Trip Database.
+31	Due to the scarcity of publications, a specific search algorithm was not used.
+32	The goal is to disseminate, in accordance with the evidence and recommendations of national and international experts, the hemodynamic and respiratory management of these patients.
+33	The objective of this work was to measure the occurrence of multimorbidity and to estimate the number of individuals in the Brazilian population, 50 years or older, at risk of serious COVID-19.
+34	This is a nationwide cross-sectional study, using data from the Brazilian Longitudinal Study on Ageing (ELSI-Brazil), conducted in 2015-2016, with 9,412 individuals aged 50 years or older.
+35	Multimorbidity was characterized as ≥ 2 chronic conditions, based on a list of 15 morbidities considered to be at risk for serious COVID-19.
+36	Analysis included estimation of prevalence and estimation of the absolute number of people at risk.
+37	Self-assessment of health status, frailty, and basic activities of daily living were used as markers of health status.
+38	Sex, age, geopolitical region, and schooling were used as covariates.
+39	About 80% of the individuals in the sample had at least some of the morbidities assessed, representing about 34 million individuals; multimorbidity was reported by 52% of the study population, with the highest proportion
+40	Cardiovascular diseases and obesity were the most frequent chronic diseases.
+41	An estimated 2.4 million Brazilians are at serious risk of health issues.
+42	Inequalities were observed in terms of schooling.
+43	The number of people aged 50 and over who have risk morbidities for COVID-19 is high in both relative and absolute terms.
+44	The estimate presented is important for planning strategies to monitor people with chronic morbidities and for prevention in fighting the new coronavirus.
+45	The conflict between parents and adolescents has been studied as a precursor to macro and long-term developmental risks and as a result of interaction patterns at each moment and at the micro level.
+46	However, the family-level processes underlying the maintenance or regulation of conflict in daily life are largely ignored.
+47	A moderate understanding of the conflict between parents and adolescents provides important practical knowledge that has direct implications for interventions.
+48	This study analyzes the daily and residual reciprocal processes in the experiences of anger and conflict among parents and adolescents.
+49	Better understanding of daily patterns of interaction and maintenance of conflict between parents and adolescents can guide more informed, targeted, and timely interventions to improve the impact of problematic sequences of conflict between parents and adolescents.
+50	To correlate the functional capacity and quality of life of elderly people hospitalized in the emergency department.
+51	This is a cross-sectional and analytical study, conducted with elderly people admitted to the emergency department of a university hospital in the city of São Paulo, between December 2015 and January 2017.
+52	Data were collected through interviews, using a structured questionnaire, the Medical Outcome Study 36, the Katz Daily Living Independence Index, and the Functional Independence Measure.
+53	Participants included 250 elderly persons, average age 71.9 years, males (56.8%), white skin color (67.2%), married (54.0%), low schooling (32.0%), low incomes (58.0%).
+54	The most compromised quality of life dimensions were physical (11.4 percent), emotional (21.6 percent), and functional (25.2 percent).
+55	In terms of functional capacity, independence for basic daily living activities and moderate dependence on instrumental daily living activities were characterized.
+56	The higher the score of the functional independence measure, the higher the quality of life score.
+57	Update the estimate of mortality attributed to tobacco use in Brazil in the population aged 35 years and over.
+58	A dependent prevalence method was applied, based on the population attributable fraction.
+59	This method estimates the mortality attributed to the mortality observed in Brazil (source: Brazilian Unified Health System Mortality Information System, 2016); prevalence of smokers, former smokers, and never smokers (2013 National Health Survey)
+60	Estimates of overall attributed mortality by sex, age group (35-54; 55-64; 65-74 and 75 years) and 3 groups of diseases are presented: Malignant tumors, cardiometabolic and respiratory diseases.
+61	In 2016, tobacco consumption caused 163,831 deaths in Brazil, 67 percent (109,369) were among men, and four out of ten (62,791) occurred before the age of 65.
+62	Forty-two percent of attributed mortality is associated with cardiometabolic diseases, followed by respiratory (34 percent) and tumor (24 percent), with no gender differences.
+63	Fourteen percent of deaths in Brazil during 2016 in the population aged 35 and over are attributable to tobacco consumption.
+64	Regular MA estimates are necessary to assess and strengthen the tobacco control laws in place.
+65	Recently, the European Medicines Agency has authorized the use of immunotherapy drugs for the treatment of this disease in a metastatic stage.
+66	The purpose of this article is to analyze the clinical trials that allowed such authorization, and to review new therapies for the treatment of locally advanced or metastatic urothelial carcinoma.
+67	Comparative studies of chemotherapy versus immunotherapy are currently underway, as are multiple combinations seeking additive effects with antiangiogenic drugs or targeted therapies.
+68	Peripheral vascular trauma is a very common condition in military conflicts.
+69	Fortunately, a comprehensive understanding of local and systemic pathophysiology, in addition to the development of innovative surgical techniques and technological advances, has improved survival forecasts and anatomical and functional limb conservation.
+70	This paper provides a historical review of the current approach to peripheral vascular trauma, based on a heroic episode from the campaign for Mexico City during the United States invasion of 1846-1848: Defense of Melgustlo.
+71	Assess compliance with treatment monitoring and cure verification activities by Malaria Control Programme professionals.
+72	This is evaluative research, conducted through systematic observation, with the aid of a Likert scale form, adopting a numerical score to assess compliance.
+73	Data collection took place in the Amazon municipality of Cruzeiro do Sul in the state of Acre.
+74	Data were analyzed using descriptive statistics.
+75	Fifteen endemic control agents, five nurses, and five microscopists were observed carrying out their duties in the program.
+76	Treatment monitoring and curative verification activities achieved the respective total compliance rates of 72.0 percent and 12.1 percent.
+77	Microsatellites, evaluated in 9 activities, achieved a higher percentage of compliance, while nurses and endemic control agents had a partial compliance rate or did not perform certain activities.
+78	The Malaria Control Program falls below the recommended level, failing to meet the established gold standard, which could result in maintaining or increasing malaria-related cases.
+79	Until 2016, treatment options for patients with advanced transitional cell carcinoma progressing during or after first-line treatment were limited, and vinflunine was the only drug approved in Europe for this indication.
+80	The only alternatives were inclusion in a clinical trial or off-label chemotherapy with limited effectiveness and high toxicity.
+81	There are other anti-FGFR treatments, conjugated antibodies, and combinations of immunotherapy with drugs that enhance their effect, with promising results in preliminary studies, but which must be confirmed in more advanced studies for approval.
+82	For all these reasons, the treatment of advanced transitional cell carcinoma is undergoing major changes, leaving the challenge of individualizing treatment and the therapeutic sequence unchanged.
+83	SUMMARY Context: Abortion is particularly difficult to measure, especially in legally restricted environments, such as in Pakistan.
+84	Methods: In 2018, a sample of 4,159 married women of reproductive age was recruited from two communities in Karachi.
+85	Participants completed a survey that included a double-list experiment to measure abortion prevalence, as well as direct questions on abortion and other contextual characteristics.
+86	The data were used to estimate direct and indirect estimates of abortion prevalence in the sample in general and by socio-demographic characteristics, as well as to test the design effect.
+87	Regression analyses were conducted to examine associations between characteristics and reported abortions based on direct questions and the list experiment.
+88	Results: The estimated prevalence of abortion in the list experiment was 16 percent; the estimate from the direct question was 8 percent.
+89	No evidence of a design effect was found.
+90	Notification of the number of abortions was associated with most of the characteristics selected in the regression model for the direct question, but with few characteristics in the list experiment models.
+91	Conclusions: The fact that the estimate of abortion prevalence in Karachi generated from the list experiment was twice that obtained from direct questions suggests that the indirect method reduces underreporting.
+92	The list experiment could be useful in estimating abortion rates in similar settings and improving the accuracy of data collection on other sensitive health topics.
+93	The first thirty years of the nineteenth century for Mexico were times of independence, armed struggle, and also times of strong political instability.
+94	The social partners had personal concerns and collective problems, and the Peninsular Spaniards had to make decisions in the face of the independence movement.
+95	Those who did not accept and fought against it decided, in some cases, to voluntarily leave what was already their second homeland.
+96	Others spoke in favor of one or the other political stance and faced banishment.
+97	This is the case of two Spanish doctors: One of them, having spoken in his writings against the insurgency, accepted that the movement was irreversible and the only solution to his position was voluntary abandonment of Mexico.
+98	The other suffered forced eviction due to his ideology.
+99	Here we study their parallel trajectories, aware that these lines, by definition, never intersect.
+100	They did not agree during their stay in Mexico, but they did support their ideologies and their contributions to medicine.
+101	The reader will find information about his personal and professional lives in Spain before he enters Mexico, during his stay in Mexico, and upon his return to his home country.
+102	Evidence is emerging that the incidence of colorectal cancer (CRC) is increasing among young adults, but the descriptive epidemiology needed to better understand these trends is lacking.
+103	METHODS: A population-based cohort study was conducted of all adults aged 20-49 diagnosed with CRC in England between 1974 and 2015.
+104	Data were extracted from the NCRAS database using the ICD9 / 10 CRC codes.
+105	Temporary trends in age-specific incidence rates (incidence rates, IR) by sex, anatomical location, index of multiple deprivation index quintile and geographical region were analyzed using a regression model.
+106	A total of 56,134 new CRC diagnoses were analyzed.
+107	The most sustained increase in IR occurred in the 20-29 age group, mainly due to an increase in distal tumors.
+108	The magnitude of RI increases was similar for both sexes and IMD quintiles, although the most pronounced increases in incidence were in the southern regions of England.
+109	CONCLUSION: Colorectal cancer should no longer be considered a disease of older persons: Changes in incidence rates should be taken into account in future screening policies, preventive strategies, and research projects, and increase population awareness.
+110	There is little qualitative literature focused on understanding the perspective of parents of adolescents involved in crime, and there is no previous literature on how being the father of an adolescent involved in crime is combined with being an immigrant parent.
+111	This phenomenological study analyzed, from the perspective of immigrant parents, how they understand their children's involvement in criminal behavior.
+112	To this end, it analyzed detailed semi-structured interviews with 14 immigrant parents (10 mothers and 4 fathers) from the former Soviet Union in Israel of children treated in rehabilitation centers for young offenders.
+113	Data analysis revealed a gradual reduction in children's behavior attributed to the stage of adolescent development, immigration pressures, and cultural conflict.
+114	These three factors intersect to create a framework through which they view their children's involvement in crime.
+115	The gradual loss of parental control is balanced by attempts to idealize the relationship between parents and children and to reduce the severity of the offenses committed.
+116	They describe various diverse and even contradictory experiences of themselves as parents and their struggles to construct inconsistent and alternating experiences of themselves as parents.
+117	Despite their fundamental role in the rehabilitation of their children, as well as their own distress, parents of children involved in criminal acts had often been ignored in investigations.
+118	Recognition of parents' experiences and views can enable the development of appropriate therapeutic strategies to support them and maximize their skills to help their children.
+119	Introduction.
+120	The prevalence of cannabis use continues to rise worldwide, especially among adolescents.
+121	Such consumption overlaps that of cigarettes and other licit and illicit substances, and has been associated with depressive symptoms and increased suicide risk.
+122	Little is known in the Colombian context about the relationship between cannabis consumption and the risk of suicide.
+123	Objective.
+124	Assess the association between cannabis consumption and suicide risk among adolescent students in Santa Marta, Colombia.
+125	Materials and methods.
+126	A cross-sectional study was conducted with a probability sample of middle vocational students between the ages of 13 and 17 years in both formal and private schools.
+127	Lifetime Cannabis use was investigated, and suicide risk was quantified using the Center for Epidemiological Studies on Depression Scale.
+128	Scores above eight were categorized as high suicide risk.
+129	Crude and adjusted odds ratios (OR) were estimated.
+130	The results were as follows:
+131	A total of 1,462 students participated.
+132	The average age was 14.4 years (standard deviation, SD = 0.8) and 60.3% were women.
+133	The lifetime prevalence of cannabis was 11.6% (95% CI 10.0-13.2), and 13.3% (95% CI 11.6-15.0) of students had a high suicide risk.
+134	Cannabis consumption was associated with this risk adjusted for other variables (OR = 1.88; 95% CI 1.23-2.88).
+135	In this regard, it is important to note that there is a lack of progress in this area.
+136	Cannabis consumption was associated with a high suicide risk among adolescent students in Santa Marta, Colombia.
+137	Prospective, randomized study with 40 obese patients divided into two groups: BGL 2D or 3D.
+138	The main objective was to measure the time during manual gastrojejunostomy.
+139	Data collection included comorbidity, demography, operative time in three phases (creation of a reservoir, gastrojejunostomy, and jejunostomy) and post-surgery complications.
+140	The same surgeon performed the procedures.
+141	Two patients were excluded for inability to open the video.
+142	Twenty patients were analyzed in the 3D group and 18 in the 2D group.
+143	There were no significant differences in the pre-operative data.
+144	The average procedural time was 16.5 minutes shorter in the 3D group than in the 2D group.
+145	The time taken to perform tasks was only significant when the gastrojejunostomy was performed.
+146	There were no complications during or after surgery.
+147	The use of a 3D imaging system was associated with shorter total surgical time, especially for manual gastro-jejunostomy, compared to the 2D imaging system.
+148	Analyze the increase in the number of sentinel cases of HIV/AIDS in Mexico calculated from the actual number of infection cases.
+149	A cross-sectional analytical design studied the total number of COVID-19 cases in Mexico from February 29 to July 24, 2020, and compared them with the sentinel cases calculated from R 3916 by 2003.
+150	Epidemiological surveillance needs to be strengthened through a better case detection strategy in our country and the continued implementation of measures to contain and mitigate the HIV/AIDS pandemic.
+151	In 2018, the Democratic Republic of the Congo decriminalized abortion under certain circumstances through the Maputo Protocol.
+152	However, little is known about the willingness of health institutions in the country to provide comprehensive abortion services.
+153	Methods: Data from 1,380 health institutions were used from the Service Delivery Assessment Inventory (EPS) to assess the readiness to provide post-abortion services in four areas: pregnancy termination, basic post-abortion care.
+154	The analyses used a modified application of the emergency obstetric care signal function approach; the criteria for disposal were based on World Health Organization guidelines.
+155	Results: Thirty-one percent of health institutions in the DRC met the criteria for the provision of abortion services.
+156	The proportion of institutions classified as prepared was higher in urban centers than in rural areas (50% versus 26%) and hospitals compared to health centers or reference health centers (72% versus 25% and 45%, respectively).
+157	Few health institutions were prepared to provide either basic services or comprehensive treatment for post-abortion complications (4 percent and 1 percent); greater preparedness to provide such services was in hospitals (14 percent and 11 percent).
+158	Only one third of health institutions showed readiness to provide post-abortion contraception services.
+159	Inadequate availability of medicines (e.g., misoprostol, antibiotics, contraceptives) and equipment were the biggest barriers to preparation.
+160	Conclusions: Most health institutions in the DRC were not prepared to provide comprehensive abortion services.
+161	Improving the availability of vital health products will increase preparedness and have the potential to reduce the prevalence of unplanned pregnancies and future demand for abortion services.
+162	Multisystem inflammatory syndrome in children and adolescents temporarily associated with COVID-19 is a clinical presentation of SARS-CoV-2 infection.
+163	It shares some characteristics with Kawasaki disease, toxic shock, sepsis, macrophage activation syndrome, and myocarditis.
+164	There are few publications dealing with its initial management, which is similar to that proposed for septic shock.
+165	This review analyzes this approach based on the characteristics of COVID-19 multisystemic inflammatory syndrome, according to the paradigm of building an "institutional practice guide," and suggests therapeutic approximation strategies, including early detection and referral.
+166	Introduction.
+167	The sexually transmitted infection caused by Chlamydia trachomatis is the most common bacterial infection in the world.
+168	Although it may be asymptomatic in most cases, C. trachomatis may cause a variety of reproductive health problems in women, including cervicitis, pelvic inflammatory disease, and salpingitis.
+169	Despite its importance, Medellín does not have sufficient epidemiological data on this infection.
+170	Objective.
+171	Determine the prevalence of C. trachomatis in women in Medellín, identify possible risk factors, and assess the relationship with human papilloma virus (HPV) infection.
+172	Materials and methods.
+173	A multi-center cross study was conducted to detect C. trachomatis infection in 1,282 women by conventional PCR and LightMix 480 HT CT / NG (Roche, Basel, Switzerland).
+174	The results were as follows:
+175	The total prevalence of C. trachomatis infection was 4.1 percent (95% CI 2.9-5.3).
+176	A significant relationship was found between infection and age, cigarette smoking, and the use of hormonal contraceptives.
+177	In this regard, it is necessary to ensure that the right to health is respected.
+178	The prevalence of infection is similar to that reported elsewhere in the country and around the world, with younger women most affected.
+179	Regarding the presentation of HPV, no relationship was found with C. trachomatis.
+180	Nursing homes are high-risk environments for the transmission of the SARS-CoV-2 coronavirus, as they are enclosed spaces, with atypical presentations of the disease, and have high potential for unfavorable movement and staffing.
+181	On the other hand, during a pandemic situation, many hospitals have experienced periods of significant care pressure.
+182	The objective of this work was to present an experience of medicalization in a residence where almost 50% of residents contracted the disease.
+183	A multidisciplinary intervention was conducted in a public residential home for elders with 99 residents.
+184	Specialists in internal medicine, primary care, and health technicians worked together in close cooperation with the workers of the residence.
+185	The presence of nursing staff was authorized on a 24-hour basis and medical staff on a daily visit.
+186	The center was provided with the necessary resources for administering medication (oral and intravenous) and oxygen therapy for patients with the disease.
+187	The analytical results were available in 24 hours.
+188	For data analysis, percentages were calculated and the average was used as a measure of central tendency.
+189	Forty-eight residents (48.5 percent) and fifteen workers contracted the disease.
+190	The total number of deaths during this period was 13 (13.1 percent), 7 of them with a diagnosis of HIV/AIDS (average age 84.4 years), with a case fatality rate of 14.6 percent.
+191	Eleven patients (22%) diagnosed with AIDS-19 were hospitalized, and two died upon admission.
+192	Medicalization of residential care can help reduce the pressure on hospital care and optimize more humane care for these vulnerable individuals, which can ultimately lead to better health outcomes.
+193	To describe the academic and care activities of emergency medicine graduates at the General Regional Hospital 25 of the Mexican Social Security Institute (IMSS).
+194	This is an observational, descriptive study, which analyzed the 25 generations who have graduated from the specialty.
+195	The scientific, teaching, and assistance productivity of their graduates was analyzed, as were subsequent training and managerial positions.
+196	From 1991 to 2018, 238 residents were admitted, of whom 88.65 percent completed their studies.
+197	A total of 57.34 percent are male.
+198	Approximately 78.67 percent of graduates work exclusively at the Mexican Social Security Institute, and 68.72 percent work in more than one institution.
+199	Seventy-two percent are certified.
+200	They published 112 scientific articles and 4 books.
+201	12.32 percent of graduates received a second degree, the predominant being in critical patient care (84.61 percent).
+202	The main achievements of the headquarters include being the country's first emergency headquarters to be included in the National Science and Technology Council's Quality Graduate Programme.
+203	Fifty-three percent of these specialists are or have served in managerial positions.
+204	This headquarters is a reference point within the emergency field in Latin America.
+205	Introduction: To combat the HIV/AIDS pandemic, governments have adopted measures such as quarantine and social distancing.
+206	Objective: The main objective of this study was to analyze the impact of quarantine due to COVID-19 on body mass in combat sports athletes.
+207	Methods: We conducted a cross-sectional, prospective, and multi-center study that assessed 234 men (average age and standard deviation, 29 ± 10 years) residing in Argentina (n = 38);
+208	Bolivia (n = 1); Brazil (n = 105);
+209	Chile (n = 30); El Salvador (n = 1);
+210	Spain (n = 22); Mexico (n = 22); and Peru (n = 15).
+211	Of these, 12 practiced Brazilian jiu-jitsu (BJJ), 54 boxing, 67 judo, 13 karate, 52 kickboxing and muay thai, and 27 KmarekMA.
+212	An online survey was developed using Google Forms.
+213	It was implemented between April 4 and April 17, 2020.
+214	Athletes were asked about their body mass before beginning quarantine and after 20 ± 5 days of quarantine.
+215	Results: Athletes in all combat sports were heavier during quarantine than during pre-quarantine (p < 0.001, d = 0.12).
+216	Conclusions: Combat sports athletes showed a higher body mass during quarantine because of COVID-19.
+217	To provide an overview of morbidity and mortality due to acute diarrheal disease (ADD) in Mexico between 2000 and 2016 in order to understand its magnitude, distribution, and evolution.
+218	Longitudinal ecological study with secondary sources of information.
+219	Data on epidemiological surveillance, service provision, and vital statistics were analyzed.
+220	Service utilization and mortality rates were calculated.
+221	Morbidity from EDA decreased by 42.1% in the period, but emergency care increased by 50.7% in SS.
+222	The hospitalization rate decreased by 37.6 percent and mortality by 39.7 percent in the general population, and by 72.3 percent in children under five.
+223	Chiapas and Oaxaca were the states with the highest mortality rate.
+224	Cases of diarrhea, including rotavirus, have decreased in the country.
+225	However, in 2016, a rate of 3.4 per 100,000 people who die from EDA was found, which could be avoided by health promotion.
+226	Evaluate the effectiveness, safety, and tolerability of oral spray cannabinoids as complementary therapy for children with spasticity due to cerebral palsy or traumatic injury of the central nervous system who do not respond to conventional treatment.
+227	METHOD: A total of 72 patients (average [SD] age 12 years 4 months [3 years 1 month], range 8-18 years) were randomized in a 2:1 ratio to receive nabiximols spray for boys (n = 47);
+228	The primary outcome was a change in the baseline level of spasticity on a Numeric Rating Scale (NRS) from 0 to 10, assessed by the primary caregiver at 12 weeks.
+229	Secondary outcomes included additional measures for spasticity, sleep quality, pain, health-related quality of life, comfort, depression, and safety.
+230	There were no significant differences in the range of NRS 0-10 between the nabiximol versus the placebo group after 12 weeks.
+231	No statistically significant differences were observed for any secondary evaluation criteria.
+232	The adverse events were predominantly mild or moderate in severity; however, three cases of hallucinations were reported.
+233	INTERPRETATION: Nabiximols was generally well tolerated; however, neuropsychiatric adverse events were observed.
+234	No significant reduction in spasticity was observed with nabiximols treatment versus placebo.
+235	The results of mandatory confinement have been detrimental in several respects.
+236	However, they have had an impact on reducing the number of active HIV/AIDS cases.
+237	Chile had begun to deescalate and needed to know the best time to end the restrictions.
+238	Discuss the best conditions and guarantees for the end of mandatory confinement based on new cases, active cases, and positive PCR tests.
+239	Study based on a trend model with estimates of predictions.
+240	Data on the variables of interest were subjected to linear regression analyses to determine the curve that best explained the data.
+241	The coefficient of determination, the standard deviation of x, and the confidence interval of the observed curve were estimated.
+242	The trend curve was then chosen in line with the regression estimates.
+243	It was found that all dependent variables tended to decrease over time in a quadratic manner, with the exception of the variable new cases.
+244	Estimates of the coefficient of determination (R²) and average absolute percentage error are generally satisfactory, except for the variable: Number of polymerase chain reaction tests per day.
+245	Step-by-step and precautionary measures must be taken before mandatory confinement is terminated.
+246	In the current de-escalation, the number of daily polymerase chain reaction tests should be increased and monitoring should continue on the incidence, prevalence, and positive indicators of such tests.
+247	The evidence suggests with some degree of reliability that compulsory confinement could be safely lifted from August 30, 2020.
+248	Long-term preparations must be made to contain future waves, that is, a new increase in new and active cases following the downturn.
+249	When an outbreak occurs, in the vast majority of cases, a variety of misconceptions begin to emerge, but an epidemiologist will know what to do and how to do it.
+250	If the outbreak becomes uncontrolled, support staff will be required.
+251	For this reason, a rapid deployment team must be established to investigate outbreaks, coordinate and advise those responsible for medical care, and enhance local epidemiological surveillance.
+252	The objective of this study was to validate the Brazilian version of the Disturbance of Sleep-Items Banks of the Patient-Reported Outcomes Measurement Information System (PROMIS).
+253	The validation of these item banks was carried out using classical test theory, item response theory, item calibration, according to Samejima's proposed step-by-step response model, and differential item functioning analysis.
+254	In relation to the quality of the data, it was observed that there were no missing data and five items from the Disturbed Sleep bank and four items from the Disturbed Wakefulness bank had floor effects, and none of the banks had a ceiling effect.
+255	Both scales showed excellent reliability and good temporal stability.
+256	Confirmatory factor analysis, using absolute and incremental fit indices, showed good fit for the two banks, indicating that the instruments are valid and sufficiently unidimensional.
+257	The calibration showed that the psychometric properties of the items were satisfactory with good coverage of the sleep-wake construct.
+258	As far as DIF is concerned, both the Disturbed Sleep bank and the Disturbed Vigilance showed to be homogeneous for the different groups tested.
+259	It can be concluded that the Portuguese-speaking Brazilian version of the Disturbing and Dry Eye Item Banks of the PROMIS Network proved to be reliable, accurate, and valid, with psychometric analysis.
+260	In 1987, the World Health Organization (WHO) published a simplified Trace Classification System.
+261	This system was designed for use by non-specialist community staff and includes five signs, each of which may be present or absent in the eyes: (I) trachomatous trichiasis; (III) corneal opacity;
+262	Although not perfectly sensitive or very specific to trachoma, these signs have been essential tools for identifying populations that require interventions to eliminate trachoma as a public health problem.
+263	In 2018, at the WHO Fourth World Science Meeting on Trachoma, the definition of one of the signs, trachomatous trichiasis, was changed to exclude trichiasis involving only the lower eyelid.
+264	This document describes the modified system, updates its presentation, provides comments on its implementation, and identifies areas of ongoing discussion.
+265	The rationale for the study was to assess the degree of knowledge of Spanish pharmacists in the field of drug surveillance, their reporting of adverse drug reactions (ADRs), and their need for training, establishing differences between community and hospital pharmacists.
+266	A questionnaire containing 12 questions on drug surveillance was designed.
+267	The questionnaires were distributed and collected online with the collaboration of the Official Pharmacists Colleges and the Spanish Society of Hospital Pharmacy, during the period from November 2018 to June 2019. The target population
+268	The results were processed through descriptive and analytical analysis.
+269	Qualitative variables were presented with their frequency distribution, and quantitative variables with their mean and standard deviation.
+270	Ninety-nine percent of the FH reported having had an ADR and 96.9 percent reported it.
+271	Of the CPCs, 73.5 percent reported that they had an ADR, but only 48.7 percent confirmed that they reported it.
+272	Respondent pharmacists generally agreed on the importance of drug surveillance, and believed that treatment quality could be improved and savings in the Spanish health system would be achieved through greater application of drug surveillance.
+273	Our results indicate that FH reports more of an ADR than the FC.
+274	It is also the healthcare professionals who have the best knowledge of their obligations for drug surveillance.
+275	Respondent pharmacists believe that the development of pharmaco-surveillance activities would increase professionals' adherence to notification and would lead to improvements in treatment quality, rational drug use, and patient safety.
+276	In Uganda, one in five children have mental health problems, including disruptive behavior disorders (DBDs).
+277	TCD can persist into adulthood and have negative consequences.
+278	Effective interventions for chronic diseases have been developed and evaluated in communities with high poverty rates in developed countries.
+279	However, most African countries, such as Uganda, lack such interventions.
+280	This article describes the process of adapting a United States-led factual intervention to optimize its adaptation to the context with intervention fidelity as part of a randomized trial of behavioral problems in young people and their caregivers in 30 schools in Uganda.
+281	The process consisted of initial meetings with principals and teachers to present the study and main concepts of the intervention; an initial review of the handbook focusing on the contents of the 4Rs and 2 Ss intervention by the Ugandan team;
+282	This article describes both the similarities and the differences between the content of the original and the adapted intervention and the methods of implementation.
+283	The results also highlight the importance of involving stakeholders in the adaptation process.
+284	The HIV/AIDS pandemic has disrupted routine hospital services worldwide.
+285	This study estimated the total number of elective operations for adults to be cancelled worldwide during the 12-week maximum interruption due to COVID-19.
+286	METHODS: A comprehensive expert response study was conducted to provide projections of the proportion of elective surgery to be cancelled or postponed for 12 weeks of the maximum disruption peak.
+287	A Bayesian beta regression model was used to estimate cancellation rates for 12 weeks in 190 countries.
+288	Data from elective surgical cases, stratified by specialty and indication (cancer versus benign surgery), were determined.
+289	This case mix was applied to surgical volumes at the country level.
+290	The 12-week cancellation rates were applied to these figures to calculate the total number of suspended operations.
+291	The best estimate was for 28,404,603 operations to have been cancelled or postponed during the 12 weeks of peak disruption by COVID-19 (2,367,050 operations per week).
+292	Most of the operations were for benign diseases (90.2 percent, 25,638,922 / 28,404,603).
+293	The overall cancellation rate in 12 weeks would be 72.3 percent.
+294	At the global level, 81.7 percent (25,638,921 / 31,378,062) of benign surgeries and 37.7 percent (2,324,069 / 6,162,311) of cancer surgeries had been cancelled.
+295	If countries increase their normal surgical volume by 20 percent after the pandemic, it would take a median of 45 weeks to clear the backlog of operations resulting from disruption by COVID-19.
+296	CONCLUSION: A very large number of surgeries will be canceled or postponed due to the disruption caused by COVID-19.
+297	Governments should mitigate this significant burden on patients by developing recovery plans and implementing strategies to safely restart surgical activities.
+298	To identify the period of time during which a hospital bed is virtually available on the computer system, while occupied by a patient, in a hospital in Mexico.
+299	A cross-sectional study was conducted in a 250-bed academic medical center in north-central Mexico in February 2015.
+300	The administrative and actual discharge of the patient was recorded in an institutional format.
+301	Measures of central tendency were used to present the data.
+302	The cost per day/bed was obtained from the official data published for the nation; 943 patients were followed up during the discharge process.
+303	2.4% of the total number of beds were occupied by discharged patients.
+304	The annual cost for cold/dead beds was $959,220.00 ($14,348,304.00 MXN), without benefit to patients.
+305	Cold/dead beds accounted for 1.31 percent of the annual hospital budget in 2015.
+306	It is necessary to implement improvement initiatives to allocate beds efficiently to patients.
+307	The discharge process should be standardized to reduce direct hospital costs per day per bed.
+308	The supervision of resident doctors involved in this process must be strengthened.
+309	The COVID-19 pandemic began on December 31, 2019 in China, with SARS-CoV-2 identified as the causative agent.
+310	The objective of this original work is to describe the spatial and temporal dynamics of the COVID-19 epidemic in the first 100 days of the epidemic in Pernambuco State, Brazil.
+311	We present the evolution of cases and deaths according to epidemiological weeks.
+312	We carried out the analysis of the series of cumulative confirmed COVID-19 cases, with projections for the next 15 days, using the JoinPoint application.
+313	This program makes it possible to identify turning points, proving their statistical significance.
+314	We also analyze the trend of awareness of COVID-19 in the State, considering the percentage distribution of cases in Recife, municipalities of the Recife Metropolitan Region, and the interior, by sets of three weeks' maps.
+315	The 100 days of the COVID-19 epidemic resulted in 52,213 cases and 4,235 deaths from March 12, corresponding to epidemiological week 11, to June 20, 2020 (epidemiological week 25).
+316	The peak of the epidemic curve occurred in epidemiological week 21 (May 23), followed by a slowdown in the number of cases.
+317	The periphery of cases in the capital and metropolitan region was initially detected, followed by rapid spread to the interior of the state.
+318	There was a reduction in average daily growth rates from April, but with an average level of over 6,000 cases per week of COVID-19.
+319	At the end of the period, the state case series indicates the persistence of community circulation and transmission of SARS-CoV-2.
+320	Finally, it is questionable, to paraphrase García Márquez in "One Hundred Years of Solitude," whether we are dealing with "a period of referral or the prelude to an upsurge."
+321	In this article, we analyze the effect of the emigration of South African families on parents/grandparents who must renegotiate their lives in the face of the physical absence of their loved ones.
+322	We adopt a transnational perspective in a broader qualitative project to consider both ends of the migration spectrum.
+323	Here we focus on the elderly family members who remain, a group largely neglected in previous research.
+324	Our findings illustrate the complex emotions and relational changes experienced by elderly people whose families migrate.
+325	New technologies bridge and narrow distances, allowing new ways to connect, care for each other, and reinvent transnational relations and what constitutes family life, but these bridges cannot reverse the loss suffered.
+326	People have to give meaning to emigration and forge new relationships with the remaining family members.
+327	Our findings emphasize the significant role of grandparents in a family system and highlight some gender and race differences in family experiences.
+328	Previous research indicates that couples facing a chronic disease from a "we" relational orientation have more positive outcomes than individual couples; however, there is little prior research to identify the clinical processes involved.
+329	This grounded theory analysis of 25 video therapy sessions with six heterosexual couples facing chronic liver disease used a feminist-based relational perspective to focus on clinical processes related to the transition from individual orientation.
+330	The findings identified three contextual obstacles to "evidence-based orientation": (A) autonomy discourse, (b) disease-related power, and (c) power associated with gender.
+331	The analysis detailed the therapist's measures that reduced the impact of obstacles to reciprocity and encouraged relational coping.
+332	Clinical implications address the complex intersections between gender, care, and contextual obstacles to reciprocity.
+333	Determine the additional diagnostic yield of a rapid serology test that detects IgM and IgG antibodies against SARS-CoV-2 in relation to real-time reverse transcriptase polymerase chain reaction (RT-PCR).
+334	A cross-sectional study was conducted including patients hospitalized with COVID-19 in three hospitals, health workers exposed to infection, and outpatients who met suspected case criteria, who underwent molecular (PCR) and rapid testing.
+335	The additional diagnostic yield of rapid serology tests in relation to molecular tests was assessed.
+336	The sensitivity and specificity of these tests were also estimated.
+337	A total of 144 persons were included.
+338	The rapid serological test achieved 19.4 percent of positive results compared to 11.1 percent in the molecular test (p = 0.03).
+339	The rapid serology test detected 21 cases that had been negative by the initial PCR, and the additional diagnostic yield was 56.8 percent compared to the RTK.
+340	Additional diagnostic performance was 50.0 percent during the first week, 70.0 percent during the second week, and 50.0 percent during the third week of symptom onset.
+341	The sensitivity of the rapid serological test was 43.8 percent and the specificity was 98.9 percent.
+342	The rapid serology test was able to detect more cases than the molecular test, especially from the second week of onset of symptoms.
+343	It was also highly specific.
+344	The results would be useful as a complementary test to the molecular test, especially during the second and third week of the disease.
+345	A circumferential resection margin (CRM) of 1.0 mm after rectal cancer surgery is believed to increase the risk of local recurrence (LR).
+346	This population-based retrospective study assessed how the distance from the MRC affected the risk of RA.
+347	METHODS: Data from the Swedish Register of Colorectal Cancer (SCRCR) were used for retrospective analysis of rectal cancers resected between 2005 and 2013.
+348	The primary objective was the RA.
+349	A total of 12,146 patients were identified, with 8,666 patients analyzed after the exclusions.
+350	A total of 739 patients had an MRC of ≤ 1.0 mm and 7,653 patients had an MRC of > 1.0 mm.
+351	The average follow-up time was 51 months.
+352	There were 66 (8.9%) cases of LR in the MRC group ≤ 1.0 mm and 256 (3.3%) cases of LR in the MRC group > 1.0 mm.
+353	The RA rate was 17% (n = 27 / 159), 6.7% (n = 39 / 580), 1.9% (n = 2 / 103), and 3.4% (n = 254 / 7550) for CRM.
+354	The risk of R & R of 0.0 mm was higher compared to all other groups with larger MRC (P < 0.05).
+355	No difference in RA between 1.1-1.9 mm and ≥ 2 mm was observed.
+356	The LR was diagnosed earlier when the MRC was ≤ 1.0 mm.
+357	CONCLUSION: The risk of RA is related to the exact MRC, with a higher risk in patients with an MRC of 0.0 mm.
+358	Close monitoring of patients without a clear measurable margin can allow for early detection of rheumatoid arthritis.
+359	HIV patients are more likely to develop cancer.
+360	Malignant lymphomas are the main group of cancers observed in these patients.
+361	Diffuse large B-cell lymphoma, including central nervous system and Burkitt's lymphoma, accounts for 90% of all NHL cases in 22-year-olds, with fever up to 39°C and malaise.
+362	Hemoglobin of 9.5 g/dL, leukocytes 5.13 x 10^3/mm^3, platelets 124,000 cells/mm^3; albumin 2.9 g/dL; alanine aminotransferase 28 IU/L, aspartate aminotransferase 105 IU/L;
+363	HIV reactive, beta 2 microglobulin 20,000 ng/ml. Viral load for HIV 100,034 cp/ml, CD4 76 cells/mcL (5%).
+364	The abdominal ultrasound revealed cysts in the liver and spleen.
+365	Abdominopelvic tomography revealed hepatosplenomegaly, retroperitoneal and inguinal adenopathies, and free fluid in the abdominal cavity.
+366	Splenectomy was performed and the histopathologic study reported Burkitt's lymphoma.
+367	HIV predisposes patients to any type of cancer.
+368	Intra-abdominal findings should lead to suspicion of lymphoma and may occur from infiltration of the small intestine, solid organs, and soft tissues.
+369	Under the Global Health Strategy against Viral Hepatitis C and the Strategic Plan to Address Hepatitis C in the National Health System (NHS), the Secretariat of the National Plan for HIV/AIDS
+370	This article describes the experience and reflections that have been gained around it.
+371	Key points in the process include interdisciplinary work through a Technical Group involving experts from the different areas involved; availability of scientific evidence for decision-making, especially the 2nd Comprehensive HCV Seroprevalence Study.
+372	The result is shown in the newly published HVC Screening Guide, which indicates screening of persons with exposures and risk situations for infection, as well as main recommendations for improved screening and treatment.
+373	We hope that this Guide and the continuation of joint work will enhance equitable access to the diagnosis and treatment of HCV infection in Spain.
+374	Introduction: Evidence suggests a role for vitamin A in the regulation of fat mass that affects obesity and cardiovascular diseases.
+375	Material and Methods: This is a cross-sectional study of 200 women matched by age and dietary intake of vitamin A.
+376	They were divided into four groups according to body mass index (BMI): 80 eutrophic (E), 40 overweight (OW), 40 obese class I (OI), and 40 obese class II (OI).
+377	Liquid and glucose profiles were measured, and oxidative stress was assessed through serum concentrations of uric acid, glutathione-peroxidase (GSH-Px), and thiobarbituric acid reactive substances (TBARS).
+378	Results: The cut-off points for the deficiency in serum concentrations of retinol and carotene were 1.05 µmol/L and 40 g/dL, respectively.
+379	The recommended dietary intake of vitamin A was 700 µg/day.
+380	A deficiency of retinol and carotene was found in group E of 5% and 15%, respectively, reaching 77.5% and 82.5% in group OII.
+381	Conclusions: There was a correlation between serum concentrations of retinol and carotene and glycemic, lipid, and oxidative stress markers profiles in the groups studied.
+382	It was observed that subjects with OI and OII with retinol and carotene deficiency were 16 and 20.7 times more likely to be diagnosed with DM2 compared to those with adequate vitamin A concentrations.
+383	Increased demand for vitamin A may be associated with increased BMI, body fat, and oxidative stress, even when the recommended intake of vitamin A is achieved.
+384	The association between physical activity and health has been clearly established, and the promotion of physical activity should be seen as a cost-effective approach universally prescribed as first-line treatment for almost all chronic diseases.
+385	Health care providers involved in the care of persons with cerebral palsy (CP) are encouraged to play an active role in promoting their health and well-being.
+386	Balancing activity behavior throughout the day, with improved physical activity, reduced sedentary time, and healthy sleep behaviors, can prepare infants, preschool, and school-age children with CP for a healthy lifespan.
+387	None
+388	None
+389	None
+390	None
+391	None
+392	None
+393	None
+394	None
+395	None
+396	None
+397	None
+398	None
+399	None
+400	None
+401	None
+402	None
+403	None
+404	None
+405	None
+406	None
+407	None
+408	None
+409	None
+410	None
+411	None
+412	None
+413	None
+414	None
+415	None
+416	None
+417	None
+418	None
+419	None
+420	None
+421	None
+422	None
+423	None
+424	None
+425	None
+426	None
+427	None
+428	None
+429	None
+430	None
+431	None
+432	None

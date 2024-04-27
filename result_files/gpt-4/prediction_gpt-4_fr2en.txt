@@ -1,0 +1,364 @@
+1	Merycism: when the human being starts to ruminate
+2	Merycism is a rare and unrecognized functional gastrointestinal disorder.
+3	Indeed, the diagnosis is made, on average, with a delay of 21 to 77 months.
+4	This delay can lead to dramatic consequences for the patient, such as significant weight loss, ion imbalance and social isolation.
+5	Through a clinical situation, we discuss the challenges and peculiarities of diagnosing merycism, as well as its management, in a case suggesting an eating disorder.
+6	This pathology can be found in various specialties such as general medicine, pediatrics, gastroenterology, endocrinology, dentistry, child psychiatry, psychiatry, neonatology, or even in maternity.
+7	The frailty of the elderly is a dynamic and evolving geriatric concept, involving many dimensions of everyday life and posing a risk of developing a loss of autonomy.
+8	Although there is no consensus definition, the consequences are significant: risk of functional decompensation, increased hospitalizations, dependency in daily life, institutionalization, and increased mortality.
+9	The Covid-19 pandemic highlighted the critical role of public safety personnel in serving and protecting all Canadians.
+10	Because public safety personnel were already reporting mental health and wellness issues even before the Covid-19 pandemic, new stressors may increase the need for additional resources for these personnel to be able to help us in the long term.
+11	This article proposes various support elements that may provide relevant avenues for promoting the well-being of public safety personnel during the prolonged stress period caused by the Covid-19 pandemic.
+12	Self-care may be critical to maintaining the mental health and well-being of public safety personnel during the Covid-19 pandemic.
+13	Numerous epidemiological studies have shown an increase in morbidity and mortality related to the respiratory system in relation to pollution.
+14	Exposure to air pollutants causes short-term effects following peak pollution exposure, and long-term effects: lung function declines and the development of chronic diseases.
+15	This article explores the impact of different air pollutants on COPD, asthma, and lung cancer.
+16	The consequences of household pollution on the respiratory system, as well as the impact of air pollution on physical exertion, will also be discussed.
+17	Focus on diaphyseal fractures of the humerus.
+18	Fractures of the humeral shaft are relatively common and account for up to 5% of fractures.
+19	Conservative brace treatment is the treatment of choice for the majority of fractures.
+20	It allows a high degree of consolidation and is associated with good functional results.
+21	Age and proximal third oblique fractures are two risk factors for pseudoarthrosis, in the presence of which surgical management should be more easily considered.
+22	When indicated, plate osteosynthesis and intramedullary nailing offer similar rates of consolidation and functional outcomes, with a greater risk of shoulder problems after nailing. 
+23	Finally, immediate surgical exploration of the radial nerve is not recommended, even in cases of paresis secondary to the reduction of the fracture.
+24	Diagnosis and management of pulmonary embolism: reflections on the latest recommendations of the European Society of Cardiology.
+25	The latest recommendations from the European Society of Cardiology on the diagnostic and therapeutic management of pulmonary embolism (PE) published this year provide an important update to the 2014 version.
+26	At the diagnostic level, adapting the d-dimer threshold to the patient's age is currently suggested, and a diagnostic algorithm during pregnancy is proposed.
+27	Detailed recommendations for the initial management of patients with acute pulmonary embolism are presented based on prognostic stratification criteria, as well as for clinical follow-up after pulmonary embolism.
+28	Finally, based on the latest available data, direct oral anticoagulants are integrated into the therapeutic arsenal for the treatment of cancer-associated thrombosis.
+29	The main objective of this article is to present the development, validation, and standardization of the Quebec Semantic Questionnaire (QUESQ).
+30	The QuesQ is a 12-item questionnaire for the rapid screening of semantic disorders.
+31	It was designed taking into account the psycholinguistic parameters that can influence performance, namely the nature of semantic traits and the superordinate semantic category.
+32	The validation study highlighted some of the psychometric qualities of the questionnaire.
+33	Normative data from the QUESQ, based on age and level of education, were obtained from 100 French Quebecers aged 50 and over.
+34	To estimate the extent of illicit cigarette consumption in India using a tax gap approach.
+35	To conduct the tax gap analysis, illicit cigarette consumption in India was defined by calculating the difference between total consumption and legal consumption.
+36	Data on total cigarette consumption were obtained from national results of two global adult tobacco surveys (GATS) conducted from 2009 to 2010 and from 2016 to 2017.
+37	Data on legal consumption were extracted from the Indian government data on cigarette production and trade in the country.
+38	Total cigarette consumption was 104.8 billion cigarettes from 2009 to 2010, and 94.2 billion cigarettes from 2016 to 2017.
+39	This represents a decrease of 10.6 billion cigarettes, i.e., by 10%, over this period.
+40	Legal use fell from 99.4 to 88.5 billion cigarettes over the same period, a decrease of 11%.
+41	As a result, illicit consumption is estimated at 5.4 billion cigarettes between 2009 and 2010, and 5.6 billion cigarettes between 2016 and 2017.
+42	The equivalent of 5.1% and 6.0% of the market, respectively.
+43	For example, of all cigarettes smoked in India, only about one cigarette in twenty was illegal.
+44	Between 2016 and 2017, the illicit cigarette trade is estimated to have generated the equivalent of 49 billion Indian rupees (US$753 million) in retail sales, while the tax shortfall amounted to 25 billion Indian rupees (US$390 million).
+45	Illicit cigarette smoking in India is relatively modest compared to international standards.
+46	Nevertheless, the country should strengthen its capacity to control the illicit tobacco trade as part of a comprehensive tobacco control strategy, while continuing to implement traditional measures to reduce demand, such as tobacco taxation.
+47	Diagnostic approach to chronic dyspnea in adults.
+48	Dyspnea is a symptom resulting from a complex interaction of multiple mechanisms that are currently not fully understood.
+49	It is frequently encountered in primary care and is considered chronic if it lasts more than a month.
+50	In 85% of cases, the cause is cardiorespiratory disease.
+51	It alone is a significant predictor of morbidity and mortality, significantly impacting the patient's quality of life.
+52	The etiologies are multiple.
+53	In cases of chronic dyspnea of undetermined etiology, respiratory function tests and a cardiopulmonary exercise test help to better understand the pathophysiology of dyspnea and thus allow for a refined diagnosis.
+54	A brief introduction to artificial intelligence.
+55	For more than a decade, artificial intelligence (AI) has experienced an acceleration in its development and adoption.
+56	In medicine, it is involved in basic and clinical research, hospital practice, medical examinations, care, and logistics.
+57	This contributes to the refinement of diagnosis and prognosis, to an even more personalized and targeted medicine, to advances in observation and analysis technologies, or even in the tools of surgical interventions and other assistive robots.
+58	Many challenges specific to AI and medicine, such as the dematerialization of data, respect for privacy, the explicability of algorithms, the design of inclusive AI systems, or their reproducibility, must be overcome in order to build the trust of the hospital body in these tools.
+59	This requires a mastery of the fundamental concepts that we present here.
+60	Clinical case: cervical spondylolysis - a rare incidental finding.
+61	A young patient presented to physical medicine with pain in the scapula and root of the right upper limb following a heavy lift.
+62	After a few weeks, the patient also complained of neck pain.
+63	A CT scan of the cervical spine fortuitously revealed a right C6 spondylolysis.
+64	A follow-up bone scan revealed that the lesion was old and probably not the cause of the symptomatology.
+65	Cervical isthmic lysis is a rare pathology.
+66	Spondylolysis is very well known in the lumbar region and is rare and often overlooked in the cervical region.
+67	Covid-19 pandemic: what about patients with mental health problems?
+68	The Covid-19 pandemic represents a significant adversity for the general population.
+69	What about people who already have mental health issues?
+70	We report the results of a questionnaire systematically offered to patients attending psychiatric consultations.
+71	The objective was to determine the patients' experience with the first wave of the pandemic, its impact on their sense of life and spirituality, and the means of assistance (medical and other) they receive.
+72	The results emphasize that the role of outpatient follow-up (sometimes the only option to be maintained when containment measures are implemented) is important for a large number of patients.
+73	Overall, these data justify and inform the continuation of psychiatric and psychotherapeutic treatments during a pandemic period.
+74	Buyers' club: an alternative for access to treatment?
+75	Prompt drug management for patients infected with HIV, HCV, or HBV is a key element in achieving a favorable clinical response in terms of morbidity, mortality, and quality of life, and reduces the risk of transmission.
+76	When a drug is expensive, access to treatment for an uninsured patient with limited resources becomes a barrier that can lead to forgoing care for economic reasons.
+77	A buyers' club is a structure whose objective is to provide logistical and/or financial assistance to a patient who wishes to import quality and effective medicine on a personal basis under more favorable economic conditions.
+78	The medicine is bought on the internet.
+79	Canada's refugee movement (2015-2016) was one of the most significant, visible, and effective examples of collective action in Canada's recent history.
+80	It had a national scope and an introduction to basics.
+81	It included a wide variety of participants and actively used social media in its constitution.
+82	This paper presents the results of a multi-method case study that seeks to explain how frameworks of collective action emerged in the context of the Canadian refugee movement; which actors were involved in their articulation; and how they attracted others and generated collective action and a humanitarian and political effect.
+83	The focus is on the discursive processes of building solidarity through difference as they take place in the social media environment.
+84	Facebook event pages calling for rallies for Syrian refugees served as a discursive space that helped to transform the moral shock suffered by members of different moral communities into a process of concerted voices and building frameworks of solidarity and collective action across differences.
+85	ABSTRACT:
+86	OBJECTIVES:
+87	The Covid-19 pandemic is deeply disrupting daily life in Canada.
+88	Our study assesses changes in health behaviors in the early stages of the pandemic and examines the sociodemographic disparities associated with these changes.
+89	METHOD:
+90	We analyze data on adults aged 25 years and older (n = 4,383) from the Canadian Perspectives Survey Series 1: The Impact of COVID-19 on Public Use (CSEV-COVID).
+91	Multinomial regression models assess the association between demographic and socioeconomic characteristics and increases or decreases in six health behaviors: alcohol, tobacco and cannabis use, junk food consumption, and television and internet time.
+92	RESULTS:
+93	Our findings vary among these six behaviors, but overall there was an increase in negative health behaviors: 14% of Canadian adults reported increased alcohol use (95% CI=0.12,0.15), 25% increased junk food consumption (95% CI=0.23,0.27), and more than 60% increased screen time (62%, 95% CI=0.60,0.65 for television and 66%, 95% CI=0.63,0.68 for the internet).
+94	Canadian-born young adults and adults were more likely to have increased their negative health behaviors than older adults and those who had immigrated to Canada.
+95	Adults who reported financial harm from Covid-19 were more likely to have increased all negative health behaviors (e.g., increased junk food consumption, relative risk ratio [RRR] = 1.81, 95% CI = 1.49, 2.20, compared to the group without financial harm).
+96	CONCLUSION:
+97	Our study describes the overall deterioration in health behaviors in the early stages of the Covid-19 pandemic.
+98	Reducing the long-term harm to the health of Canadians requires, depending on the results, tailoring interventions, especially for young Canadians, and mitigating the financial impact of the pandemic, which is linked to negative changes in health behaviors.
+99	The Covid-19 pandemic caused rapid, widespread, and significant disruptions to work and family life.
+100	As a result, these dramatic changes may have reshaped the parental division of labor between the sexes in the short term.
+101	Using data from 1,234 Canadian parents in sex-separated relationships, we compare retrospective reports on the perceived sharing of household and childcare responsibilities prior to the declaration of the pandemic with subsequent equality assessments.
+102	In addition, we describe perceptions of changes in fathers' engagement in these tasks in general, by gender of respondents and by employment conditions before and during the pandemic.
+103	The results indicate small shifts towards a more egalitarian division of labor in the first few months of lockdown, with increased involvement of fathers in household chores and child care, supporting the need exposure hypothesis.
+104	We conclude by discussing gender differences in parent reports and the potential implications for long-term gender equality.
+105	Integrative pediatrics is an integral part of pediatric care in Switzerland.
+106	Based on evidence and experience, integrative pediatrics uses conventional and complementary therapies in an interprofessional approach to optimally promote the development and health of children and adolescents.
+107	Switzerland has a high level of pediatric care including complementary medicine.
+108	Many pediatricians and family doctors offer an integrative approach to patients, based on additional training in complementary medicine, which guarantees a comprehensive and competent management.
+109	The Swiss Interest Group for Integrative Pediatrics of the Swiss Pediatric Society addresses all issues related to complementary medicine and the integrative approach in pediatrics, including the organization of training and the coordination of research.
+110	Image of the month: severe hydrocephalus in a child with congenital myotonic dystrophy.
+111	A young patient with congenital myotonic dystrophy, or Steinert's disease, presents, at the age of 4 and a half months, a stall in his cranial perimeter and signs of intracranial hypertension.
+112	Radiological evaluation revealed significant hydrocephalus.
+113	The child is showing favorable progress after the ventriculoperitoneal shunt.
+114	While ventriculomegaly is common in congenital myotonic dystrophy, hydrocephalus with signs of intracranial hypertension is rare, so regular monitoring of the head circumference is required.
+115	Clinical case: acute neonatal osteomyelitis, a sometimes fortuitous diagnosis that can change a life.
+116	Acute neonatal osteomyelitis is a rare diagnosis but must be made to reduce its comorbidities.
+117	Staphylococcus aureus is the most common causative organism.
+118	The diagnostic difficulty lies in its paucity of symptoms, especially in premature infants.
+119	The most common route of contamination is hematogenous.
+120	Risk factors for prematurity include invasive monitoring, repeat sampling, prolonged central catheterization, immature immune response, and length of hospital stay.
+121	We report the case of osteomyelitis secondary to Staphylococcus aureus sepsis in a premature infant born at 25 weeks and 3 days of gestation.
+122	The diagnosis was incidentally made on a plain abdominal radiograph.
+123	The low parental compliance with the child's follow-up does not allow us to assert a future without sequelae, although the information available to us during an 8-month consultation suggests favorable progress.
+124	Acute neonatal osteomyelitis is a difficult diagnosis to make, but crucial for the future development of the child.
+125	ABSTRACT:
+126	In recent months, our fellow citizens have never heard so much about public health.
+127	The sars-cov-2 pandemic highlighted the critical role of public health in protecting health and was a powerful indicator of current public health capacity, as well as corrective measures and requirements for the future.
+128	To this end, we have identified several avenues to restore power to public health in Quebec and ensure that it can make a significant contribution to the health of the population.
+129	In particular, we propose that while reforms should continue to increase its work in health protection, substantial efforts are needed to strengthen its surveillance, prevention, health promotion, and primary care systems to make them accessible, effective, and comprehensive.
+130	Left ventricular non-compaction: diagnosis and management.
+131	Left ventricular non-compaction (LVNC) is a congenital malformation characterized by the presence of prominent trabeculations and deep intertrabecular recesses.
+132	Although LVNC can be diagnosed by echocardiography or cardiac magnetic resonance imaging (MRI), there are currently no criteria for a formal diagnosis.
+133	Patients with this condition are at risk of heart failure, malignant arrhythmias, and thromboembolic events.
+134	Diagnosis can be difficult in atypical forms.
+135	Therapeutic management is controversial and depends on the clinical presentation.
+136	Familial forms exist, justifying genetic counseling.
+137	This article aims to optimize the knowledge and management of ncvg by reviewing the current diagnostic criteria.
+138	Contraception and venous thromboembolism.
+139	In 2020, combined oral contraception remains the most widely used contraceptive method in Switzerland and Europe, and its use is found in about half of venous thromboembolism (VTE) events in women under 50 years of age.
+140	In this narrative review, we describe the determinants of VTE risk according to the type of contraceptive and the acquired or genetic risk factors of the users, based on current prescribing recommendations.
+141	Contraceptive management during a VTE event remains complex and should be discussed with the patient to minimize unwanted pregnancy, menorrhagia, and thromboembolic recurrence.
+142	Ebola, the first available vaccines.
+143	In recent years, the Ebola virus has been responsible for large-scale epidemics.
+144	Research efforts have led to the development and field evaluation of several vaccine candidates.
+145	Currently, two are already registered and used in the fight against the virus in the Democratic Republic of Congo.
+146	This review aims to provide an update on the various vaccine candidates, the clinical trials that have been conducted, and the initial field results.
+147	Pharmacogenomics and assistance in drug prescribing.
+148	As a result of advances in pharmacogenomics (pgx), the paradigm that a single dose of a drug is extrapolated to the entire population is set to evolve.
+149	Individualizing drug prescriptions based on personal genomic determinants would improve treatment efficacy and tolerability.
+150	In Switzerland, any doctor can perform PGx tests validated for five actionable drugs: abacavir, carbamazepine, thiopurines (azathioprine), fluoropyrimidines (5-fluorouracil, capecitabine), and irinotecan.
+151	Such an approach assumes that pharmacogenomic data is shared with trained clinicians and can be guided by prescribing tools.
+152	ABSTRACT:
+153	Due to overcrowding and close contact, poor ventilation, and the resulting reduced hygiene standards and health services, the prison environment is highly conducive to the transmission of infections, including Covid-19, compared to the open environment.
+154	Physical distancing measures can be difficult to implement without introducing interventions that may be contrary to human rights.
+155	Aboriginal women make up more than 41% of the female federal inmate population, so this is a concern.
+156	Indigenous women are also more likely to have higher levels of many chronic conditions, including respiratory diseases, which significantly increase vulnerability to Covid-19 complications.
+157	This situation is exacerbated in prisons, where access to health care may be limited.
+158	Prison outbreaks can overwhelm an already strained health care system, spread to the open environment, and disproportionately affect marginalized communities and populations.
+159	In our commentary, we explore the public health and human rights implications of the presence of Covid-19 in prisons and draw particular attention to the specific needs and circumstances of incarcerated aboriginal women, based on Covid-19 prevention and response guidelines based on international best practices.
+160	Management of ureteral lithiasis.
+161	Lithiasis is a major health problem on the rise.
+162	In industrialized countries, the prevalence of lithiasis is particularly high, over 10%.
+163	Lithiasis forms in the kidney and then migrates into the ureter, where it commonly presents as renal colic.
+164	Management of ureteral lithiasis includes conservative, expulsive medical, interventional treatments such as ureteral stent placement, ureteroscopy or extracorporeal lithotripsy, as well as oral chemolysis in some cases.
+165	This article provides a summary of the management of ureteral lithiasis and advances in treatment.
+166	Autosomal dominant polycystic kidney disease: a pediatric perspective.
+167	Autosomal dominant polycystic kidney disease (ADPKD) is the most common genetic kidney disease.
+168	The insidious progressive development of renal cysts means that PRAD is usually asymptomatic until adulthood, but cystic growth occurs very early.
+169	End-stage renal disease (ESRD) usually occurs after the age of 55 years, but with high interindividual variability.
+170	Animal models demonstrate that treatments slowing renal volume growth also decelerate the decline in renal function.
+171	In addition, recent treatment in adults (tolvaptan) has been shown to slow the progression of ADPKD.
+172	To date, there is no consensus on the age at which children should be screened for ADPKD.
+173	However, recent scientific advances suggest the value of identifying early predictive markers, including pediatric ones, of renal function decline.
+174	ABSTRACT:
+175	Faced with the unprecedented global public health crisis of Covid-19, Canadian provincial and territorial governments must decide, often with limited and imperfect evidence, how to implement measures to reduce its spread.
+176	Based on a framework for health and human rights, this analysis explores several elements of the Canadian response to date that raise human rights concerns.
+177	Our analysis specifically focuses on criminal law, fines, data collection, and so-called “whistleblowing lines.”
+178	We believe that the approach taken by government and public health authorities must be based on the best available scientific evidence and be consistent with human rights standards.
+179	Our goal is to encourage dialogue within Canada's public health community on the importance of human rights-based responses to Covid-19.
+180	What should a general practitioner know about whooping cough?
+181	Pertussis is a vaccine-preventable bacterial infectious disease.
+182	However, serious cases continue to be reported annually in the pediatric population.
+183	Pertussis is primarily a risk for unimmunized or partially immunized infants under 6 months of age.
+184	It is still considered a diagnostic challenge.
+185	The purpose of this article is to present, through a clinical situation, the strategies for preventing whooping cough, as well as its management in case of suspicion.
+186	Through the answers to eight questions, we recall the basic principles to be known by each general practitioner.
+187	William Harvey reinterpreted in the light of species evolution (i) - how and why circulatory phylogenesis is integrated into species evolution.
+188	In the beginning is the heart pump which produces a cyclic blood flow (kinetic energy, ek).
+189	In 1619, William Harvey (1578-1657) experimentally described the functional anatomy of human blood circulation, using venous or arterial tourniquets, with the exception of capillary circulation.
+190	For the first time, blood circulation is described in two parallel closed circuits, one at high pressure, the other at low pressure.
+191	Marcello Malpighi (1628-1694) completed it through the microscopic observation of the capillary network.
+192	A century later, the first hypotheses on the evolution of the species appeared.
+193	Jean-Baptiste Lamarck (1744-1829) proposed in 1809 a theory of evolutionary transmission of phenotypic characteristics through adaptation to environmental constraints.
+194	In 1859, Charles Darwin (1809-1882) developed a theory of natural selection.
+195	Current interpretation incorporates both genetics and epigenetics in intergenerational transmission, and in the dynamics of development of individual phenotypic traits, particularly in humans.
+196	ABSTRACT:
+197	To control the Covid-19 pandemic, herd immunity is required, which necessitates large-scale vaccination.
+198	Vaccines against Covid-19 will soon be available in Canada, with the government announcing in August 2020 agreements to obtain vaccines from four different companies if their trials are successful.
+199	Never before has public health had to quickly prepare for the launch of a new program that involves multiple new vaccines, not to mention the added pressure of the program targeting all age groups, needing to reach all Canadian communities, and the likelihood of there not being enough vaccines for everyone when the program begins.
+200	Public health strategies for the introduction of immunization programs will need to be accelerated and more detailed to ensure optimal immunization coverage across the country.
+201	This article outlines various considerations for public health authorities in planning Covid-19 vaccination programs before vaccines are available, when they will be available, when vaccine supplies will be plentiful, and through the vaccination program.
+202	Tailored and targeted communications are essential to reach and positively influence Canadians of different ages, languages, educational levels, and experiences from different communities and regions.
+203	Evolution of thromboprophylaxis after hip and knee replacement.
+204	Proximal deep vein thrombosis and pulmonary embolism are feared complications after major elective orthopedic surgery (total hip and knee replacement), with an estimated cumulative incidence of 5%. For decades, this risk has been reduced by the use of preventive heparin up to 5 weeks postoperatively.
+205	In this narrative review, we describe the evidence supporting the use of direct oral anticoagulants (rivaroxaban and apixaban in Switzerland) which appear to have a higher benefit-risk ratio than heparins at a lower cost.
+206	Hybrid strategies including an anticoagulant and aspirin are now also recommended in patients considered at low thrombotic risk.
+207	How I treat male urethral stricture.
+208	Stenosis of the male urethra is a well-known urological pathology, responsible for symptoms of infravesical obstruction.
+209	Its management is primarily surgical.
+210	Therapeutic options range from simple outpatient dilation to urethroplasty, sometimes involving an augmentation graft.
+211	The saga of neural induction: almost a century of research.
+212	Nervous system formation begins with neural induction, a process that allows ectoderm cells (target tissue) to acquire a neural fate in response to signals from the dorsal mesoderm (inducing tissue).
+213	This process, described in 1924 in amphibians, was not explained at the molecular level until the mid-1990s.
+214	During this period, several authors have focused on the role played by the membrane of the target tissue, but few decisive works have described the transduction of the neuralizing signal.
+215	Between 1990 and 2019, we dissected neuralizing signal transduction, a subject that was rarely discussed at the time.
+216	We have highlighted the necessary and sufficient role of calcium in directing ectoderm cells to a neural fate and established the molecular cascade from membrane channel activation to gene transcription.
+217	The purpose of this article is to articulate Canadian civic culture on a political basis.
+218	By focusing on citizen mobilizations mediated through social networks, he examines how citizens construct and use voice and listening as civic values.
+219	The analysis uses three empirical cases: the 2014 parent protests at the teachers' strike in British Columbia; the 2015 citizen protests for Syrian refugees; and the 2016 protests outside Toronto's police headquarters.
+220	The citizens participating in these initiatives wanted to "express themselves," making the voice a civic value.
+221	Yet this is not accompanied by equal attention to the role of listening.
+222	This results in a simplistic treatment of citizen participation, leaving it vulnerable to populist diversion.
+223	ABSTRACT
+224	BACKGROUND:
+225	In Mexico, abortion in the first trimester of pregnancy is legal in Mexico City and can be obtained in the public and private sectors.
+226	Understanding the later adoption of contraception by first trimester abortion patients and their range of methods, compared to women who give birth to a child living in a health facility, could help identify opportunities for improved care after an obstetric event across the health system.
+227	METHODS:
+228	Based on a retrospective cohort study, this paper compares the uptake of contraception prior to discharge from the health care setting between patients who underwent abortion under the Mexico City public abortion program and urban postpartum women.
+229	The two data sources considered are the clinical records of 45,233 abortion patients in Mexico City and information obtained from a population-based survey of 1,289 urban women regarding their immediate adoption of contraception after childbirth.
+230	The primary outcome examined was the achievement of any reversible modern contraceptive method; secondary outcomes were the level of effectiveness of the method and the type of method.
+231	For both data sources, the effects of sociodemographic factors were controlled for by logistic regression and calculated multivariable probabilities.
+232	RESULTS:
+233	The corrected probability of adopting any reversible modern contraceptive method was found to be higher among abortion patients (67% versus 48% among postpartum women).
+234	However, of all women who received a contraceptive method, abortion patients had a lower corrected probability of achieving a long-acting reversible method (49% versus 82% of postpartum women) and a higher probability of achieving a moderately effective method (38% versus 13%).
+235	The adjusted probability of implant adoption was higher among abortion clients (9% versus 3% for postpartum women), while the adjusted probability of IUD adoption was lower (38% versus 78%).
+236	CONCLUSIONS:
+237	Women who obtained an abortion under Mexico City's public abortion program were more likely than their urban postpartum counterparts to receive a reversible modern contraceptive method before leaving the facility.
+238	The full range of contraceptive methods should be offered to women after any obstetric event, to help them avoid unplanned pregnancies and short pregnancy intervals.
+239	Pathophysiology and treatment of cough: etiological approach.
+240	Chronic cough is a common symptom in consultations with any general practitioner.
+241	It may be idiopathic or reflect a chronic disease.
+242	Cough can also become excessive, occurring in response to stimuli that do not cause cough in the normal state.
+243	This entity is referred to as cough hypersensitivity syndrome.
+244	Its treatment involves the use of neuromodulatory substances that specifically target this hypersensitivity while maintaining the cough reflex intact, which is essential for airway protection.
+245	This article aims to present the current knowledge on the pathophysiology of chronic cough, the initial diagnostic approach that this symptom requires, and the antitussive treatments available or in development.
+246	ABSTRACT
+247	BACKGROUND:
+248	The Democratic Republic of Congo (DRC) decriminalized abortion under certain circumstances in 2018, as a result of the Maputo Protocol.
+249	However, the preparedness of the country's health facilities to provide comprehensive abortion care is poorly documented.
+250	METHODS:
+251	Data from 1,380 health facilities included in the health care service delivery evaluation survey (hcsa) were used to assess preparedness to provide and deliver abortion care in four areas: termination of pregnancy, basic treatment of post-abortion complications, comprehensive treatment of post-abortion complications, and post-abortion contraceptive care.
+252	The analyses are based on a modified application of the basic functions approach to emergency obstetric care; the preparedness criteria are based on World Health Organization guidelines.
+253	RESULTS:
+254	Thirty-one percent of health facilities in the DRC met the criteria for preparing to provide abortion.
+255	The proportion deemed ready was higher among urban than rural training (50% versus 26%) and among hospitals than in health or reference centers (72% versus 25% and 45%, respectively).
+256	Few courses were prepared to address post-abortion complications (4% and 1%) according to a basic or comprehensive approach.
+257	This preparation was superior in hospitals (14% and 11%).
+258	Only one-third of health facilities were willing to offer post-abortion contraceptive care.
+259	Inadequate availability of drugs (e.g., misoprostol, antibiotics, contraceptives) and equipment was the greatest barrier to preparation.
+260	CONCLUSIONS:
+261	Most health facilities in the DRC were not ready to provide comprehensive abortion care.
+262	Improving the supply of vital health products will strengthen preparedness while offering the potential to reduce the prevalence of unplanned pregnancies and future demand for abortions.
+263	ABSTRACT:
+264	Addressing the vulnerability and specific needs of homeless populations during pandemics was a major component of Canada's federal response to the Covid-19 crisis.
+265	However, during the pandemic, rural and remote communities received little or no funding to support them in providing care and services to people living with homelessness.
+266	Similarly, there is very little research on pandemic preparedness in rural communities in the context of homelessness.
+267	However, there are a significant number of homeless people in rural and remote areas, among whom there is an overrepresentation of people of aboriginal ancestry.
+268	Rural communities, including rural and remote Aboriginal communities, are often isolated and more limited than urban environments in their capacity to respond to pandemics.
+269	They are particularly vulnerable due to the lack of resources for health care and social services; this is especially evident in the current context of the Covid-19 pandemic.
+270	In this commentary, we call on policy-makers to take seriously the situation of rural homelessness in Canada, its implications for individual and community health, and its consequences in the context of pandemics.
+271	Policy-makers and decision-makers can address these concerns by increasing funding to address homelessness and better support rural and remote communities by changing policies to recognize the unique challenges associated with homelessness and pandemic planning for these communities.
+272	Further research is also needed to translate knowledge into policies, programs, and support for homelessness and pandemic preparedness in rural and remote areas.
+273	Primary health care is the most cost-effective route to universal health coverage (UHC).
+274	Yet the systems on which they depend remain fragile in many low- and middle-income countries.
+275	Most of the time, they are unable to provide a comprehensive, integrated, person-centered model of care.
+276	We therefore analyzed primary health care systems in 20 low- and middle-income countries using a partly reality-based approach.
+277	Options for strengthening primary health care systems were identified through thematic content analysis.
+278	We found that: (i) despite the growing burden of noncommunicable diseases, many low-and middle-income countries did not have sufficient funds to provide prevention services; (ii) health professionals in communities frequently lacked resources, support and training; (iii) non-reimbursable costs exceeded 40% of health expenditures in half of the countries studied, resulting in inequities; and (iv) health insurance schemes were hampered by fragmentation of public and private systems, underfunding, corruption and poor mobilization of informal workers.
+279	In 14 countries, the private sector was largely unregulated.
+280	In addition, community engagement in primary health care was minimal in states where services were largely privatized.
+281	In some countries, decentralization had led to fragmentation of primary health care.
+282	Performance was better when financial benefits were related to regulation and quality improvement, and there was strong community involvement.
+283	The policy development process should be accompanied by the necessary resources for a primary health care system, and governments should increase spending on primary health care by at least 1% of gross domestic product.
+284	It is also imperative to define funding regimes that promote equity and enhance the reliability of primary health care management.
+285	The contribution of primary health care systems is essential for progressing towards universal health coverage by 2030.
+286	Zimbabwe's rural reform has radically transformed the agrarian structure, and with it small villages in rural areas, since the year 2000.
+287	This paper explores three of these villages – Mvurwi, Chatsworth, and Maphisa – looking at changes in population, housing, transportation, and business activity between 2000 and 2020.
+288	Case studies highlight the importance of social networks and relationships between rural and urban areas, associated with new patterns of migration and the massive growth of the informal economy.
+289	Despite the lack of public investment in basic infrastructure, the economies of the small cities studied grew significantly, with a major shift in agrarian relations, generating new economic activities and new jobs.
+290	This suggests that, following rural reforms, targeting a territorial axis (which includes both urban and rural areas) offers potential for local economic development.
+291	Neohexostoma gymnosardae n. sp. (Monogenea, Hexostomatidae), a gill parasite of Gymnosarda unicolor (Valenciennes) (Teleostei, Scombridae) in the South China Sea.
+292	The parasitic biodiversity of fish in coral reefs of the South China Sea is still incompletely explored.
+293	We describe here a new species of Neohexostoma (Monogenea, Hexostomatidae) from the branchial filaments of the dogtooth tuna Gymnosarda unicolor (Scombridae), collected off the reef of Yongshu, South China Sea.
+294	Neohexostoma gymnosardae n. sp. differs from its congeners by the following characteristics: (i) haptor clearly separated from the body itself by a tightly constricted peduncle, divided in its posterior margin into two symmetrical lobes, (ii) vagina armed with small scattered blunt spines, (iii) eggs attached by their long polar filaments, (iv) esophagus with several lateral diverticula, (v) non-fused intestinal caeca extending into the haptor.
+295	We present a relationship analysis of this monogene based on partial 28S rDNA sequences.
+296	A key to the species of Neohexostoma is provided.
+297	This is the first member of the genus Neohexostoma known to parasitize a species of Gymnosarda.
+298	ABSTRACT:
+299	In Canada and around the world, the Covid-19 pandemic has demonstrated the importance of reliable and responsive public health systems.
+300	The pandemic requires decisive leadership and collaboration across all sectors of society, informed by the best available evidence.
+301	In this commentary, we argue that to create a robust public health system that can meet current and future challenges, stronger links between public health practitioners and academia must be fostered and invested in.
+302	We briefly review the key recommendations that emerged following the SARS outbreak, particularly those that called for stronger links between public health and the Canadian practice environment.
+303	We then propose key measures to strengthen these links.
+304	Echoing other Covid-19-related calls for action, which call for long-term reinvestment in public health education and training, we recommend the following: 1) improve collaboration between educational programs and public health organizations to address systems needs (e.g., surge capacity) and persistent health inequities; and
+305	2) Fund a pan-Canadian public health training initiative that builds on a renewed set of public health competencies to address priority training needs (e.g., equity-focused leadership); and 3) prepare a cadre of certified public health leaders who can advance in public health careers, including those already in the profession.
+306	Early Detection of Prostate Cancer: Summary of the Last Ten Years.
+307	Early detection of prostate cancer remains uncertain for the general practitioner.
+308	Prostate cancer is the most frequently diagnosed non-skin tumor in men, accounting for 15%. Although prostate specific antigen has greatly contributed to detection at a curable stage for 25 years, it is also crucial not to overtreat a cancer that has a significant rate of indolent tumors.
+309	In this controversial context, the prospective randomized study of the European Randomized Study of Screening for Prostate Cancer, and particularly its Swedish subpopulation, has validated the benefit of early detection over the past decade.
+310	Due to the variety of therapeutic options and the potential side effects of some of them, it is recommended that this be done only in well-informed patients.
+311	ABSTRACT:
+312	During the pandemic, preliminary results on the protective effect of tobacco on Covid-19 were widely disseminated worldwide.
+313	In this context, and due to the public health issues related to this topic, an ad hoc multidisciplinary group was formed in response to requests from public health institutions.
+314	The key messages of this commentary are as follows: 1) the Covid-19 crisis could lead to an increase in tobacco consumption and a decrease in access to health care.
+315	As a result, smoking-related morbidity and mortality could increase in the months and years to come;
+316	2) Smoking and tobacco-related diseases are prognostic factors for severe forms of Covid-19; and 3) hypothetically, smokers, particularly by reducing the frequency and duration of social contact, may be less likely to be infected.
+317	In conclusion, even during and despite the health crisis caused by the Covid-19 pandemic, tobacco control remains more than ever a challenge.
+318	Public decision-makers must be particularly vigilant to ensure consistent public practices, including adherence to the principles of the WHO Framework Convention on Tobacco Control.
+319	Researchers and the media also need to be cautious in reporting preliminary results that may generate individual counterproductive behaviors and be exploited for commercial gain.
+320	ABSTRACT:
+321	There is considerable evidence from in vitro, animal, and human studies that the Bacillus Calmette-Guérin (BCG) vaccine can epigenetically reprogram natural immunity to provide "off-target" protection against pathogens other than mycobacteria.
+322	This process has been called "trained immunity."
+323	Although recent ecological studies have suggested an association between BCG policies and the frequency or severity of COVID-19 in different countries, interpretation of their results is difficult.
+324	For this reason, a case-control study was undertaken in Quebec to test this hypothesis.
+325	Several phase III clinical trials are underway, including one in Canada, to evaluate the efficacy of BCG against SARS-CoV-2 infections (expected results in 2021).
+326	Historically, BCG has been widely used in Canada, but currently indications are limited to high-risk individuals and communities in which TB outbreaks occur, as well as for the treatment of bladder cancer.
+327	The potential value of BCG as an interim measure to control COVID-19 is under intense discussion in the scientific community and could be considered for vulnerable populations in Canada.
+328	In conclusion, BCG vaccination should be placed on the agenda of federal, provincial, and territorial research organizations, scientific advisory committees, and public health authorities.
+329	Arteriofit: a recommended first-line treatment for intermittent claudication.
+330	Arterial insufficiency of the lower limbs is the third most common manifestation of atherosclerosis.
+331	The number of cardiovascular events in this population is similar to that of coronary patients.
+332	Management consists of strict control of cardiovascular risk factors, optimal pharmacological treatment, and supervised walking training.
+333	Supervised training is superior to other exercise modalities in terms of increased walking time, maximum walking distance, pain-free walking distance, and quality of life scores.
+334	In combination with revascularization, the benefits are increased.
+335	In Switzerland, federal programs have been established on this basis and exist in many cities.
+336	They are unknown and yet essential.
+337	ABSTRACT:
+338	The pandemic highlighted the complexity of public health measures and their collateral effects, the intricate underlying health, social, and political phenomena, and their specificity for marginalized minority communities.
+339	Based on this experience, this commentary highlights the value of developing consultation mechanisms that take into account the entire population, including marginalized minority groups, to better inform decision-making during a pandemic.
+340	In the context of a fluid crisis, any consultation process must take into account the limits of what is possible and abandon thoroughness in favor of repeated iterations of dialogue, mediation, and decision-making about the action.
+341	The aim is to create conditions that allow the voices of more vulnerable people and groups to be heard by public authorities.
+342	To prepare for future crises, it is already necessary to develop strong connections between public institutions and communities, both majority and minority, to define mechanisms that promote the emergence of a truly inclusive public health, which considers the physical, mental, and social health of the population.
+343	ABSTRACT:
+344	OBJECTIVE:
+345	Estimated blood loss is an important tool in clinical decision-making and surgical prognosis research.
+346	They guide perioperative transfusion practice and serve as a key predictor of short-term perioperative risks and long-term oncologic outcomes.
+347	Despite the widespread clinical and research use of this modality, there is no gold standard for estimating blood loss.
+348	We attempted to systematically review and compare techniques for estimating intraoperative blood loss in major non-cardiac surgeries, with the objective of informing clinical assessment and research standards.
+349	A structured search strategy was applied to the Ovid MEDLINE, Embase, and Cochrane Library databases from inception to March 2020 to identify studies comparing methods for estimating intraoperative blood loss in adult patients undergoing major noncardiac surgery.
+350	We summarized the concordance between groups of pairwise comparisons as a visual estimate vs. a formula estimate, a visual estimate vs. another, and a formula estimate vs. another.
+351	For each of these comparisons, we described trends toward higher or lower blood loss estimates, consistency of results, combined mean differences, standard deviations, and confidence intervals.
+352	In this review, 26 studies involving 3297 patients were reviewed.
+353	Visual estimation is the most frequently studied technique.
+354	In addition, visual techniques tended to give lower blood loss estimates than those based on formulas or other techniques, although this effect was not statistically significant in the pooled analyses, probably due to limitations in sample size.
+355	When contextual mean blood loss was taken into account, a similar case-by-case variation emerged with all estimation techniques.
+356	We observed significant variation on a case-by-case basis with all methods of blood loss assessment and significant disagreement between techniques.
+357	Given the importance of estimating blood loss, particularly in perioperative prognostic models, clinicians should consider the universal adoption of a practical and reproducible method of assessing blood loss.
+358	Study record: PROSPERO (CRD42015029439); registered: November 18, 2015.
+359	How to combat overmedicalization in the hospital? An example of neuroleptics in the acute confusional state.
+360	Since 2014, the Smarter Medicine campaign has established recommendations to target therapies or tests that are considered futile or represent a greater risk than the benefit to the patient.
+361	Ultimately, this initiative aims to develop, disseminate, and implement educational programs to improve the quality of healthcare.
+362	The literature shows a positive impact of this initiative on clinical practice.
+363	This is why, in our internal medicine department, we have developed a number of recommendations based on this initiative.
+364	This paper describes a multimodal and interprofessional intervention to reduce neuroleptic prescribing in acute confusional states and its impact on practice.

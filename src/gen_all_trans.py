@@ -1,5 +1,6 @@
 import subprocess
 import itertools
+import multiprocessing
 
 def run_main_with_inputs(task, model, src, trg):
     command = ["python", "main.py"]
@@ -9,14 +10,7 @@ def run_main_with_inputs(task, model, src, trg):
     stdout, stderr = process.communicate()
     return stdout, stderr
 
-tasks = ["1"]
-models = ["1", "2", "3"]
-src = ["1"]
-targets = ["2", "3", "4", "5", "6", "7"]
-
-input_combinations = list(itertools.product(tasks, models, src, targets)) + list(itertools.product(tasks, models, targets, src))
-
-for inputs in input_combinations:  
+def run_in_parallel(inputs):
     print(f"Running main.py with inputs: {inputs}")
     stdout, stderr = run_main_with_inputs(*inputs)  
     if stderr:
@@ -25,3 +19,14 @@ for inputs in input_combinations:
     else:
         print(f"Output for inputs {inputs}:")
         print(stdout)
+
+if __name__ == '__main__':
+    tasks = ["1", "2"]
+    models = ["1","2", "3"]
+    src = ["1"]
+    targets = ["2", "3", "4", "5", "6", "7"]
+
+    input_combinations = list(itertools.product(tasks, models, src, targets)) + list(itertools.product(tasks, models, targets, src))
+
+    with multiprocessing.Pool() as pool:
+        pool.map(run_in_parallel, input_combinations)

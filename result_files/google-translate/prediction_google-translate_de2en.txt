@@ -1,0 +1,480 @@
+1	In addition to the actual definitive treatment of acute bleeding (eg by endoscopic/surgical haemostasis or angiography with coiling), optimization of blood coagulation plays a key role in acute and intensive care medicine.
+2	For this purpose, knowledge of the current coagulation tests and their weaknesses is necessary, as is the correct use and dosage of coagulation products.
+3	Coagulation management can be challenging, especially in patients with liver cirrhosis, congenital and acquired coagulation disorders, and in patients undergoing anticoagulation.
+4	This review highlights the most important elements of coagulation diagnostics and therapy in intensive care and emergency gastroenterology, including new antidotes and extended coagulation diagnostics in patients with liver cirrhosis, eg
+5	Thromboelastometry.
+6	Laboratory chemical coagulation deficiencies in Covid-19: Covid-19 patients often have strongly elevated d-dimer values.
+7	The height and the course seem to correlate with the course of the disease and the prognosis.
+8	If elevations are significant, drug-induced thrombosis prophylaxis should be considered.
+9	The course of prothrombin fragments f1+f2 also seems to correlate with the clinical course and, if available, could be used to evaluate the course of coagulation activation.
+10	Thrombocytopenia in patients with Covid-19 is common but should be tested for differential diagnoses by further diagnostic testing.
+11	Risk of thromboembolic complications in Covid-19: Covid-19 patients have a markedly increased risk of venous and arterial thromboembolic events, and in particular intensive care patients need close monitoring.
+12	Existing algorithms for the diagnosis of pulmonary artery embolism are limited due to the very common constellation &quot;pulmonary symptoms+elevated d-dimers&quot; in Covid-19 and require adaptation to this disease.
+13	Pulmonary artery embolism is likely to be localised &quot;immunothrombosis&quot;, which should be taken into account when interpreting findings from pulmonary imaging.
+14	Recommendations for thrombosis prophylaxis in Covid-19: due to the higher than average risk of vte in hospitalized Covid-19 patients, guideline-based thrombosis prophylaxis should be performed. In patients with a particularly high baseline risk, higher heparin doses, posthospital extensions and, if necessary, even primary outpatient thrombosis prophylaxis strategies should be considered.
+15	Anticoagulation therapy (eg for atrial fibrillation or previous VTE) established prior to Covid-19 should be continued.
+16	The aim of the medical informatics initiative and other national and local projects for digital networking in the healthcare sector is the provision of data protection-compliant data, the exchange and sharing of patient data.
+17	This requires the integration of data from different sources, for example from digital workstation systems, laboratory systems, patient archieving and communication (pac) systems or tumour boards, into a data warehouse or research databases.
+18	The increasing digital network of health care providers and research institutions will open up more patients to high-performance and precision medicine (virtual molecular tumour boards) in the future, thereby providing data for basic and health care research.
+19	With this form of network medicine, we create on the one hand the connection between basic (eg genomic research) and patient care, and on the other hand the treatment reality and quality can be depicted in detail with the prepared real-world data in the sense of an integrated health care research.
+20	In recent years, artificial intelligence systems in medicine have been increasingly established that detect pathologies or diseases and describe difficult-to-detect correlations between input variables.
+21	The aim of the study was to predict the physical position of the intraocular lens after the operation using machine learning techniques using biometric measures before cataract surgery. 249 eyes of patients presenting for elective cataract surgery at the department of ophthalmology castrop-rauxel were examined with the iolmaster 700 (carl zeiss meditec) and before and after the operation with the casia 2 (tomey).
+22	From the effect sizes eye length, corneal thickness, internal anterior chamber depth, lens thickness, mean corneal radius and corneal diameter, a selection of 17 machine learning algorithms were tested for their predictive quality for the determination of the postoperative internal anterior chamber depth (aqd_post) and the position of the lens equator relative to the corneal vertex (leq_post).
+23	The 17 models (4 algorithm families) varied in mean square/mean absolute prediction error between 0.187/0.139 mm and 0.255/0.204 mm (aqd_post) and 0.183/0.135 mm and 0.253/0.206 mm (leq_post) for 5-fold cross validation.
+24	The algorithm with the best performance was a Gaussian process regression model with an exponential kernel for both predictions.
+25	If a simple multiple linear regression model is tested on the entire data set (without division into training and validation data) against the algorithm with the best performance, the mean square error of prediction of aqd_post/leq_post is 0.188/0.187 mm compared to the Gaussian process regression model with 0.166/0.159 mm.
+26	The aim of this study is to demonstrate the principle of supervised machine learning when applied to the simulation of the physically measured postoperative axial position of intraocular lenses.
+27	With the available data, the gain by using machine learning algorithms (with the algorithms used here) is small compared to a multiple linear regression approach.
+28	Medicamentous therapy: the updated european society of cardiology dyslipidemia guideline once again lowers ldl cholesterol levels.
+29	High potency statins and increased use of combination agents such as ezetimibe and pcsk9 inhibitors will be required to achieve these targets.
+30	Lipid apheresis: determination of lipoprotein (a) for cardiovascular risk stratification is now a class ii (a) recommendation.
+31	Currently, lipid apheresis is the only treatment available for lowering lipoprotein (a), but new therapeutic approaches are under clinical investigation.
+32	Persistent, large or chronic macular holes are still a surgical challenge that can be addressed with the technique presented here.
+33	In the course of a transconjunctival, seamless pars plana vitrectomy, the macular region is elevated by means of subretinal BSS (&quot;balanced salt solution&quot;) injection at the rear pole and the foramen is then closed during the liquid-air exchange, followed by a gas or oil tamponade.
+34	In many cases, this makes it possible to achieve anatomical closures or significant reductions in the size of the hole with the adjacent edge.
+35	Accurate patient education about the expected surgical outcome should be particularly important.
+36	Despite the high effectiveness of direct antiviral therapy for chronic hepatitis C, a small proportion of patients fail to respond virologically to approved treatment regimens.
+37	The combination of voxilaprevir, velpatasvir and sofosbuvir has recently been approved for the treatment of patients failing ns5a-based treatment.
+38	In the present German registry cohort, high SVR rates were achieved in patients, including those with cirrhosis and prior decompensation, treated with vox/vel/sof for 12 weeks, regardless of disease severity and prior DAA therapy.
+39	Only minor to moderate adverse reactions were observed, which were not different from those seen in the pivotal studies.
+40	Background multicomponent multitarget therapy SUC (solidago compositum ad us. vet. , ubiquinone compositum and coenzyme compositum, heel gmbh, baden-baden, germany) with the known angiotensin converting enzyme inhibitor (ACEI) benazepril was investigated in a prospective, non-randomised, two-arm cohort study in cats with chronic kidney disease (CNE).
+41	The objective was to assess the safety and efficacy of SUC in cats with CNE.
+42	Material and methods: One hundred and thirty-six cats with suspected CNE were examined, 70 cats were diagnosed with CNE and enrolled in the study.
+43	Thirty-three cats were treated with suc and 35 cats received benazepril.
+44	The observation period was 168 days.
+45	Response to treatment was defined as improved or stable serum creatinine at the end of the study compared to baseline.
+46	In addition, a clinical score was collected to evaluate the quality of life of the cats.
+47	Results creatinine was almost unchanged in both study groups, with slightly lower values ​​in the SUC group.
+48	The clinical sum score improved significantly in the suc group compared to the benazepril group on days 3,28,56 and 112, but not on day 168.
+49	Conclusions the results show that suc is a novel and well-tolerated treatment alternative to aceis in cats with mild to moderate cne.
+50	The results suggest that twice weekly therapy with SUC may be more effective than once weekly dosing.
+51	Background The pathogenesis of squamous cell carcinoma of the head and neck (HNSCC) is a complex multistep process resulting from the interaction of exogenous and endogenous cellular processes.
+52	Each process leaves behind a characteristic pattern of mutations on the tumor genome, a so-called tumorigenome.
+53	Tumor signature.
+54	Current studies are aimed at identifying specific tumor signatures that are effective during HNsCC pathogenesis and evaluating their prognostic relevance.
+55	Analyses of genomic sequencing data by the cancer genome atlas (tcga) were used to decipher the most common mutation signatures in hnscc, whereby signatures 1,2,4,5,7 and 13 could be identified as major players.
+56	Signature 16 was first identified in human papillomavirus (HPV)-negative oral and oropharyngeal squamous cell carcinomas.
+57	Many studies have shown an association of signature 16 with alcohol and tobacco consumption and a negative impact on the prognosis of patients.
+58	Fibroblast growth factor 21 (fgf21) is produced in the liver and binds to several complex receptor/coreceptor systems.
+59	FGF21 regulates the uptake of simple sugar and alcohol in addition to many other processes.
+60	Elevated FGF21 levels reduce harmful alcohol consumption in mice.
+61	In order to better understand the relationship between FGF21 and alcohol consumption in humans, FGF21 levels were measured in patients with alcoholic liver cirrhosis (ALC) compared to patients with non-alcoholic liver cirrhosis (NALC) and healthy subjects and analysed in correlation with their current alcohol consumption.
+62	Alcohol consumption was verified by urinary ethyl glucuronide (uetg), eating and drinking behavior by a food frequency questionnaire, and fgf21 plasma levels were determined by elisa in 96 subjects (alc n = 41; nalc n = 34; healthy n = 21).
+63	Alc and nalc patients with elevated etg levels (≥ 0.5 μg/ml; equivalent to alcohol consumption in the last 12-72 h) showed significantly higher plasma fgf21 levels compared to patients with negative etg levels.
+64	Eating behavior had no effect on plasma levels of fgf21.
+65	Elevated FGF21 levels in patients with recent alcohol consumption (verified by ETG) confirmed the first part of the endocrine axis of the liver and brain: alcohol consumption is associated with elevated FGF21 levels.
+66	We could not confirm that increased FGF21 levels are associated with a subsequent reduction in alcohol consumption.
+67	This suggests a pathology in this pathway that could be caused by dysfunction of β-klotho or fgf receptors and chronic alcoholism.
+68	Further research is needed to clarify these pathologies, which may open up a new pharmacological treatment for patients with alcohol use disorder and alcohol dependence.
+69	Canine atopic dermatitis (CAD) is a common inflammatory and pruritic skin disease for which there are various treatment options.
+70	The use of topical products containing naturally active substances has become increasingly popular.
+71	Aim to evaluate the efficacy of a spray solution comprising heat-killed lactobacillus rhamnosus and l. reuteri on clinical signs and cutaneous microbiota of atopic dogs.
+72	Ten private non-seasonal atopic dogs were only mildly affected.
+73	The spray was applied to the centre every 24 hours for 28 days.
+74	Clinical scores, skin barrier function and owner assessment were evaluated on day (d) 0, d14, d28 and d42.
+75	Cutaneous microbiota were analyzed at d0 and d28.
+76	A reduction in the overall clinical score was noted at all time points (d14, p=0.03; d28, p=0.04; d42, p=0.001).
+77	A reduction in local clinical values ​​was observed after d28 (p=0.01) and d42 (p=0.003).
+78	Significant reduction of pruritus was noted at d42 (p=0.01).
+79	A lower value was found in the ears at d28 (p=0.02).
+80	The owners reported a good to excellent response and an easy method of use.
+81	There were no significant differences in cutaneous microbiota at 28 days.
+82	There was a significant and rapid decrease in the clinical signs of CAD following the use of the spray.
+83	Future randomised controlled studies are needed to confirm these findings and to confirm the effects on cutaneous immunity and microflora of atopic dogs.
+84	The aim of this study was to investigate epidemiological aspects of maternal immunization against fetal erythrocyte antigens (ab0, rhesus, lewis, kell, duffy and others) and to identify the most common causes of newborn hemolytic disease (mhn) in the western region.
+85	A 20-year retrospective epidemiological study included all pregnant women who underwent immunological testing and neonates treated for MHN.
+86	Indirect antiglobulin testing (IAT) detected antibodies to antigens in 545 (1.8%) pregnant women out of 29,663 subjects tested at the UHC Mostar transfusion facility.
+87	During the twenty-year study, 310 (1.0%) neonates had mhn.
+88	Our results showed that 42% (230/545) of the pregnant women had AB0 immunisation.
+89	The most common mhn in this research was ab0 mhn 64% (199/310), while rhd mhn was treated in 19% (59/310) of the newborns.
+90	Blood exchange transfusion (ETR) was performed in 29 (19%) neonates, 21 (72.4%) neonates with ab0 mhn and 7 (26%) with rh d mhn.
+91	Although significant progress has been made in the prevention of immunisation and proactive mhn treatment during this 20-year study, precautions and the activities of gynecologists and neonatologists are still needed.
+92	This is due to the lack of preventive measures for non-rhd immunisation (67% of pregnant women had non-rhd antibodies), irregular immunological testing of rhd-positive pregnant women in recent years in the study area.
+93	All of this raises new questions and recommendations for research and observation of immunization and MHN treatment on the global immunological scene.
+94	Medical-occupational rehabilitation is a multimodal interdisciplinary program that seeks to reduce discrepancies in job-related skills and requirements in order to improve the vocational participation chances of persons with unfavourable employment prognosis.
+95	The study investigated the participation effects of a medico-occupational rehabilitation program in patients with musculoskeletal disorders, compared to conventional medical rehabilitation.
+96	Data were collected in 2014 and 2015 and analysed using an as-treated analysis.
+97	Using propensity score matching, the results of participants in a medical-occupational rehabilitation (intervention group, ig) were compared with those of comparable participants in a conventional medical rehabilitation (control group, kg).
+98	The primary target criterion was the rate of employment requiring social security one year after the end of rehabilitation.
+99	Treatment effects were assessed using logistic models and absolute risk differences (ARR) were calculated.
+100	One year after the end of rehabilitation, the data of 312 rehabilitation patients were analyzed (156 in the ig).
+101	Using propensity score matching, samples with balanced sample characteristics could be generated.
+102	The proportion of rehabilitants with social security contributions in the ig was about 11 percentage points higher than in the kg (arr=0.11; 95% ci: 0.02-0.20; p=0.020).
+103	Compared to conventional medical rehabilitation, medico-occupational rehabilitation leads to significantly higher employment rates after one year.
+104	Background we implemented a video consultation (visp) during the corona (Covid-19) pandemic in an ophthalmologist&#39;s office with 8 physicians to ensure continuous ophthalmologic care, to ensure prophylaxis of infection and to compensate for fewer patient presentations.
+105	To evaluate the most common reasons for patients&#39; perceptions in visp, the proportion of re-perceptions in practice despite visp, the practical challenges of introducing visp and patient satisfaction.
+106	No patients with new onset of acute visual impairment and severe eye pain were offered visits to the visp.
+107	The video consultation was carried out by a specialist.
+108	In order to evaluate visp, a questionnaire (8 questions) was asked by telephone following the visp visit.
+109	We analyzed 29 (13 male, ø 52.6 years, 16 female, ø 64.7 years) patients.
+110	The visp was achieved in 68.97% of participants, the overall experience was rated with an average score of 1.6, and all of them stated that they would recommend the visp;
+111	70% of the visp presentations were related to the symptoms of the anterior segment of the eye.
+112	In 70% of the cases, there was no re-introduction to the practice.
+113	We observed a highly practical application of visp for the management of non-urgent eye diseases with maximum prophylaxis of infection.
+114	The introduction of visp was strongly limited by technological or user-related problems in the production of video connections.
+115	Patient satisfaction with visp was high to very high.
+116	Should emergency room patients with abdominal complaints be treated with focused ultrasound or does complete abdominal ultrasound offer advantages?
+117	Retrospective analysis of consecutive emergency sonographies from 06/2012 to 06/2013.
+118	All patients received complete abdominal ultrasound.
+119	The findings of the complete ultrasonography were compared with those which would have detected a sonography focused on the complaints, the examination area of ​​which depended on the particular indication.
+120	Findings were considered relevant if they led to diagnostic or therapeutic consequences.
+121	Sensitivity and negative predictive value of focused ultrasound in relation to relevant findings and clarified questions were calculated in comparison to abdominal ultrasound (= standard). 629 patients received emergency ultrasound (53% women).
+122	The mean age was 59 years (18-97).
+123	Focused ultrasound detected relevant findings in 63% of the patients (396/629).
+124	In 17% (106/629), complete abdominal ultrasound revealed additional relevant findings.
+125	The number needed to scan (nnscan) was 6 for an additional relevant finding.
+126	The sensitivity of the focused ultrasound to relevant findings was 76%, the negative predictive value was 64%. the question could be clarified in 57% by the focused ultrasound.
+127	Complete ultrasound examinations clarified the question in 63%. the nnscan was 18.clarification of the question depended on the indication (90% for jaundice and 45% for left upper quadrant pain) and increased with age (37% in the second and 85% in the tenth decade).
+128	Complete abdominal ultrasound examinations reveal more relevant findings in emergency room patients with abdominal complaints and more often clarify the question than focused ultrasound examinations.
+129	Image data plays an important role in ophthalmology and radiology.
+130	For the evaluation of these data sets, deep-learning-based algorithms are increasingly available in radiological diagnostics and research.
+131	Therapeutic indications and importance for radiological imaging in ophthalmology are discussed.
+132	[salivary gland carcinomas (sgc) in salivary gland carcinomas]. background
+133	The composition of the tumor microenvironment (TME) in SGC is poorly understood.
+134	A more complete understanding of the relevant molecular changes and immunological processes of the tumor and of the surrounding stroma could help to improve the therapeutic efficiency, for example by means of adjuvant immunomodulation.
+135	This manuscript summarizes results from studies looking at the composition of the tme in sgc.
+136	The immune cell infiltrate of the different tumor entities is different.
+137	In one third of SGC, expression of the surface cell receptor lag3 (&quot;lymphocyte activation gene 3&quot;) was observed on tumor infiltrating lymphocytes.
+138	Lag3, like ctla-4 (&quot;cytotoxic t‐lymphocyte antigen 4&quot;) and pd-1 (&quot;programmed cell death 1 protein&quot;) inhibits the cellular proliferation, activation and homeostasis of antitumor t-cells.
+139	Higher expression can be observed, especially in the prognostically less favourable entities such as salivary duct carcinomas and adenocarcinomas nos (&quot;not otherwise specified&quot;).
+140	Lag3 should be detected especially in aggressive entities and advanced tumors.
+141	Consequently, therapy with lag3 inhibitors may support therapy in advanced and metastatic SGC.
+142	Primary ciliary dyskinesia (pcd, mim 242650) is a rare hereditary multisystem disorder with a clinically heterogeneous phenotype.
+143	The leading symptom is chronic secretory retention of the upper and lower respiratory tract, which results from dysfunction of motile respiratory cilia.
+144	As a result, bronchiectasis occurs, often resulting in infection by pseudomonas aeruginosa and decreasing lung function, leading to lung failure.
+145	To date, there is little evidence-based treatment recommendation, as long-term randomized trials for the treatment of PCD have been lacking.
+146	Data from a first placebo-controlled drug trial in PCD was published this year.
+147	At the end of this milestone in the management of PCD, the present review article was written as a consensus of patient representatives and clinicians with long-standing experience in the treatment of PCD.
+148	This article provides a summary of currently used treatment modalities, which are mainly based on personal experience and expert opinions or are derived from other respiratory diseases such as cystic fibrosis (CF), COPD or bronchiectasis.
+149	Since there is currently no curative therapy for PCD, symptomatic measures such as regular cleaning of the airways and treatment of recurrent respiratory tract infections are the focus of attention.
+150	Non-respiratory manifestations are treated organ-specifically.
+151	In order to generate more evidence-based knowledge in addition to the first drug trial, further projects are being established, including an international PCD registry.
+152	This will facilitate access to clinical and scientific studies for patients and promote the networking of treatment centres.
+153	Furthermore, knowledge about a genotype-specific disease severity can be obtained in order to improve and individualize the therapeutic management of patients.
+154	Since December 2019, the novel coronavirus sars-cov‐2 (&quot;severe acute respiratory syndrome coronavirus 2&quot;), which causes the disease Covid-19 (&quot;coronavirus disease 2019&quot;), has spread rapidly throughout the world.
+155	From the Hubei province of China, 29.4 million people have now been infected worldwide, and more than 930,000 have died as a result of the disease (as of 15 September 2020).
+156	The virus spreads through droplet infection and aerosols.
+157	Close body contact therefore significantly increases the risk for transmission.
+158	In particular, close physical contact examinations should be undertaken to protect not only the patient but also the medical staff.
+159	This article presents the current recommendations of international societies on the use of personal protective equipment and their local implementation.
+160	Electrical accidents and especially compartment syndromes resulting therefrom are challenging injuries in clinical treatment.
+161	Creatine kinase (CK) and myoglobin are known laboratory parameters for compartment syndrome.
+162	We examined patients with electrical injuries between 2006 and 2016 in our burn hospital.
+163	We wanted to analyze the role of myostatin as a marker of compartment syndrome by serum measurements within 24 hours after injury.
+164	We collected data from 24 patients who were hospitalized with a high-voltage electrical injury.
+165	Of these 24 patients, we were able to measure myostatin concentrations in 14 patients.
+166	While ck-mb (creatine kinase type muscle-brain [mb]) did not show a significant correlation with compartment syndrome, ck and myostatin showed a strongly significant increase.
+167	Interestingly, myostatin was significantly increased in electrical injuries, but not in burns, whereas ck did not show a significant difference.
+168	In addition to CK, myostatin can thus serve as a reliable early marker for compartment syndrome in electrical injuries.
+169	Primary hyperaldosteronism (PHA; Conn&#39;s syndrome) is the most common cause of secondary arterial hypertension.
+170	Primary causes are aldosterone-producing adenoma (APA) or bilateral adrenal hyperplasia (BAH) with different therapeutic consequences.
+171	Neither screening and functional tests nor cross-sectional imaging can detect unilateral dominant hormone production.
+172	In addition to a clinical overview on the etiology, diagnosis and therapy of PHA, the indication, technique and value of selective adrenal venous blood sampling (NNVBE) are presented in detail in this review article and discussed in the context of current literature.
+173	Nnvbe can detect or exclude unilateral dominance with a high success rate.
+174	Patients with PHA and unilateral APA can be treated curatively by adrenalectomy.
+175	NNVBE is an established intervention for the subtyping of PHA into unilateral or bilateral adrenal disease.
+176	· Adrenal venous blood sampling (NNVBE) is a safe, reliable and minimally invasive method for detecting unilateral or bilateral adrenal disease. .
+177	· Detection of lateralization by nnvbe has immediate relevance for the curative treatment of primary hyperaldosteronism (pha).
+178	· nnvbe can be performed with high success rate without contrast medium administration and with low radiation exposure in the hand of an experienced examiner. .
+179	· loberg c, antoch g, stegbauer j et al.
+180	Update: selective adrenal venous sampling (AVS) indication, technique, and significance.
+181	Progress to x-ray 2020;
+182	2018. European Journal of Pharmacology.
+183	The focus of the extraordinary symposium webinar of the working group on urological research (auf) was the topic &quot;research in the context between university and pharma&quot;.
+184	The virtual meeting was dedicated to the important and sometimes less well-known challenge of building the bridge from the laboratory bench into the application and of implementing promising results from university-based research projects together with the pharmaceutical and medical industry.
+185	Several relevant questions and problems were defined and discussed with an equally interdisciplinary group of participants from urology, pathology and natural sciences, both from the perspective of project managers from clinics and laboratories, as well as from managers from the pharmaceutical industry and from the field of patent law.
+186	Chest pain is a common symptom that patients present in general practice.
+187	Patients with acute chest pain represent a diagnostic challenge for the physician in private practice because a wide range of diagnoses are possible, from life-threatening acute myocardial infarction and pulmonary artery embolism to much more common causes, such as a harmless muscular strain from the group of so-called chest wall syndromes or gastrointestinal disorders, for example a reflux disease.
+188	The clinical evaluation of patients with acute chest pain follows the principle of a thorough clinical assessment by the physician with physical examination and medical history, regardless of the location of the examination.
+189	This is followed by further technical investigations such as a 12-channel electrocardiogram and a specific laboratory diagnosis with point-of-care tests (including troponin and d-dimers).
+190	Diagnostic pathways and scoring systems such as the Marburger Heart Score have been specifically developed to allow assessment and orientation in general practice.
+191	This article discusses the role of alcohol in our society and its importance for adolescents.
+192	Specifics of the interaction between alcohol and the adolescent brain are discussed and the epidemiological development of alcohol consumption in Austrian minors is described.
+193	Relevant risks for problematic patterns of use and possible ways to prevent them are also discussed.
+194	Thermal ablation of stem ovarian disease has become a standard procedure in the treatment of varicose vein disease.
+195	The clinical success of the endovenous thermal procedures is comparable to the stripping operation, a significant difference between these groups could not be demonstrated in long-term analyses.
+196	Only in the genesis of the crush recurrences detected by duplex ultrasound is there a difference: neoangiogenesis occurs after stripping surgery, and recurrence via a left anterior saphenous accessory vein occurs predominantly after endovenous ablation of the trunk vein.
+197	Cost savings due to more outpatient endovenous procedures compared to stripping surgery, which is still often performed inpatiently (compared to other countries) in Germany, have now been demonstrated.
+198	Endovenous crossectomy should be considered.
+199	Non-thermal endoluminal catheter procedures are mainly reserved for the treatment of saphenous veins.
+200	Of the clinically available biomarkers, natriuretic peptides (NPS) are the most robust predictors for the diagnosis and prognosis of heart failure (CHF).
+201	The prognostic value is high, especially in the case of serial determination of NPs, so that clinical use in international high guidelines with the highest evidence and recommendation is further emphasized.
+202	The concept of sequential np measurements is used to detect sodium and water overload at clinically defined times.
+203	The aim of an NP-supported treatment plan is not only to objectify the dynamics of the clinical therapy response but to assign clinical scenarios to the individual course of therapy, which in turn play an essential role in risk stratification, prognosis and requirements of therapy optimization in inpatient as well as outpatient care.
+204	Background the treatment of patellar fractures is technically demanding.
+205	Although the radiological results are mostly satisfactory, this often does not coincide with the subjective assessment of the patients.
+206	The classical treatment by wire tensioning has some complications.
+207	In recent years, angularly stable plate osteosynthesis has proved to be biomechanically advantageous.
+208	Who is responsible for patellar fractures in Germany?
+209	What is the current standard of care?
+210	Have “modern” forms of osteosynthesis become accepted?
+211	What are the most common complications?
+212	The members of the German Society of Orthopaedics and Trauma Surgery and of the German Knee Society were asked to participate in an online survey.
+213	A total of 511 complete questionnaires were analyzed.
+214	The majority of respondents are specialized in trauma surgery
+215	(51.5%) and have long-standing work experience in trauma centres.
+216	Half of the surgeons treat ≤5 patellar fractures annually.
+217	In almost 40% of the cases, preoperative imaging is supplemented by computed tomography.
+218	The classical traction strap is still the preferred form of osteosynthesis in all types of fractures
+219	(cross fracture 52%, multi-fragment fractures 40%). In multi-fragment fractures, 30% of the surgeons opt for angular-stable plate osteosynthesis.
+220	In the case of involvement of the caudal pole, the McLaughlin loop serves as an additional safeguard
+221	(60%). The standard of care for patellar fractures in Germany largely complies with the updated S2E guideline.
+222	Conventional tension band osteosynthesis is still used as the method of choice.
+223	Further clinical (long-term) studies are needed to verify the advantages of angular stable plate osteosynthesis.
+224	Back pain is associated with significant impairment of participation, which medical rehabilitation is intended to counteract.
+225	It is evident that the usual setting in Germany is not effective for all target groups.
+226	In addition to intensification for risk groups, a low-threshold form may be useful for persons with moderate impairments.
+227	The feasibility of in-service rehabilitation (bbr) was investigated in one study.
+228	The bbr was designed as a closed group program with a treatment duration of 48 hours (2 visits per week for 12 weeks).
+229	In addition to feasibility, the analysis of different access routes and the results achieved were focused on.
+230	In 3 outpatient rehabilitation centers 12 groups with 6 to 12 participants were planned.
+231	In addition to the application procedure, insured persons were recruited via the network of rehabilitation facilities and the company offices of the German pension insurance.
+232	The target group was employed insured persons who needed medical rehabilitation because of back pain.
+233	The evaluation was multi-perspective and multi-method.
+234	In addition to a survey of participants at the beginning, during and after the bbr, group discussions were conducted with representatives of the rehabilitation facilities, the rehabilitation supports and employers.
+235	Seven groups with a total of 56 participants were implemented in two institutions.
+236	The typical BBR participant was female, married, without children, 48 years old and working full-time in medium-sized companies without shift service.
+237	The majority had no or minor absenteeism in the previous year.
+238	59% of the participants were recruited through the rehabilitation facilities; only isolated cases were recruited through the application process.
+239	Two-thirds would not have applied for rehabilitation without the bbr&#39;s offer.
+240	Overall, participants were very satisfied with the bbr. However, work-life compatibility was perceived as a challenge.
+241	Pre-post comparisons among bbr participants showed moderate to severe differences in the assessment of general health, pain, functional ability and work ability.
+242	The BBR has indicated the potential for humans with moderate impairments.
+243	Prior to dissemination, the identified challenges should be addressed.
+244	This relates in particular to the recruitment and the compatibility of rehabilitation with work and everyday life.
+245	The stimulation of the hypoglossal nerve (HNS) for the treatment of obstructive sleep apnea (OSA) has been given high priority since the first opinion of the working group of sleep medicine of the German Society of Oto-rhino-laryngology, Head and Neck Surgery (DGHNO).
+246	The existing three systems differ in the technical design of the similar basic principle.
+247	Several comparative studies, registry analyses with 4-digit numbers of patients and several years of follow-up results exist for unilateral respiratory-controlled hns.
+248	Continuous hns does not require respiration detection, and in contrast to respiration-controlled hns, sleep endoscopy is not necessary for the indication.
+249	Bilateral continuous hns is the only partially implantable procedure, with first feasibility studies available.
+250	Non-adherence to hypertension therapy in patients with at least moderate OA as assessed by sleep medicine expertise is essential for the indication in individual consideration of further therapeutic options.
+251	The implanted clinic is the focus of interdisciplinary treatment responsibilities and is the main partner for treatment problems.
+252	This explains the structural requirements for ensuring the quality of the results and minimising complications.
+253	The follow-up of the hns-treated patients can be carried out very well across sectors and disciplines, with minimum information on the treatment effect and use being documented.
+254	Ruptures of the m. pectoralis major (pm) tendon are rare injuries, but their number has increased in recent years, especially during the practice of strength sports.
+255	The pathomechanism is an eccentric stress under pm tension (fall on the extended arm, injury during ground fighting or boxing, but especially during downward movements during bench pressing).
+256	The rupture sequence starts at the base, starting from superior to inferior, starting with the inferior-most muscle segments, followed by pars sternocostalis (ps) and pars clavicularis.
+257	Most classifications are based on rupture location, extension and time of injury.
+258	In addition to clinical signs and ultrasound, MRI has established itself as the diagnostic gold standard.
+259	The indication for surgical treatment is for almost all lateral pm tendon ruptures with relevant force deficits.
+260	Treatment &lt; 3 weeks is the primary goal, but surgical treatment is possible in chronic cases.
+261	Conservative therapy only concerns patients with muscular injuries close to the origin and minor partial tears.
+262	The aim of the surgical therapy is the anatomical reconstruction of the pm unit with restoration of the original tension conditions in order to allow the optimal transmission of force.
+263	Surgical refixation or reconstruction (with auto-/allograft) of acute and chronic pm tendon ruptures shows good clinical results with very high patient satisfaction.
+264	Latissimus dorsi (ld) and teres major (tm) tendon ruptures are rare but can lead to significant impairment in high performance athletes.
+265	In contrast to pm tendon ruptures, ld and tm injuries are treated primarily conservatively with very satisfactory results.
+266	The number of metastatic LN stations and the number of metastatic LNs are better prognostic factors than the currently used nodal classification in NSCLc.
+267	Between 2010 and 2017, 1038 resected patients were analyzed for NSCLc.
+268	We performed 3 different strata for ln assessment: pn category (pn0, pn1 and pn2); sn category (sn0, sn1; 1st station of metastasis, sn2; 2nd and 3rd stations of metastases and sn3; ≥ 4th station of metastases); nn category (nn0, nn1; 3 lns metastasis, nn2; metastases in 4-6 lns and nn3; metastases in ≥ 7 lns).
+269	The 5-year survival rate was 70.1% for n0 in all classifications.
+270	It was 54.3% for pn1 and 26.4% for pn2 (p&lt;0.0001).
+271	The 5-year survival rates for categories n1, n2 and n3 were 54.1%, 42.4% and 16.1% after sn and 51.4%, 36.1% and 7.9% after nn (p&lt;0.0001).
+272	In the multivariate analysis, sn and nn were independent risk factors such as pn (p&lt;0.0001).
+273	The hazard ratios against n0 for n1, n2 and n3 were more significant for sn and nn than for pn (1.597,2.176 and 3.883 for sn; 1.645,2.658 and 4.118 for nn and 1.576,3.222 for pn, respectively).
+274	When sn and nn subgroups were classified into pn1 and pn2 subgroups, the anatomical position of ln involvement decreased with increasing tumor burden and tumor spread.
+275	The number of metastatic LN stations and the number of metastatic LNs are better prognostic factors than the currently used nodal classification in NSCLc.
+276	We report on a 36-year-old patient who developed the classical symptoms of PTSD in his position as a social media content moderator after an occupational confrontation with representations of violence on animals, sexual violence and physical violence via digital media.
+277	After 10 months of incapacity for work, the patient underwent rehabilitation for social medical assessment.
+278	Although the patient&#39;s high resilience and motivation led to a regeneration within the next 6 months and a reorientation in the general labor market, his ability to perform his last social security-dependent job was completely abolished.
+279	This secondary, digital type of traumatization is not listed in the current version of the icd-10, but is already described in the a4 criteria of the dsm-5.
+280	Exposure via electronic instruments, television, films or photographs is excluded here, unless the exposure is occupational.
+281	Using this example, risks for mental health are presented by digital factors during work, as well as their consequences in terms of social medicine and insurance.
+282	Overcome malignant biliary tumors: the term malignant biliary tract cancer also includes carcinomas of the intra- and extrahepatic bile ducts and the gallbladder, whose molecular pathological differences are becoming more and more well understood. Patients after curative resection should be offered adjuvant chemotherapy with capecitabine for 6 months.
+283	The combination of gemcitabine and cisplatin remains the established standard of palliative first-line therapy.
+284	Patients in good general condition may be recommended for second line therapy based on the positive results of the randomised abc-06 study.
+285	More than 50% of all patients with malignant biliary tumors have treatable genetic alterations.
+286	Initial prospective data demonstrate the benefit of targeted therapy in these patients.
+287	Therefore, molecular profiling should be offered to all patients requiring palliative system therapy at an early stage.
+288	In Covid-19 infection, there is a systemic viral response followed by an inflammatory phase of the disease.
+289	The first phase is usually mild/asymptomatic.
+290	Only a proportion of patients develop the inflammatory phase with high mortality.
+291	Patients with pre-existing cardiovascular disease and cardiovascular risk factors have a higher risk of severe Covid-19.
+292	Covid-19 does not only affect the lung parenchyma through the ace2 receptors.
+293	Covid-19 not only affects the lung parenchyma through the ACE2 receptors, but can also cause generalised endothelial damage and inflammation throughout the body.
+294	Endothelialitis.
+295	The morphology of endotheliitis is an accumulation of lymphocytes, plasma cells and macrophages in and below the endothelial cells.
+296	Endotheliitis may result in vasoconstriction with consecutive organ ischemia, inflammation and tissue edema, and thrombotic microcirculation failure.
+297	Patients with pre-existing cardiovascular dysfunction (hypertension, diabetes mellitus, obesity and other cardiovascular diseases, male gender) are at increased risk of severe courses of Covid-19 infection.
+298	For these reasons, endothelial stabilization approaches are particularly used.
+299	Since the pandemic outbreak, the majority of the findings have been obtained from autopsies.
+300	Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases.
+301	In Germany, the prevalence in the adult population is estimated to be 24% and the incidence is increasing.
+302	The differentiation of early and advanced disease stages is important for the prognosis.
+303	In particular, the degree of scarring, referred to as liver fibrosis, affects morbidity and mortality in patients with NAFLD.
+304	In the presence of advanced fibrosis and cirrhosis, liver-specific and all-cause mortality increase.
+305	Liver fibrosis occurs as a consequence of persistent inflammation of liver tissue over time.
+306	Since inflammation and fibrosis are histological features of the disease, liver biopsy is still considered the reference method in the diagnosis of NAFLD.
+307	Non-invasive diagnostic methods for staging (fibrosis) and grading (activity) of the disease are increasingly being developed and validated.
+308	The current review summarizes new developments in non-invasive liver diagnostics.
+309	Rehabilitation of people with a stroke is a long-standing process in which people, their families and friends are dependent on social support and assistance.
+310	Therefore, the individual promotion of the resources available and the independence of the affected persons is an important task.
+311	The University of Health Bochum and the German Stroke Aid Foundation have developed the volunteer-supported model “trained stroke assistants and stroke assistants – a twinning model for the care of stroke patients (GESA) close to their residence” which provides training for stroke assistants as experts for individual support of stroke patients and their relatives close to their residence.
+312	The stroke auxiliaries offer patient-oriented care and individual support in everyday life and thus contribute to improving the health-related quality of life of affected persons and their families.
+313	A training curriculum was developed and successfully tested and evaluated in a training with 21 stroke auxiliaries.
+314	By the summer of 2020, over 480 stroke auxiliaries have been trained at 16 sites in 37 training courses.
+315	The experience to date with the project is consistently positive, as confirmed by two scientific papers.
+316	The main success factor for the sustainability of the project is the involvement of cooperation partners for the coordination of volunteers, which has already been implemented in the model project.
+317	This paper describes the results of the pilot study as well as the standardised process for implementing a regional helper project and describes the experience with the project so far.
+318	The aim of this prospective study was to evaluate the reduction of pain with regard to fracture age in the treatment of vertebral body fractures using balloon kyphoplasty.
+319	A total of 106 patients (37 male and 69 female) with 128 vertebral fractures with a mean age of 67.5 years (21 to 92 years) and a body mass index of 26.4 (16-40.4) were included in this study.
+320	All fractures were evaluated radiographically and clinically.
+321	Pain intensity (visual analogue scale 0-10), analgesic consumption (who scale 1-3), oswestryscore and surgery-relevant data (operation time, cement consumption, complications) were collected.
+322	37 a 1.1,43 a 1.2,43 a 1.3,4 a 3.1 and 1 a 2.3 classifications were collected.
+323	The fracture age in days was less than 23 days in 75 patients and the mean operation time was 43 minutes.
+324	Analgesic consumption was reduced from 1.8±0.8 to 1.0±0.6 preoperatively.
+325	A significant improvement was shown in pain intensity, which decreased significantly from 8.2±0.9 preoperatively to 3.9±0.8 postoperatively.
+326	In terms of fracture age and pain intensity, a significantly higher pain reduction was achieved in the fresh fractures between 0 and 23 days.
+327	The pain intensity decreased to 2.5±0.5 postoperatively, whereas in the fractures treated later this value was 4.5±0.4.
+328	In conclusion, balloon kyphoplasty is a sufficient method to correct vertebral fractures, improve the kyphotic angle and reduce pain.
+329	Not only regenerative therapy such as cell-assisted lipotransfer but also preclinical experimental studies use adipose tissue-derived stem cells (ASCs) in plastic surgery.
+330	However, factors dependent on the respective stem cell donor have a decisive influence on the cell yield and the regenerative potential of ASCs and the stromal vascular fraction (SVF).
+331	The aim of this review was therefore to present these influencing factors of the stem cell donor and to assess them on the basis of current knowledge.
+332	An intensive literature search was conducted in the National Library of Medicine, focusing on influencing factors of stem cell donors that have shown an influence on cell yield and regenerative potential of human ASCs and SVF in previous studies.
+333	Currently, there are a large number of studies dealing with the influencing factors of stem cell donors.
+334	However, these factors are very inhomogeneous and sometimes even contradictory, so there is still a need for further research.
+335	However, there are some factors that have been frequently studied according to the current literature: age, gender, weight, side effects (eg , diabetes, lipoedema), as well as special medications (antidepressants, anti-hormone therapy) and chemotherapy.
+336	In experimental and clinical studies with ASCs/SVF, we recommend that a characterisation of the patient population should be published, so that possible influences by the above-mentioned factors are communicated and a better comparability of studies is possible.
+337	In addition, a precise medical history and physical examination can be used beforehand to construct a patient collective which is as homogeneous as possible for collecting samples for scientific work.
+338	The results may also help to assess the success of future ASC-based therapies.
+339	Intravascular administration of iodinated contrast agents can have systemic or haemodynamic side effects, despite continuous improvement of their pharmacological properties.
+340	Patients with renal impairment are at risk.
+341	Acute renal failure following intravascular contrast medium administration has an increased risk of long-term dialysis and mortality in affected patients.
+342	The underlying pathomechanism is not fully understood, nor is the true incidence of acute renal failure in contrast-induced nephropathy known.
+343	These uncertainties are reflected in many other aspects: for example, there is a lack of a generally binding definition and there is a lack of consistency in clinical practice.
+344	Clinical guidelines for the prevention of contrast-induced renal injury classically recommend prophylactic intravenous hydrogenation in high-risk patients.
+345	This review summarizes the current recommendations for intravenous prophylaxis in this context and presents a 2-step guideline based on the latest guideline recommendations.
+346	More recent research has led to a substantial adaptation of the clinical guideline recommendations: 90% of patients classified as high risk for contrast-induced nephropathy to date no longer belong to this risk category, and prophylaxis before contrast-induced nephropathy is no longer recommended.
+347	For a small patient group, this prophylaxis may be very helpful, with careful consideration in the context of a benefit-risk analysis.
+348	This particularly affects patients with chronic renal failure stages CKD 4 and 5.
+349	Intravenous hydration may have a beneficial effect for high-risk patients as defined in the &quot;new&quot; definition; a risk assessment remains necessary.
+350	A 2-stage screening approach provides guidance for practical implementation in the clinic.
+351	· Prophylactic prehydration is an essential component to avoid contrast-induced nephropathy. .
+352	· recent publications have helped to adapt the current guideline recommendations. .
+353	· intravenous hydration may have a beneficial effect for high-risk patients as defined by the &quot;new&quot; definition; a risk assessment remains necessary. .
+354	· a 2-stage screening approach provides guidance for practical implementation in the clinic. .
+355	Out of the high-risk group of endocarditis-predisposing diseases, endocarditis (risk 266-fold) is distinguished. Prevention measures such as good oral/dental hygiene, antibiotic prophylaxis in orodental procedures and education are essential.
+356	Transesophageal echocardiography should be performed in patients with community-acquired e. faecalis bacteraemia-according to recent studies, the prevalence of endocarditis in this patient group is &gt; 20%. there is increasing evidence that there is an association between e. faecalis endocarditis and colorectal carcinomas or adenomas with signs of dysplasia.
+357	Oral therapy of endocarditis: the non-inferiority of oral sequencing therapy in endocarditis patients has so far only been demonstrated for a very selected subgroup (stable course, small vegetation, no paravalvular complications).
+358	Early and non-critical oralisation of antibiotics carries the risk of poorer treatment outcomes.
+359	Artificial infections/infections of left ventricular assist devices: artificial heart infections/infections of left ventricular assist devices (LVAD) occur in one third of patients during the first year after implantation.
+360	Surgical debridement may be necessary in addition to sufficient antibiotic therapy.
+361	Background prognostic and predictive biomarkers are of clinical interest for personalized treatment management in squamous cell carcinoma of the head and neck.
+362	DNA methylation as an epigenetic mechanism of gene regulation may be a source of suitable prognostic and predictive biomarkers.
+363	Pubmed literature search and own work.
+364	Methylation of genes such as pitx2 is a strong, human papilloma virus (hpv)-independent prognostic biomarker.
+365	Methylation of plasma circulating cell-free DNA from shox2 and sept9 correlates with tumor stage and prognosis.
+366	The methylation of various immune checkpoints, for example pd‐1, pd‐l1 and ctla4, is also prognostic and correlated with gene expression.
+367	DNA methylation is a source of powerful prognostic plasma and tissue biomarkers, but prior to clinical use, studies have yet to demonstrate that biomarker-guided therapy selection results in improved survival or reduced adverse events.
+368	The suitability of DNA methylation as a predictive biomarker for drug-targeted tumor therapy seems promising but has not yet been sufficiently demonstrated.
+369	The pediatric-oncological care structure plays a special role in Germany.
+370	Children and adolescents with cancer are treated uniformly throughout Germany in therapy studies and registries across sectors at centers that can ensure interdisciplinary and multi-professional care.
+371	The centres use heterogeneous billing modalities for the billing of non-full-time services, which do not cover the necessary supply costs in terms of monetary most of the time.
+372	A nationwide survey of all centers of the Society for Paediatric Haematology and Oncology (GPOH) was conducted.
+373	In the survey, we asked standardized questions about which types of care the non-full-time inpatient field in pediatric oncology is funded and whether a cost coverage can be achieved.
+374	Of 58 pediatric oncology centers, 18 (33%) participated in the survey, including 8 (44%) university hospitals.
+375	Utilisation of available billing types proved to be very heterogeneous.
+376	On average, 3.33±1.49 billing types per centre are used.
+377	17 of the 18 participating centres reported that the revenue could not cover the costs of non-full inpatient care.
+378	Pediatric oncology centers in Germany cannot achieve cost-covering care in a non-full-ward setting.
+379	For the non-full-term care of children and adolescents with cancer, a nationwide and performance-based form of care is urgently needed.
+380	Three different models providing an adequate framework for action were developed and presented.
+381	Metabolic surgery is not exclusively a weight-based surgical therapy for metabolic diseases, the aim of which is, inter alia, the improvement of hyperglycaemia.
+382	According to the S3 guideline &quot;surgery of obesity and metabolic diseases&quot; in force since 2018, the indication for metabolic surgery can be made in people with type 2 diabetes and a BMI ≥ 35 kg/m2 if diabetes-specific individual target values ​​cannot be reached.
+383	Metabolic surgery should even be recommended as a possible treatment option for patients with a BMI ≥ 40 kg/m2, regardless of glycaemic control or diabetes therapy parameters.
+384	In randomised controlled trials, metabolic surgery was consistently superior to conservative diabetes therapy in improving glycaemic control and weight loss and was able to reduce the incidence of macro- and microvascular complications of diabetes.
+385	The risks of metabolic surgery include acute complications up to a perioperative mortality of 0.1-0.5% and longer-term complications such as micronutrient deficiency, addiction or increased risk of suicidality.
+386	For most people with type 2 diabetes, metabolic surgery will not be the first choice in escalating therapy.
+387	This is mainly based on the fact that modern antidiabetic agents and modified insulin therapies allow safe and long-term effective diabetic therapy with a good quality of life.
+388	At the same time, patients with type 2 diabetes, who can especially benefit from surgical treatment of diabetes, should be informed about this treatment option.
+389	The benefits of timely metabolic surgery should always be weighed against the risks.
+390	A retrospective analysis of the clinical outcomes and complication rates of all femoral amputee patients treated with the latest implant design of the so-called endo-exo-femoral prosthesis (eefp, third generation) was performed.
+391	The aim is to obtain specific information on long-term complications of this form of amputation care.
+392	In January 2019, data of all femoral amputees who were treated with tops from 2010 to 2016 at an acute care clinic in Schleswig-Holstein were retrospectively analyzed.
+393	This was done with special regard to postoperative complications.
+394	All findings from routine clinical follow-up examinations were used for this purpose.
+395	The complications were subdivided into problems with stoma, orthopaedic problems, fractures and explantations.
+396	All eefps had the same implant design (third generation).
+397	This implant is currently the only one in clinical use in Germany.
+398	Descriptive statistics of the patient population and ratios of complications were calculated.
+399	A total of 68 implantations were performed during this period.
+400	Mean follow-up was 6.32 years (±2.16 years).
+401	The mean age of patients was 51.84 years±12.12 years.
+402	The cause of the amputation was mainly trauma (82.35%).
+403	Stoma-associated problems showed the highest incidence within all observed patient-associated complications with 7% of cases and were the main challenges during the rehabilitation process.
+404	Looking at the surgical complications only, 81% had no complications at all.
+405	Overall, 15% had orthopaedic problems, 6% had a peri-prosthetic fracture, 7% had problems with the stoma and 3% had to be explanted due to infection.
+406	The data analysis shows that TOPS (here the third generation EEFPs) can be a successful alternative treatment modality for stem prosthesis repair for patients with femoral bone loss.
+407	The indication should only take place after failure of a stem supply and contraindications must be totally excluded.
+408	The main challenges in the rehabilitation process are the prevention of stoma complications, infections and orthopaedic technical problems.
+409	Rehabilitation of amputees treated with tops therefore requires an interdisciplinary, specialized rehabilitation team and lifelong rehabilitative care.
+410	Cystic fibrosis (CF) is the most common autosomal recessive multisystem disease with fatal outcome.
+411	It is caused by mutations in the cystic fibrosis transmembrane conductance regulator (cftr) gene, which result in insufficient function of the chloride channel cftr.
+412	As a result, inadequate hydration of the epithelial fluid film results in the retention of tenacious secretions in several vital organs, especially in the lungs and respiratory tract, pancreas, liver and bile ducts, and the intestine.
+413	This leads to inflammation and infection, fibrosis and progressive organ destruction.
+414	Mortality is mainly due to respiratory and ventilatory insufficiency.
+415	In the last 30 years since the molecular characterization of the cf-causing cftr-base defect, the long-term prognosis of the affected patients has improved tremendously.
+416	This prognostic improvement can be attributed on the one hand to a cooperative, very active and well-connected international cf research community and on the other hand to a standardized treatment by an interdisciplinary and multi-professional cf clinical team, which consistently and together with the patient implements the evidence available in numerous aspects of cf therapy.
+417	This narrative review highlights the evidence in selected areas of CF therapy and particularly acknowledges the recent development of highly effective CFTR modulator therapy, which is expected to be available in the near future to about 90% of affected patients and which will transform CF through its influence on pathophysiology and the long-term course into a well-treatable chronic disease of internal medicine.
+418	Introduction: the yeast Malassezia pachydermatis is considered a commensal but is also the most frequently isolated yeast in canine otitis externa.
+419	Due to their antimicrobial properties, essential oils could be used as an alternative therapy for otitis.
+420	The aim of this study was to investigate the in vitro antifungal activity of essential oils against M. pachydermatis isolates from canine ears.
+421	Material and methods: the in vitro activity of 22 essential oils was investigated by agar platelet diffusion assay against 15 m. pachydermatis isolates.
+422	In addition, dilutions of the essential oils were tested and the volatile effect was analyzed by &quot;vapour assay&quot;.
+423	Results most essential oils showed in vitro activity against m. pachydermatis.
+424	A different sensitivity of individual M. pachydermatis isolates was found.
+425	Lemongrass oil was found to be the most potent essential oil.
+426	Cinnamon, clove, manuka, Indian melissa, oregano, palmarosa and mountain bean oil also showed strong antifungal activity.
+427	The volatile effect was demonstrated by vapour assay.
+428	Conclusion in vitro, essential oils show activity against the yeast m. pachydermatis.
+429	This study provides a scientific basis for the application of essential oils in veterinary medicine.
+430	The different sensitivity of the different M. pachydermatis isolates to individual essential oils once again demonstrates the usefulness of an aromatogram as a clue in the selection of the appropriate essential oil for therapy.
+431	For about a decade, the electronic cigarette (e-cigarette) has been gaining popularity in Europe, whether as nicotine replacement therapy, as a trendy delusion for adolescents, or for occasional smokers with or without nicotine additives.
+432	In addition to the still largely unknown pulmonary damage potential from long-term exposure, an explosion of accumulators with specific injury patterns may occur.
+433	Most users are not aware of the hazard in the pocket of the pants.
+434	Between February and July 2019, four patients with burns due to exploded e-cigarettes were treated at the center for severe burn injuries at the SANA Klinikum Offenbach am Main.
+435	The cause, extent of the injury and its treatment are discussed below.
+436	The mean age of male-only patients was 37 (25-50) years.
+437	In all patients, the cause was a so-called hypertrophy.
+438	Thermal runaway.
+439	The burn depth ranges from grade I to deep grade IIB.
+440	The body surface area burned averaged 3 (0.5-4.5) % vkof and affected the areas of the body typically in direct contact with the e-cigarette among users: thighs, genitals and hands.
+441	Conservative therapy was successful in 1 case and surgical therapy in 2 cases (2 alloplastic coverings, 1 split-thickness skin graft).
+442	One patient discharged after primary care against medical advice.
+443	The mean hospitalisation time of 3 patients was 15.6 days (range 6-17).
+444	Burns from an exploding e-cigarette represent a new rare entity.
+445	Due to the force of the explosion of a battery body, injury patterns occur which require treatment in specialised centres with the entire spectrum of burn medicine.
+446	Mixed injuries are caused at the predilection sites with deep burns due to thermal action, collimation necrosis due to emerging electrolyte fluid and contamination by foreign bodies (metallic lithium, splinter of the destroyed housing), which require special initial measures.
+447	E-cigarette extinguishment also requires special measures.
+448	Appropriate handling of CE-certified devices is essential.
+449	Manipulation of the device in case of defective functions or defective rechargeable batteries is very dangerous and should be strictly prohibited.
+450	General safety requirements must be observed.
+451	In aggressive posterior retinopathy of prematurity (APROP), recurrences after intravitreal injection of bevacizumab (IVB) may occur despite successful activity control of the acute stage and therefore require long-term monitoring in extreme preterm infants.
+452	Recurrence is defined as the recurrence of plus sign and leakage (with or without proliferation) posterior, anterior and anterior to the vascularisation border.
+453	Retcam wide angle photographs and fluorescence angiography were obtained at the start of ivb therapy (bevacizumab 0.312 mg in 0.025 ml per eye), prior to any further therapy (ivb, laser or cryocoagulation, pars plana vitrectomy) and at the end of therapy.
+454	The imaging material of 18 eyes/9 very premature infants with aprop treated between 08/2008 and 12/2017 (ga 21-27 weeks, gg 430-890 g) was evaluated.
+455	Only 4 eyes/2 children (22%) were able to achieve long-term success with a single injection.
+456	In 2 eyes/2 children (11%), 2nd and 3rd doses were used if the treatment effect was not sufficient.
+457	Injection within 2 weeks.
+458	Up to 3 injections with laser coagulation were required in 12 eyes/6 children (67%) to achieve complete resolution of rop activity.
+459	In 6 eyes/3 children (33%) the leakage at the original vascularisation limit could only be reversed with laser coagulation.
+460	In a single eye, retinal distortion with consecutive failed retinal surgery was observed.
+461	Prior to IVB, 2⁄3 of the leakage was due to proliferations (12 eyes/6 children).
+462	In recurrences after IVB, leakage was displaced posteriorly (14 eyes/4 children), whereas after laser coagulation, leakage due to proliferations was also observed anteriorly of the vascularisation border (5 eyes/3 children).
+463	Therapy was indicated in 14 eyes/4 children due to signs of angiographic activity.
+464	Intravitreal injection of 0.312 mg bevacizumab was shown to be an effective treatment for approximately acute stage.
+465	The long-term success of the therapy requires the consistent detection and treatment of appropriate recurrences.
+466	Fluorescence angiography was particularly helpful in the diagnosis of non-detectable recurrences in wide angle photography.
+467	The field of urology has always been closely associated with technological advances and especially the last decades have led to an increased use of various technologies and innovations in the individual sub-fields of urology.
+468	While conventional laparoscopy is increasingly being replaced by robotic-assisted procedures, and in particular the introduction of new robotic systems from various manufacturers will take place and will take place, most interventions in endourology still take place many times without these assistance systems.
+469	However, new systems such as eg
+470	Autonomous robot-controlled hydraulic ablation (aquablation) of the prostate is becoming increasingly important and numerous development projects will also significantly change clinical care in the coming years.
+471	In addition, a progressive combination of robotic support with intraoperative navigation can be expected through the integration of imaging and AR and VR technology.
+472	This combination of navigation and robotic technology has already been used successfully in the field of fusion biopsy of the prostate.
+473	The fee arrangement for physicians (GOE) is the basis for the billing of private medical services.
+474	The last partial revision for surgical services was carried out in 1996.
+475	As a result, the progress in the surgical fields is completely insufficient, new operations do not occur at all, and many of the listed procedures are no longer performed.
+476	Also microsurgical procedures are not found in the Goa.
+477	This results in permanent conflicts with the private health insurers during the private medical billing process, which seek to prevent adequate billing of these complex operating procedures with indications of existing performance figures of partially outdated procedures and a self-recognised authority to interpret the GOA.
+478	For this problem, the BGH issued a decision in 2007, stating that procedures which are not depicted in the GOA can be billed by numerals of comparable difficulty and time expenditure.
+479	However, this judgment did not help to clarify the billing but was regularly negated by the pkvs.
+480	The following article is intended to contribute to the resolution of this dilemma by discussing the repeatedly disagreed performance figures and underlaying their applications with valid judgments.

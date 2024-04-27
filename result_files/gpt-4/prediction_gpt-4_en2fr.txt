@@ -1,0 +1,380 @@
+1	Facteurs de risque associés aux pires issues de la Covid-19 : une étude rétrospective en Arabie Saoudite.
+2	L'émergence rapide de la nouvelle maladie à coronavirus 2019 (Covid-19) a entraîné des millions de patients infectés et des centaines de milliers de décès dans le monde.
+3	La prestation des services de soins de santé est compromise en raison de l'augmentation du nombre de patients infectés au cours de cette pandémie.
+4	La présente étude avait pour objectif d'évaluer les facteurs de risque associés à un mauvais pronostic chez les patients traités pour la Covid-19 en Arabie Saoudite.
+5	Il s'agissait d'une étude de cohorte rétrospective multicentrique incluant tous les cas confirmés de Covid-19 en laboratoire avec des résultats définitifs observés en Arabie Saoudite en mars 2020.
+6	Les données démographiques, les antécédents cliniques, la comorbidité et les résultats ont été extraits de la base de données du réseau national de surveillance électronique de la santé (RNSSS).
+7	Nous avons utilisé des modèles de régression logistique pour calculer les rapports de cotes bruts et ajustés afin d'explorer les facteurs de risque associés aux issues critiques (admission en unité de soins intensifs ou décès) parmi les cas de la cohorte Covid-19.
+8	We included 648 Covid-19 positive patients with a median age of 34 years.
+9	De ce nombre, 11,9 % faisaient partie du groupe critique.
+10	Les facteurs de risque associés à une issue défavorable incluaient les hommes (OR=1,92), les personnes âgées de plus de 60 ans (OR=3,65), les maladies cardiaques (OR=3,05), les maladies respiratoires chroniques (OR=2,29) et les cas avec deux comorbidités ou plus (OR=2,57) après ajustement pour l'âge et le sexe ; tous avaient des valeurs de p significatives < 0,05. Les facteurs de risque indépendants pour des issues critiques parmi les cas de Covid-19 incluaient l'âge avancé, les hommes, les patients cardiaques, les maladies respiratoires chroniques et la présence de deux comorbidités ou plus.
+11	Nous recommandons la conception d'un système unique à échelle multiniveaux pour la pronostication des patients atteints de Covid-19.
+12	Sténoses de l'urètre : une variété de traitements nécessitant une pratique régulière.
+13	Le rétrécissement urétral est défini par une réduction de la taille de la lumière urétrale, pouvant entraîner une diminution ou une interruption du flux urinaire.
+14	Cette maladie est beaucoup plus fréquente chez les hommes que chez les femmes, et plusieurs causes peuvent être identifiées.
+15	Le diagnostic repose sur les antécédents médicaux du patient et se focalise sur les symptômes obstructifs et/ou irritants du bas appareil urinaire, confirmé par des examens spécifiques.
+16	Le traitement varie de la prise en charge conservatrice à la chirurgie ouverte et nécessite des chirurgiens spécialisés afin de fournir une plateforme technique adéquate.
+17	L'évolution des techniques chirurgicales a heureusement augmenté significativement les taux de succès à long terme.
+18	Ainsi, le dicton classique entendu concernant le traitement des sténoses urétrales : « une fois un rétrécissement, toujours un rétrécissement » n’est plus la règle.
+19	Nouveautés dans la pneumopathie interstitielle associée à la sclérodermie systémique
+20	La pneumopathie interstitielle est une complication fréquente de la sclérodermie systémique et est devenue la principale cause de décès dans ce trouble.
+21	Elle survient principalement au cours des cinq premières années suivant le diagnostic de sclérodermie systémique.
+22	Plusieurs facteurs de risque sont associés à l'apparition d'une pneumopathie interstitielle, incluant la présence d'anticorps anti-topoisomérase I (Scl-70) et la forme cutanée diffuse de la sclérodermie systémique.
+23	La présentation radiopathologique la plus fréquente est la pneumonie interstitielle non spécifique, suivie par la pneumonie interstitielle habituelle.
+24	Le traitement immunosuppresseur classique de la pneumopathie interstitielle systémique associée à la sclérose systémique évolue, des études récentes suggérant un effet bénéfique d'agents biologiques tels que le rituximab et le tocilizumab, ainsi que de médicaments antifibrotiques comme le nintedanib.
+25	Application de l'expérience de la liste pour estimer la prévalence de l'avortement à Karachi, Pakistan.
+26	L'avortement est particulièrement difficile à mesurer, surtout dans des contextes juridiquement restrictifs comme le Pakistan.
+27	L'expérience de liste - une technique permettant de mesurer indirectement les comportements de santé sensibles - peut minimiser la sous-déclaration par les répondants de l'avortement due à la stigmatisation ou à des restrictions légales, mais n'avait pas été précédemment appliquée pour estimer la prévalence de l'avortement au Pakistan.
+28	Un échantillon de 4159 femmes mariées en âge de procréer a été recruté dans deux communautés de Karachi en 2018.
+29	Les participants ont répondu à un sondage qui comprenait une expérience de liste double pour mesurer la prévalence de l'avortement au cours de la vie, ainsi que des questions directes sur l'avortement et d'autres caractéristiques de base.
+30	Les données ont été utilisées pour calculer des estimations directes et indirectes de la prévalence de l'avortement pour l'ensemble de l'échantillon et selon des caractéristiques sociodémographiques, ainsi que pour tester un effet de conception.
+31	Des analyses de régression ont été menées pour examiner les associations entre les caractéristiques et les déclarations d'avortement à partir d'un questionnaire direct et de l'expérience de liste.
+32	L'estimation de la prévalence de l'avortement à partir de l'expérience de la liste était de 16 % ; l'estimation à partir de la question directe était de 8 %.
+33	Aucune preuve d'un effet de conception n'a été trouvée.
+34	La déclaration de l'avortement était associée à la plupart des caractéristiques sélectionnées dans le modèle de régression pour l'interrogatoire direct, mais à peu de modèles d'expérience de liste.
+35	Le fait que l'estimation de la prévalence de l'avortement à Karachi obtenue par méthode de liste soit deux fois plus élevée que celle obtenue par interrogatoire direct suggère que la méthode indirecte a réduit la sous-déclaration et pourrait être utile pour estimer l'avortement dans des contextes similaires, ainsi que pour améliorer la précision de la collecte de données sur d'autres sujets de santé sensibles.
+36	Nouvelles recherches sur les caractéristiques et la fonction biologique de l'antigène 1 de la membrane apicale d'Eimeria tenella.
+37	L'antigène membranaire apical 1 (ama1) est une protéine membranaire intégrale de type I hautement conservée chez les parasites apicomplexes.
+38	Des études antérieures ont montré que Eimeria tenella AMA1 (ETAMA1) est critique pour l'invasion des cellules hôtes par les sporozoïtes.
+39	Ici, nous montrons que etama1 est une protéine de micronème sécrétée par des sporozoïtes, confirmant les résultats précédents.
+40	Un traitement individuel et combiné avec des anticorps d'etama1 et de ses protéines d'interaction, la protéine 2 du col de rhoptry de E. tenella (etron2) et la protéine spécifique d'Eimeria (etesp), a provoqué des effets anti-invasion significatifs sur le parasite de manière dépendante de la concentration.
+41	La surexpression de ETAMA1 dans les cellules DF-1 a montré une augmentation significative de l'invasion des sporozoïtes.
+42	Des marqueurs isobariques pour la quantification relative et absolue (iTRAQ) couplés à la LC-MS/MS ont été utilisés pour cribler des protéines exprimées de manière différentielle (DEP) dans des cellules DF-1 transfectées de manière transitoire avec EtAMA1.
+43	Au total, 3953 protéines distinctes non redondantes ont été identifiées et 163 d'entre elles se sont avérées être exprimées de manière différentielle, incluant 91 protéines régulées à la hausse et 72 protéines régulées à la baisse.
+44	Les dépôts étaient principalement localisés dans le cytoplasme et étaient impliqués dans la liaison aux protéines et la liaison à l'ARN poly(A).
+45	Les analyses KEGG ont suggéré que les voies principales auxquelles appartenaient les DEP incluaient la mélanogenèse, les spliceosomes, les jonctions serrées et les voies de signalisation FOXO et MAPK.
+46	Les données de cette étude fournissent non seulement un ensemble complet de données sur les modifications protéiques globales induites par l'expression de etama1, mais mettent également en lumière les mécanismes moléculaires potentiels de etama1 lors des infections à eimeria.
+47	Néphrolithotomie percutanée (PNL) dans le traitement de la néphrolithiase : expérience du CHUV.
+48	La néphrolithotomie percutanée est l'intervention de choix pour les calculs intrarénaux de plus de 2 cm.
+49	Il s'agit donc d'une modalité de traitement essentielle dans l'arsenal des centres endo-urologiques.
+50	Sa miniaturisation a permis une diversification des méthodes, une morbidité moindre et un élargissement de ses indications.
+51	Nous décrivons dans cet article les différentes méthodes existantes et présentons les premiers résultats de notre cohorte.
+52	Contraception d'urgence : conseils pratiques
+53	L'objectif de la contraception d'urgence est d'éviter les grossesses non désirées après des rapports sexuels non protégés ou une mauvaise utilisation de la contraception régulière.
+54	La pilule du lendemain est destinée à un usage occasionnel et ne remplace pas une contraception régulière efficace.
+55	Une connaissance approfondie de la cytoponction est indispensable pour une utilisation optimale de cette technique par les professionnels de santé.
+56	Trois méthodes de contraception d'urgence sont disponibles en Belgique : le lévonorgestrel oral (LNG), l'acétate d'ulipristal oral (AU) et le dispositif intra-utérin au cuivre (DIU-Cu).
+57	L'échocardiographie doit être proposée dès que possible après la prise en charge initiale du patient.
+58	Les directives visent à résumer les données disponibles sur les méthodes de contraception, leur mécanisme d'action et les avantages/inconvénients de chaque méthode.
+59	Biais cognitif dans le contexte de l'épidémie
+60	En ce qui concerne l'ampleur et la durée de la pandémie de Covid-19, le jugement clinique des cliniciens et des médecins pourrait être influencé, entraînant ainsi des erreurs diagnostiques (retards et imprécisions).
+61	Nous rappelons donc à travers deux scénarios cliniques la nécessité constante pour les praticiens de prendre du recul dans la réflexion sur le processus diagnostique afin d'éviter « l'effet tunnel » qui pourrait retarder le diagnostic de maladies infectieuses courantes et graves.
+62	Les symptômes pseudo-grippaux présentés par ces patients (fièvre, myalgie et asthénie...) ont rapidement incité nos collègues des urgences à suspecter une infection par le SRAS-CoV-2.
+63	Cependant, d'autres investigations incluant l'imagerie et les hémocultures ont révélé des pathologies infectieuses complètement différentes mais communes, potentiellement fatales.
+64	De l'incidentalome à la découverte secondaire.
+65	Le terme incidentalome, créé en 1982, s'est répandu dans la littérature médicale.
+66	Cependant, il ne semble pas y avoir de définition précise pour décrire ce qu'est un incidentalome.
+67	Dans les premières utilisations, le terme incidentalome désignait systématiquement une masse détectée lors d'un examen d'imagerie prescrit pour des raisons diagnostiques non liées à l'objet de l'examen.
+68	Nommer cette masse "incidentalome" n'a pas apporté de précisions sur sa nature, car elle peut se situer dans de nombreuses zones anatomiques, être sécrétante ou non, bénigne ou maligne, etc. Aujourd'hui, le terme "incidentalome" possède une portée bien plus large qui semble englober la notion de découverte fortuite, qu'elle soit radiologique, biologique ou génétique.
+69	L'évolution du terme « incidentalome » démontre sa nature heuristique.
+70	Il s'agit d'un signe d'un changement dans la médecine moderne qui oscille entre une clinique de patients et une clinique de données.
+71	Les découvertes fortuites sont un phénomène connu et anticipé par les radiologues.
+72	Ainsi, ces découvertes ne sont plus fortuites, voire inattendues, mais secondaires à l'utilisation des technologies de la santé.
+73	William Harvey réinterprété à la lumière de l'évolution des espèces (II) - Conséquences physiologiques et pathologiques de l'évolution de la circulation.
+74	Dans la première partie de cette revue [22], "comment et pourquoi la phylogenèse circulatoire s'intègre dans l'évolution des espèces", nous expliquions que l'acquisition d'un secteur artériel à haute pression, telle que décrite à l'origine par William Harvey en 1619, était la conséquence, au cours de l'évolution, de l'apparition d'un tonus vasomoteur, induisant des forces de friction systémiques (résistances périphériques), qui, régulées localement (par vasodilatation), permettent d'adapter les besoins métaboliques à la demande de territoires fonctionnellement actifs.
+75	Dans cette deuxième partie, nous tenterons de comprendre comment cette phylogenèse influence directement la physiologie et ensuite les pathologies du système circulatoire chez les humains, qui sont largement prédominantes, mais pas exclusivement.
+76	Bases juridiques et institutionnelles de la couverture sanitaire universelle, Kenya
+77	La constitution kényane de 2010 a déclenché une série de réformes dans tous les secteurs afin de s'aligner sur les nouvelles normes constitutionnelles, y compris la dévolution des pouvoirs et une charte des droits globale.
+78	La constitution sert de plateforme pour faire avancer les droits en matière de santé et pour restructurer les cadres politiques, juridiques, institutionnels et réglementaires afin de combler les lacunes chroniques et d'améliorer les résultats en matière de santé.
+79	Ces réformes de la santé imposées par la constitution sont complexes.
+80	Toutes les parties du système de santé sont en train de se transformer simultanément, avec la promulgation de plusieurs nouvelles lois et la création d'organismes de santé publique.
+81	La mise en œuvre de changements aussi complexes a été entravée par des outils et des approches inadéquats.
+82	Afin de se faire une idée de l'ampleur des réformes de la santé au cours des 10 premières années de la constitution, nous avons élaboré un cadre de système de santé adapté, guidé par les concepts et définitions de l'Organisation mondiale de la santé.
+83	Nous avons utilisé le cadre pour documenter les lois sur la santé et les entités publiques déjà promulguées et en cours d'implémentation, et nous avons comparé l'étendue de la transformation avant et après la constitution de 2010.
+84	Notre analyse a révélé de multiples structures (lois et organismes publics de mise en œuvre) formées dans l'ensemble du système de santé, de nombreuses nouvelles structures de gestion étant alignées sur le transfert des responsabilités, mais avec une fragmentation au sein de la sous-fonction de réglementation.
+85	En déconstruisant les fonctions normatives du système de santé, le cadre a permis d'établir une cartographie globale de diverses caractéristiques du système de santé (fonctions, lois et organes de mise en œuvre).
+86	Nous pensons que notre cadre est un outil utile pour les pays qui souhaitent élaborer et mettre en œuvre une base juridique propice à une couverture sanitaire universelle.
+87	La réforme constitutionnelle est une force mobilisatrice qui permet de réaliser des progrès significatifs dans le changement institutionnel de la santé, en stimulant deux aspects de la faisabilité du changement : l'acceptation des parties prenantes et l'autorité pour avancer.
+88	Confinement total de la population et nombre de cas confirmés de Covid-19 en Angleterre, en Belgique, en France et en Italie.
+89	Nous analysons l'impact du confinement de la population totale sur l'évolution du taux de croissance des cas confirmés de Covid-19 en contrôlant les résultats par la situation observée dans un pays qui n'a pas appliqué cette mesure.
+90	Nous menons l'étude dans quatre pays européens, à savoir l'Angleterre, la Belgique, la France et l'Italie, en prenant la Suède comme pays témoin qui n'a pas confiné sa population.
+91	Pour ce faire, nous utilisons la méthode des séries temporelles interrompues (ISTA).
+92	Les comparaisons des tendances linéaires post-interventionnelles des cas confirmés de Covid-19 en Angleterre, en Belgique et en France avec celles de la Suède ne montrent aucune différence statistiquement significative.
+93	La comparaison des tendances linéaires post-interventionnelles des cas confirmés de Covid-19 en Italie avec celles en Suède montre une différence positive et statistiquement significative.
+94	Il reflète une dynamique du taux de croissance des cas confirmés en Italie supérieure à celle observée en Suède malgré le confinement total de la population.
+95	Les résultats obtenus permettent donc de conclure que la mesure de confinement total de la population est inefficace dans les pays de l'échantillon.
+96	Ils suggèrent que l'évolution des cas confirmés de Covid-19 pourrait être le résultat d'une combinaison d'autres facteurs, et non pas spécifiquement d'un confinement total de la population.
+97	Système simplifié de classification du trachome, modifié.
+98	Un système simplifié de classification du trachome a été publié par l'Organisation mondiale de la santé (OMS) en 1987.
+99	Destiné à être utilisé par du personnel non spécialisé travaillant au niveau communautaire, le système comprend cinq signes, chacun d'eux pouvant être présent ou absent dans un œil quelconque : (i) trichiasis trachomateux ; (ii) opacité cornéenne ; (iii) inflammation trachomateuse-folliculaire ; (iv) inflammation trachomateuse intense ; et (v) cicatrisation trachomateuse.
+100	Bien qu'ils ne soient ni parfaitement sensibles ni parfaitement spécifiques au trachome, ces signes ont été des outils essentiels pour identifier les populations qui ont besoin d'interventions pour éliminer le trachome en tant que problème de santé publique.
+101	En 2018, lors de la 4e réunion scientifique mondiale de l'OMS sur le trachome, la définition de l'un des signes, le trichiasis trachomateux, a été modifiée pour exclure le trichiasis qui ne touche que la paupière inférieure.
+102	Cet article présente le système modifié, actualise sa présentation, propose des notes sur son utilisation et identifie les domaines de débat en cours.
+103	Progrès dans le traitement des malformations veineuses complexes : laser endoveineux.
+104	Les malformations veineuses congénitales (vm) sont les anomalies vasculaires les plus fréquentes.
+105	Leur traitement peut être complexe, en fonction de leur taille et de l'atteinte des tissus environnants.
+106	À ce jour, la sclérothérapie est considérée comme la méthode de référence pour le traitement des varices.
+107	Cette technique, qui vise à détruire l'endothélium et ainsi provoquer la fibrose et la rétraction de la lésion vasculaire, est moins efficace dans les grosses mv.
+108	L'ablation thermique endoveineuse est un traitement largement validé pour la gestion de l'insuffisance veineuse et montre une efficacité supérieure à la sclérothérapie en termes de destruction des vaisseaux pariétaux.
+109	Cette approche a donc également été décrite dans le traitement des maladies virales.
+110	Cette technique a été introduite pour le traitement des MV complexes au centre des malformations et des maladies vasculaires rares du CHUV.
+111	Approches thérapeutiques pour les fractures de l'humérus proximal.
+112	La fracture de l'humérus proximal (PHF) est la troisième fracture la plus fréquente après 65 ans, et son incidence augmente avec l'âge.
+113	La combinaison d'une population vieillissante et d'une incidence élevée parmi les patients gériatriques représente un sérieux problème de santé publique potentiel.
+114	Le traitement de l'hyperplasie fibrokystique mammaire fait l'objet d'un débat.
+115	Des publications récentes rapportent des résultats similaires entre le traitement conservateur et le traitement chirurgical pour différents types de fractures.
+116	Une décision thérapeutique basée sur une analyse multiparamétrique est recommandée, mais il n'y a pas de consensus sur les paramètres à analyser.
+117	Une étude récente suggère de prendre en compte les paramètres individuels dans la décision de la stratégie thérapeutique et fournit un algorithme de traitement pragmatique.
+118	Nous proposons ici une version simplifiée de cet algorithme, guidant la décision thérapeutique entre traitement conservateur, ostéosynthèse et arthroplastie.
+119	Différences régionales dans l'accès aux activités de plein air et aux jeux de plein air des enfants et des jeunes Canadiens pendant l'éclosion de la Covid-19.
+120	Afin de réduire la propagation de la Covid-19, les autorités sanitaires du pays ont recommandé aux Canadiens de garder leurs distances, de se laver les mains et de rester chez eux.
+121	Pour mettre en œuvre ces mesures, des restrictions sur les activités extérieures ont été instaurées, limitant l'accès aux parcs et aux espaces de loisirs extérieurs.
+122	Selon de nouvelles données probantes, les restrictions liées à la Covid-19 sont associées à une diminution globale du temps consacré aux jeux de plein air chez les enfants et les jeunes Canadiens.
+123	Cela est préoccupant, car les jeux en plein air sont importants pour la santé physique et mentale des enfants et contribuent à leur donner un sentiment de contrôle pendant les périodes d'incertitude et de stress.
+124	Comme les politiques concernant l'accès aux espaces extérieurs pendant l'épidémie de Covid-19 varient d'une province à l'autre, il est possible que les variations entre ces politiques aient entraîné des différences régionales dans les activités de plein air des enfants et des jeunes.
+125	Dans ce commentaire, nous examinons les différences régionales dans les jeux de plein air chez les enfants et les jeunes à travers le Canada, ainsi que l'association entre les politiques provinciales liées à la Covid-19 et les jeux de plein air.
+126	Nous soutenons que, tout au long du processus de rétablissement, dans l'éventualité d'une deuxième vague d'infections et en se préparant à relever les défis futurs en matière de santé publique, les décisions stratégiques devraient tenir compte des moyens de préserver les jeux de plein air pour les enfants et les jeunes du Canada.
+127	Troubles de la voix chez l'enfant : que faire ?
+128	Un enfant qui a une voix rauque, râpeuse ou cassée, ce n'est pas normal.
+129	Les problèmes de voix chez l'enfant sont trop souvent ignorés et négligés.
+130	Ces problèmes devraient être traités le plus rapidement possible, car ils ont des conséquences scolaires et sociales importantes et des implications significatives pour le choix de leur vie adulte future.
+131	Le problème doit être résolu avant l'adolescence, car de nombreuses professions et activités ne sont pas accessibles aux enfants dysphoniques.
+132	Notre société accorde beaucoup d'importance à la voix, mais curieusement sans avoir une connaissance suffisante de l'hygiène vocale.
+133	L'information et la sensibilisation des médecins et des parents sont primordiales pour que les enfants d'âge scolaire puissent bénéficier d'un traitement adéquat.
+134	Stratégies de réduction de l'utilisation des antibiotiques à l'aide de la médecine complémentaire et intégrative.
+135	Il est urgent de limiter l'utilisation des antibiotiques en raison de l'augmentation de la résistance aux antibiotiques et des conséquences à long terme d'une perturbation du microbiome.
+136	Les données concernant l'usage des antibiotiques par les médecins qui intègrent la médecine conventionnelle et la médecine complémentaire indiquent qu'une réduction significative de l'utilisation des antibiotiques en soins primaires est possible.
+137	Dans le contexte des infections non compliquées en médecine ambulatoire, un dialogue ouvert avec le patient, la reconnaissance de l'importance de la fièvre et la réduction de l'utilisation d'antipyrétiques sont des mesures générales qui peuvent aider à réduire les inquiétudes des patients et à accroître leur confiance dans un système immunitaire fonctionnel et une approche de traitement sans antibiotiques.
+138	De nombreuses données suggèrent que les stratégies de médecine complémentaire sont utiles dans la gestion des infections courantes sans antibiotiques.
+139	Interventions basées sur la pleine conscience pour les enfants et les adolescents.
+140	Les interventions basées sur la pleine conscience (MBI) sont largement accessibles aux adultes.
+141	Des programmes sont également offerts aux enfants et aux adolescents.
+142	Les interventions en milieu scolaire et clinique sont de plus en plus publiées dans la littérature scientifique.
+143	Dans le contexte clinique, le mbi a un effet particulier sur le stress/l'anxiété et la dépression ainsi que sur les symptômes clés du trouble d'hyperactivité avec déficit de l'attention.
+144	Ces résultats sont très encourageants, mais toutes les méta-analyses et les revues de la littérature soulignent néanmoins la nécessité d'études avec une méthodologie robuste avant de proposer une MBI à grande échelle pour cette population.
+145	Carence martiale chez l'adulte : comprendre les évaluations biologiques à effectuer.
+146	Le fer est un minéral essentiel du corps humain.
+147	Il intervient dans divers métabolismes, y compris le transport de l'oxygène dans l'hémoglobine.
+148	La carence en fer est caractérisée par un déficit en fer circulant.
+149	Il existe deux types de carences en fer : 1) une carence en fer absolue (CFA), en cas de diminution des réserves en fer et du fer circulant, ou 2) une carence en fer fonctionnelle (CFF), en cas de diminution du fer circulant, tandis que les réserves sont préservées ou augmentées.
+150	Le sida est principalement dû à des saignements, généralement gastro-intestinaux, tandis que le fid est lié au syndrome inflammatoire.
+151	L'anémie se caractérise par une faible saturation de la ferritine et de la transferrine sériques.
+152	L'anémie microcytaire hypochrome est fréquente.
+153	Le FID est caractérisé par des niveaux élevés de ferritine sérique, des niveaux normaux ou bas de transferrine saturée, et des niveaux normaux de récepteur soluble de transferrine.
+154	En outre, les taux de protéine C-réactive sont élevés et il existe une anémie non macrocytaire non régénérative.
+155	De nouveaux tests biologiques (hépcidine sérique) peuvent être utiles en cas de doute.
+156	Cependant, ils ne sont pas encore couramment utilisés.
+157	L'ischémie numérique : un défi diagnostique.
+158	L'ischémie digitale est suspectée en présence d'un doigt froid, pâle ou cyanosé et douloureux.
+159	Il s'agit d'une urgence diagnostique et thérapeutique nécessitant une orientation urgente vers un spécialiste vasculaire.
+160	Une mesure numérique de la pression est nécessaire pour confirmer le diagnostic.
+161	Une anamnèse complète et un examen clinique permettent d'orienter la prise en charge des patients.
+162	La thérapie antithrombotique - avec un médicament antiplaquettaire ou anticoagulant selon l'étiologie la plus probable - doit être introduite sans délai, en attendant les résultats du bilan étiologique individualisé.
+163	L'hospitalisation est souvent nécessaire.
+164	A rapid diagnostic and therapeutic management allows satisfactory pain control and the avoidance of irreversible digital lesions in most cases.
+165	Étude pilote sur la faisabilité des tests de grossesse multiniveaux pour le suivi des services de télémédecine en cas d'avortement.
+166	Les clients de la télémédecine qui souhaitent confirmer un avortement médicamenteux réussi en dehors d'un établissement de soins sont généralement informés d'utiliser des tests de grossesse urinaires à haute sensibilité, qui peuvent prendre jusqu'à quatre semaines pour donner des résultats précis.
+167	Les tests multiniveaux de grossesse urinaire (mlpt) qui donnent des résultats précis en une semaine, représentent une alternative prometteuse, mais leur utilisation n’a pas été évaluée dans le cadre des services de télémédecine.
+168	Les données concernant 118 participants ayant complété un sondage en ligne deux semaines après la réception de leur trousse ont été analysées pour évaluer leur expérience et leur satisfaction vis-à-vis du service.
+169	The participants were from 11 countries, including Mexico, the Philippines, and Singapore.
+170	Quatre-vingt-treize pour cent ont utilisé les deux mlpt, et 91 % de ceux qui ont utilisé les deux tests les ont utilisés à des intervalles de temps corrects.
+171	Parmi les 95% de participantes dont les résultats du test de niveau de l'hormone de grossesse indiquaient une diminution avant et après l'avortement médicamenteux, 86% interprétaient correctement ces résultats comme signifiant qu'elles n'étaient plus enceintes.
+172	La satisfaction était élevée, tous indiquant que l'information fournie était utile ; plus de neuf répondants sur dix ont indiqué qu'ils souhaitaient utiliser de nouveau les services.
+173	L'intégration des MLPT dans les services d'avortement en télémédecine est faisable et associée à une grande satisfaction des clients.
+174	Permettre aux personnes de gérer leurs propres soins de suivi de l'avortement pourrait améliorer considérablement leur expérience globale de l'avortement.
+175	Évolution de la prise en charge endovasculaire de l'artériopathie des membres inférieurs.
+176	L'artériopathie des membres inférieurs est une pathologie fréquente.
+177	Face à une claudication invalidante persistante ou une ischémie critique, une intervention de revascularisation chirurgicale ou endovasculaire est nécessaire.
+178	L'objectif de cet article est de réviser les progrès des options thérapeutiques endovasculaires pour le segment fémoro-poplité, de présenter les nouveaux dispositifs endovasculaires disponibles et de fournir des recommandations actuelles pour le traitement antithrombotique après intervention.
+179	Effets indésirables immunologiques des inhibiteurs de points de contrôle : le point de vue d'un interniste/généraliste.
+180	Les inhibiteurs des points de contrôle immunitaires ont radicalement modifié la cancérologie en améliorant significativement le pronostic et la survie de nombreux patients, même à un stade avancé ou métastatique.
+181	Certains patients sous immunothérapie développent des effets indésirables d'ordre immunitaire, présentant un spectre de toxicité pouvant affecter n'importe quel organe, séparément ou simultanément, avec des intensités différentes selon le traitement utilisé et les caractéristiques du patient.
+182	Nous proposons ici une approche diagnostique et thérapeutique que tout interniste, médecin généraliste ou urgentiste devrait connaître pour gérer les toxicités digestives, cardiaques et pulmonaires.
+183	Médecine intégrative en oncologie pédiatrique
+184	Cet article présente une vue d'ensemble de l'approche de la médecine intégrative en oncologie pédiatrique qui combine la médecine conventionnelle aux thérapies complémentaires.
+185	À titre d'exemple pratique, la division d'oncologie pédiatrique de l'hôpital pour enfants de Saint-Gall décrit l'utilisation et l'expérience de deux méthodes différentes de médecine intégrative sur une base quotidienne.
+186	Cependant, cet article de revue montre également le manque d'études consacrées à la médecine intégrative en oncologie pédiatrique, en particulier en ce qui concerne l'efficacité et la sécurité des différentes applications.
+187	Efficacy of over-the-scope clips for perforations and fistulas following endoscopic or surgical procedures: A retrospective analysis of 25 consecutive cases.
+188	Le but de notre étude rétrospective est d'analyser les résultats des macro-clips endoscopiques utilisés pour fermer les brèches intestinales dans la vie réelle.
+189	Les perforations post-endoscopiques spontanées et les fistules chirurgicales sont incluses.
+190	Nos résultats sont comparés aux principales séries publiées.
+191	Entre 2010 et 2015, 25 patients consécutifs ont subi une suture endoscopique avec des macro-agrafes pour sceller une brèche résultant d'une perforation endoscopique, d'une fistule chirurgicale, d'une intervention médicale invasive ou d'une perforation spontanée.
+192	L'efficacité endoscopique a été immédiate pour tous les patients dont la perforation était d'étiologie endoscopique.
+193	Aucun n'a dû être opéré.
+194	Le traitement endoscopique complémentaire secondaire n'a été utilisé que chez 6 des 25 patients.
+195	Tous avaient une étiologie non endoscopique pour leur perforation.
+196	La survie à 1 mois était de 84 % et à 3 mois de 76 %.
+197	Nos résultats confirment la grande efficacité des macro-clips dans le traitement des brèches endoscopiques dans un centre hospitalier régional.
+198	L’utilisation de macro-clips semble moins convaincante pour la fermeture de certaines fistules postopératoires.
+199	La suture avec des macro-clips associée à des traitements endoscopiques et médicaux a permis d'éviter une nouvelle intervention chirurgicale dans certains cas.
+200	Lésions dégénératives du ligament croisé antérieur : un phénomène fréquent mais mal compris.
+201	En utilisant davantage l'IRM, les lésions dégénératives du ligament croisé antérieur sont plus fréquemment diagnostiquées.
+202	Trois entités séparées sont rapportées (dégénérescence mucoïde, kyste ganglionnaire et dégénérescence mucoïde avec kystes ganglionnaires), mais il s'agit probablement d'un continuum du même processus dégénératif.
+203	Chez les personnes d'âge moyen, cela entraînerait des microtraumatismes répétés en raison d'une encoche intercondylienne étroite et/ou une augmentation de la pente tibiale postérieure.
+204	Chez le patient plus âgé, il s'agit d'une maladie affectant un organe entier accompagnée de l'apparition de l'arthrose.
+205	La plupart des cas sont des découvertes fortuites.
+206	Pour les patients symptomatiques, une résection complète du ligament est notre première option lorsque le traitement conservateur a échoué.
+207	Il est efficace pour soulager la douleur et récupérer la mobilité.
+208	Bien qu'elle entraîne une instabilité postopératoire, une reconstruction secondaire n'est pas toujours nécessaire.
+209	Prévention de la lithiase rénale : résultats préliminaires de la cohorte suisse de calculs rénaux (SKSC) et de l'essai NOSTONE.
+210	La lithiase rénale est un problème de santé majeur avec une incidence et une prévalence croissantes dans le monde.
+211	La prévention consiste principalement en des mesures thérapeutiques conservatrices, incluant des régimes alimentaires et des traitements médicamenteux.
+212	Cependant, la compréhension de la physiopathologie et de la base génétique moléculaire de la néphrolithiase est incomplète et complique le développement de nouveaux traitements.
+213	Dans ce contexte, la cohorte suisse des calculs rénaux (sksc) vise à améliorer la compréhension de la lithiase rénale et l'essai NOSTONE vise à confirmer l'efficacité de l'hydrochlorothiazide dans la prévention des récidives de calculs rénaux contenant du calcium.
+214	Malgré une apparence bénigne, toute blessure au pied survenant chez un patient diabétique nécessite une prise en charge multidisciplinaire si l'on veut éviter des complications redoutables comme l'amputation.
+215	D'un point de vue physiopathologique, l'ulcère du pied résulte généralement de la combinaison d'une neuropathie des membres inférieurs, d'une surcharge mécanique, d'une immunopathie et d'une insuffisance vasculaire.
+216	Le traitement comprend toujours une décompression et un ou plusieurs débridements.
+217	Selon le degré de l'ulcère, des traitements complémentaires tels qu'une antibiothérapie, une revascularisation et une oxygénothérapie hyperbare peuvent être nécessaires.
+218	Utilisation de pansements à base de miel pour la cicatrisation des plaies.
+219	Le miel est utilisé depuis longtemps en médecine traditionnelle comme agent thérapeutique pour une large gamme de plaies.
+220	Elle a connu un renouveau dans les soins modernes depuis l'apparition de la résistance bactérienne aux antibiotiques.
+221	Le miel est connu pour avoir une activité antibactérienne, améliorer la cicatrisation des plaies et moduler la réponse immunitaire.
+222	Bien que les processus biologiques et les composés bioactifs ne soient pas bien compris, le miel semble être un agent thérapeutique efficace dans la cicatrisation des plaies.
+223	Des bandages imprégnés de miel ont été récemment développés.
+224	Cet article décrit les propriétés des pansements médicaux à base de miel gradués et leur utilisation pour la cicatrisation des plaies.
+225	Le moment est venu pour la santé publique de montrer la voie en s'attaquant aux difficultés financières au Canada.
+226	Les difficultés financières étaient un problème pour de nombreux Canadiens bien avant l'arrivée de la nouvelle pandémie mondiale de coronavirus au début de 2020.
+227	Cependant, elle s'est aggravée ces derniers mois en raison de la pandémie et des mesures de santé publique mises en place pour prévenir la propagation de la Covid-19.
+228	Les membres des groupes mal desservis et les personnes vivant dans la pauvreté sont particulièrement vulnérables aux difficultés financières et à leurs effets néfastes sur la santé.
+229	En tant que professionnels de la santé publique, nous devrions être préoccupés.
+230	Dans ce commentaire, nous discutons du concept de contrainte financière et de ses conséquences sur la santé et soulignons comment les recherches existantes dans ce domaine sont insuffisantes et pourquoi.
+231	Nous suggérons les prochaines étapes pour orienter la recherche et la pratique liées aux contraintes financières de façon à ce qu'elles reflètent les valeurs fondamentales de la santé publique, y compris l'équité, les approches axées sur le parcours de vie et les déterminants sociaux de la santé.
+232	Ce commentaire est un appel à l'action pour que les chercheurs et les praticiens en santé publique au Canada jouent un rôle plus important dans l'élaboration du programme sur les contraintes financières afin de soutenir le bien-être financier pour tous.
+233	Restauration de la vision : science-fiction ou réalité ?
+234	Les prothèses visuelles visent à rendre la vision utile à des patients devenus aveugles.
+235	This useful vision should enable them to regain their autonomy in society for navigation, face recognition, or reading.
+236	Deux prothèses rétiniennes ont déjà obtenu une autorisation de mise sur le marché pour des patients atteints de dystrophies rétiniennes tandis qu'un nouveau dispositif est en cours d'essai clinique pour des patients atteints de dégénérescence maculaire liée à l'âge.
+237	Différentes prothèses, notamment corticales, sont actuellement en cours d'essai clinique pour les neuropathies optiques (glaucome).
+238	La thérapie optogénétique, une stratégie alternative, est désormais parvenue au stade des essais cliniques sur la rétine, tout en faisant des progrès au niveau cortical.
+239	D'autres stratégies innovantes ont obtenu des preuves de concept chez les rongeurs mais nécessitent une validation supplémentaire chez les grands animaux avant leur évaluation chez les patients.
+240	La restauration de la vision devrait donc devenir une réalité pour de nombreux patients, même si cette vision ne sera pas aussi étendue et parfaite que la vision naturelle.
+241	Un modèle de prédiction de l'infection par le SRAS-CoV-2 basé sur les premières données de surveillance à trois mois au Brésil.
+242	Le diagnostic de la Covid-19 est un problème critique, principalement en raison de l'absence ou du retard des résultats des tests.
+243	Nous avons cherché à obtenir un modèle de prédiction de l'infection par le SRAS-CoV-2 chez les patients suspects rapportés au système de surveillance brésilien.
+244	Nous avons analysé les patients suspects signalés au système national de surveillance qui correspondaient à la définition de cas suivante : patients présentant des symptômes respiratoires et de la fièvre, qui se sont rendus dans des régions de transmission locale ou communautaire ou qui ont eu un contact étroit avec un cas soupçonné ou confirmé.
+245	Sur la base de variables recueillies en routine, nous avons obtenu un modèle multiple par régression logistique.
+246	L'aire sous la courbe des caractéristiques de fonctionnement du récepteur (AUC) et les indicateurs de précision ont été utilisés pour la validation.
+247	Nous avons décrit 1468 cas de Covid-19 (confirmés par rt-pcr) et 4271 patients atteints d'autres maladies.
+248	Avec un sous-ensemble de données incluant 80% des patients de São Paulo (SP) et Rio de Janeiro (RJ), nous avons obtenu une fonction qui a atteint une AUC de 95,54% (IC à 95% : 94,41-96,67%) pour le diagnostic de la Covid-19 et une précision de 90,1% (sensibilité 87,62% et spécificité 92,02%).
+249	Dans un ensemble de données de validation incluant les 20% restants de patients sp et rj, ce modèle a montré une ASC de 95,01% (92,51-97,5%) et une précision de 89,47% (sensibilité 87,32% et spécificité 91,36%).
+250	Nous avons développé un modèle adapté au diagnostic clinique de la Covid-19 à partir de données de surveillance collectées de manière routinière.
+251	Les applications de cet outil incluent l'identification précoce en vue d'un traitement et d'une isolation spécifiques, l'utilisation rationnelle de tests de laboratoire, et la fourniture de données pour la modélisation de tendances épidémiologiques.
+252	Le programme national révisé de lutte antituberculeuse (RNTCP) à Andhra Pradesh, en Inde, a introduit TrueNat. Nous avons comparé le nombre de cas présumés de TB testés et le nombre (proportion) de résultats microbiologiquement positifs avant (janvier-août 2018) et après (janvier-août 2019) le déploiement de TrueNat. Nous avons interrogé des techniciens de laboratoire et un superviseur de laboratoire principal pour la TB de 25 UT sélectionnées au hasard pour évaluer la faisabilité opérationnelle.
+253	En 2018, 10,5 % (intervalle de 8,9 à 13,1) des 245 989 cas présumés testés étaient positifs.
+254	En 2019, sur les 185 435 cas présumés testés, 13,7 % (intervalle de 9,6 à 18,9) étaient positifs.
+255	La proportion de cas présumés de tuberculose chez lesquels Mycobacterium tuberculosis a été détecté à l'aide de TrueNat était de 14,4 % (intervalle de 10,0 à 21,2 %).
+256	Truenat a significativement augmenté la détection des cas (rapport des taux d'incidence [RTI] 1,30 ; IC à 95 % 1,15-1,46), donnant 18 cas de TB supplémentaires pour 100 000 habitants.
+257	Les techniciens de laboratoire se sont sentis à l'aise pour effectuer le truenat après avoir réalisé une médiane de 10 tests (avec un écart interquartile de 5 à 17,5).
+258	Les taux d'invalidité sont passés de 6,8 % à 3,6 %.
+259	Le déploiement de Truenat en tant que test diagnostique POC a amélioré la détection des cas et était réalisable sur le plan opérationnel dans le cadre du RNTCP.
+260	Radical cystectomy with urinary diversion is the surgical treatment for invasive bladder cancer.
+261	Une déficience fonctionnelle est une autre indication.
+262	La technique robotique a débuté il y a 15 ans mais son avantage reste discutable.
+263	Nous présentons les résultats d'une trentaine de patients qui ont subi une cystectomie robotisée (RC) entre 2016 et 2019 et qui ont été comparés à un groupe de cystectomie ouverte (CO).
+264	Alors que cette série est en train de terminer sa phase de mise en œuvre, les résultats montrent que rc est équivalent à oc en termes de contrôle oncologique ainsi que pour le taux global de complications.
+265	De plus, les pertes sanguines et la durée d'hospitalisation sont inférieures chez les patients RC.
+266	Ces résultats contribuent à la tendance actuelle vers une validation supplémentaire présumée du CR.
+267	Évolution mondiale des lois sur l'avortement provoqué : 2008-2019
+268	Les faits montrent que les lois qui restreignent l'avortement n'éliminent pas la pratique de l'avortement, mais qu'elles aboutissent plutôt à des avortements clandestins, qui risquent d'être dangereux.
+269	Il est important d'évaluer périodiquement les changements dans le statut juridique de l'avortement dans le monde.
+270	Les critères de l'avortement légal en vigueur en 2019 pour 199 pays et territoires ont été utilisés pour les classer selon un continuum de six catégories mutuellement exclusives, allant de l'interdiction totale à l'autorisation sans restrictions liées aux motifs.
+271	Les trois motifs juridiques supplémentaires les plus courants qui sortent de ce continuum - le viol, l'inceste et l'anomalie fœtale - ont également été quantifiés.
+272	Les tendances régionales et le revenu national brut par habitant ont été examinés.
+273	Les changements résultant de la réforme du droit et des décisions judiciaires depuis 2008 ont été évalués, ainsi que les modifications apportées aux politiques et aux directives affectant l'accès.
+274	La licéité était positivement corrélée au revenu : la proportion de pays appartenant aux deux catégories les plus libérales augmentait uniformément avec le revenu national brut.
+275	De 2008 à 2019, 27 pays ont augmenté le nombre de motifs légaux d'avortement ; parmi ceux-ci, 21 sont passés à une autre catégorie de légalité, et six ont ajouté au moins un des motifs légaux supplémentaires les plus courants.
+276	La réforme a résulté d'une série de stratégies, impliquant généralement de multiples parties prenantes et appelant au respect des normes internationales en matière de droits de l'homme.
+277	La tendance mondiale à la libéralisation s'est poursuivie au cours de la dernière décennie ; cependant, des progrès encore plus importants sont nécessaires pour garantir le droit de toutes les femmes à l'avortement légal et pour assurer un accès adéquat à des services sûrs dans tous les pays.
+278	Ostéosynthèse des fractures proximales de l'humérus : plaque ou clou ? Résultats d'une étude monocentrique rétrospective.
+279	Les clous intramédullaires de verrouillage et les plaques de verrouillage sont largement utilisés.
+280	Il n'y a pas de consensus sur le traitement chirurgical optimal.
+281	We compare these techniques.
+282	Cette étude rétrospective a inclus 97 patients : 51 avec un clou, 46 avec une plaque.
+283	Les scores absolus et relatifs de Constant-Murley et le test de l'épaule simple (SST) ont été utilisés pour évaluer la fonction postopératoire.
+284	Le moment de l'union de la fracture et les complications ont été enregistrés.
+285	Deux fractures de fragments ont été traitées préférentiellement par clous et quatre fractures de fragments par plaques.
+286	Il n'y a pas de différence quant à la consolidation, à part un avantage pour les clous dans les fractures à deux fragments.
+287	Le résultat fonctionnel est similaire, le score relatif de Constant-Murley est de 72,7 ± 0,3 %, le SST de 6,7 ± 3,9 après l'enclouage et le score relatif de Constant-Murley est de 65,4 ± 0,3 %, le SST de 6,0 ± 3,6 après le placage.
+288	Le nombre de complications est similaire après le placage (67,4 %) et l'enclouage (62,7 %).
+289	Nous proposons de favoriser l'enclouage pour 2 fractures fragmentaires et le traitement par plaques pour 4 fractures fragmentaires.
+290	Le rétablissement amélioré après chirurgie (ERAS) est un concept qui a fait ses preuves dans de nombreuses disciplines chirurgicales depuis le début des années 2000.
+291	Les études reconnaissent les avantages de la chirurgie prothétique et il a été démontré qu'elle permet d'améliorer les pratiques et d'obtenir des résultats qui favorisent un retour plus rapide à domicile avec moins de morbidité et de mortalité.
+292	Il implique une cohésion dans la transmission du message et le médecin généraliste joue un rôle central.
+293	La collecte et l'analyse des données sont essentielles pour améliorer continuellement le protocole et ainsi les soins aux patients.
+294	Ces protocoles constituent une étape vers la prise en charge ambulatoire de ce type de chirurgie.
+295	L'expérience des bénéficiaires de l'aide sociale dans le cadre du projet pilote sur le revenu de base en Ontario.
+296	Cet article tente de combler une partie du vide en matière de recherche créé par l'annulation prématurée du projet pilote sur le revenu de base de l'Ontario (POBI). Il présente les résultats d'anciens utilisateurs des services du programme Ontario au travail et du programme ontarien de soutien aux personnes handicapées qui ont reçu un revenu de base dans la région de Hamilton en comparant leurs expériences en matière de santé physique et mentale, de sécurité alimentaire et de logement, de sécurité financière et de relations sociales et familiales.
+297	Il montre que le revenu de base a conduit à des améliorations sur une variété d'indicateurs, ce qui s'est avéré transformationnel pour certains.
+298	Les données probantes indiquent que, comparativement aux systèmes de soutien du revenu existants, un revenu de base modélisé de la même façon que le rapport peut améliorer considérablement la vie des bénéficiaires, tout en offrant une approche plus humaine de la prestation des services.
+299	Sexe, genre et Covid-19 : un appel à l'action
+300	La compréhension de l'influence des facteurs liés au sexe (attributs biologiques) et au genre (rôles, comportements, expressions, identités construits socialement) sur le risque d'infection, d'hospitalisation et de décès est d'une importance urgente dans l'effort de réponse à la pandémie de Covid-19.
+301	Malgré des taux mondiaux similaires d'infection par le coronavirus-2 du syndrome respiratoire aigu sévère (SRAS-CoV-2), le virus responsable de la pandémie de Covid-19, les hospitalisations et la mortalité sont plus élevées chez les hommes que chez les femmes.
+302	Les femmes peuvent être moins vulnérables à l'infection virale en raison des différences liées au sexe dans les réponses immunitaires et l'activité du système rénine-angiotensine.
+303	La réponse et les effets secondaires des thérapies potentielles actuellement étudiées pour le Covid-19, telles que l'hydroxychloroquine, varient probablement selon le sexe.
+304	Les femmes représentent la majorité des travailleurs de la santé et une approche uniforme des tailles d'équipement de protection individuelle peut offrir des niveaux de protection variés contre les infections virales aux travailleurs de la santé de différentes formes et tailles.
+305	Il existe des différences importantes entre les sexes dans la réponse aux mesures de santé publique visant à prévenir et à contenir la propagation de la Covid-19, ainsi que dans la présentation à des tests et aux soins médicaux, qui peuvent propager par inadvertance la propagation virale.
+306	Des approches ciblées prenant en compte à la fois le sexe et le genre, ainsi que des mesures d'intersectionnalité, sont nécessaires de toute urgence dans les efforts de réponse contre la Covid-19.
+307	Les yeux et le regard : proverbes et expressions.
+308	Les yeux et le regard jouent un rôle majeur dans notre langage non verbal, bien avant l'émergence de la parole.
+309	De la Bible au langage contemporain, en passant par la mythologie grecque, le théâtre, la littérature ou le langage parlé, une multitude d'expressions et de proverbes présentent l'œil, ce qu'il voit et ce qu'il symbolise.
+310	Particularités du syndrome coronarien chez les femmes.
+311	Les maladies cardiovasculaires, y compris l'infarctus du myocarde, ont été moins étudiées chez les femmes, entraînant une mortalité plus élevée chez celles-ci.
+312	Il existe des différences entre les sexes en termes de présentation clinique, de physiopathologie et même de prise en charge.
+313	Cet article est une revue non systématique de la littérature sur des articles récents qui traitent de ce thème.
+314	Une compréhension plus approfondie des caractéristiques du syndrome coronarien chez les femmes améliore leur prise en charge et réduit les inégalités de pronostic pour les femmes.
+315	Conservation de l'hôte par l'intermédiaire de leurs parasites : surveillance moléculaire de micro-organismes à vecteur chez les chauves-souris à l'aide de mouches à chauves-souris ectoparasitaires.
+316	La plupart des vertébrés hébergent une grande variété de parasites hématophages, qui peuvent jouer un rôle important dans la transmission de micro-organismes vecteurs aux hôtes.
+317	La surveillance se fait généralement par le prélèvement de sang et/ou de tissus chez des hôtes vertébrés.
+318	Il existe de multiples méthodes pour prélever des échantillons, qui peuvent être conservés pendant des décennies s'ils sont correctement stockés.
+319	Cependant, le prélèvement sanguin est considéré comme une méthode invasive et peut être nocif pour l'individu prélevé.
+320	Dans cette étude, nous avons examiné l'utilisation d'ectoparasites comme outil pour obtenir des informations moléculaires sur la présence et la diversité des micro-organismes infectieux dans les populations hôtes.
+321	Nous avons testé la présence de trois micro-organismes à vecteur distinct dans le sang des chauves-souris et chez les mouches des chauves-souris : les bactéries Bartonella, Polychromophilus sp. (Apicomplexa) de type malaria et Trypanosoma sp. (Kinetoplastea).
+322	We have detected the presence of these microorganisms in both bats and their bat flies, except for trypanosoma sp. in South African bat flies.
+323	De plus, nous avons trouvé Bartonella sp. chez des mouches à chauves-souris d'une population en Espagne, ce qui suggère sa présence dans la population hôte, même si elle n'est pas détectée chez les chauves-souris.
+324	Les infections à Bartonella et à Polychromophilus ont montré la prévalence la plus élevée dans les populations de mouches des chauves-souris.
+325	Des infections simples, doubles et triples étaient également fréquemment présentes dans les deux cas.
+326	Nous mettons en évidence l'utilisation d'ectoparasites hématophages pour étudier la présence de micro-organismes infectieux dans le sang de l'hôte et son utilisation en tant que méthode de prélèvement moins invasive.
+327	Efficacité clinique des lactobacilles traités thermiquement par pulvérisation dans la dermatite atopique canine: étude préliminaire, ouverte, non contrôlée
+328	La dermatite atopique canine (DAC) est une maladie cutanée inflammatoire et prurigineuse courante, offrant diverses options de traitement.
+329	L'utilisation de produits topiques contenant des ingrédients naturels s'est avérée de plus en plus populaire.
+330	Évaluer les effets d'une solution de pulvérisation contenant des lactobacillus rhamnosus et des l. reuteri tués par la chaleur sur les signes cliniques et le microbiote cutané chez des chiens atopiques.
+331	Dix chiens atopiques non saisonniers, modérément affectés, appartenant à des particuliers.
+332	The spray was applied to the ventrum every 24 hours for 28 days.
+333	Les scores cliniques, la fonction de la barrière cutanée et l'évaluation du propriétaire ont été évalués aux jours 0, 14, 28 et 42.
+334	Le microbiote cutané a été analysé aux jours 0 et 28.
+335	Une réduction du score clinique total a été observée à chaque instant (d14, p=0,03; d28, p=0,04; d42, p=0,001).
+336	A reduction in regional clinical scores was observed after d28 (p=0.01) and d42 (p=0.003).
+337	Une réduction significative du score de prurit a été observée le jour 42 (p=0,01).
+338	Une valeur d'hydratation plus faible a été observée le jour 28 (p=0,02) et le jour 42 (p=0,02) sur les bras.
+339	Une bonne à excellente réponse et une administration facile à utiliser ont été rapportées par les propriétaires.
+340	Aucune modification significative du microbiote cutané n'a été observée après 28 jours.
+341	Il y a eu une diminution significative et rapide des signes cliniques associés au CAD après l'utilisation du spray.
+342	D'autres études plus vastes, randomisées et contrôlées sont nécessaires pour confirmer ces résultats et pour évaluer les effets sur l'immunité cutanée et la microflore des chiens atopiques.
+343	Douleur chronique pédiatrique : prise en charge interprofessionnelle et intégrative.
+344	La douleur chronique chez l'enfant et l'adolescent est de plus en plus reconnue.
+345	Le traitement actuel repose sur le modèle bio-psycho-social de la douleur chronique : une équipe interprofessionnelle et intégrative aidera le jeune patient et son entourage à trouver un équilibre entre les impacts physiques, psychologiques et sociaux.
+346	Cet article se concentre sur différentes approches de traitement de la douleur chronique chez l'enfant en consultation externe et en milieu hospitalier.
+347	Les myélinosomes : une nouvelle voie de contrôle de la qualité des protéines.
+348	The maintenance of cellular proteostasis relies on two degradation pathways: the proteasome and autophagy.
+349	L'invention concerne une nouvelle voie de protéostase qui évite la dégradation de protéines anormales tout en les transportant à l'extérieur de la cellule à l'aide de nanovésicules appelées myélinosomes.
+350	Ces myélinosomes sont produits dans des situations pathologiques ou de stress en relation avec des facteurs génétiques ou environnementaux.
+351	Les vésicules de myélinosome sont des structures membranaires nano-dimensionnées à empilement multiple, semblables à une gaine de myéline.
+352	Il a récemment été démontré dans deux modèles de maladies génétiques (la maladie de Huntington et la mucoviscidose) que les myélinosomes sont importants pour éliminer les protéines mutantes dans un processus sécrétoire inhabituel, empêchant ainsi leur accumulation et leur agrégation dans les cellules.
+353	Nanoémulsions à base d'huiles végétales : quelle influence sur le traitement capillaire ?
+354	Les produits cosmétiques et dermatologiques, principalement les traitements capillaires, devraient connaître une croissance remarquable dans les années à venir.
+355	La nanotechnologie, en particulier les nanoémulsions, peut être utilisée dans plusieurs produits capillaires en raison de ses propriétés bénéfiques.
+356	Simultanément, les cosmétiques d'origine végétale sont devenus plus populaires au fil des ans auprès des consommateurs qui préfèrent une approche plus sûre, naturelle et durable.
+357	Les études qui combinent les huiles végétales et les nanotechnologies pour les formulations de soins capillaires sont rares.
+358	Dans ce travail, différentes nanoémulsions végétales chargées d'huile ont été préparées pour étudier l'influence de leur taille particulaire, de leur potentiel zêta et de leur composition sur l'efficacité du traitement capillaire.
+359	Des huiles de noix de coco, d'olive et d'abyssinie, seules ou en combinaison, ont été incorporées dans des nanoémulsions par une méthode d'homogénéisation à haute pression (HPH).
+360	La taille moyenne des particules, l'indice de polydispersité et le potentiel zêta ont été mesurés par la méthode de diffusion dynamique de la lumière (DLS), et un test de stabilité a été effectué pendant cinq mois.
+361	Une évaluation de criblage sensoriel réalisée par l'analyste et le test de peignage utilisant le dia-stron avec différentes huiles végétales pour la nanoémulsion a produit des tailles de particules finales distinctes et un potentiel zêta variable.
+362	Cependant, les résultats ne suggèrent pas de différence significative entre eux dans l'efficacité du peignage des tresses capillaires par rapport à dia-stron.
+363	La composition des huiles végétales, la taille des particules ou le potentiel zêta des nanoémulsions préparées ne semblent pas influencer de manière significative la performance capillaire.
+364	Dépistage du cancer du poumon en Suisse : qui ? comment ? quand ?
+365	Les sociétés professionnelles encouragent la mise en place de programmes nationaux coordonnés de dépistage du cancer du poumon par tomodensitométrie thoracique à faible dose.
+366	Le groupe interdisciplinaire suisse de mise en œuvre du dépistage du cancer du poumon (ch-lsig) étudie la faisabilité d'un tel projet.
+367	Cependant, plusieurs questions restent encore sans réponse, notamment le financement d'un tel programme, le « nombre idéal nécessaire pour dépister », la définition et le suivi des « cas positifs », ainsi que le rôle des mesures de sevrage tabagique.
+368	Les points clés à discuter à l'avenir avec les patients qui demandent un dépistage sont basés sur l'approche « décision partagée ».
+369	Les projets pilotes dirigés par le ch-lsig pourraient aider à identifier la stratégie optimale pour établir un programme national de dépistage basé sur les meilleures données scientifiques disponibles.
+370	Rhabdomyolyse : prise en charge précoce.
+371	La rhabdomyolyse est définie par une myalgie, un myoedème potentiellement douloureux et une faiblesse musculaire due à la mort des fibres musculaires du muscle strié.
+372	Common etiologies include physical exertion, intoxication (alcohol, drugs, and medications), and physical trauma.
+373	La déplétion de l'adénosine triphosphate (ATP) des myocytes entraîne une augmentation du calcium intracellulaire et la mort des myocytes.
+374	Le diagnostic repose sur les taux de créatine kinase (CK).
+375	The clinical spectrum of rhabdomyolysis includes an asymptomatic increase in CPK as well as severe, life-threatening complications such as acute renal failure and electrolyte disturbances.
+376	Le traitement repose sur la prévention et la gestion des complications.
+377	Pas d'abandon, pas de contestation, pas de paradigme de protestation : analyse du contenu de la couverture médiatique canadienne du "mouvement des gilets jaunes" et du "convoi unis nous roulons".
+378	L'analyse exhaustive du contenu de cette étude (n = 538) examine comment les médias d'information grand public du Canada ont couvert le mouvement émergent des gilets jaunes depuis les premières manifestations canadiennes en décembre 2018, qui ont culminé avec le convoi pancanadien United We Roll en février 2019.
+379	Nous démontrons que le paradigme de protestation selon la bourse n'offre pas une analyse utile pour comprendre la couverture de ce mouvement social de droite dont les tactiques étaient banales et respectueuses de la loi.
+380	De plus, nous soutenons que la couverture médiatique canadienne du mouvement de protestation était largement non critique et résolument hégémonique, soulevant des questions au sujet des conceptions normatives de surveillance des médias d'information dans la démocratie canadienne.

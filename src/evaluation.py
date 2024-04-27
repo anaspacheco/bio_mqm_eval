@@ -1,5 +1,7 @@
 import sacrebleu
+import os
 from sacremoses import MosesDetokenizer
+from sacrebleu.metrics import BLEU, CHRF, TER
 md = MosesDetokenizer(lang='en')
 
 def detokenize(reference_file, translation_file, language):
@@ -19,21 +21,43 @@ def detokenize(reference_file, translation_file, language):
     return refs, preds
 
 def calculate_bleu(refs, preds, mt, src, trg):
-    with open(f"../evaluation_files/{mt}/bleu_{src}2{trg}.txt", "w+") as output:
+    directory = f"../evaluation_files/{mt}/{src}2{trg}"
+    os.makedirs(directory, exist_ok=True)
+    output_file = os.path.join(directory, f"bleu_{src}2{trg}.txt")
+    with open(output_file, "w+") as output:
         for ref, pred in zip(refs, preds):
-            '''print(f"Reference: {ref}")
-            print(f"Prediction: {pred}")'''
             bleu = sacrebleu.sentence_bleu(pred, [ref], smooth_method='exp')
             output.write(f"{bleu.score}\n")
         print(f"BLEU Scores for each sentence generated in bleu_{src}2{trg}.txt")
-        blue_score = calculate_bleu_corpus(refs, preds)
-        output.write(f"BLEU Score for corpus: {blue_score}\n")
+        bleu_score = sacrebleu.corpus_bleu(preds, [refs])
+        output.write(f"BLEU Score for corpus: {bleu_score.score}\n")
 
-def calculate_bleu_corpus(refs, preds):
-    bleu = sacrebleu.corpus_bleu(preds, [refs])
-    print(f"BLEU Score for corpus: {bleu.score}")
-    return bleu.score
-    
+def calculate_chrf(refs, preds, mt, src, trg):
+    directory = f"../evaluation_files/{mt}/{src}2{trg}"
+    os.makedirs(directory, exist_ok=True)
+    output_file = os.path.join(directory, f"chrf_{src}2{trg}.txt")
+    with open(output_file, "w+") as output:
+        for ref, pred in zip(refs, preds):
+            chrf = sacrebleu.sentence_chrf(pred, [ref])
+            output.write(f"{chrf.score}\n")
+        print(f"chrF Scores for each sentence generated in chrF_{src}2{trg}.txt")
+        chrf = CHRF()
+        chrf_score = chrf.corpus_score(preds, [refs])
+        output.write(f"chrF Score for corpus: {chrf_score}\n")
+
+def calculate_ter(refs, preds, mt, src, trg):
+    directory = f"../evaluation_files/{mt}/{src}2{trg}"
+    os.makedirs(directory, exist_ok=True)
+    output_file = os.path.join(directory, f"ter_{src}2{trg}.txt")
+    with open(output_file, "w+") as output:
+        for ref, pred in zip(refs, preds):
+            ter = sacrebleu.sentence_ter(pred, [ref])
+            output.write(f"{ter.score}\n")
+        print(f"TER Scores for each sentence generated in ter_{src}2{trg}.txt")
+        ter = TER()
+        ter_score = ter.corpus_score(preds, [refs])
+        output.write(f"TER Score for corpus: {ter_score}\n")
+
 
 
 
