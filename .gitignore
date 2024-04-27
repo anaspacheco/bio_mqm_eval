@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-myenv 
+.DS_Store
+myenv/
 
 .env
 src/utils/GPT4-Biomedical-MT.json
