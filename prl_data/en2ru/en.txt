@@ -1,0 +1,354 @@
+1	Numerous studies have shown that loss of smell is a serious symptom that requires careful differential diagnosis.
+2	There is convincing evidence that a violation of the sense of smell is not so much a sign of the pathology of the nasal cavity and paranasal sinuses, but it can be a manifestation of neurodegenerative diseases.
+3	Some patients with the identified SARS-CoV-2 virus have neurological symptoms.
+4	Most of them are not specific - headache, dizziness, fatigue, myalgia.
+5	A small percentage of patients with COVID-19 infection have convulsions, impaired consciousness, and the presence of 2019-NCoV RNA was found in the cerebrospinal fluid.
+6	Data on the development of new symptoms of the disease, in the form of anosmia and dysgeusia, are presented.
+7	The article is devoted to the issues of medical rehabilitation of children with consequences of perinatal affection of the central nervous system (CNS).
+8	An important and principal aspect of the medical rehabilitation of children with perinatal pathology is the minimization of drugs, in this regard, in children in the first year of life, the leading role is given to non-drug methods of exposure.
+9	Among the important challenges of the medical rehabilitation of children with perinatal pathology are: improvement of blood supply and metabolic processes in the brain tissue, normalization of the central and peripheral regulation of muscle tone, improvement of neuromuscular conduction, stimulation of psychomotor development.
+10	In this case, kinesitherapy technologies are of leading importance: massotherapy, therapeutic exercises, reflex kinesitherapy according to V. Vojta; fitball gymnastics, method of fine finger training, dry floatation, etc. Along with physical rehabilitation methods, physiotherapy methods are actively used, which makes it possible to increase the effectiveness of treatment.
+11	The analysis of the literature showed that the use of modern non-drug technologies in children with perinatal CNS pathology, and their introduction into practice can significantly increase the effectiveness of medical rehabilitation of such children.
+12	To estimate the effect of airline travel restrictions on the risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) importation.
+13	We extracted passenger volume data for the entire global airline network, as well as the dates of the implementation of travel restrictions and the observation of the first case of coronavirus disease (COVID-19) in each country or territory, from publicly available sources.
+14	We calculated effective distance between every airport and the city of Wuhan, China.
+15	We modelled the risk of SARS-CoV-2 importation by estimating survival probability, expressing median time of importation as a function of effective distance.
+16	We calculated the relative change in importation risk under three different hypothetical scenarios that all resulted in different passenger volumes.
+17	We identified 28 countries with imported cases of COVID-19 as at 26 February 2020.
+18	The arrival time of the virus at these countries ranged from 39 to 80 days since identification of the first case in Wuhan.
+19	Our analysis of relative change in risk indicated that strategies of reducing global passenger volume and imposing travel restrictions at a further 10 hub airports would be equally effective in reducing the risk of importation of SARS-CoV-2; however, this reduction is very limited with a close-to-zero median relative change in risk.
+20	The hypothetical variations in observed travel restrictions were not sufficient to prevent the global spread of SARS-CoV-2; further research should also consider travel by land and sea.
+21	Our study highlights the importance of strengthening local capacities for disease monitoring and control.
+22	To assess the efficacy of an immunomodulatory drug based on a muramylpeptide composition in the treatment of patients with chronic generalized periodontitis.
+23	The study comprised 40 patients with chronic generalized periodontitis.
+24	In controls the treatment consisted in oral hygiene instructions, professional oral hygiene procedures and root scalling while in main study group the conventional treatment protocol was combined with intramuscular injections of muramylpeptide composition.
+25	The study showed significant reduction of inflammatory symptoms in periodontal tissues in muramylpeptide composition group.
+26	Muramylpeptide composition increases the threshold of tissue protection against constantly present microbial accumulations in periodontal disease patients thus providing opportunity for excluding toxic antimicrobial agents and/or antibiotics (or reducing their dosages).
+27	A simplified grading system for trachoma was published by the World Health Organization (WHO) in 1987.
+28	Intended for use by non-specialist personnel working at community level, the system includes five signs, each of which can be present or absent in any eye: (i) trachomatous trichiasis; (ii) corneal opacity; (iii) trachomatous inflammation-follicular; (iv) trachomatous inflammation-intense; and (v) trachomatous scarring.
+29	Though neither perfectly sensitive nor perfectly specific for trachoma, these signs have been essential tools for identifying populations that need interventions to eliminate trachoma as a public health problem.
+30	In 2018, at WHO's 4th global scientific meeting on trachoma, the definition of one of the signs, trachomatous trichiasis, was amended to exclude trichiasis that affects only the lower eyelid.
+31	This paper presents the amended system, updates its presentation, offers notes on its use and identifies areas of ongoing debate.
+32	On 21 January 2020, the city of Taizhou, China, reported its first imported coronavirus disease 2019 (COVID-19) case and subsequently the number of cases rapidly increased.
+33	To organize the emergency responses, the government of Taizhou established on 23 January 2020 novel headquarters for prevention and control of the COVID-19 outbreak, by coordinating different governmental agencies.
+34	People at high risk of acquiring COVID-19, as well as probable and confirmed cases, were identified and quarantined.
+35	The government closed public venues and limited gatherings.
+36	The Taizhou Health Commission shared information about identified COVID-19 patients and probable cases with affected agencies.
+37	To timely track and manage close contacts of confirmed cases, Taizhou Center for Disease Control and Prevention did epidemiological investigations.
+38	Medical institutions or local centers for disease control and prevention reported confirmed cases to the national Center for Disease Control and Prevention.
+39	Taizhou, a city in Zhejiang province with about 6 million residents, reported 18 confirmed COVID-2019 cases by 23 January 2020, which ranked it third globally in number of cases after Wuhan and Xiaogan cities in the Hubei province.
+40	In total, 146 confirmed cases (85 cases imported and 61 cases through community transmission) and no deaths due to COVID-19 had been reported in Taizhou by 1 June 2020.
+41	Between 16 February and 1 June 2020, no confirmed case had been reported.
+42	Identifying and managing imported cases and people at risk for infection, timely information sharing, limiting gatherings and ensuring collaborations between different agencies were important in controlling COVID-19.
+43	To study the efficacy of reamberin in treatment of epilepsy in children and to evaluate its effect on the cognitive functions.
+44	The study included 51 patients with epilepsy aged 7 to 15 years.
+45	The children were divided into four groups depending on the prescribed treatment.
+46	The first study group
+47	( Reamberin significantly increases the work efficiency by 19-21%, and workability degree by 8-12% compared with the patients of the control groups.
+48	An analysis of the effect of succinate-containing drug on auditory memory has shown that the volumes of short-term memory and long-term memory are by 1.8 times and 1.3 times, respectively, higher than those in the control groups.
+49	Thus, the addition of reamberin into the treatment of children with epilepsy should be considered clinically reasonable, and promising.
+50	Purpose of work is to determine the objective possibility of achieving the goal of the CHI program-the protection of the constitutional rights of citizens to receive free quality and affordable dental care based on the analysis of the potential of doctors in the field of dentistry.
+51	The study used the materials of the state statistical annual reports of the Ministry of health of the Russian Federation, forms No.
+52	30 and No.
+53	14-MED (CHI).
+54	The system of balanced indicators adapted by us served as a tool for effective process analysis of the personnel potential of doctors in the field of dentistry.
+55	Incorporating factor for achieving a strategic goal for the system CHI the results of analysis of practice-oriented factors of the potential of specialist doctors dentistry meets up 3.88 points, and the objective possibility of implementation of the CHI in the field of dentistry is 77.6 per cent.
+56	This indicator allows to measure the degree of success of the CHI system in the present and future and is intended for management as a decision-making tool in the process of personnel management.
+57	The present study was aimed at assessing the results of a total of 40 vascular operations carried out using the robotic-assisted da Vinci surgical system.
+58	Between January 2013 and September 2019, a total of 40 robotic-assisted vascular operations were performed at the Department of Vascular Pathology and Hybrid Technologies of the Centre of Vascular and Hybrid Surgery.
+59	Of these, 31 interventions were carried out for occlusion of the aortoiliac segment and 9 for removal of an aneurysm of the infrarenal portion of the abdominal aorta.
+60	The patients were arbitrarily divided into 2 groups: the first group included those subjected to aortofemoral bypass grafting procedures for atherosclerotic steno-occlusive lesions of the aorta and iliac arteries, whereas the second group comprised the patients who underwent aneurysmoectomies with linear prosthetic repair of the abdominal aorta.
+61	Altogether, elective robotic-assisted operations were successfully performed in 38 (95%) cases.
+62	Conversion to a laparotomic approach was required in 2 (5%) patients.
+63	The mean time of creating an anastomosis with the abdominal aorta amounted to 51 minutes (range 30-90), being 42±4.75 min for aortofemoral bypass grafting and 83±5.00 min for aneurysmoectomies with linear prosthetic repair of the abdominal artery.
+64	The average blood loss was 316 (range 50-1000) ml, amounting to 280±209 ml and 438±322 ml for group I and group II, respectively.
+65	With the exception of one case, all patients spent 24 hours in the intensive care unit to be then transferred to the specialized ward.
+66	The average length of hospital stay amounted to 9.8 days.
+67	One patient experienced haemorrhage from the central anastomosis in the early postoperative period and was emergently operated on from a laparotomic approach.
+68	Four (10%) patients developed nonlethal complications which were treated conservatively.
+69	During the 30-day follow-up period, no lethal outcomes, thromboses, nor infections of the prostheses were observed.
+70	From a practical point of view, the major advantages of using the robotic-assisted complex include minimal surgical trauma, reduced blood loss, a wide range of high-precision movements of the manipulators, 3-D visualization with a 5-fold magnification, thus making it possible to create a vascular anastomosis sufficiently fast in very tight spaces in the body.
+71	Our experience with laparoscopic robotic-assisted surgery demonstrated feasibility of using this technique for treatment of pathology of the aortoiliac segment.
+72	The study convincingly showed the presence of negative trends in the provision of medical dental organizations with material supplies.
+73	Thus, in 2014-2018 the basic growth rate of financial resources allocate for these purposes was only 15.96%.
+74	The corresponding value for the renewal of drugs and dressing materials equaled 12.28%, for reagents and chemicals, glass, chemical glassware - 6.62%, a decrease was revealed in the costs of medical instruments and food.
+75	The real amount of expenses for updating inventory in 1 working day for 1 doctor in the profile of dentistry and dental hygienist should correspond to 2067.16 rubles, which is 3.49 times higher than the allocated financial resources.
+76	Dentistry is still not included in the priority areas of healthcare in terms of financing.
+77	Under such circumstances, medical dental organizations cannot satisfy the growing need of the population for high-quality dental care.
+78	New technologies integration in the daily dental practice dictates the need for of new standards formation and a list of expenditure of inventories in the provision of medical and diagnostic assistance in the field of «dentistry».
+79	The aim of our investigation was to assess the remote results of valve-sparing aortic root reimplantation into the graft (Florida Sleeve technique) compared with reimplantation of the aortic valve into the graft (David technique) during surgical correction of ascending aortic aneurysms accompanied by concomitant aortic insufficiency.
+80	Our single-centre, blind, prospective, randomized study carried out from 2011 to 2015 included a total of 64 patients with ascending aortic aneurysms and aortic insufficiency.
+81	The patients were randomized into 2 groups: group I - aortic root reimplantation according to the Florida Sleeve technique (FS group) and group II - reimplantation of the aortic valve according to the T. David technique in David I modification (D group).
+82	The groups did not statistically differ by the baseline clinical profile.
+83	The overall 7-year survival for the FS group and D group amounted to 83% and 85.6%, respectively (p=0.98).
+84	Assessing the competing risks of mortality related to cardiovascular or other causes revealed no differences.
+85	Freedom from prosthetic repair of the aortic valve in the remote follow-up period amounted to 92.8% and 85.8% for the FS group and D group, respectively (p=0.4).
+86	According to the obtained findings, the technique of a valve-sparing operation is not a predictor of either lethality (RR 0.98 (95% CI 0.23-4.15), p=0.98) or prosthetic repair of the aortic valve (RR 2.03 (95% CI 0.40-14.63), p=0.40) in the remote period of follow up.
+87	Aortic root reimplantation inside the prosthesis according to the Florida Sleeve technique makes it possible to simplify and accelerate the procedure of aortic root reconstruction in patients with aortic root aneurysms and concomitant aortic insufficiency, demonstrating long-term results comparable with those of the David technique.
+88	The aim of the study was to evaluate the content of the vitamin D metabolite
+89	(25(OH)D The study included 47 people aged 20 to 22 with caries and low levels of 25(OH)D3 in blood serum.
+90	The control group consisted of 13 people with DMFT index of 0.00 [0.00; 0.00] and a normal serum content of 25(OH)D3.
+91	The amount of antimicrobial peptide cathelicidin LL-37, secretory immunoglobulin A, lipopolysaccharide binding protein (LBP) was determined in the oral fluid using ELISA reagent kits, and the content of intermediate lipid peroxidation products such as malondialdehyde (TBA-active products) and the level of total antioxidant activity were spectrophotometrically evaluated.
+92	Reduced serum concentrations of 25(OH)D3 were recorded predominantly in individuals with a DMFT index of more than 9.0.
+93	In patients with caries, at a concentration of 25(OH)D3 in blood serum below 30 ng/ml, a decrease in the values of secretory immunoglobulin A, lipopolysaccharide-binding protein, cathelicidin, and the level of total antioxidant activity was observed, accompanied by an increase in the number of intermediate products of lyoperoxidation in the oral fluid.
+94	The course intake of the native AquaDtrim vitamin D solution (Cholecalciferol) led to normalization of the values of certain immune and biochemical parameters (cathelicidin LL-37, secretory immunoglobulin A, LBP of the oral fluid) and restoration of balance in the system «lipid peroxidation - antioxidants».
+95	The results indicate the advisability of assessing the level of 25(OH)D
+96	There is currently no data on the increased incidence of new coronavirus infection (COVID-19) or on the more severe course of the disease in patients with epilepsy.
+97	However, given the high prevalence of epilepsy among patients after age 60, an increased burden of somatic comorbidities among people with epilepsy, as well as the need of continuous access to antiepileptic drugs (AED) and care for patients with epilepsy, there are a number of important concerns in time of regarding the management of epilepsy during COVID-19 pandemic.
+98	The article discusses the main principles of epilepsy management during the COVID-19 pandemic: the need to comply with the regime; the importance of AED adherence, taking into account drug-drug interactions; switching patients to intravenous AED forms if necessary.
+99	The number of COVID-19 patients is increasing worldwide and the number of patients with neurological manifestations of a new coronavirus infection is increasing as well.
+100	Pathognomonic for COVID-19 is the presence of cephalgic syndrome, infectious-toxic encephalopathy, hypo- and anosmia and ageusia.
+101	Inducing of pathological autoimmune response contributes to the development of Miller Fischer and Guillain-Barré syndrome.
+102	Hyperergic reaction with the generation of the so-called «cytokine storm» provokes multisystem hemorrhagic complications such as Kawasaki disease and acute necrotizing hemorrhagic encephalopathy.
+103	There is also a special form of COVID-19-associated stroke.
+104	Almost all post-COVID-19 patients complain of severe fatigue, emotional lability, and sometimes have features of asthenic-neurotic, anxiety-phobic disorders and apato-abulic syndromes, which require rehabilitation measures, as well as courses of restorative neurotrophic and nootropic therapy.
+105	To determine the association between having government health insurance and the timeliness and outcome of care, and catastrophic health expenditure in injured patients requiring surgery at a tertiary hospital in Ghana.
+106	We reviewed the medical records of injured patients who required surgery at Komfo Anokye Teaching Hospital in 2015-2016 and extracted data on sociodemographic and injury characteristics, outcomes and out-of-pocket payments.
+107	We defined catastrophic health expenditure as ≥ 10% of the ratio of patients' out-of-pocket payments to household annual income.
+108	We used multivariable regression analyses to assess the association between having insurance through the national health insurance scheme compared with no insurance and time to surgery, in-hospital mortality and experience of catastrophic health expenditure, adjusted for potentially confounding variables.
+109	Of 1396 patients included in our study, 834 (60%) were insured through the national health insurance scheme.
+110	Time to surgery and mortality were not statistically different between insured and uninsured patients.
+111	Insured patients made smaller median out-of-pocket payments (309 United States dollars, US$) than uninsured patients
+112	(US$ 503;
+113	The national health insurance scheme needs strengthening to provide better financial risk protection and improve quality of care for patients presenting with injuries that require surgery.
+114	The paper describes 4 autopsy cases of myocarditis in elderly patients with confirmed coronavirus infection.
+115	It gives the data of a morphological study of heart specimens and a detailed characterization of a myocardial infiltrate.
+116	An immunohistochemical study with cellular infiltrate typing was performed.
+117	The fact that lymphocytic viral myocarditis can develop in COVID-19 was morphologically and immunohistochemically confirmed.
+118	The features of myocarditis in COVID-19 are the development of the former in the presence of coronaritis and the possibility of its concurrence with lymphocytic endo- and pericarditis.
+119	This article deals with the bibliographic information relating to the Saratov period of life of Alexander Nikolayevich Bakulev, his scientific and practical activity at the Department of Hospital Surgery of the Saratov Medical University under the leadership of the Department's founder, Sergey Ivanovich Spasokukotsky having exerted the key influence on the formation of A.N. Bakulev as a surgeon and scientist.
+120	The effectiveness of neurometabolic therapy in patients with various stages of discirculatory encephalopathy was assessed according to the severity of cognitive impairment.
+121	Using a number of studies [clock drawing test, MMSE, Spielberger-Hanin, Bourdon test and cognitive evoked potentials (P300 peak)], cognitive functions of 60 elderly patients (mean age - 61,3±12,4 years) with various degrees of chronic head ischemia were analyzed brain and discirculatory encephalopathy of the I-III stages.
+122	Depending on the treatment regimen, patients were divided into 2 groups: 34 (the main group) received Cytoflavin in the treatment regimen: 2 tablets 2 times/day for 2 months.
+123	The comparison group consisted of 26 patients who received basic therapy without Cytoflavin.
+124	The majority (81,7%) of patients revealed cognitive disorders of varying severity.
+125	The inclusion of Cytoflavin in the treatment regimen improved the performance of neuropsychological tests (concentration and stability of attention, memory indicators, decreased reactive anxiety and smoothing signs of dementia), as evidenced by the positive dynamics of the CVP test (shortening the latency period and increasing the amplitude of the P300 peak, and as a result, reducing the coefficient latency / amplitude ratios).
+126	Metabolic syndrome is a complex of interrelated disorders of carbohydrate and fat metabolism, as well as mechanisms for regulating blood pressure and endothelial function, which are based on a decrease in tissue sensitivity to insulin.
+127	Therefore, the leading component, pathophysiological basis and uniting factor of most of the symptoms described in metabolic syndrome is the resistance of peripheral tissues to the action of insulin, which is closely correlated with most metabolic disorders.
+128	It should be emphasized that almost all components of metabolic syndrome are established risk factors for developing cardiovascular diseases.
+129	The likelihood of developing metabolic syndrome increases with age.
+130	The article discusses the possibility of presenting the metabolic syndrome as a gerontological problem.
+131	New prospects associated with the use of laser radiation of different wavelengths in the ultraviolet (365 nm) and the green emission spectrum (525 nm) have appeared in recent years.
+132	The high prevalence of the trophic leg ulcers necessitates the search for more effective methods of conservative treatment.
+133	Development and scientific justification for the low-intensity laser radiation of different wavelengths combined use in patients with trophic leg ulcers and chronic venous insufficiency (CVI). 102 patients with trophic leg ulcers and CVI were examined.
+134	They were divided into 3 equal groups using simple randomization.
+135	Patients in the control group received only traditional conservative therapy; comparison group - traditional conservative therapy and an intravenous laser blood irradiation (ILBI) (λ - 635 nm); the main group - traditional conservative therapy and different wavelengths laser therapy (LT) course.
+136	A more significant improvement in the clinical condition occurred under the influence of the course application of combined different wavelengths laser therapy in patients with trophic venous leg ulcers.
+137	Compared to patients who received traditional conservative therapy and in combination with ILBI 635 nm, the speed of reparative regeneration of trophic ulcers increased, the time for cleansing trophic ulcers from devitalized tissues was reduced.
+138	Computer capillaroscopy data showed that the positive effect of laser exposure on all parts of the microcirculation underlies its therapeutic efficacy.
+139	The article deals with the use of a genetically engineered drug for stimulation of angiogenesis as a component of combined treatment of complications of ischaemic form of diabetic foot syndrome, showing comparative results of using therapeutic angiogenesis in patients in whom it was impossible to perform operative revascularization of the affected extremity, also providing a detailed description of the methodology of combined treatment of pyonecrotic complications of diabetic foot syndrome.
+140	The study included a total of 62 patients with pyonecrotic complications of Wagner grade III-IV diabetic foot syndrome.
+141	The patients were divided into two groups.
+142	Group One patients after minor amputation on the foot were assigned to receive conventional basic therapy and topical treatment of the foot wound with antiseptics and modern dressings.
+143	Group Two patients, besides basic therapy, additionally received combined treatment which was carried out in two stages and included urokinase, sulodexide, and a venotonic agent.
+144	Local treatment of the foot wound was performed with the help of two-stage vacuum therapy.
+145	Both groups were further subdivided into subgroups A and B.
+146	The patients in subgroups B of both groups in order to prevent progression of limb ischaemia were additionally given Neovasculgen, a genetically engineered drug for stimulation of angiogenesis.
+147	The patients of subgroups A of both groups did not receive this drug.
+148	The immediate results were assessed on the 1st, 7th and 14th days of treatment by the dynamics of changes in subjective symptoms, cytograms of the wound surface, level of partial pressure of oxygen in capillary blood of foot tissues, and the necessity to perform repeated necrectomy.
+149	The remote results were evaluated by the dynamics of changes in the pain-free walking distance, maximum distance walked, ankle-brachial index, linear velocity of blood flow through tibial arteries and partial pressure of oxygen in capillary blood of the affected limb at the 6th, 12th and 36th months after the performed treatment, as well as by the limb salvage and patients' survival during 3 years.
+150	The pandemic of the new coronavirus infection caused by SARS-CoV-2 has forced to reconsider the methods of rehabilitation of patients with emergency conditions, including neurology.
+151	The Council of Experts of Neurologists and Rehabilitation Therapists gathered to develop unified approaches to manage stroke patients based on a discussion of practical experience and, taking into account the scientific information on COVID-19 that was available by the time of the meeting.
+152	Stroke is a serious disabling condition that requires maximum rehabilitation efforts at all stages of medical care.
+153	In the context of the SARS-CoV-2 coronavirus epidemic, the process of medical rehabilitation and the routing of patients with stroke is undergoing major changes.
+154	Combining COVID-19 and stroke requires new approaches to rehabilitation and patient management.
+155	During the meeting, a resolution was developed in which the experts formulated the tactics of medical rehabilitation of patients with stroke and COVID-19 at the first and second stages.
+156	The arguments of the importance and practicability of carrying out measures of medical rehabilitation at the third stage is given and the need to continue consultations on the indicated topic is revealed.
+157	The measurement of the film thickness of the composite cement Variolink Esthetic («Ivoclar-Vivadent», Liechtenstein) and the microhybrid composite Enamel («Micerium», Italy) was carried out according to ISO 4049: 2009 standards with a load force of 5 kg.
+158	While reducing the load force to 5 kg, all materials showed an increase in the film thickness; the film thickness of the Variolink Esthetic composite cement was changed from 23 microns (at 15 kg) to 32 microns (at 5 kg), and the film thickness of the microhybrid composite film Enamel was changed from 39 microns (at 15 kg) to 102 microns (at 5 kg).
+159	After preheating, the film thickness was changed from 23 microns (at 15 kg) to 44 microns (at 5 kg).
+160	Anemia in older patients can be seen as a geriatric syndrome that impairs quality of life, functional status, reduces autonomy, and affects prognosis.
+161	Anemia is associated with other geriatric syndrome such as frailty, sarcopenia, falls and fractures, vitamin D deficiency, dementia and others.
+162	Iron deficiency anemia is the most common.
+163	Most often in older persons, the causes of its development are chronic blood loss and malnutrition.
+164	Laboratory criteria confirming iron deficiency anemia are hemoglobin reduction, microcytosis, low serum iron and ferritin.
+165	This is the basis for the administration of iron preparations, among which two- and threevalent ones are isolated.
+166	Trivalent iron preparations are most preferred in older patients because they have better tolerance and less frequency of side effects with comparable efficacy with divalent preparations.
+167	However, despite successful use of lithium in the treatment of affective disorders for almost 40 years, the mechanisms of its therapeutic action are still poorly understood.
+168	This review presents and summarizes the current literature about the use of lithium in treatment of affective disorders, as well as its effects on cellular physiology, with a separate description of the effect of this ion on the functioning of nerve tissue and ion-molecular mechanisms.
+169	As you know, complete successful recovery in stroke patients occurs only in 8% of cases, 20% need constant care.
+170	The use of innovative rehabilitation technologies, namely «thresholdless» low-frequency transcranial magnetic stimulation, will speed up the process of restoring impaired functions, increase independence in everyday life and, accordingly, the quality of life.
+171	To evaluate the effectiveness of use of low-frequency «thresholdless» transcranial magnetic stimulation in the treatment of patients in acute period of ischemic stroke.
+172	The study included 93 patients aged from 49 to 68 years on second-third days of ischemic stroke.
+173	The 1st (main) group
+174	( In patients of the 1st (main) group, an increase in the linear velocity of blood flow in the internal carotid artery on the side of lesion was revealed by 18.1% when compared with the 2nd (control) group
+175	( The inclusion of low-frequency transcranial electromagnetic stimulation in complex rehabilitation leads to the regression of movement disorders, reduces the level of anxiety and depression, improves daily activity and, as a consequence, the quality of life.
+176	Night work provides biorhythms desynchronization, disorder of melatonin-producing function and accelerated pineal gland aging.
+177	One of the promising geroprotectors restoring the pineal melatonin synthesis is the AEDG (Ala-Glu-Asp-Gly) peptide.
+178	AEDG peptide increases in 1,7 times the 6-sulfatoxymelatonin (6-SOMT) excretion in the urine of middle-aged people.
+179	Moreover, AEDG peptide normalized circadian Clock and Csnk1e genes hyper expression in leukocytes in 1,9-2,1 times and increases the Cry2 gene hypo expression in peripheral blood lymphocytes in 2 times in people with reduced melatonin-producing epiphysis function.
+180	The geroprotective effect of the AEDG peptide is based on its ability to restore the epiphysis melatonin-producing function by means regulation of human circadian genes expression.
+181	Surgical treatment of intervertebral disc herniation with a high degree of migration (beyond the vertebral pedicle) is a difficult problem without an unambiguous solution.
+182	In this manuscript, we compare the effectiveness of transpedicular endoscopy and standard discectomy in the treatment of patients with this disease.
+183	To compare transpedicular endoscopic sequestrectomy and discectomy in the treatment of lumbar intervertebral disc herniation with a high degree of migration.
+184	There were 28 patients divided into 2 groups: group 1 - 13 patients after transpedicular endoscopic sequestrectomy, group 2 - 15 patients after discectomy.
+185	Transpedicular endoscopic sequestrectomy ensured significantly better intraoperative parameters (incision length, blood loss, surgery time)
+186	( Transpedicular endoscopic sequestrectomy is optimal for intervertebral disc herniation with a high degree of migration due to fast postoperative recovery and no complications.
+187	Surgical policy in treatment of patients suffering from concomitant valvular pathology and ischaemic heart disease is an extremely important problem of contemporary cardiac surgery.
+188	With the advent of advanced techniques and due to the improvement of old ones, there have over the last decades appeared new approaches to treatment of this cohort of patients.
+189	Presented in the article is a review of current publications regarding the problem of surgical treatment of patients with a combination of pronounced valvular pathology requiring surgical correction and ischaemic heart disease necessitating the need for myocardial revascularization.
+190	This is followed by providing the data concerning contemporary strategies of treatment of patients with concomitant pathology, as well as the comparison of various approaches and the effect of the chosen technique on the outcome.
+191	To analyze the efficacy and safety of fampridine** (Valenta Pharm, Russia) in the complex therapy of multiple sclerosis (MS).
+192	One hundred and twenty-six patients with MS were double blind randomized to receive fampridine
+193	( The proportion of patients with reduced t25fw test time compared to the baseline level was 31.7% in the fampridine group, which is higher than in the placebo group - 3.0%
+194	( Fampridine improves walking performance in MS patients.
+195	The Russian product fampridine has demonstrated a favorable safety profile.
+196	To date, descriptive results of a clinical and morphological study of novel coronavirus COVID-19 infection, mainly of the lungs, have appeared.
+197	However, in other organs, primarily in the cardiovascular system, there are substantial structural changes that lead to multiple organ dysfunction and contribute to death.
+198	To analyze the thanatogenetic significance of novel coronavirus COVID-19 infection in different age and gender groups and to describe the main morphopathological manifestations in various organs.
+199	The investigators carried out a comprehensive analysis of 700 autopsies of people disease from the novel coronavirus COVID-19 infection, which included an examination of gross changes reflected in the autopsy protocols and forensic medical examination reports, as well as that of microscopic changes detected during histological examination of organs.
+200	Immunohistochemistry (IHC) using mouse or rabbit antibodies to CD34, CD68, EMA, Ki67, caspase-3, and VEGF was employed in some observations.
+201	The novel coronavirus COVID-19 infection was the primary cause of death.
+202	Acute respiratory and pulmonary heart failure and multiple organ dysfunction became the leading thanatogenetic mechanisms in COVID-19.
+203	Cardiovascular disease, diabetes mellitus, and obesity were the most common diseases in patients with COVID-19.
+204	The most pronounced lung changes in COVID-19 were determined with a predominance of multiple total bilateral lesions of the lower lobes of the lungs, which was manifested by virus-induced changes in the parenchyma and stroma, as well as by microcirculation disorders.
+205	Acute dyscirculatory and ischemic changes in the parenchymal organs dominated in tissue damage caused by the virus.
+206	The changes in different organs of those who have died from the new coronavirus COVID-19 infection are stereotyped and include the manifestations of virus-induced action and a systemic inflammatory response with mainly microvasculature alteration, which leads to the development of coagulopathies and, accordingly, to total hypoxia.
+207	The article considers the COVID-19 pandemic impact on the population mental health, the main psychogenic and somatogenic mental disorders associated with COVID-19 are distinguished.
+208	The comorbid PTSD clinical features are described.
+209	The mental health risk factors for health workers are presented.
+210	The psychotherapeutic and psychopharmaceutical approaches are proposed.
+211	The WHO Classification of Digestive System Tumors (WHO, 5th Edition, 2019) presents new provisions on the morphological, molecular genetic, and therapeutic aspects of hepatocellular carcinoma (HCC).
+212	This classification versus the 2010 edition underwent substantial changes.
+213	Undifferentiated carcinoma (ICD-0: 8020/3) was excluded.
+214	The TNM staging system introduces additional gradations.
+215	Based on new evidence, HCC types and subtypes (scirrhous, clear cell, steatohepatic, and others) were identified depending on gene mutations according to ICD-11.
+216	The classification changes are of not only important theoretical, but also applied significance.
+217	These are valuable for oncologists and pathologists.
+218	Successes achieved in the treatment of patients with coronary heart disease (CHD) after acute coronary syndrome and cardiosurgical interventions require the development of new, more advanced methods for their rehabilitation.
+219	This is because of metabolic disturbances persistence in the deeply ischemic myocardium in patients with coronary heart disease even after restoration of blood flow through the coronary arteries by surgical or endovascular methods due to the development of the phenomenon of «stunning» and hibernation.
+220	The discovery of the development of their own adaptation to ischemia phenomenon opens up new possibilities in the correction of the metabolism of the ischemic myocardium, which significantly increases the efficiency of patient postoperative rehabilitation.
+221	The scientific rationale for improved cardiac rehabilitation programs for patients after acute coronary syndrome and cardiac surgery. 120 patients who were randomized to 3 groups (40 patients each) were examined: the main and two control, comparable in the major clinical manifestations of the disease.
+222	Improved methods of physical training with the inclusion of interval cyclic training for the first time in cardiology on treadmills and sensory tracks and therapeutic exercises in the gym (daily, 5 times a week, for a course of 10 procedures) were performed for patients of the 1st control group.
+223	Therapeutic procedures that improve metabolic processes in the ischemic myocardium were used in patients of the 2nd control group: enhanced external counterpulsation, general dry air carbon dioxide, infrared matrix laser therapy.
+224	Rehabilitation by the complex of the above physical training and factors which restored metabolic processes in the ischemic myocardium was carried out to patients of the main group.
+225	Methods had a cardioprotective effect and increase myocardial adaptation to ischemia.
+226	The greatest anti-ischemic, antianginal, antihypoxic effects were achieved in patients of the main group compared with the control groups.
+227	What may be due to the correction of metabolic disorders and the development of cardioprotection of ischemic myocardium.
+228	The consequence is a significant increase in the rehabilitation effect of improved cardiovascular training.
+229	The achieved result is due to the integration of improved cardiac training techniques and a procedure package aimed at cardioprotection and metabolic myocardium adaptation to ischemia, which included enhanced external counterpulsation, general dry air carbon dioxide and infrared matrix laser therapy.
+230	To establish significant associations between hypertension and the presence and severity of common oral diseases in adolescents.
+231	A cross-sectional study was conductedWith participation of 130 adolescents, from which 2 groups were formed, matched by sex and age
+232	( Hypertensive adolescents were significantly likely to have dental caries
+233	(50
+234	(77% vs 32 (49%),  Results suggest that hypertension in adolescents is associated with poorer oral health.
+235	It is advisable to take this into account when developing a synergistic approach to the medical support of these patients, aimed at reducing cardiovascular risk in the long term.
+236	Carotid intima-media thickness (CIMT) is a double line pattern measured from the lumen-intima to media-adventitia interface.
+237	Measuring CIMT with B-mode ultrasound can detect early arterial wall changes.
+238	We aimed to measure CIMT in manifested atherosclerotic disease and find a relation to present risk factors.
+239	This cross sectional study included a population of 657 patients, with documented coronary artery disease (CAD), 66,1% were men (469 pts), 33,9% were women (241 pts).
+240	The mean age of patients was 64,72 years (55,6-73,8).
+241	The measurement of CIMT (maximal and mean) was performed with B-mode ultrasound, on longitudinal view, on multiple plaque-free segments at the level of common carotid artery, on the far wall, on both sides.
+242	Multivariate regression analysis was done to estimate independent factors for CIMT, when risk factors, age, and sex included in analysis.
+243	The mean value of maximal CIMT was 0,96 mm (0,52-1,4), mean value of mean CIMT was 0,88 mm (range 0,61-1,15) and mean systolic blood pressure of 133,21 mm Hg (108,03-158,39) was found.
+244	Increased CIMT was found in 75,7% of patients (502 pts).
+245	Smoking was found as an independent risk factor for increased CIMT with odds ratio (OR) 4,7 (95% CI; 0,67-5,32) and diabetes mellitus with OR 1,6 (95% CI; 0,47-2,16).
+246	Diabetes and smoking are independently related to increased CIMT.
+247	These are preliminary results of National survey on 657 pts with coronary artery disease.
+248	Presented in the article is a prospective study of endovascular embolization of ovarian veins in female patients suffering from primary pelvic varicose veins, with the assessment of the immediate and remote results, as well as a 1-year follow up.
+249	The aim of our investigation was a comprehensive clinical and instrumental assessment of efficacy of endovascular embolization in women with pelvic varicose veins.
+250	Our single-centre study included a total of 29 female patients presenting with pelvic varicose veins and undergoing embolization of ovarian veins using microcoils, in 5 cases the procedure was supplemented with injecting a foam sclerosant.
+251	The technical success of endovascular occlusion of ovarian veins amounted to 100%.
+252	Two women immediately after the operation were subjected to a redo intervention: in one case - resection of the ovarian vein and in the second case - repositioning of the microcoils.
+253	In the remote period, one patient due to recurrent relapses underwent repeat embolization followed by retroperitoneal resection of the ovarian vein.
+254	The findings of the clinical methods of examination demonstrated a decrease in the intensity of manifestations of pelvic varicose veins according to the pelvic venous clinical severity score and visual analogue scale, as well as improvement of the women's quality of life.
+255	Endovascular occlusion of ovarian veins is a highly effective, minimally invasive, and safe method of treatment of female patients with incompetent ovarian veins.
+256	Endovascular treatment may be regarded as a method of choice in management of the primary form of pelvic varicose veins.
+257	The features of vertebral pain (VP) and quality of life in postmenopausal women were analyzed depending on the number and location of vertebral fractures (VF).
+258	It was found that the intensity of pain in thoracic and lumbar spines, according to McGill pain index, was significantly higher in patients with two or more VF compared to women without any fractures, and absence of differences in subjects with a single VF.
+259	Most indices of 11-component Numerical Rating Scale at the thoracic spine were significantly higher only in females with two or more VF.
+260	In patients with thoracic spine fractures most parameters of VP measured at this level were significantly higher compared to control values, whereas in patients with lumbar spine fractures most indices did not differ from the corresponding parameters in subjects without fractures.
+261	There were no established significant differences of quality of life indices according to the EuroQol-5D questionnaire in senior women depending on the number and location of VF, while disturbances of daily activity parameters according to the Roland-Morris questionnaire were found in patients with 2 or more VF.
+262	The purpose of the present study was to investigate the dynamics of quality of life in patients with ischaemic heart disease before and after implantation of a coronary stent depending on the stent's type and patient's gender.
+263	The authors analysed the dynamics of quality of life in a total of 120 patients with ischaemic heart disease.
+264	The patients were subdivided into two equal groups of 60 each.
+265	Group One patients were subjected to implantation of bare-metal stents, whereas Group Two patients received stents coated with zotarolimus as an antiproliferative agent.
+266	The control group was composed of 60 people who did not suffer from ischaemic heart disease and were comparable by the age and gender.
+267	Quality of life was investigated prior to stent implantation and 6, 12 and 24 months thereafter with the use of the SF-36 questionnaire.
+268	It was determined that the indices of quality of life before stenting of coronary arteries was higher in men than in women.
+269	However, no gender-related differences were revealed after stent implantation.
+270	The dynamics of the parameters of quality of life of patients following implantation of uncoated metal stents within 6 months turned out to have a positive and then rapidly progressing negative course, whereas implantation of stents coated with antiproliferative drug zotarolimus was within 12 months followed and accompanied by a positive and then slowly progressing negative course.
+271	The aim of the study was to improve the types of surgical intervention when performing biopsy of large-sized cystic formations of the lower jaw by cystotomy.
+272	44 patients were examined and surgeries were performed: 12 patients with ameloblastoma, 14 - with keratoxystone tumor, 18 - with dentigerous cyst.
+273	All patients had a retained tooth in the cyst cavity.
+274	For histological verification of cystic formations of large sized it is necessary to perform cystotomy-typed biopsy with bone tissue and shell fragment collection, using epithelialized flap method.
+275	Cystotomy-typed biopsy using the method of epithelialized flap can significantly reduce the rehabilitation period and allows to decide on the choice of further method of surgical treatment.
+276	There is a lack of a comprehensive theory about how cranium base influences the development of facial skull morphology.
+277	Due to up-to-date tomography technologies, it is possible to get more reliable information about position of basicranial bones.
+278	Aim of this research is to analyze anatomical and morphological features of sphenoid and vomer and their interrelationship in patients with different facial types of the skull.
+279	Cone beam computed tomography (CBCT or CT) results of 120 adult patients were examined.
+280	The sample was divided into three groups depending on the facial type: mesocephalic, brachycephalic and dolichocephalic, and each group was further divided by three, depending on the skeletal class: I, II and III. Proportions, shape and positioning of sphenoid and vomer were studied on frontal and sagittal planes.
+281	Proportions of sphenoid and vomer were calculated using "A/B" formula.
+282	Shape of the bones was described with angles: Va, N-S-PSO, SSE-S-PSO.
+283	Position of vomer posterior surface was identified by angles: VSa and VSBa.
+284	The results of CBCT analysis suggest that there are differences between groups with different facial types and different skeletal classes in shape and proportions of sphenoid body and sinus, as well as in shape and position of the vomer.
+285	The greatest difference is registered on the sagittal planes of CBCT between groups with brachycephalic and dolichocephalic facial types.
+286	Basicranial bones differ in shape, proportions and position between people with different facial types and different skeletal classes.
+287	Analysed in the article are scientific priorities of Russian cardiovascular surgeons in the first half of the 20th century, showing rapid and successful development of surgery of the lungs, heart, and great vessels over a comparatively short time period, also underlining the fundamental works of Yu.
+288	Yu.
+289	Dzhanelidze, S.S. Bryukhonenko, N.N. Terebinsky and their contribution to the development of Soviet cardiovascular surgery, highlighting the pioneering developments of A.A. Vishnevsky, N.K. Galankin, D.A. Donetsky in surgery of the heart and large vessels.
+290	Mention is made that during those years, Russian scientists carried out a series of interesting experimental global-level studies on cardiovascular surgery.
+291	It was demonstrated that in the middle of the 20th century vascular surgery strengthened its position as an independent branch of clinical medicine.
+292	In connection with the increased range and scope of operative interventions on vessels, it was essential to develop the previously existing and to establish new vascular surgical approaches.
+293	They should be maximally simple, possibly less aggressive, taking into account the location of nerves and vascular collaterals, as well as sufficient for exposing a neurovascular bundle and creating the possibilities for drainage of the wound, if necessary.
+294	Determination of rational operative approaches to blood vessels turned out to be significant for solving the problem of surgical management of acute arterial obstruction.
+295	The subsequent rapid development of medical science confirmed groundlessness of a sceptical attitude towards vascular surgery.
+296	To evaluate two pooled-sample analysis strategies (a routine high-throughput approach and a novel context-sensitive approach) for mass testing during the coronavirus disease 2019 (COVID-19) pandemic, with an emphasis on the number of tests required to screen a population.
+297	We used Monte Carlo simulations to compare the two testing strategies for different infection prevalences and pooled group sizes.
+298	With the routine high-throughput approach, heterogeneous sample pools are formed randomly for polymerase chain reaction (PCR) analysis.
+299	With the novel context-sensitive approach, PCR analysis is performed on pooled samples from homogeneous groups of similar people that have been purposively formed in the field.
+300	In both approaches, all samples contributing to pools that tested positive are subsequently analysed individually.
+301	Both pooled-sample strategies would save substantial resources compared to individual analysis during surge testing and enhanced epidemic surveillance.
+302	The context-sensitive approach offers the greatest savings: for instance, 58-89% fewer tests would be required for a pooled group size of 3 to 25 samples in a population of 150 000 with an infection prevalence of 1% or 5%.
+303	Correspondingly, the routine high-throughput strategy would require 24-80% fewer tests than individual testing.
+304	Pooled-sample PCR screening could save resources during COVID-19 mass testing.
+305	In particular, the novel context-sensitive approach, which uses pooled samples from homogeneous population groups, could substantially reduce the number of tests required to screen a population.
+306	Pooled-sample approaches could help countries sustain population screening over extended periods of time and thereby help contain foreseeable second-wave outbreaks.
+307	The level of serum levels of a number of hormones in the acute period of stroke was determined in 29 men and 29 women aged 45 to 88 years.
+308	Comparison of the results obtained was carried out in relation to the age of the patients and the severity of the functional defect formed at the end of the acute period of stroke.
+309	The most pronounced dynamics in relation to different severity of functional disorders was found for cortisol, aldosterone and estradiol (p=0,014-0,022) in men under the age of 60 years and for testosterone (p=0,001-0,0001) in men 60-88 years.
+310	In women over the age of 60 years parallel to the increasing severity of the functional defect is only significant increase in the concentration of prolactin in the blood (p=0,02), the dynamics of the other components of the hormonal spectrum did not show any statistically significant dependence on age and functional outcome of acute stroke.
+311	It is concluded that some hormones are actively involved in the formation of post-stroke functional defects, and the level of their content in the blood serum in the acute period of stroke can be considered as prognostic criteria for acute cerebrovascular pathology.
+312	However, the present differences in the dynamics of the hormonal spectrum in representatives of different ages and genders indicate the need to personalize diagnostic and therapeutic measures in gender and age aspects.
+313	Novel coronavirus SARS-CoV-2 and COVID-19, besides affecting the respiratory system, may lead to central and peripheral nervous system disorders and also cause muscular symptoms.
+314	The authors review the literature and own clinical case with respect to nervous system involvement in COVID-19 patients.
+315	There is a correlation between the severity of COVID-19 and the severity and frequency of neurologic complications.
+316	Severe neurologic symptoms are primarily observed in patients with severe COVID-19.
+317	Neurologic-associated symptoms may include stroke, acute necrotizing encephalopathy, and Guillen-Barre syndrome.
+318	Diseases that potentially aggravate COVID-19 and increase the risk of neurologic complications include arterial hypertension, diabetes, chronic diseases of the heart and respiratory system.
+319	The probable impact of human coronaviruses on chronic and progressive diseases of the nervous system with particular respect to multiple sclerosis is reviewed.
+320	A triage plan for stroke and MS patients during the COVID-19 pandemic, depending on the risk of coronavirus infection, is presented.
+321	The paper describes an autopsy case of congenital heart disease as a single ventricle with transposition of the great vessels in a woman who survived to the age of 58 years.
+322	Due to hemoconcentration that has compensated for chronic hypoxia, the woman received low-molecular-weight heparin, which was complicated by severe heparin-induced thrombocytopenia resulting in death from cerebral hemorrhage.
+323	The author is inclined to explain the unusual clinical course of the disease by the fact that despite the mixing of arterial and venous bloods, transposition of the great arteries in the patient must have been accompanied by the flow of the bulk of arterial blood into the aorta and venous blood into the pulmonary trunk.
+324	Depression is one of the leading causes of decreased quality of life and social functioning of patients.
+325	In the context of preventive medicine, the prevention of depression becomes a priority.
+326	To achieve the goals of prevention, it is necessary to identify specific population risk groups - individuals with a high genetic risk of depression.
+327	The paper describes the project aimed at developing a genetic test system based on polygenic risk scores (PRS) for depression, considering the multi-ethnicity and multicultural diversity of the Russian population.
+328	As a result of the study, data on the genetic architecture of depression (GWAS) and PRS for depression will be obtained for the first time.
+329	The emergence of a genetic test system developed in the study of the Russian population and in the conditions of a constant decrease in the cost of genetic research will allow an effective transition to preventive medicine in the area of mental health.
+330	To analyze the images obtained during pre-surgical neuroimaging in patients with gangliomas for the presence of specific signs and verification of the neoplastic process.
+331	The results of presurgical MRI (3.0, 1.5 Tesla) of 20 patients with gangliomas were analyzed to identify specific signs of a neuronal-glial tumor and verify the neoplastic process based on the results obtained and a review of the literature.
+332	In addition to high-resolution MRI (HR MRI), various protocol modifications were applied to patients with epileptogenic pathological substrates of unclear etiology, including tractography (DTI) and contrast-free MR perfusion (ASL).
+333	In 5 cases, a multi-modal study was performed that combined the results of CT, routine MRI, HR MRI, functional MRI (fMRI) in various combinations and PET CT.
+334	In 17 cases, patients underwent epileptic surgery.
+335	Three patients without epilepsy were operated on for a tumor diagnosed by radiological examination.
+336	In all 20 cases, gangliogliomas were verified, including 1 anaplastic, 1 infantile desmoplastic, and another patient had histological samples showing signs of a composite tumor.
+337	Combination with FCD IIIb was observed in 3 cases.
+338	Two patients had a double pathology (cases of tumors combination with lissencephaly and neuronal heterotopia) and another had a composite neuronal-glial tumor.
+339	In 15 cases, gangliogliomas showed neuroradiological features typical for dysembryoplastic neuroepithelial tumor (DNT) such as multicystic, nodular, and diffuse (dysplastic) described in the literature.
+340	In addition, in 9 cases, they had significant signs of neoplastic process such as contrast enhancement, continued growth and remodeling of the underlying bone.
+341	Verification of the neoplastic process based on the results of neuroradiological studies was difficult in 6 cases.
+342	In 2 cases, it was not possible to confirm the presence of neoplasm by radiological methods, and in 1 patient, the verification of the tumor during differential diagnosis took more than 8 years.
+343	The most common differential diagnosis was performed with DNT and FCD type IIb, which have a number of similar neuroradiological features.
+344	In the paper published in issue 2 (2020) of the Burdenko's Journal of Neurosurgery, the authors justifiably propose a technique of bilateral extraintracranial vascular microanastomosis (EICMA) in case of rapidly developing stenotic lesions of the intracranial arteries in order to compensate the marked hypoperfusion in the basins of the anterior cerebral artery and middle cerebral artery on both sides.
+345	This allows to significantly reduce the risks of possible ischemic stroke in the earliest period.
+346	The phenomenon of multiphase survival curves found in drosophila is confirmed in experiments on daphnia.
+347	Mathematical modeling showed that the multiphase nature of the daphnia survival curves reflects abrupt changes in the intensity of death of crustaceans during the transition from phase to phase.
+348	In intact daphnia there is no phase of a sharp increase in mortality observed at an early age in drosophila.
+349	It arises as a reaction to weak negative influences, which leads to a sharp decrease in the survival of young individuals.
+350	A logical conclusion was made about the readiness for reaction of each experimental individual.
+351	The effect was observed in a series of experiments posed in different years.
+352	It is proved that in daphnia, the predisposition to reaction persists for an indefinitely large number of generations.
+353	It is postulated that this reaction has an epigenetic nature.
+354	Previous experimental materials suggest that a reaction of this type is widespread in natural surroundings.

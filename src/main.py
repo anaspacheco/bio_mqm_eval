@@ -12,9 +12,8 @@ SRC_LANGUAGE_CODES = {
     "3":"de",
     "4": "es", 
     "5": "fr",
-    "6": "it",
-    "7": "zh",
-    "8": "ru",
+    "6": "zh",
+    "7": "ru",
 }
 
 TRG_LANGUAGE_CODES = {
@@ -23,9 +22,8 @@ TRG_LANGUAGE_CODES = {
     "3":"de",
     "4": "es", 
     "5": "fr",
-    "6": "it",
-    "7": "zh",
-    "8": "ru",
+    "6": "zh",
+    "7": "ru",
 }
 
 source = None
@@ -75,18 +73,8 @@ def handle_translation(data, model, src, trg):
     print(f"Prediction file generated: {output_filename}")
 
 def handle_evaluation(model, src, trg):
-    if src == "1" and trg == "2":
-        reference_file = os.path.join('../prl_data/en2pt', 'pt.txt')
-        appendix = "en2pt"
-    elif src == "2" and trg == "1":
-        reference_file = os.path.join('../prl_data/en2pt', 'en.txt')
-        appendix = "pt2en"
-    elif src == "1" and trg == "3":
-        reference_file = os.path.join('../prl_data/en2de', 'de.txt')
-        appendix = "en2de"
-    elif src == "3" and trg == "1":
-        reference_file = os.path.join('../prl_data/en2de', 'en.txt')
-        appendix = "de2en"
+    appendix = f"{SRC_LANGUAGE_CODES.get(src)}2{SRC_LANGUAGE_CODES.get(trg)}"
+    reference_file = os.path.join('../prl_data/', f"{SRC_LANGUAGE_CODES.get(src)}2{SRC_LANGUAGE_CODES.get(trg)}", f"{SRC_LANGUAGE_CODES.get(trg)}.txt")
     if model == "deepl":
         test_file = os.path.join('../result_files/deepl/', f"prediction_deepl_{appendix}.txt")
     elif model == "gpt-4":

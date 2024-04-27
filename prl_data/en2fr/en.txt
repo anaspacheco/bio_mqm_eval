@@ -1,0 +1,380 @@
+1	Risk factors associated with worse outcomes in COVID-19: a retrospective study in Saudi Arabia 
+2	The rapid emergence of the novel coronavirus disease 2019 (COVID-19) has resulted in millions of infected patients and hundreds of thousands of deaths worldwide.
+3	Health care services delivery is being compromised due to the surge in the number of infected patients during this pandemic.
+4	This study aimed to assess the risk factors associated with poor prognosis among COVID-19 patients in Saudi Arabia.
+5	This was a multi-centre retrospective cohort study that included all laboratory-confirmed COVID-19 cases with definitive outcomes in Saudi Arabia during March 2020.
+6	Demographic, clinical history, comorbidity and outcomes data were retrieved from the National Health Electronic Surveillance Network (HESN) database.
+7	We used logistic regression models to calculate crude and adjusted odds ratios (OR) to explore risk factors for critical outcomes (intensive care unit admission or death) among COVID-19 cases.
+8	We included 648 COVID-19-positive patients with a median age of 34 years.
+9	Of these, 11.9% were in the critical group.
+10	Risk factors associated with worse outcomes included males (OR=1.92), age >60 years (OR=3.65), cardiac diseases (OR=3.05), chronic respiratory diseases (OR=2.29), and cases with two or more comorbidities (OR=2.57) after adjusting for age and sex; all had significant P-values <0.05. Independent risk factors for critical outcomes among COVID-19 cases include old age, males, cardiac patients, chronic respiratory diseases, and the presence of two or more comorbidities.
+11	We recommend designing a unique multi-item scale system to prognosticate COVID-19 patients.
+12	Urethral strictures: a variety of treatments requiring regular practice
+13	Urethral stricture is defined by a decrease in the caliber of the urethral lumen which can cause a decrease or an interruption of the urine flow.
+14	This disease is much more common in men than in women, and several causes can be identified.
+15	The diagnosis depends on a careful patient history focusing on obstructive and/or irritative lower urinary tract symptoms and is confirmed by a specific work-up.
+16	Treatment ranges from conservative management to open surgery and requires specialized surgeons, so as an adequate technical platform.
+17	The evolution of surgical techniques has fortunately significantly increased long term success rates. 
+18	Hence, the classical saying heard about the outcome of urethral stenosis treatment : « once a stricture, always a stricture » is no longer the rule.
+19	New developments in systemic sclerosis-associated interstitial lung disease
+20	Interstitial lung disease is a frequent complication of systemic sclerosis and has now become the leading cause of death in this disorder.
+21	It mainly occurs during the first five years after the diagnosis of systemic sclerosis.
+22	Various risk factors are associated with the occurrence of interstitial lung disease, including the presence of anti-topoisomerase I antibodies (Scl-70) and the diffuse cutaneous form of systemic sclerosis.
+23	The most common radio-pathological presentation is nonspecific interstitial pneumonia, followed by usual interstitial pneumonia.
+24	The classical immunosuppressive treatment of systemic sclerosis-associated interstitial lung disease is evolving, as recent studies suggest a beneficial effect of biological agents such as rituximab and tocilizumab, and antifibrotic drugs such as nintedanib.
+25	An Application of the List Experiment to Estimate Abortion Prevalence in Karachi, Pakistan 
+26	Abortion is particularly difficult to measure, especially in legally restrictive settings such as Pakistan.
+27	The List Experiment-a technique for measuring sensitive health behaviors indirectly-may minimize respondents' underreporting of abortion due to stigma or legal restrictions, but has not been previously applied to estimate abortion prevalence in Pakistan.
+28	A sample of 4,159 married women of reproductive age were recruited from two communities of Karachi in 2018.
+29	Participants completed a survey that included a double list experiment to measure lifetime abortion prevalence, as well as direct questions about abortion and other background characteristics.
+30	Data were used to calculate direct and indirect estimates of abortion prevalence for the overall sample and by sociodemographic characteristics, as well as to test for a design effect.
+31	Regression analyses were conducted to examine associations between characteristics and abortion reporting from direct questioning and the list experiment.
+32	The estimate of abortion prevalence from the list experiment was 16%; the estimate from the direct question was 8%.
+33	No evidence of a design effect was found.
+34	Abortion reporting was associated with most selected characteristics in the regression model for direct questioning, but with few in the list experiment models.
+35	That the estimate of abortion prevalence in Karachi generated from the list experiment was twice that generated from direct questioning suggests that the indirect method reduced underreporting, and may have utility to estimate abortion in similar settings and to improve the accuracy of data collecting for other sensitive health topics.
+36	Further investigation of the characteristics and biological function of Eimeria tenella apical membrane antigen 1
+37	Apical membrane antigen 1 (AMA1) is a type I integral membrane protein that is highly conserved in apicomplexan parasites.
+38	Previous studies have shown that Eimeria tenella AMA1 (EtAMA1) is critical for sporozoite invasion of host cells.
+39	Here, we show that EtAMA1 is a microneme protein secreted by sporozoites, confirming previous results.
+40	Individual and combined treatment with antibodies of EtAMA1 and its interacting proteins, E. tenella rhoptry neck protein 2 (EtRON2) and Eimeria-specific protein (EtESP), elicited significant anti-invasion effects on the parasite in a concentration-dependent manner.
+41	The overexpression of EtAMA1 in DF-1 cells showed a significant increase of sporozoite invasion.
+42	Isobaric tags for relative and absolute quantitation (iTRAQ) coupled with LC-MS/MS were used to screen differentially expressed proteins (DEPs) in DF-1 cells transiently transfected with EtAMA1.
+43	In total, 3953 distinct nonredundant proteins were identiﬁed and 163 of these were found to be differentially expressed, including 91 upregulated proteins and 72 downregulated proteins.
+44	The DEPs were mainly localized within the cytoplasm and were involved in protein binding and poly(A)-RNA binding.
+45	KEEG analyses suggested that the key pathways that the DEPs belonged to included melanogenesis, spliceosomes, tight junctions, and the FoxO and MAPK signaling pathways.
+46	The data in this study not only provide a comprehensive dataset for the overall protein changes caused by EtAMA1 expression, but also shed light on EtAMA1's potential molecular mechanisms during Eimeria infections.
+47	Percutaneous nephrolithotomy (PNL) in the treatment of nephrolithiasis: the CHUV experience
+48	Percutaneous nephrolithotomy is the intervention of choice for intrarenal stones of > 2 cm.
+49	As such, it is an essential treatment modality in the armamentarium of endourological centers.
+50	Its miniaturization has allowed a diversification of methods, a lower morbidity and a widening of its indications.
+51	We describe in the present article the different existing methods and present the first results of our cohort.
+52	Emergency contraception : practical guideline
+53	The goal of emergency contraception (EC) is to avoid unintended pregnancies after unprotected sexual intercourse (UPSI) or incorrect use of regular contraception.
+54	EC is intended for occasional use and does not replace effective regular contraception.
+55	A thorough understanding of EC is mandatory for optimal use of EC by healthcare professionals.
+56	Three EC methods are available in Belgium : oral levonorgestrel (LNG), oral ulipristal acetate (UA) and copper intrauterine device (Cu-IUD).
+57	EC should be offered as soon as possible after UPSI.
+58	The guidance aims to summarise the available evidence on EC methods, mechanism of action, and advantages/disadvantages of each method.
+59	Cognitive bias in the context of epidemic
+60	In connection with the scope and duration of the COVID-19 pandemic, the clinical judgement of clinicians and medical practitioners could be influenced such that diagnostic errors (delays and inaccuracies) may ensue. 
+61	We hereby recall through two clinical scenarios the constant need for practitioners to take a step back in reflecting of the diagnostic process to avoid the « tunnel effect » which may result in delaying common and frequent infectious diseases.
+62	The flu-like symptoms presented by these patients (fever, myalgia and asthenia…) quickly prompted our emergency room colleagues to suspect SARS-CoV-2 infection.
+63	However, further investigations including imagery and blood cultures revealed completely different but common infectious disease conditions, which are potentially fatal.
+64	From incidentaloma to secondary discovery
+65	The term incidentaloma, created in 1982, has spread throughout medical literature.
+66	However, there does not seem to be a precise definition to describe what an incidentaloma is.
+67	In the initial uses, the word incidentaloma systematically designated a mass that was detected during an imaging examination prescribed for diagnostic purposes unrelated to the reason for carrying out the examination.
+68	Naming this mass "incidentaloma" did not give any precision on its nature as it can be located in many anatomical zones, secreting or not, benign or malignant, etc. Today, the term "incidentaloma" carries a much broader dimension which seems to cover the notion of incidental discovery, whether radiological, biological or genetic.
+69	The evolution of the term "incidentaloma" demonstrates its heuristic nature.
+70	It is a sign of a change in modern medicine which hesitates between a patient clinic and a data clinic.
+71	Fortuitous discoveries are a phenomenon known and anticipated by radiologists.
+72	Thus, these discoveries are no longer fortuitous, or even unexpected, but secondary to the use of health technology.
+73	William Harvey reinterpreted in the light of species evolution (II) - Physiological and pathological consequences of the evolution of circulation
+74	In the first part of this review [22], "How and why circulatory phylogenesis fits into the evolution of species", we explained that the acquisition of a high-pressure arterial sector, as originally described by William Harvey in 1619, was the consequence, during evolution, of the appearance of vasomotor tone, inducing systemic friction forces (peripheral resistances), which, regulated locally (by vasodilatation), allows to adapt metabolic needs to the demand of functionally active territories.
+75	In this second part, we will try to understand how this phylogenesis directly influences the physiology, then the pathologies of the circulatory system in humans which are largely predominant, but not exclusively.
+76	Legal and institutional foundations for universal health coverage, Kenya 
+77	Kenya's Constitution of 2010 triggered a cascade of reforms across all sectors to align with new constitutional standards, including devolution and a comprehensive bill of rights.
+78	The constitution acts as a platform to advance health rights and to restructure policy, legal, institutional and regulatory frameworks towards reversing chronic gaps and improving health outcomes.
+79	These constitutionally mandated health reforms are complex.
+80	All parts of the health system are transforming concurrently, with several new laws enacted and public health bodies established.
+81	Implementing such complex change was hampered by inadequate tools and approaches.
+82	To gain a picture of the extent of the health reforms over the first 10 years of the constitution, we developed an adapted health-system framework, guided by World Health Organization concepts and definitions.
+83	We applied the framework to document the health laws and public bodies already enacted and currently in progress, and compared the extent of transformation before and after the 2010 Constitution.
+84	Our analysis revealed multiple structures (laws and implementing public bodies) formed across the health system, with many new stewardship structures aligned to devolution, but with fragmentation within the regulation sub-function.
+85	By deconstructing normative health-system functions, the framework enabled an all-inclusive mapping of various health-system attributes (functions, laws and implementing bodies).
+86	We believe our framework is a useful tool for countries who wish to develop and implement a conducive legal foundation for universal health coverage.
+87	Constitutional reform is a mobilizing force for large leaps in health institutional change, boosting two aspects of feasibility for change: stakeholder acceptance and authority to proceed.
+88	Total containment of population and number of confirmed cases of COVID-19 in England, Belgium, France and Italy 
+89	We analyze the impact of total population containment on the evolution of the growth rate of confirmed cases of covid-19 by controlling the results by the situation observed in a country that has not applied this measure.
+90	We conduct the study in four European countries, namely England, Belgium, France and Italy, taking Sweden as a control country that did not confine its population.
+91	To do so, we use the Interrupted Time Series Method (ISTA).
+92	Comparisons of the post-intervention linear trends of covid-19 confirmed cases from England, Belgium and France with that of Sweden show no statistically significant difference.
+93	Comparison of the post-intervention linear trends of covid-19 confirmed cases from Italy with that from Sweden shows a positive and statistically significant difference.
+94	It reflects a dynamic in the growth rate of confirmed cases in Italy higher than that observed in Sweden despite the total containment of the population.
+95	The results obtained therefore lead to the conclusion that the measure of total population containment is ineffective in the countries of the sample.
+96	They suggest that the evolution of confirmed cases of covid-19 could be the result of a combination of other factors, and not specifically of total population containment.
+97	The simplified trachoma grading system, amended 
+98	A simplified grading system for trachoma was published by the World Health Organization (WHO) in 1987.
+99	Intended for use by non-specialist personnel working at community level, the system includes five signs, each of which can be present or absent in any eye: (i) trachomatous trichiasis; (ii) corneal opacity; (iii) trachomatous inflammation-follicular; (iv) trachomatous inflammation-intense; and (v) trachomatous scarring.
+100	Though neither perfectly sensitive nor perfectly specific for trachoma, these signs have been essential tools for identifying populations that need interventions to eliminate trachoma as a public health problem.
+101	In 2018, at WHO's 4th global scientific meeting on trachoma, the definition of one of the signs, trachomatous trichiasis, was amended to exclude trichiasis that affects only the lower eyelid.
+102	This paper presents the amended system, updates its presentation, offers notes on its use and identifies areas of ongoing debate.
+103	Advances in the treatment of complex venous malformation: endovenous laser
+104	Congenital venous malformations (VMs) are the most common vascular abnormalities.
+105	Their treatment can be complex, depending on their size and surrounding tissues involvement.
+106	To date, sclerotherapy is considered the gold standard for the treatment of VMs.
+107	This technique, which aims to destroy the endothelium and thus cause fibrosis and retraction of the vascular lesion, is less effective in voluminous VMs.
+108	Endovenous thermal ablation is a widely validated treatment in the management of venous insufficiency, showing better efficacy than sclerotherapy in terms of trans-parietal vessel destruction.
+109	This approach has therefore also been described in the treatment of VMs. 
+110	This technique has been introduced for the treatment of complex VMs at the Centre for Malformations and Rare Vascular Diseases of the CHUV.
+111	Therapeutic approaches for proximal humerus fractures
+112	Proximal humerus fracture (PHF) is the 3rd most common fracture over age 65, and its incidence increases with age.
+113	The combination of an aging population and a high incidence in geriatric patients constitute a serious potential public health concern.
+114	The treatment of PHF is debated.
+115	Recent publications report similar results of conservative versus surgical treatment in several types of fractures.
+116	Therapeutic decision based on a multiparametric analysis is recommended, there is yet no consensus on the parameters to be analyzed.
+117	A recent study suggests taking into consideration individual parameters in deciding the therapeutic strategy and provides a pragmatic treatment algorithm.
+118	We propose here a simplified version of this algorithm, guiding therapeutic decision between conservative treatment, osteosynthesis and arthroplasty.
+119	Regional differences in access to the outdoors and outdoor play of Canadian children and youth during the COVID-19 outbreak
+120	To reduce the spread of COVID-19, public health authorities across the country have recommended that Canadians keep their distance, wash their hands, and stay home.
+121	To enforce these measures, restrictions on outdoor behaviour have been implemented, limiting access to parks and recreational outdoor spaces.
+122	New evidence shows that COVID-19 restrictions are associated with an overall lower amount of time spent in outdoor play among Canadian children and youth.
+123	This is concerning, as outdoor play is important for children's physical and mental health and helps provide them with a sense of control during times of uncertainty and stress.
+124	As policies on access to the outdoors during the COVID-19 outbreak vary by province, it is possible that policy differences have led to regional differences in changes in outdoor play among children and youth.
+125	In this commentary, we examine regional differences in outdoor play among children and youth across Canada, and the association between provincial policies related to COVID-19 and outdoor play.
+126	We argue that through the recovery process, in the event of a second wave of infections, and in preparing for future public health challenges, policy decisions should consider ways to preserve outdoor play for Canadian children and youth.
+127	Voice disorder in children : what can be done ?
+128	A child having a hoarse, raspy or broken voice, is not normal.
+129	Child voice problems are too often ignored and neglected. 
+130	Such problem should be treated as quickly as possible, as they have important academic and social consequences and significant implications for the choice of their future adult life.
+131	The problem must be solved before adolescence, because many professions and activities are not accessible to dysphonic children.
+132	Our society gives a lot of importance to the voice, but curiously without having sufficient knowledge of vocal hygiene.
+133	Information and awareness among doctors and parents is paramount so that school-aged children can benefit from adequate treatment.
+134	Strategies to reduce antibiotic use with the help of complementary and integrative medicine
+135	Limiting antibiotic use is urgent due to increasing antibiotic resistance and the long-term implications of a disturbed microbiome.
+136	Data on antibiotic use of physicians integrating conventional and complementary medicine show that a significant reduction of antibiotic use in primary care is possible.
+137	In the setting of non-complicated infections in out-patient medicine, open dialogue with the patient, recognizing the importance of fever and reducing antipyretic use are general measures that can help reduce patients' concerns, and increase their trust in a well-functioning immune system and a treatment approach without antibiotics.
+138	Accumulating evidence suggests that complementary medicine strategies are useful in the management of common infections without antibiotics.
+139	Mindfulness based interventions for children and adolescents
+140	Mindfulness based interventions (MBI) are widely available to adults. 
+141	Programs are also offered to children and adolescents. 
+142	Interventions in school and clinical settings are increasingly being published in scientific literature.
+143	In the clinical context, MBI has a particular effect on stress/anxiety and depression as well as on the key symptoms of Attention Deficit Hyperactivity Disorder.
+144	These results are very encouraging, but all meta-analyses and literature reviews nevertheless emphasize the need for studies with robust methodology before proposing MBI on a large scale for this population.
+145	Iron deficiency in adults : to understand what biological evaluation should be carried out
+146	Iron is a major mineral in the human body. 
+147	It participates in various metabolisms, including oxygen transport in hemoglobin.
+148	Iron deficiency (ID) is characterized by a deficit in circulating iron.
+149	There are two types of ID : 1) absolute ID (AID), in case of decrease in iron reserves and circulating iron, or 2) functional ID (FID), in case of decrease in circulating iron, while reserves are preserved or increased.
+150	AID is mainly due to bleeding, usually gastrointestinal, while FID is linked to the inflammatory syndrome.
+151	AID is characterized by low serum ferritin and transferrin saturation (TS).
+152	Hypochromic microcytic anemia is frequent.
+153	FID is characterized by elevated serum ferritin, normal or low TS, and normal sTfR levels. 
+154	Furthermore, C-reactive protein levels are high, and there is non-regenerative non-macrocytic anemia.
+155	New biological tests (serum hepcidin) may be useful in case of doubt.
+156	However, they are not yet commonly used.
+157	Digital ischemia: a diagnostic challenge
+158	Digital ischemia is suspected in presence of a cold, pale or cyanotic and painful finger.
+159	It is a diagnostic and therapeutic emergency and needs urgent referral to a vascular specialist.
+160	Digital pressure measurement is needed to confirm the diagnosis.
+161	A thorough history taking and physical examination help to guide patients' management.
+162	Antithrombotic therapy - with an antiplatelet or anticoagulant drug depending on the most likely etiology - need to be introduced without delay, while awaiting the results of the individualized etiologic workup.
+163	Hospital admission is often necessary.
+164	A prompt diagnostic and therapeutic management allows satisfactory pain control and avoidance of irreversible digital lesions in the majority of cases.
+165	Feasibility of Multilevel Pregnancy Tests for Telemedicine Abortion Service Follow-Up: A Pilot Study 
+166	Telemedicine clients wishing to confirm a successful medication abortion outside of a clinic setting are commonly instructed to use high-sensitivity urine pregnancy tests, which can take up to four weeks to yield accurate results.
+167	Multilevel urine pregnancy tests (MLPTs), which provide accurate results in one week, are a promising alternative, but their use has not been evaluated within telemedicine services.
+168	Data on 118 participants who completed a web-based evaluation survey two weeks after the package was sent were analyzed to examine participant experiences and satisfaction with the service.
+169	Responding participants were from 11 countries, including Mexico, the Philippines and Singapore.
+170	Ninety-three percent used both MLPTs, and 91% of those who used both tests used them at the correct time intervals.
+171	Among the 95% of participants whose MLPT results indicated that their pregnancy hormone levels decreased from before to after medication abortion, 86% correctly interpreted the results to mean that they were no longer pregnant.
+172	Satisfaction was high, with all indicating that the supplied information was helpful; more than nine out of 10 noted that they would want to use the MLPTs again.
+173	Incorporating MLPTs into telemedicine abortion services is feasible and associated with high client satisfaction.
+174	Enabling people to manage their own abortion follow-up care could greatly improve their overall abortion experience.
+175	Evolution in the endovascular management of lower limb arteriopathy
+176	Arteriopathy of the lower limbs is a frequent pathology.
+177	In the face of persistent invalidating claudication or critical ischemia, surgical or endovascular revascularization treatment is necessary.
+178	The aim of this article is to review the evolution of the endovascular therapeutic arsenal of the femoropopliteal segment, to present the new endovascular devices available and to give current recommendations for post-interventional antithrombotic treatment.
+179	Immune-related adverse events of checkpoint inhibitors: an internist/general practitioner's point of view
+180	Immune checkpoint inhibitors have radically changed oncology by significantly improving prognosis and survival of many patients, even at an advanced or metastatic stage.
+181	Some patients undergoing immunotherapy develop adverse immune-related events, presenting a toxicity spectrum that can affect any organ, separately or simultaneously, with different intensities depending on the treatment used and patient characteristics.
+182	We hereby suggest a diagnostic and therapeutic approach that any internist, general practitioner or emergency doctor should have facing digestive, cardiac and pulmonary toxicities.
+183	Integrative medicine in pediatric oncology
+184	This article provides an overview of the integrative medicine approach in pediatric oncology that combines conventional medicine with complementary therapies.
+185	As a practice example, the division of pediatric oncology from the Children's Hospital St. Gallen describes their use and experience of two different methods of integrative medicine on a daily basis.
+186	However, this review article also shows the lack of studies dedicated to integrative medicine in pediatric oncology, particularly regarding efficacy and safety of the different applications.
+187	Efficacy of macro-clips for perforations and fistulas following endoscopic or surgical procedures. Retrospective analysis of 25 consecutive cases
+188	The aim of our retrospective study is to analyse the results of endoscopic macro-clips used for closing intestinal breaches in the real life.
+189	Post-endoscopic, spontaneous perforations and surgical fistulas are included.
+190	Our results are compared with principal published series.
+191	Between 2010 and 2015, 25 consecutive patients underwent an endoscopic suture with macro-clips to seal a breach resulting from endoscopic perforation, surgical fistula, invasive medical procedure or spontaneous perforation.
+192	The endoscopic efficacy was immediate for all patients whose perforation was of endoscopic aetiology.
+193	None of them required surgery.
+194	Secondary complementary endoscopic treatment was only used in 6/25 patients. 
+195	All of them had non-endoscopic aetiology for their perforation.
+196	The survival at 1 month was 84 % and at 3 months of 76 %. 
+197	Our results confirm the high efficiency of macro-clips in the treatment of endoscopic breaches in a regional hospital center.
+198	The use of macro-clips seems less convincing for the closure of some postoperative fistula.
+199	The suture with macro-clips associated with endoscopic and medical treatments allowed to avoid surgical redo in some cases.
+200	Degenerative lesions of the anterior cruciate ligament: a frequent but poorly understood phenomenon
+201	Making more use of MRI, degenerative lesions of the anterior cruciate ligament are more frequently diagnosed.
+202	Three separates entities are reported (mucoid degeneration, ganglion cyst and mucoid degeneration with ganglion cysts) but it is probably a continuum of the same degenerative process.
+203	In middle aged individuals, it would result of repeated microtrauma in the setting of a narrow intercondylar notch and/or increased posterior tibial slope.
+204	In the older patient, it would be part of a whole organ disease with the onset of osteoarthritis.
+205	Most cases are incidental findings.
+206	For symptomatic patients, a complete resection of the ligament is our first option when conservative treatment failed.
+207	It is effective for pain relief and motion recovery.
+208	Although it produces postoperative instability, secondary reconstruction is not always required.
+209	Prevention of nephrolithiasis - Preliminary results of the Swiss Kidney Stone Cohort (SKSC) and the NOSTONE trial
+210	Nephrolithiasis is a major health care problem with increasing incidence and prevalence worldwide.
+211	Prevention consists mainly of conservative therapeutic measures, including dietary measures and drug treatments.
+212	However, the understanding of the pathophysiology and molecular genetic basis of nephrolithiasis is incomplete and complicates the development of new treatments.
+213	In this context, the Swiss Kidney Stone Cohort (SKSC) aims to improve the understanding of nephrolithiasis and the NOSTONE trial aims to confirm the efficacy of hydrochlorothiazide in the recurrence prevention of calcium containing kidney stones.
+214	Despite a benign appearance, any foot injury occurring in a patient with diabetes requires multidisciplinary management if dreaded complications such as amputation are to be avoided.
+215	From a pathophysiological point of view, foot ulcer generally results from the combination of lower extremity neuropathy, mechanical overload, immunopathy and vascular insufficiency.
+216	The treatment associates in all cases an offloading and one or more debridements.
+217	Depending on the grade of the ulcer, adjuvant treatments, such as antibiotic therapy, revascularization, and hyperbaric oxygen therapy may be indicated.
+218	Use of honey dressings in wound healing
+219	Honey is used as therapeutic in traditional medicine for a long time ago for a wide range of wounds.
+220	It has known a revival in modern care since the bacterial resistance against antibiotics appeared.
+221	Honey is known to have antibacterial activity, enhance wound healing and modulate immune response.
+222	While biological processes and bioactive compounds arenot well understood, honey seems to be an effective therapeutic agent in wound healing.
+223	Medical graded honey dressings were recently developed.
+224	The present article describes properties of medical graded honey dressings and their use for wound healing.
+225	The time is now for public health to lead the way on addressing financial strain in Canada 
+226	Financial strain was an issue for many Canadians long before the arrival of the global novel coronavirus pandemic in early 2020.
+227	However, it has worsened in recent months in relation to the pandemic and public health measures put in place to prevent the spread of COVID-19.
+228	Members of underserved groups and people who experience poverty are particularly vulnerable to financial strain and its negative health impacts.
+229	As public health professionals, we should be concerned.
+230	In this commentary, we discuss the concept of financial strain and its health consequences and highlight how existing research in the area is falling short and why.
+231	We suggest next steps to guide research and practice related to financial strain such that it reflects the core values of public health, including equity, life course approaches, and the social determinants of health.
+232	This commentary is a call to action for public health researchers and practitioners in Canada to take a more prominent role in shaping the agenda on financial strain to support financial well-being for all.
+233	Vision restoration: science fiction or reality?
+234	Visual prostheses aim at restoring useful vision to patients who have become blind.
+235	This useful vision should enable them to regain autonomy in society for navigation, face recognition or reading.
+236	Two retinal prostheses have already obtained market authorization for patients affected by retinal dystrophies while a new device is in clinical trials for patients affected by age-related macular degeneration.
+237	Various prostheses, in particular cortical prostheses, are currently in clinical trials for optic neuropathies (glaucoma).
+238	Optogenetic therapy, an alternative strategy, has now reached the stage of clinical trials at the retinal level while moving forward at the cortical level.
+239	Other innovating strategies have obtained proofs of concepts in rodents but require a further validation in large animals prior to their evaluation on patients.
+240	Restoring vision should therefore become a reality for many patients even if this vision will not be as extensive and perfect as natural vision.
+241	A model to predict SARS-CoV-2 infection based on the first three-month surveillance data in Brazil 
+242	COVID-19 diagnosis is a critical problem, mainly due to the lack or delay in the test results.
+243	We aimed to obtain a model to predict SARS-CoV-2 infection in suspected patients reported to the Brazilian surveillance system.
+244	We analysed suspected patients reported to the National Surveillance System that corresponded to the following case definition: patients with respiratory symptoms and fever, who travelled to regions with local or community transmission or who had close contact with a suspected or confirmed case.
+245	Based on variables routinely collected, we obtained a multiple model using logistic regression.
+246	The area under the receiver operating characteristic curve (AUC) and accuracy indicators were used for validation.
+247	We described 1468 COVID-19 cases (confirmed by RT-PCR) and 4271 patients with other illnesses.
+248	With a data subset including 80% of patients from Sao Paulo (SP) and Rio Janeiro (RJ), we obtained a function which reached an AUC of 95.54% (95% CI: 94.41-96.67%) for the diagnosis of COVID-19 and accuracy of 90.1% (sensitivity 87.62% and specificity 92.02%).
+249	In a validation dataset including the other 20% of patients from SP and RJ, this model exhibited an AUC of 95.01% (92.51-97.5%) and accuracy of 89.47% (sensitivity 87.32% and specificity 91.36%).
+250	We obtained a model suitable for the clinical diagnosis of COVID-19 based on routinely collected surveillance data.
+251	Applications of this tool include early identification for specific treatment and isolation, rational use of laboratory tests, and input for modelling epidemiological trends.
+252	The Revised National Tuberculosis Control Programme (RNTCP) in Andhra Pradesh, India, introduced TrueNat We compared the number of presumptive TB cases tested and the number (proportion) of microbiologically positive before (January-August 2018) and after (January-August 2019) the deployment of TrueNat. We interviewed laboratory technicians and Senior TB Laboratory Supervisor from 25 randomly selected TUs to assess operational feasibility.
+253	In 2018, 10.5% (range 8.9-13.1) of 245,989 presumptive cases tested were positive.
+254	In 2019, of the 185,435 presumptive cases tested, 13.7% (range 9.6-18.9) were positive.
+255	The proportion of presumptive TB cases in whom MTB was detected using TrueNat was 14.4% (range 10.0-21.2). 
+256	TrueNat significantly increased case detection (incidence rate ratio [IRR] 1.30; 95%CI 1.15-1.46), yielding an additional 18 TB cases per 100 000 population.
+257	Laboratory technicians became comfortable in performing TrueNat after a median of 10 tests (interquartile range 5-17.5). 
+258	Invalid reports declined from 6.8% to 3.6%. 
+259	The deployment of TrueNat as POC diagnostic test improved case detection and was operationally feasible under RNTCP.
+260	Radical cystectomy with urinary diversion is the surgical treatment of invasive bladder cancer.
+261	Functional impairment is another indication.
+262	Robotic technique slowly started 15 years ago but its benefit remains questionable.
+263	We present the results of around thirty patients who underwent robotic cystectomy (RC) between 2016 and 2019 and were compared to an open cystectomy (OC) group.
+264	While this series is finishing its implementation phase, the results show that RC is equivalent to OC in terms of oncologic control as well as for the overall complication rate.
+265	Moreover, blood loss and the hospital length of stay are inferior for RC patients.
+266	These results participate to the actual trend towards putative further validation of RC.
+267	Global Developments in Laws on Induced Abortion: 2008-2019 
+268	Evidence shows that laws that restrict abortion do not eliminate its practice, but instead result in women having clandestine abortions, which are likely to be unsafe.
+269	It is important to periodically assess changes in the legal status of abortion around the world.
+270	The criteria for legal abortion as of 2019 for 199 countries and territories were used to distribute them along a continuum of six mutually exclusive categories, from prohibited to permitted without restriction as to reason.
+271	The three most common additional legal grounds that fall outside of this continuum-rape, incest and fetal anomaly-were also quantified.
+272	Patterns by region and per capita gross national income were examined.
+273	Changes resulting from law reform and judicial decisions since 2008 were assessed, as were changes in policies and guidelines that affect access.
+274	Legality correlated positively with income: The proportions of countries in the two most-liberal categories rose uniformly with gross national income.
+275	From 2008 to 2019,27 countries expanded the number of legal grounds for abortion; of those, 21 advanced to another legality category, and six added at least one of the most common additional legal grounds.
+276	Reform resulted from a range of strategies, generally involving multiple stakeholders and calls for compliance with international human rights norms.
+277	The global trend toward liberalization continued over the past decade; however, even greater progress is needed to guarantee all women's right to legal abortion and to ensure adequate access to safe services in all countries.
+278	Osteosynthesis for proximal humeral fractures : plate or nail ? Results of a retrospective monocentric study
+279	Locking intramedullary nails and locking plates are widely used.
+280	There is a lack of consensus about optimal surgical treatment.
+281	We compare these techniques.
+282	This retrospective study included 97 patients : 51 with nail, 46 with plate.
+283	Absolute and relative Constant-Murley scores and Simple Shoulder Test (SST) were used to assess postoperative function.
+284	Time of fracture union and complications were recorded.
+285	Two fragment fractures were preferentially treated by nails and 4 fragment fractures by plates.
+286	There is no difference for union except advantage for nails in 2 fragment fractures.
+287	The functional outcome is similar, relative Constant-Murley score is 72,7 ± 0,3 %, SST 6,7 ± 3,9 after nailing and relative Constant-Murley score is 65,4 ± 0,3 %, SST 6,0 ± 3,6 after plating.
+288	Number of complications is similar after plating (67,4 %) and nailing (62,7 %).
+289	 We propose to promote nailing for 2 fragment fractures and treatment with plates for 4 fragment fractures.
+290	The enhanced recovery after surgery (ERAS) is a proven concept in many surgical disciplines since the early 2000s.
+291	Studies agree benefit in prosthetic surgery and it has been shown to lead to improved practices and results permitting a faster discharge to home with lesser morbidity and mortality.
+292	It implies a cohesion in the message delivery and the general practitioner plays a central role.
+293	The collection and analysis of the data is fundamental to continuously improve the protocol and thus the care of patients.
+294	These protocols are a step towards outpatient management in this kind of surgery.
+295	The Experiences of Social Assistance Recipients on the Ontario Basic Income Pilot 
+296	This article attempts to fill part of the research void created by the premature cancellation of the Ontario Basic Income Pilot (OBIP), reporting the results of former Ontario Works and Ontario Disability Support Program service users who received basic income in the Hamilton region through a comparison of their experiences related to physical and mental health, food and housing security, financial security, and social and family relations.
+297	It shows that basic income led to improvements on a variety of indicators, proving transformational for some.
+298	The evidence suggests that when compared to existing income support systems, a basic income modeled similar to OBIP can significantly improve recipients' lives, while at the same time providing a more humane approach to service delivery.
+299	Sex, gender and COVID-19: a call to action 
+300	An understanding of the influence of sex (biological attributes) and gender (socially constructed roles, behaviours, expressions, identities) factors on the risk of infection, hospitalization and death is of urgent importance in the COVID-19 pandemic response effort.
+301	Despite similar global rates of infection with Severe Acute Respiratory Syndrome-Coronavirus-2 (SARS-CoV-2, the virus responsible for the COVID-19 pandemic), hospitalizations and mortality are higher in men than in women.
+302	Females may be less vulnerable to viral infection due to sex-based differences in immune responses and renin-angiotensin system activity.
+303	The response and side effects of currently studied potential therapies for COVID-19, such as hydroxychloroquine, likely differ by sex.
+304	Women form the majority of the health care workforce and a uniform approach to sizing of personal protective equipment may provide differing levels of protection from viral infection to health care workers of varying shapes and sizes.
+305	Important gender differences exist in the response to public health measures to prevent and contain spread of COVID-19, as well as presentation for testing and medical care, which may inadvertently propagate viral spread.
+306	Targeted approaches that consider both sex and gender, as well as measures of intersectionality, are urgently needed in the response efforts against COVID-19.
+307	Eyes and gaze: Proverbs and expressions
+308	The eyes and the gaze participate in a major way in our non-verbal language, even before the verb appeared.
+309	From the Bible to contemporary language, through Greek mythology, theater, literature or spoken language, a multitude of expressions and proverbs present the eye, what it sees and what it symbolizes.
+310	Particularities of coronary syndrome in women
+311	Cardiovascular disease, including myocardial infarction, has been less studied in the female population, leading to higher mortality among women.
+312	Differences between the sexes exist in terms of clinical presentation, pathophysiology and even management.
+313	This article is a non-systematic review of literature of recent articles addressing this theme.
+314	A broader understanding of the peculiarities of coronary syndrome in women improves their management and reduces the inequality of prognosis for women.
+315	Host conservation through their parasites: molecular surveillance of vector-borne microorganisms in bats using ectoparasitic bat flies 
+316	Most vertebrates host a wide variety of haematophagous parasites, which may play an important role in the transmission of vector-borne microorganisms to hosts.
+317	Surveillance is usually performed by collecting blood and/or tissue samples from vertebrate hosts.
+318	There are multiple methods to obtain samples, which can be stored for decades if properly kept.
+319	However, blood sampling is considered an invasive method and may possibly be harmful to the sampled individual.
+320	In this study, we investigated the use of ectoparasites as a tool to acquire molecular information about the presence and diversity of infectious microorganism in host populations.
+321	We tested the presence of three distinct vector-borne microorganisms in both bat blood and bat flies: Bartonella bacteria, malaria-like Polychromophilus sp. (Apicomplexa), and Trypanosoma sp. (Kinetoplastea).
+322	We detected the presence of these microorganisms both in bats and in their bat flies, with the exception of Trypanosoma sp. in South African bat flies.
+323	Additionally, we found Bartonella sp. in bat flies from one population in Spain, suggesting its presence in the host population even if not detected in bats.
+324	Bartonella and Polychromophilus infection showed the highest prevalence in both bat and bat fly populations.
+325	Single, co- and triple infections were also frequently present in both.
+326	We highlight the use of haematophagous ectoparasites to study the presence of infectious microorganism in host blood and its use as an alternative, less invasive sampling method.
+327	Clinical efficacy of spray-based heat-treated lactobacilli in canine atopic dermatitis: a preliminary, open-label, uncontrolled study 
+328	Canine atopic dermatitis (cAD) is a common inflammatory and pruritic skin disease, with various treatment options.
+329	The use of topical products containing natural ingredients has proven increasingly popular.
+330	To evaluate the effects of a spray solution containing heat-killed Lactobacillus rhamnosus and L. reuteri, on the clinical signs and cutaneous microbiota of atopic dogs.
+331	Ten privately owned, mildly affected, nonseasonally atopic dogs.
+332	The spray was applied to the ventrum every 24 h for 28 days.
+333	Clinical scores, skin barrier function and owner assessment were evaluated on day (D)0, D14, D28 and D42.
+334	The cutaneous microbiota was analysed on D0 and D28.
+335	A reduction in the total clinical score was seen at each time point (D14, P = 0.03; D28, P = 0.04; D42, P = 0.001).
+336	A reduction in the regional clinical scores was seen after D28 (P = 0.01) and D42 (P = 0.003).
+337	A significant reduction in the pruritus score was seen on D42 (P = 0.01).
+338	A lower hydration value was seen on D28 (P = 0.02) and D42 (P = 0.02) on the pinnae.
+339	A good-to-excellent response and an easy-to-use administration was reported by owners.
+340	There were no significant changes in the cutaneous microbiota after 28 days.
+341	There was a significant and rapid decrease in the clinical signs associated with cAD after use of the spray.
+342	Future larger, randomized, controlled studies are needed to confirm these results and to assess the effects on the cutaneous immunity and microflora of atopic dogs.
+343	Pediatric chronic pain : interprofessional and integrative care
+344	Pediatric chronic pain is an increasingly recognized condition in children and adolescents.
+345	Current treatment is based on the bio-psycho-social model of chronic pain: an interprofessional and integrative team will help the young patient and his environment, in order to find a balance between physical, psychological and social impacts.
+346	This article focuses on different treatment approaches for pediatric chronic pain in the outpatient and inpatient setting.
+347	Myelinosomes: A new pathway of protein quality control
+348	Maintenance of cell proteostasis relies on two degradation pathways: proteasome and autophagy.
+349	Here we describe a new proteostasis pathway avoiding degradation of abnormal proteins yet carrying them outside the cell using nanovesicles called myelinosomes.
+350	These myelinosomes are produced in pathological or stress situations in relation with genetic or environmental factors.
+351	Myelinosome vesicles are nano-sized multi-stacked membrane structures, resembling myelin sheath.
+352	It has recently been shown in two models of genetic diseases (Huntington's disease and cystic fibrosis) that myelinosomes are important for eliminating mutant proteins in an unusual secretory process, thus preventing their accumulation and aggregation in cells.
+353	Nanoemulsions containing plant oils: How do they influence hair treatment? 
+354	Cosmetic and dermatological products, mainly the hair treatments, are projected to have remarkable growing in coming years.
+355	Nanotechnology, specifically nanoemulsions, has potential to be used in several hair products, owing to their beneficial properties.
+356	Concurrently, plant-derived cosmetics have become more popular over the years to consumers who prefer a safer, natural and sustainable approach.
+357	There is a lack of studies combining plant oils and nanotechnology for haircare formulations.
+358	In this work, different plant oil-loaded nanoemulsions were prepared to investigate the influence of their particle size, zeta potential and composition on hair treatment efficacy.
+359	Coconut, olive and Abyssinian oils, alone or in combination, were loaded into nanoemulsions by high-pressure homogenization method (HPH).
+360	The mean particle size, polydispersity index and zeta potential were measured by the dynamic light scattering (DLS) method, and a stability test was performed for five months.
+361	A sensorial screening evaluation performed by the analyst and the combing test using Dia-Stron The use of different plant oils for nanoemulsion resulted in distinct final particle sizes and zeta potential.
+362	However, results suggested no significant difference between them in hair tresses combing efficacy compared by Dia-Stron 
+363	The composition of plant oils, particle size or zeta potential of the prepared nanoemulsions does not seem to significantly influence hair performance.
+364	Lung cancer screening in Switzerland : Who ? How ? When ?
+365	Professional societies encourage the establishment of coordinated national screening programs for lung cancer by « low-dose » chest CT scans. 
+366	The interdisciplinary Swiss Lung Cancer Screening Implementation Group (CH-LSIG) is exploring the feasibility of such a project.
+367	However, several questions still remain unanswered, namely the -financing of such a program, the ideal « number-needed to screen », the definition and follow-up of « positive cases », as well as the role of smoking cessation measures. 
+368	The key points to discuss in the future with patients requesting screening are based on the « shared -decision-making » approach.
+369	Pilot projects guided by the CH-LSIG could help to identify the optimal strategy for establishing a national screening program based on the best available scientific evidence.
+370	Rhabdomyolysis: early management
+371	Rhabdomyolysis is defined by myalgia, potentially painful myoedema and muscular weakness due to death of muscular fiber in the striated muscle.
+372	Frequent etiologies include physical effort, intoxication (alcohol, drugs and medication) and physical trauma.
+373	Depletion of myocyte' s adenosine triphosate (ATP) leads to an increase in intracellular calcium and myocyte death.
+374	Diagnosis relies on creatine kinase (CK) levels.
+375	The clinical spectrum of rhabdomyolysis includes an asymptomatic increased amount of CK as well as severe, life threatening complications such as acute renal failure and electrolyte disorders.
+376	Treatment is based on prevention and addressing complications.
+377	 No Surrender. No Challenge. No Protest Paradigm: A Content Analysis of the Canadian News Media Coverage of the "Yellow Vest Movement" and the "United We Roll Convoy" 
+378	This study's exhaustive content analysis (N = 538) examines how Canada's mainstream news media covered the nascent yellow vest movement from the first Canadian protests in December 2018 culminating in the February 2019 cross-country United We Roll convoy.
+379	We demonstrate that Protest Paradigm scholarship does not offer a useful analytic for understanding the coverage of this right-wing social movement whose tactics were banal and law abiding.
+380	Furthermore, we argue that Canadian news media coverage of the protest movement was largely uncritical and decidedly hegemonic, raising questions about normative watchdog conceptions of the news media in Canadian democracy.

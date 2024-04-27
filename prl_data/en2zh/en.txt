@@ -1,0 +1,425 @@
+1	To compare the effect of Sheng-Xue-Xiao-Ban Capsule (SXXBC) and indirubin to the peripheral platelets of the Idiopathic thrombocytopenic purpura (ITP) model mouse. 
+2	The ITP mouse model was established by the method of passive immunization. 
+3	SXXBC and indirubin were used for intervention treatment. 
+4	Then the hemorrhagic phenomena of ITP mice were observed and the numbers of peripheral platelets, hemoglobin and white blood cells, bone marrow megakaryocytes and their classification and coagulation function were detected and compared. 
+5	The improvement rate of hemorrhage in SXXBC group was 40% for small dose, 60% for medium dose and 80% for high dose, while the improvement rate of hemorrhage in indirubin group was 30% for small dose, 50% for medium dose and 60% for high dose. 
+6	There was no statistically significant difference in the improvement rate of hemorrhage between the two groups (P＞0.05). 
+7	Compared with the model control group, PLT and Hb increased in different doses of SXXBC and indirubin group 4th-8th day after drug intervention (P＜0.05, 0.01). 
+8	However, there was no significant difference between the different doses of SXXBC group and indirubin group (P＞0.05). 
+9	Compared with the model control group, the WBC in each group was significantly lower (P＜0.05, 0.01) on the 4th-8th day after drug intervention; However, there was no statistical significance between the two groups of SXXBC and indirubin (P＞0.05). 
+10	Compared with the model control group, the total number of megakaryocytes in each treatment group were decreased (P＜0.05, P＜0.01), in which the number of primary megakaryocytes in the large and medium dose groups of SXXBC and indirubin were decreased (P＜0.05, 0.01), and the number of juvenile megakaryocytes in the large dose group of SXXBC and indirubin were also decreased (P＜0.05). 
+11	The number of granular megakaryocytes were decreased in each intervention groups (P＜0.05, 0.01), and the number of thromocytogenic megakaryocyte was increased in the high and medium dose groups of SXXBC and indirubin (P＜0.01). 
+12	The time of prothrombin was shortened in the high and medium dose groups of SXXBC and indirubin (P＜0.05), and the fibrinogen (FIB) content in the high and medium dose groups of SXXBC was close to that of the normal control group. 
+13	Both of the SXXBC and the indirubin standard all show good hemostatic effects. 
+14	Indirubin shows a positive effect on increasing the peripheral platelet and hemoglobin in ITP model mice, regulating the immune response, reducing the total number of bone marrow megakaryocytes, increasing the thromocytogenic megakaryocyte, and increasing coagulation function.
+15	A simplified grading system for trachoma was published by the World Health Organization (WHO) in 1987. 
+16	Intended for use by non-specialist personnel working at community level, the system includes five signs, each of which can be present or absent in any eye: (i) trachomatous trichiasis; (ii) corneal opacity; (iii) trachomatous inflammation-follicular; (iv) trachomatous inflammation-intense; and (v) trachomatous scarring. 
+17	Though neither perfectly sensitive nor perfectly specific for trachoma, these signs have been essential tools for identifying populations that need interventions to eliminate trachoma as a public health problem. 
+18	In 2018, at WHO's 4th global scientific meeting on trachoma, the definition of one of the signs, trachomatous trichiasis, was amended to exclude trichiasis that affects only the lower eyelid. 
+19	This paper presents the amended system, updates its presentation, offers notes on its use and identifies areas of ongoing debate.
+20	Influenza virus infection is a respiratory infectious disease that can seriously affect human health. 
+21	Influenza viruses can have frequent antigenic variation and changes, which can result in rapid and widespread transmission resulting in annual epidemics and outbreaks in places of public gathering such as schools, kindergartens and nursing homes. 
+22	According to WHO estimation, seasonal influenza epidemics have caused an annually 3 to 5 million severe cases and 290 000 to 650 000 deaths globally. 
+23	Pregnant women, young children, the elderly, and persons with chronic illnesses are at high risk for severe illness and death associated with influenza virus infection. 
+24	Especially, COVID-19 pandemic might co-circulate with other respiratory infectious diseases such as influenza in the coming winter-spring season. 
+25	Seasonal influenza vaccination is the most effective way to prevent influenza virus infection and complications from infection. 
+26	Currently, China has licensed trivalent inactivated influenza vaccine (IIV3) which includes split-virus influenza vaccine and subunit vaccine, quadrivalent inactivated influenza vaccine (IIV4) which is split, and trivalent live attenuated influenza vaccine (LAIV3) which was newly licensed. 
+27	Except for a few major cities, influenza vaccine is a category Ⅱ vaccine, which means influenza vaccination is voluntary, and recipients must pay for it. 
+28	In 2018 and 2019, the China CDC issued the "Technical Guidelines for Seasonal Influenza Vaccination in China" . 
+29	In the past year, new research evidences home and abroad have been published, and new seasonal influenza vaccine has been licensed in China. 
+30	To strengthen the technical guidance for prevention and control of influenza and operational research on influenza vaccination in China, the National Immunization Advisory Committee (NIAC) Influenza Vaccination Technical Working Group (TWG), updated the 2019-2020 technical guidelines and compiled the "Technical guidelines for seasonal influenza vaccination in China (2020-2021)" . 
+31	The main updates in this version include the following: First, new research evidences especially studies of China, including disease burden, effectiveness, Vaccine-avoidable disease burden, vaccine safety monitoring, and cost-effectiveness and cost-benefit. 
+32	Second, policies and measures for influenza prevention and control issued by National Health Commission (PRC) in the past year. 
+33	Thirdly, new type seasonal influenza vaccine licensed and issued in 2020-2021 in China. 
+34	Fourth, northern hemisphere influenza vaccination composition for the 2020-2021 season which included trivalent and quadrivalent influenza vaccine. 
+35	Fifth, Influenza vaccination recommendations for 2020-2021 influenza season. 
+36	The recommendations described in this report include the following: Points of Vaccination clinics (PoVs) should provide influenza vaccination to all persons aged 6 months and above who are willing to be vaccinated and do not have contraindications. 
+37	No preferential recommendation is made for one influenza vaccine product over another for persons for whom more than one licensed, recommended, and appropriate product is available. 
+38	Considering the situation of globally pandemic of COVID-19, to decrease the risk of influenza virus infection and minimize the impact on COVID-19 prevention and control, we recommend the following priority for seasonal influenza vaccination: healthcare workers, including clinical doctors and nurses, public health professionals, quarantine professionals; vulnerable groups living in nursing homes or welfare homes and staffs who take care those vulnerable groups; people work or stay in high population density places, such as teachers and students in kindergartens, primary and secondary school, prisoners and staffs of prisons; other high risk group of influenza, including adults ≥60 years of age, children aged 6-59 months, persons with specific chronic diseases, the family members and caregivers of infants <6 months of age, and pregnant women or women who plan to become pregnant during the influenza season. 
+39	Children aged 6 months through 8 years require 2 doses of influenza vaccine administered a minimum of 4 weeks apart during their first season of vaccination for optimal protection. 
+40	People whoever get IIV or LAIV all apply to the principle. 
+41	If they were vaccinated in 2019-2020 influenza season or a prior season, 1 dose is recommended. 
+42	People more than 8 years old require 1 dose of influenza vaccine. 
+43	It is recommended that people receive their influenza vaccination by the end of October. 
+44	Influenza vaccination should be offered as soon as the vaccination is available. 
+45	For the people unable to be vaccinated before the end of October, influenza vaccination will continue to be offered for the whole season. 
+46	Influenza vaccine is also recommended for use in pregnant women during any trimester. 
+47	These guidelines are intended for use by staff members of the CDCs at all levels who work on influenza control and prevention, PoVs staff members, healthcare workers from the departments of pediatrics, internal medicine, and infectious diseases, and staff members of maternity and child care institutions at all levels. 
+48	These guidelines will be updated periodically as new evidence becomes available.
+49	Very high-resolution (VHR) satellite sensors can be used to estimate the size of animal populations, a critical factor in wildlife management, and acquire animal spatial distributions in an economical, easy, and precise way. 
+50	We developed a method for satellite population size estimation that includes a noninvasive photogrammetry, from which the animal's average orthographic area is calculated, and an imagery interpretation method that estimates population size based on the ratio of an observed animal population area to the average individual area. 
+51	As a proof of concept, we used this method to estimate the population size of Whooper Swans (Cygnus cygnus) in a national nature reserve in China. 
+52	To reduce errors, the reserve was subdivided into regions of interest based on locations of Whooper Swan and background brightness. 
+53	Estimates from the satellite pixels were compared with manual counts made over 2 years, at 3 locations, and in 3 land-cover types. 
+54	Our results showed 1124 Whooper Swans occupied a national nature reserve on 15 February 2013, and the average percent error was 3.16% (SE = 1.37). 
+55	These results demonstrate that our method produced robust data for population size estimation that were indistinguishable from manual count data. 
+56	Our method may be used generally to estimate population sizes of visible and gregarious animals that exhibit high contrast relative to their environments and may inform estimations of populations in complex backgrounds.
+57	Kenya's Constitution of 2010 triggered a cascade of reforms across all sectors to align with new constitutional standards, including devolution and a comprehensive bill of rights. 
+58	The constitution acts as a platform to advance health rights and to restructure policy, legal, institutional and regulatory frameworks towards reversing chronic gaps and improving health outcomes. 
+59	These constitutionally mandated health reforms are complex. 
+60	All parts of the health system are transforming concurrently, with several new laws enacted and public health bodies established. 
+61	Implementing such complex change was hampered by inadequate tools and approaches. 
+62	To gain a picture of the extent of the health reforms over the first 10 years of the constitution, we developed an adapted health-system framework, guided by World Health Organization concepts and definitions. 
+63	We applied the framework to document the health laws and public bodies already enacted and currently in progress, and compared the extent of transformation before and after the 2010 Constitution. 
+64	Our analysis revealed multiple structures (laws and implementing public bodies) formed across the health system, with many new stewardship structures aligned to devolution, but with fragmentation within the regulation sub-function. 
+65	By deconstructing normative health-system functions, the framework enabled an all-inclusive mapping of various health-system attributes (functions, laws and implementing bodies). 
+66	We believe our framework is a useful tool for countries who wish to develop and implement a conducive legal foundation for universal health coverage. 
+67	Constitutional reform is a mobilizing force for large leaps in health institutional change, boosting two aspects of feasibility for change: stakeholder acceptance and authority to proceed.
+68	Idiopathic intracranial hypertension (IIH) is characterised by raised intracranial pressure (ICP) and papilloedema in the absence of an identifiable secondary cause typically occurring in young women with obesity. 
+69	The impact is considerable with the potential for blindness, chronic disabling headaches, future risk of cardiovascular disease and marked healthcare utilisation. 
+70	There have been marked advances in our understanding the pathophysiology of IIH including the role of androgen excess. 
+71	Insight into pathophysiological underpinnings has arisen from astute clinical observations, studies, and an array of preclinical models. 
+72	This article summarises the current literature pertaining to the pathophysiology of IIH. 
+73	The current preclinical models relevant to gaining mechanistic insights into IIH are then discussed. 
+74	In vitro and in vivo models which study CSF secretion and the effect of potentially pathogenic molecules have started to glean important mechanistic insights. 
+75	These models are also useful to evaluate novel therapeutic targets to abrogate CSF secretion. 
+76	Importantly, in vitro CSF secretion assays translate into relevant changes in ICP in vivo. 
+77	Models of CSF absorption pertinent to IIH, are less well established but highly relevant and of future interest. 
+78	There is no fully developed in vivo model of IIH but this remains an area of importance. 
+79	Progress is being made to improve our understanding of the underlying aetiology in IIH including the characterisation of disease biomarkers and their mechanistic role in driving disease pathology. 
+80	Preclinical models, used to evaluate IIH mechanisms are yielding important mechanistic insights. 
+81	Further work to refine these techniques will provide translatable insights into disease aetiology.
+82	To review the research progress of adrenergic β-antagonists on wounds and diabetic chronic cutaneous ulcers healing in recent years, and to investigate its application prospect in diabetic foot ulcer (DFU). 
+83	The latest literature about the role of adrenergic β-antagonists in wounds and diabetic chronic cutaneous ulcers healing was extensively reviewed, and the mechanisms of adrenergic β-antagonists for wounds and its potential benefit for DFU were analyzed thoroughly. 
+84	The adrenergic β-antagonists can accelerate the wound healing. 
+85	The possible mechanisms include accelerating re-epithelialization, promoting angiogenesis, improving neuropathy, and regulating inflammation and growth factors,  Adrenergic β-antagonists maybe promote the healing of wounds and diabetic chronic cutaneous ulcers. 
+86	However, more long-term follow-up and high-quality randomized control studies are needed to further verify their efficacy and safety for DFU.
+87	COVID-19 is a Public Health Emergency of International Concern (PHEIC). 
+88	Direct economic loss is expected to be much more than that of SARS outbreak in 2003. 
+89	The risk factors of COVID-19 epidemic at the early stage included the misjudgment of the epidemic, delay in reporting this emerging infectious disease, nosocomial infection-caused transmission of the virus into local communities, and weak public health interventions. 
+90	The infection rate (or the incidence) reflects the prophylactic effect in population. 
+91	Case fatality reflects the therapeutic effect of clinical intervention. 
+92	There were sufficient medical resources at the national top levels accumulated in Wuhan. 
+93	Furthermore, medical professionals and sufficient medical supplies from other provinces have been assigned to join in the fighting against the epidemic in Wuhan. 
+94	However, the case fatality in Wuhan has been kept the highest in China, indicating that clinical treatment for this virus-caused emerging infectious disease, whose pathogenesis remains to be elucidated, with limited effect in controlling this epidemic. 
+95	The unusual, extremely costly public health interventions including the temporarily city quarantine and transportation ban issued by the central government are crucial in controlling this epidemic. 
+96	The control of epidemic indicates the importance of public health measures but also reflected its insufficient capacity in China. 
+97	Recently, profit-seeking mechanism run in Chinese health service system disorganized the balance of clinical service and public health service patterns in China, promoting the vicious circle of "attaching importance to clinical treatment and despising disease prophylaxis" , damaging the infrastructure of public health capacity, thus contributing to the formation of the inevitability in various fortuities of public health emergency. 
+98	To strength the capacity of our medical service system to respond to public health emergency efficiently, two key issues should be considered. 
+99	First, public health service, which should be fixed as the health section of the governments' public services by the law, must be greatly improved to meet the increasing health needs of the publics. 
+100	Second, the vicious circle of profit-seeking-caused "attaching importance to clinical treatment and despising disease prophylaxis" should be immediately broken to optimize the national health service system in China by increasing the investment in public health service.
+101	To explore whether unicompartmental knee arthroplasty (UKA) and total knee arthroplasty (TKA) or bilateral TKAs should be performed in patients with bilateral knee osteoarthritis. 
+102	Between April 2015 and February 2017, 24 patients with bilateral knee osteoarthritis who met the selection criteria were included in the study and randomly divided into 2 groups (  The incisions in both groups were healed by first intention after two stage operations. The differences in the operation time, the amount of postoperative drainage, and the time of active flexion of the knee joint at 90° between the two groups were not significant in the first-stage operation (  On the premise of strict indications, the patients with bilateral knee osteoarthritis should be treated according to their own pathological changes in order to obtain better short-term effectiveness.
+103	To explore experiences of peer support among parents of children with congenital heart defects. 
+104	A study analysing written responses to open-ended questions about peer support, collected via an online survey distributed in Sweden. 
+105	Respondents were recruited during 3 months in 2018 by means of convenience sampling, through ads via the Swedish foundation for families with children who have heart defects and two closed Facebook groups for peer support. 
+106	An online survey containing open-ended questions was distributed and responses were analysed with systematic text condensation. 
+107	Peer support was grounded in a mutual understanding among parents and involved highly appreciated emotional support. 
+108	Listening to the stories of peers meant an opportunity to gain useful insights about what life is like for parents of children with heart defects. 
+109	Receiving and providing peer support was described as rewarding on a personal level. 
+110	Negative aspects of peer support were also described, which sometimes led to psychological distress and withdrawal from peer support activities. 
+111	Peer support is emotionally relieving and appreciated among parents of children with congenital heart defects, who consider providing the support a rewarding responsibility. 
+112	While peer support activities may have considerable benefits for individuals, it may also lead to psychological distress for some. 
+113	This study addressed peer support among parents of children with congenital heart defects. 
+114	The main findings illustrate the potential impact peer support can have on individuals and calls attention to the experienced benefits related to peer support activities, while also providing some insights regarding potential negative aspects. 
+115	The findings have relevance for nurses, midwives, and other health professionals working in settings providing care for these families.
+116	Alleles, genotypes and haplotypes (combinations of alleles) have been widely used in gene-disease association studies. 
+117	More recently, association studies using diplotypes (haplotype pairs on homologous chromosomes) have become increasingly common. 
+118	This article reviews the rationale of the four types of association analyses and discusses the situations in which diplotype-based analyses are more powerful than the other types of association analyses. 
+119	Haplotype-based association analyses are more powerful than allele-based association analyses, and diplotype-based association analyses are more powerful than genotype-based analyses. 
+120	In circumstances where there are no interaction effects between markers and where the criteria for Hardy-Weinberg Equilibrium (HWE) are met, the larger sample size and smaller degrees of freedom of allele-based and haplotype-based association analyses make them more powerful than genotype-based and diplotype-based association analyses, respectively. 
+121	However, under certain circumstances diplotype-based analyses are more powerful than haplotype-based analysis. 
+122	SCORE-15 (Systemic Clinical Outcome and Routine Evaluation) is a 15-item questionnaire for completion by family members aged 12 years and older to assess outcomes in systemic therapy. 
+123	This study aimed to investigate (a) the psychometric properties and the internal consistency reliability of the Italian version of SCORE-15, (b) clinical responsiveness, and (c) normative (Italian) criteria. 
+124	Furthermore, (d) the study sought to evaluate the participants' representation of both their family and their problems, analyzing open-ended questions included in the SCORE-15. 
+125	Data were collected from two clinical centers for 208 families (n = 507). 
+126	Results confirmed the three-factor structure (i.e., strengths, difficulties, and communication), a good internal consistency reliability, and indicated a cutoff threshold for the Italian version. 
+127	Furthermore, results showed that SCORE-15 is a good instrument for clinical responsiveness and that it can be used to explore the way in which family members describe their families and problems. 
+128	Overall, SCORE-15 is a brief, psychometrically robust family assessment instrument that may be used for both researchers and practitioners in several domains of clinical and social psychology.
+129	To estimate the magnitude of illicit cigarette consumption in India using a tax-gap approach. 
+130	In the tax-gap analysis, illicit cigarette consumption in India was defined as the difference between total and legal consumption. 
+131	Data on total cigarette consumption came from two national Global Adult Tobacco Surveys carried out from 2009 to 2010 and from 2016 to 2017. 
+132	Legal consumption was derived from Government of India data on domestic cigarette production and trade. 
+133	Estimated total cigarette consumption was 104.8 billion sticks in 2009 to 2010 and 94.2 billion sticks in 2016 to 2017, a decrease of 10.6 billion sticks, or of 10%, over the time period. 
+134	Legal cigarette consumption fell from 99.4 to 88.5 billion sticks over the same period, a drop of 11%. 
+135	Estimated illicit cigarette consumption was, therefore, 5.4 billion sticks in 2009 to 2010 and 5.6 billion sticks in 2016 to 2017, and accounted for 5.1% and 6.0% of the market in these periods, respectively. 
+136	Consequently, only about 1 in 20 cigarettes consumed in India was illicit. 
+137	Between 2016 and 2017, the estimated equivalent retail sales value of illicit cigarettes was 49 billion Indian rupees (753 million United States dollars, US$) and the estimated tax revenue foregone was 25 billion Indian rupees (US$ 390 million). 
+138	Illicit cigarette consumption is relatively modest in India by global standards. 
+139	Nonetheless, India should strengthen its capacity to control the illicit tobacco market as part of a comprehensive tobacco control strategy, while also continuing to implement traditional demand reduction measures, such as tobacco taxation.
+140	Enhancer of zeste homolog 2(EZH2) is a histone methyltransferase which regulate gene expression through epigenetic machinery. 
+141	The abnormal expression of EZH2 has been described in many cancer types. 
+142	With in-depth study, it was found that EZH2 is involved in the occurrence and development in many kinds of malignant hematologic disease which may play a dual role of oncogenes and tumor suppressor genes. 
+143	In recent years, the emergence of EZH2 inhibitors provide a new option for the future treatment of hematological malignancies. 
+144	In this review, the expression and clinical significance of EZH2 in various of hematological tumors were summarized briefly.
+145	Ancient medical books have the names of drugs such as "xinghe" (, apricot pit), but there is only the name "xingren" (, almond) in modern medical books. 
+146	On the basis of checking Chinese dictionary, exegetical books and ancient literature, it is believed that the ancients could clearly distinguish the difference between "he" (, pit) and "ren" (, nut) in actual use, and realized that the pit and the nut are different parts. 
+147	This article takes almonds as the center to explore the similarities and differences of concepts and essences between the "he" (, pit) and "ren" (, nut) in ancient prescriptions. 
+148	By investigating the usage of ancient medical literature, it can be seen that the actual medicinal part of the medicine "xinghe" (, apricot pit) means still almonds. 
+149	And due to the imperfect market of ancient medicinal materials, there is no perfect medicinal materials processing industry, and it is necessary for doctors to remove part of the non-medicinal parts after obtaining the medicinal materials. 
+150	Therefore, in ancient times, the "xinghe" (, apricot pit) and "xingren" (, almond) are actually different names for the same medicinal part.
+151	Faldaprevir analogue molecule (FAM) has been reported to effectively inhibit the catalytic activity of HCV NS3/4A protease, making it a potential lead compound against HCV. 
+152	A series of HCV NS3/4A protease crystal structures were analyzed by bioinformatics methods, and the FAM-HCV NS3/4A protease crystal structure was chosen for this study. 
+153	A 20.4 ns molecular dynamics simulation of the complex consists of HCV NS3/4A protease and FAM was conducted. 
+154	The key amino acid residues for interaction and the binding driving force for the molecular recognition between the protease and FAM were identified from the hydrogen bonds and binding free energy analyses. 
+155	With the driving force of hydrogen bonds and van der Waals, FAM specifically bind to the active pocket of HCV NS3/4A protease, including V130-S137, F152-D166, D77-D79 and V55, which agreed with the experimental data. 
+156	The effect of R155K, D168E/V and V170T site-directed mutagenesis on FAM molecular recognition was analyzed for their effect on drug resistance, which provided the possible molecular explanation of FAM resistance. 
+157	Finally, the system conformational change was explored by using free energy landscape and conformational cluster. 
+158	The result showed four kinds of dominant conformation, which provides theoretical basis for subsequent design of Faldaprevir analogue inhibitors based on the structure of HCV NS3/4A protease.
+159	Objective To study the influence of halogenated hydroxyl-alkanes inhalation anesthetic on the determination of ethanol content in blood. 
+160	Methods Halogenated hydroxyl-alkanes were analyzed by headspace gas chromatography with double column confirmatory detection method. 
+161	The influence of halogenated hydroxyl-alkanes on determination of ethanol content in blood sample by headspace gas chromatography was explored under the different detection conditions of KB-BAC1/ KB-BAC2 and J&W DB-ALC1/DB-ALC2 gas chromatographic column. 
+162	Results The retention time of sevoflurane and enflurane was similar to that of ethanol and tert butanol respectively when using the J&W DB-ALC1/DB-ALC2 gas chromatographic column, and interfered with the detection of ethanol content in blood; only J&W DB-ALC1 gas chromatographic column can separate the sevoflurane and ethanol components, so as to eliminate their influence on the detection of ethanol content in blood. 
+163	When using KB-BAC1/KB-BAC2 gas chromatographic column, the retention time of sevoflurane, isoflurane and ethanol is similar, especially that of sevoflurane and ethanol, and sevoflurane obviously interferes with the determination of ethanol content in blood. 
+164	Conclusion Halogenated hydroxy-alkanes interfere with determination of ethanol content in blood by headspace gas chromatography. 
+165	The interference can be discriminated effectively by choosing the suitable chromatographic column and double column confirmatory detection.
+166	To investigate the method of treating tuberculosis in the craniovertebral junction and its effectiveness. 
+167	The clinical data of 18 patients with tuberculosis in the craniovertebral junction between July 2010 and January 2019 was analyzed retrospectively. 
+168	There were 14 males and 4 females, aged 21 months to 75 years (median, 35 years). 
+169	The disease duration ranged from 2 weeks to 60 months (median, 4 months), and the affected segment was C  All the patients were followed up 3 to 42 months (median, 12 months). 
+170	At 3 months after treatment, the VAS score was 1.7±1.0, showing significant difference when compared with preoperative score (  On the premise of regular chemotherapy, if there is no huge abscess causing dysphagia or dyspnea, atlantoaxial instability, and neurological symptoms, patients can undergo conservative treatment. If not, however, the transoral approach can be used to completely remove the tuberculosis lesion in the craniovertebral junction. One-stage debridement via transoral approach combined with posterior cervical fusion and internal fixation can achieve satisfactory effectiveness.
+171	To evaluate the clinical characteristics, genetic abnormalities, treatment efficacy and prognostic factors in patients with plasma cell leukemia(PCL). 
+172	30 patients diagnosed as PCL in our hospital from January 1993 to December 2019 were enrolled, and the clinical characteristics, laboratory findings, therapeutic regimes, and survival data of the patients were retrospectively analyzed. 
+173	The median age of the 30 patients was 56.5 (28-80) years old, among them, 25 patients were primary plasma cell leukemia, and 5 patients were secondary plasma cell leukemia. 
+174	Complex karyotypes and subdiploids were most common in cytogenetic abnormalities. 
+175	Among the 20 cases of chromosome G banding, 11 (55%) cases were complex karyotypes and 8 (40%) cases were hypodiploid. 
+176	Fluorescent in situ hybridization (FISH) test showed that among 11 cases, 6 cases showed 17p13 deletion, 8 cases showed at least two kinds of abnormalities, which including t (14; 16), t (8; 14), t (11;14), 17p13 deletion, and 13q14 deletion. 
+177	The median overall survival (OS) time was 10.5 months for all patients. 
+178	The median OS time of the patients in ECOG score ≤ 2 group was 21.5 months, which was significantly longer than those in the ECOG score>2 group(1.2 months) (P=0.017). 
+179	The median OS time of the patients treated with novel agents (including proteasome inhibitor and/or immunomodulator) was 24.9 months, which was significantly longer than the patients treated with traditional chemotherapy group(10.5 months) (P＜0.001). 
+180	For the patients treated with novel agents, the median OS time of patients accepted two novel agents combination was 30.9 months, which was longer than those of single novel agent(11.5 months) (P=0.021). 
+181	The effect of genetic abnormolity to the OS of the patients showed no statistical difference. 
+182	Multivariate statistical analysis showed that ECOG score>2 was the independent prognostic factor of plasma cell leukemia patients. 
+183	There were two patients underwent allogeneic hematopoietic stem cell transplantation in the study,but died due to the pulmonary infection within 6 months after transplantation. 
+184	In the era of novel agents, ECOG score is an independent prognostic factor of plasma cell leukemia. 
+185	Multiple novel agents treatment should be underwent as soon as possible to improve the prognosis of the patients. 
+186	Pulmonary infection is a common factor that cause the death of the patients after allogeneic hematopoietic stem cell transplantation.
+187	To compare the effectiveness of anterior subcutaneous pelvic internal fixator (INFIX) and plate internal fixation in treatment of unstable anterior pelvic ring fractures. 
+188	The clinical data of 48 patients with unstable anterior pelvic ring fractures who met the selection criteria between June 2014 and December 2019 were retrospectively analyzed. 
+189	Among them, 21 cases were treated with INFIX (INFIX group), and 27 cases were treated with plate (plate group). 
+190	There was no significant difference in gender, age, body mass index, cause of injury, time from injury to operation, Injury Severity Score (ISS), and fracture type between the two groups (  The patients in both groups were followed up for an average of 12.5 months (range, 6-16 months). 
+191	The operation time and intraoperative blood loss in INFIX group were significantly lower than those in plate group (  Compared with the plate internal fixation, the INFIX internal fixation can obtain the similar effectiveness for the unstable anterior pelvic ring fracture and has the advantages of shorter operation time, less blood loss, and lower risk of infection.
+192	To investigate the clinical significance of the targeted next-generation sequencing assay for patients with suspected myeloid malignancies. 
+193	A total of 39 hematopenia patients with suspected myeloid malignamies in Department of Hematology of The Affiliated Huai'an No.1 People's Hospital of Nanjing Medical University from January 2018 to April 2019 were treated, 20 hot spot genes of myelodysplastic syndrome (MDS) were detected. 
+194	Regarding the diagnostic type, there were 7 cases of idiopathic cytopenia of undetermined significance (ICUS), 8 cases of clonal cytopenias of undetermined significance (CCUS) and 24 cases of myeloid myeloid malignancies which included 18 cases of MDS, 4 cases of myelodysplastic/myeloproliferative neoplasms (MDS/MPN) and 2 cases of acute myeloid leukemia. 
+195	Positive mutation was detected in 70.8% (17/24) of myeloid malignancy patients , and 72.7% (16/22) in MDS and MDS/MPN patients. 
+196	The main mutation types were ASXL1, TET2 and RUNX1. 
+197	Compared with gene negative group, there were no significant differences in sex, age (＜60 years old or ≥60 years old), proportion of bone marrow blast cells (＜5% or≥5%) and cytogenetics (good, medium and poor) (P＞0.05). 
+198	Furthermore, all 8 CCUS patients showed positive mutation, and the incidence of double or multiple mutation in CCUS group was significantly lower than that of the MDS and MDS/MPN group (37.5% vs 54.5%) (P=0.002). 
+199	The mutation types between the two groups were similar, and there was no significant difference in variant allele frequency (P＞0.05). 
+200	Our results suggest that there are high rates of double or multiple mutations in myeloid malignancies, especially in patients with MDS and MDS/MPN. 
+201	Targeted sequencing assay can improve the diagnosis of myeloid malignancies, and guide clinical treatment.
+202	Agreement and correlation are widely-used concepts that assess the association between variables. 
+203	Although similar and related, they represent completely different notions of association. 
+204	Assessing agreement between variables assumes that the variables measure the same construct, while correlation of variables can be assessed for variables that measure completely different constructs. 
+205	This conceptual difference requires the use of different statistical methods, and when assessing agreement or correlation, the statistical method may vary depending on the distribution of the data and the interest of the investigator. 
+206	For example, the Pearson correlation, a popular measure of correlation between continuous variables, is only informative when applied to variables that have linear relationships; it may be non-informative or even misleading when applied to variables that are not linearly related. 
+207	Likewise, the intraclass correlation, a popular measure of agreement between continuous variables, may not provide sufficient information for investigators if the nature of poor agreement is of interest. 
+208	This report reviews the concepts of agreement and correlation and discusses differences in the application of several commonly used measures. 
+209	Child welfare systems (CWSs) worldwide show increased interest in adopting empirically informed clinical strategies to increase treatment effectiveness. 
+210	Many empirically supported treatments (ESTs) exist, but little is known about EST implementation barriers and facilitators in CWS. 
+211	This study explored CWS providers' experiences of implementing attachment-based family therapy (ABFT) in home-based services of the Flemish CWS (in Belgium). 
+212	Sixteen CWS providers (twelve counselors and four supervisors) involved in three home-based services were interviewed. 
+213	The Consolidated Framework for Implementation Research (CFIR) was used to guide collection, coding, and analysis of interview data. 
+214	Findings revealed that implementation success was related to ABFT's fit with the CWS's mission, philosophy, and existing practices. 
+215	CWS providers' belief in the compatibility between ABFT and CWS increased investment in implementation efforts and persistence to overcome challenges and setbacks. 
+216	Some barriers pertained to the learning of ABFT and some barriers pertained to systems level challenges such as lack of leadership and support, poor coordination with referral sources and other youth care partners, and lack of policy support. 
+217	For successful expansion of ESTs into CWS settings, various barriers at multiple systemic levels need to be addressed.
+218	To evaluate all simulation models for ophthalmology technical and non-technical skills training and the strength of evidence to support their validity and effectiveness. 
+219	A systematic search was performed using PubMed and Embase for studies published from inception to 01/07/2019. 
+220	Studies were analysed according to the training modality: virtual reality; wet-lab; dry-lab models; e-learning. 
+221	The educational impact of studies was evaluated using Messick's validity framework and McGaghie's model of translational outcomes for evaluating effectiveness. 
+222	One hundred and thirty-one studies were included in this review, with 93 different simulators described. 
+223	Fifty-three studies were based on virtual reality tools; 47 on wet-lab models; 26 on dry-lab models; 5 on e-learning. 
+224	Only two studies provided evidence for all five sources of validity assessment. 
+225	Models with the strongest validity evidence were the Eyesi Surgical, Eyesi Direct Ophthalmoscope and Eye Surgical Skills Assessment Test. 
+226	Effectiveness ratings for simulator models were mostly limited to level 2 (contained effects) with the exception of the Sophocle vitreoretinal surgery simulator, which was shown at level 3 (downstream effects), and the Eyesi at level 5 (target effects) for cataract surgery. 
+227	A wide range of models have been described but only the Eyesi has undergone comprehensive investigation. 
+228	The main weakness is in the poor quality of study design, with a predominance of descriptive reports showing limited validity evidence and few studies investigating the effects of simulation training on patient outcomes. 
+229	More robust research is needed to enable effective implementation of simulation tools into current training curriculums.
+230	Scarce qualitative literature has focused on understanding the perspective of parents of adolescents involved in crime, and no prior literature has examined how the status of being a parent of an adolescent who is involved in delinquency intersects with being an immigrant parent. 
+231	The current phenomenological study examined, through the eyes of immigrant parents, how they comprehend their children's involvement in delinquent behavior. 
+232	This study examined in-depth semistructured interviews conducted with fourteen immigrant parents (10 mothers and 4 fathers) from the former Soviet Union in Israel of children treated in rehabilitation facilities for delinquent youth. 
+233	Data analysis revealed a gradual decline in children's behavior ascribed to the developmental stage of adolescence, the pressures of immigration, and cultural conflict. 
+234	These three factors are interwoven together to create a fabric within which they see their children turning to crime. 
+235	Parents' gradual loss of control is balanced by attempts to idealize the parent-child relationship and to minimize the severity of the offenses committed. 
+236	They describe various differing and even contradictory experiences of themselves as parents and their struggles to piece together incohesive, alternating experiences of themselves as parents. 
+237	Despite the critical role they can play in their children's rehabilitation, as well as the distress that they themselves experience, parents of children involved in delinquent behavior have often been ignored in research. 
+238	Acknowledging parents' perspectives and experiences can allow development of appropriate therapeutic strategies to support them and maximize their abilities to support their children.
+239	There has been a sharp rise of reported handheld laser-induced maculopathy (HLIM) cases over the past decade, a concerning trend that may continue due to unregulated online access to high power lasers. 
+240	Though HLIM has distinct clinical features, not uncommonly it may masquerade as other retinal disorders. 
+241	It is critical therefore to recognise the clinical and multimodal imaging characteristics of this important and potentially devastating condition. 
+242	As HLIM patients are typically young, unique issues need to be considered, such as delayed presentation, difficult history, poor compliance and behavioural or psychiatric comorbidity. 
+243	This article will review the clinical and diagnostic features of laser injury, with a special emphasis on the multimodal retinal findings. 
+244	In addition, we present a unique case of HLIM, resembling the presentation of a placoid disease variant and illustrating choroidal ischaemia using advanced retinal imaging, that offers further insight into the mechanisms of laser injury and its complications. 
+245	The issues addressed in this review aim to increase recognition of an increasingly important and trending condition with potentially profound visual complications.
+246	To compare the safety and accuracy of pedicle screw placement assisted by robot system with freehand pedicle screw placement in upper thoracic surgery. 
+247	Between December 2017 and December 2019, 39 cases with upper thoracic pedicle screw internal fixation were included in the study, including 19 cases in robot group (group A, robot assisted pedicle screw placement) and 20 cases in freehand group (group B, freehand pedicle screw placement). 
+248	There were 104 screws implanted in group A and 108 screws in group B. 
+249	There was no significant difference in age, gender composition, body mass index, disease type, number of screws implanted, and segmental distribution between the two groups (  The operation time of group A was significantly longer than that in group B (  Compared with traditional freehand pedicle screw placement, robot-assisted pedicle screw placement significantly improves the accuracy and safety of screw placement without increasing the bleeding and postoperative drainage.
+250	To investigate the effectiveness of anterolateral femoral flap in combination with fascia lata grafting in repair of large Achilles tendon and skin defects. 
+251	The clinical data of 18 patients with large Achilles tendon and skin defects repaired with anterolateral femoral flap in combination with fascia lata grafting between January 2018 and January 2019 were retrospectively reviewed. 
+252	There were 14 males and 4 females; age ranged from 32 to 57 years (mean, 42.1 years). 
+253	There were 9 cases of postoperative infection of Achilles tendon rupture, 1 case of traffic accident injury, and 8 cases of combined infection of skin and Achilles tendon defects after heel trauma. 
+254	The length of Achilles tendon defect was 4-8 cm, with an average of 5.6 cm; the range of the skin defect was 14 cm×3 cm to 20 cm×5 cm. 
+255	Flap survival was observed, and ankle function recovery was evaluated according to McComis functional assessment criteria, and dorsal extension and plantar flexion mobility of the affected limb were measured at last follow-up and compared with those of the healthy side. 
+256	Eighteen cases were followed up 8-24 months, with an average of 16.7 months. 
+257	All the flaps survived after operation, the flaps were soft and elastic, and the incisions healed by first intention. 
+258	At last follow-up, 15 cases were excellent, 2 cases were good, and 1 case was acceptable according to McComis functional evaluation criteria, with an excellent and good rate of 94.4%. 
+259	The two-point discrimination of the heel posterior region of the affected foot was 4-7 mm, with an average of 5.32 mm. 
+260	The heel-raise test was negative. 
+261	The dorsiflexion range of the affected side was (21.55±1.26)°, which was significantly different from that of the healthy side (25.23±1.45)° (  The application of anterolateral femoral flap in combination with fascia lata grafting for the repair of large Achilles tendon and skin defects can achieve good effectiveness.
+262	Chronic hepatitis B (CHB) poses a serious threat to the health of the Chinese people. 
+263	Viral markers are of great significance during antiviral therapy and research and development of innovative drugs. 
+264	However, traditional serovirological markers such as HBV DNA and hepatitis B surface antigen (HBsAg) have certain limitations in assessing the efficacy of antiviral treatment and accurately reflecting the transcriptional activity of covalently closed circular DNA (cccDNA). 
+265	In recent years, the role of new viral markers such as HBV RNA, hepatitis B core-related antigen (HBcrAg) and quantitative anti-hepatitis B core protein (qAnti-HBc) have attracted more and more attention because of accurately reflecting the transcription activity of cccDNA, determining the therapeutic effect and predicting the risk of recurrence after drug discontinuation. 
+266	This article briefly introduces the application of new and old markers in various stages of antiviral therapy in CHB patients, and combines the application of new viral markers in the evaluation of drug efficacy, and expounds its possible role in the research and development of new antiviral therapy.
+267	Canine atopic dermatitis (cAD) is a common inflammatory and pruritic skin disease, with various treatment options. 
+268	The use of topical products containing natural ingredients has proven increasingly popular. 
+269	To evaluate the effects of a spray solution containing heat-killed Lactobacillus rhamnosus and L. reuteri, on the clinical signs and cutaneous microbiota of atopic dogs. 
+270	Ten privately owned, mildly affected, nonseasonally atopic dogs. 
+271	The spray was applied to the ventrum every 24 h for 28 days. 
+272	Clinical scores, skin barrier function and owner assessment were evaluated on day (D)0, D14, D28 and D42. 
+273	The cutaneous microbiota was analysed on D0 and D28. 
+274	A reduction in the total clinical score was seen at each time point (D14, P = 0.03; D28, P = 0.04; D42, P = 0.001). 
+275	A reduction in the regional clinical scores was seen after D28 (P = 0.01) and D42 (P = 0.003). 
+276	A significant reduction in the pruritus score was seen on D42 (P = 0.01). 
+277	A lower hydration value was seen on D28 (P = 0.02) and D42 (P = 0.02) on the pinnae. 
+278	A good-to-excellent response and an easy-to-use administration was reported by owners. 
+279	There were no significant changes in the cutaneous microbiota after 28 days. 
+280	There was a significant and rapid decrease in the clinical signs associated with cAD after use of the spray. 
+281	Future larger, randomized, controlled studies are needed to confirm these results and to assess the effects on the cutaneous immunity and microflora of atopic dogs.
+282	This review assessed the real-world evidence of the management of macular oedema secondary to branch retinal vein occlusion (BRVO). 
+283	A meta-analysis of 2530 eyes from 48 real-world studies of therapies for macular oedema secondary to BRVO was conducted. 
+284	Baseline characteristics, visual, anatomical and safety outcomes were recorded. 
+285	The weighted mean and weighted estimates from random-effects models were calculated for visual acuity (VA) and central subfield thickness (CST) changes at 6, 12 and 24 months. 
+286	Primary outcome was change in VA (logMAR letters) at 12 months. 
+287	Study quality was assessed using the quality appraisal checklist for case series developed by Institute of Health Economics. 
+288	The mean baseline VA for the pooled data was 54.0 (51.5, 56.5) letters and the mean baseline CST was 501.3 (483.5, 519.1) µm. 
+289	The random-effects estimate for mean (95% CI) change in VA was 14.6 (12.5, 16.7) letters at 12 months (n = 1727). 
+290	The random-effects estimate for mean (95% CI) change in CST was -181.7 (-230.7, -132.7) µm at 12 months (n = 1325). 
+291	The quality of studies varied considerably. 
+292	Ocular and systemic adverse events were discussed in 79% and 42% of treatment arms respectively, with possible under-reporting. 
+293	Visual and anatomical gains achieved in the real-world for anti-VEGF therapy were not as impressive as seminal RCTs, possibly due to reduced injection frequency in the real world and differences in baseline characteristics. 
+294	There is an urgent need for consensus on the minimum efficacy, treatment burden and safety data to collect to strengthen the real-world evidence base.
+295	Anti-vascular endothelial growth factors (anti-VEGF) have become the most common treatment modality for many retinal diseases. 
+296	These include neovascular age-related macular degeneration (n-AMD), proliferative diabetic retinopathy (PDR) and retinal vein occlusions (RVO). 
+297	However, these drugs are administered via intravitreal injections that are associated with sight-threatening complications. 
+298	The most feared of these complications is endophthalmitis, a severe infection of the eye with extremely poor visual outcomes. 
+299	Patients with retinal diseases typically have to undergo multiple injections before achieving the desired therapeutic effect. 
+300	Each injection incurs the risk of the sight-threatening complications. 
+301	As such, there has been great interest in developing sustained delivery platforms for anti-VEGF agents to the posterior segment of the eye. 
+302	In recent years, there have been various strategies that have been conceptualised. 
+303	These include non-biodegradable implants, nano-formulations and hydrogels. 
+304	In this review, the barriers of drug delivery to the posterior segment of the eye will be explained. 
+305	The characteristics of an ideal sustained delivery platform will then be discussed. 
+306	Finally, the current available strategies will be analysed with the above-mentioned characteristics in mind to determine the advantages and disadvantages of each sustained drug delivery modality. 
+307	Through the above, this review attempts to provide an overview of the sustained delivery platforms in their various phases of development.
+308	To evaluate the effectiveness of cement-injectable cannulated pedicle screw combined with multiple level Schwab grade Ⅰ osteotomy for chronic thoracolumbar osteoporotic fractures with kyphosis. 
+309	The clinical data of 27 patients with symptomatic chronic thoracolumbar osteoporotic fractures combined with kyphosis treated between June 2015 and June 2017 were retrospectively analysed. 
+310	Among them, there were 8 males and 19 females, with an average age of 69.5 years (range, 56-81 years). 
+311	The damage segment (kyphosis vertex) included T  No complications related to pedicle screw and bone cement occurred. 
+312	The incisions healed by first intention in 26 cases, and 1 incision healed after dressing change due to poor blood glucose control. 
+313	There were no complications such as bedsore, hypostatic pneumonia, or deep venous thrombosis. 
+314	All patients were followed up 8-24 months, with an average of 16.6 months. 
+315	The VAS score, ODI score, Cobb angle, and SVA were significantly improved when compared with those before operation (  For the chronic thoracolumbar osteoporotic fractures combined with kyphosis, the cement-injectable cannulated pedicle screw and multiple level Schwab grade Ⅰ osteotomy has the advantages of less operation trauma, quick recovery, and remarkable effectiveness.
+316	Although the influence of neighborhood disadvantage on youth development of delinquent behavior is well established, findings from this research have yet to inform the development of family-centered prevention programming to protect youth from these erosive effects. The current paper examines the role of family integration in buffering the impact of social disadvantage in a sample of N = 298 families randomly assigned either to a control condition or to a family-based prevention program previously shown to enhance marriage and parenting. 
+317	We first confirmed that neighborhood concentrated disadvantage predicted change in delinquent behaviors across the course of the study. 
+318	Additionally, replicating prior work, parents participating in the Protecting Strong African American Families (ProSAAF) program, relative to those randomly assigned to the control group, significantly improved their use of effective communication strategies with each other and reduced ineffective conflict in front of youth. 
+319	This resulted in a significant indirect effect of ProSAAF on change in youth delinquent behaviors. 
+320	Furthermore, using mediated moderation analysis, the study tested the buffering effect of greater family integration, showing that experimentally produced change in interparental communication skills and the resulting reduction in youth exposure to parental conflict buffered the effect of neighborhood disadvantage on change in youth delinquent behaviors, supporting a mediated moderation model in which family environments buffer neighborhood effects.
+321	To summarize the research progress of the effects of high glucose microenvironment on the biological activity of adipose-derived stem cells (ADSCs). 
+322	The literature on the high glucose microenvironment and ADSCs at home and abroad in recent years was reviewed, and the effects of high glucose microenvironment on the general characteristics, differentiation potential, angiogenesis, and nerve regeneration of ADSCs were summarized. 
+323	The accumulation of advanced glycosylation end products (AGEs) in the high glucose microenvironment led to changes in the biological activities of ADSCs through various pathways, including cell surface markers, proliferation, migration, multi-lineage differentiation, secretory function, and tissue repair ability. 
+324	The ability of ADSCs to promote angiogenesis and nerve regeneration in high glucose microenvironment is still controversial. 
+325	High glucose microenvironment can affect the biological activity of ADSCs, and the effect and mechanism of ADSCs on angiogenesis and nerve regeneration in high glucose microenvironment need to be further studied.
+326	Emergent medical rescue for major disaster accidents and severe war trauma are the state demand. 
+327	The fast and effective emergent medical rescue depends on the establishment of integrated emergent medical rescue system. 
+328	We discuss the importance and necessity of establishment of integrated emergent medical rescue system with Chinese characteristics and its main contents in very important regional strategy of China.
+329	Complex kinship analysis refers to a kind of special kinship analysis taken for the purpose of personal identification or other issues in civil or criminal cases because the father or （and） mother is dead, or cannot participate in the analysis for other reasons. 
+330	Due to the absence of significant appraised persons in this kind of kinship analysis, grandparents, siblings or collateral relatives are required to participate in the analysis. 
+331	Complex kinship analysis is widely used and the demand is increasing year by year. 
+332	This paper analyzes the main types of complex kinships, the genetic markers of complex kinship analysis and their advantages and disadvantages and the calculation methods for complex kinship analysis by referring to the relevant literatures at home and abroad in recent years. 
+333	At the same time, the shortcomings of the present research on complex kinship and its future development are prospected.
+334	This article analyzes the clinical manifestations and magnetic resonance imaging (MRI) data of 2 patients with hypoxic encephalopathy after simple asphyxia gas poisoning. 
+335	Both patients were in a moderate coma after being poisoned, and the arterial blood lactic acid level and carbon dioxide partial pressure were higher than the normal range within 1 week after poisoning. 
+336	Two patients were cured and discharged after being treated with oxygen therapy and glucocorticoids. 
+337	The prognosis was good.
+338	Chronic hepatitis B virus (HBV) infection remains a major world public health problem. 
+339	Current guidelines of chronic hepatitis B (CHB) suggest the clinical cure as the ideal thearapeutic goal. 
+340	Although the optimization of the existing antiviral treatment can make some patients achieve clinical cure, but for most patients with chronic hepatitis B, it is difficult to achieve clinical cure according to the existing antiviral treatment plan. 
+341	The medical community has begun to work together to seek new treatment strategies, especially the immune intervention measures aimed at restoring the immune response in the liver microenvironment. 
+342	Notably, immune antiviral response plays a crucial role in HBV clearance, and the clinical cure of chronic hepatitis B is finally achieved through the optimized combination of antiviral and immunomodulatory drugs.
+343	Pancreatic cancer(PC) remains one of the most challenging malignant tumor in gastrointestinal cancer, and the incidence and mortality rates are significantly increased in the past decades. 
+344	The 5-years survival rate of PC is less than 8% since its dormant clinical symptoms and lacking of sensibility and specificity markers in early diagnosis. 
+345	The early diagnosis of pancreatic cancer is a worldwide problem, and the early diagnosis rate is only 5%. 
+346	Increasing early diagnosis rate is the key to improve the overall prognosis of pancreatic cancer. 
+347	The key of early diagnosis and treatment of pancreatic cancer is to identify the high-risk population of pancreatic cancer, improve the sensitivity and specificity of early diagnosis technology, standardize the process of early diagnosis of pancreatic cancer, and standardize the treatment of early pancreatic cancer. 
+348	To this end, this expert consensus is formulated.
+349	To analyze the gene mutations of children with juvenile myelomonocytic leukemia (JMML) and their correlation with clinical characteristics. 
+350	The genetic mutation results and clinical data of 19 children with JMML in Fujian from January 2015 to December 2018 were collected and analyzed retrospectively. 
+351	According to the results of gene mutation, they were divided into PTPN11 gene mutation group and non-PTPN11 gene mutation group, and the clinical characteristics and prognosis of children with JMML between two groups were compared. 
+352	Among the 19 children with JMML, 14 cases were male and 5 cases were female, and male/female ratio was 2.8∶1. 
+353	The median age at diagnosis was 13(3-48) months, and 14 cases (73.68%) were less than 2 years old. 
+354	Abdominal distension and pyrexia were the common initial symptoms, and all the children with JMML had splenomegaly. 
+355	The median white blood cell count was 39.82(4.53-103.4)×10 JMML is more common in male infancy and toddlerhood, and the main gene mutation types are PTPN11 and Ras mutations. 
+356	Because the JMML children with PTPN11 mutations show particularly rapid disease progression, if there is no timely intervention, most children die in a short period of time. 
+357	Therefore, early HSCT may improve the prognosis of the children with JMML.
+358	In this article, we explore the impact of South African families' emigration on parents/grandparents who must renegotiate their lives in their loved ones' physical absence. 
+359	We adopted a transnational perspective in a bigger qualitative project to consider both sides of the migratory spectrum. 
+360	Here we focus on elderly family members who remain behind-a group largely neglected in prior research. 
+361	Our findings illustrate the complex emotions and relational changes experienced by elderly people whose families emigrate. 
+362	New technologies bridge distances, allowing new ways to connect and take care of each other, and of re-imagining transnational relationships and what constitutes family life, but these bridges cannot negate the loss experienced by those remaining. 
+363	People have to make sense of the emigration and forge new relational bonds with remaining family members. 
+364	Our findings stress grandparents' meaningful role in a family system and highlight some gendered and racial differences in families' experiences.
+365	As the prevalence of autism spectrum disorder (ASD) continues to rise, there is a rapidly increasing need for treatment services among individuals diagnosed with ASD and families. 
+366	Currently, the majority of the evidence-based treatments, such as Applied Behavior Analysis, overlook the notable systemic effects of ASD and maintain a problem-focused lens. 
+367	There is a growing body of research calling for strength-based, relational interventions that build on existing resources to enhance coping, efficacy, and well-being among families affected by ASD. 
+368	Solution-Focused Brief Therapy (SFBT) is a widely practiced clinical approach that is increasingly being used among clinicians to address the systemic effects of developmental disabilities in the family. 
+369	However, particular modifications to specific interventions may better accommodate autism-associated deficits in executive functioning (e.g., goal development and impulsivity), perspective taking, or restricted interests when using an SFBT approach. 
+370	This article offers recommendations for adapting a solution-focused approach by modifying commonly used SFBT interventions to address family-driven treatment goals using a collaborative stance with families of children with ASD. 
+371	A case presentation is included to demonstrate SFBT as informed by the unique challenges and inherent resources of families affected by ASD that have been identified in the extant literature.
+372	Couple therapy has been shown to be effective in randomized clinical trials; however, results from naturalistic couple therapy have been less consistent. 
+373	This study utilized a benchmarking approach to compare the effectiveness of couple therapy in a community-based setting with findings from efficacy treatments, such as treatment within randomized clinical trials. 
+374	The current study is the largest couple therapy sample published to date (N = 3,347 couples). 
+375	Clients in couple therapy were asked to provide initial and weekly ratings of symptomology on the Outcome Questionnaire (OQ-45.2). 
+376	We found that treatment effect sizes found at community clinics were smaller than efficacy studies (i.e., the benchmark). 
+377	However, when taking into account measurement reactivity, the effect sizes were comparable. 
+378	This is the first benchmarking study for community-based couple therapy, allowing for meaningful comparisons and understanding of outcomes in real-world couple therapy. 
+379	Implications for the field are offered in terms of evaluating community-based psychotherapy studies with benchmarking for couple therapy. 
+380	Results of this study provide clinicians and researchers a way to meaningfully compare couple therapy outcomes, accounting for differences in community-based practices and randomized clinical trials. 
+381	This benchmark also underscores the impact of measurement sensitivity, an issue commonly overlooked in psychotherapy research and practice.
+382	The primary prevention of illness at the population level, the ultimate aim of medicine, seems out of reach for schizophrenia. 
+383	Schizophrenia has a strong genetic component, and its pathogenesis begins long before the emergence of psychosis, as early as fetal brain development. 
+384	Cholinergic neurotransmission at nicotinic receptors is a pathophysiological mechanism related to one aspect of this genetic risk. 
+385	Choline activates these nicotinic receptors during fetal brain development. 
+386	Dietary supplementation of maternal choline thus emerges as a possible intervention in pregnancy to alter the earliest developmental course of the illness. 
+387	Review available literature on the relationship of choline supplementation or choline levels during pregnancy and fetal brain development. 
+388	A Medline search was used to identify studies assessing effects of choline in human fetal development. 
+389	Studies of other prenatal risk factors for schizophrenia and the role of cholinergic neurotransmission in its pathophysiology were also identified. 
+390	Dietary requirements for choline are high during pregnancy because of its several uses, including membrane biosynthesis, one-carbon metabolism, and cholinergic neurotransmission. 
+391	Its ability to act directly at high concentrations as a nicotinic agonist is critical for normal brain circuit development. 
+392	Dietary supplementation in the second and third trimesters with phosphatidyl-choline supports these functions and is associated generally with better fetal outcome. 
+393	Improvement in inhibitory neuronal functions whose deficit is associated with schizophrenia and attention deficit disorder has been observed. 
+394	Prenatal dietary supplementation with phosphatidyl-choline and promotion of diets rich in choline-containing foods (meats, soybeans, and eggs) are possible interventions to promote fetal brain development and thereby decrease the risk of subsequent mental illnesses. 
+395	The low risk and short (sixmonth) duration of the intervention makes it especially conducive to population-wide adoption. 
+396	Similar findings with folate for the prevention of cleft palate led to recommendations for prenatal pharmacological supplementation and dietary improvement. 
+397	However, definitive proof of the efficacy of prenatal choline supplementation will not be available for decades (because of the 20-year lag until the onset of schizophrenia), so public health officials need to decide whether or not promoting choline supplementation is justified based on the limited information available.
+398	Pterygia are common conjunctival degenerations with well-documented risk factors but an unclear pathogenesis. 
+399	Better understanding of the pathogenesis of pterygium could lead to improved surgical outcomes and decreased postoperative recurrence. 
+400	Currently, pterygium excision with conjunctival autograft remains the preferred surgical technique to decrease pterygium recurrence. 
+401	Many adjuvant therapies have been used in pterygium surgery to varying degrees of success. 
+402	Topical cyclosporine, an immunosuppressive medication, in conjunction with conjunctival autograft was found to be most successful in decreasing pterygium recurrence according to a recent meta-analysis. 
+403	Other adjuvant therapies such as mitomycin-C (MMC), 5-fluorouracil (5-FU), and beta-irradiation have also been used, though usage of these may cause multiple adverse effects. 
+404	Recent research indicates that interactions between mouse double minute 2 (MDM2) and p53 could play a role in the occurrence of pterygium. 
+405	Nutlin, an MDM2 antagonist, was found to have significantly less toxicity in conjunctival cells when compared with MMC on laboratory analysis of pterygium samples.
+406	Recent advances in pharmacological agents have led to successful treatment of a variety of retinal diseases such as neovascular age-related macular degeneration (AMD), diabetic macular oedema (DMO), and retinal vascular occlusions (RVO). 
+407	These treatments often require repeated drug injections for an extended period of time. 
+408	To reduce these repeated treatment burdens, minimally invasive drug delivery systems are needed. 
+409	An ideal therapy should maintain effective levels of drug for the intended duration of treatment following a single application, recognising that a significant number of months of therapy may be required. 
+410	There are numerous approaches under investigation to improve treatment options. 
+411	This review will highlight the advantages and limitations of selected drug delivery systems of novel biomaterial implants and depots. 
+412	The main emphasis will be placed on less invasive, longer acting, sustained release formulations for the treatment of retinal disorders.
+413	This paper reviews the limitations of current infectious disease surveillance and early warning system in China, analyzes the concepts and countermeasures of the establishment of an intelligent early warning platform of infectious diseases based on multi-point trigger mechanism and multi-channel surveillance mechanism and proposes the realization routes for the purpose of facilitating capacity building and improvement of surveillance and early warning of infectious diseases in China.
+414	Digital prosthodontic technology has brought great changes to the prosthodontic technology in China by improving the quality of prostheses, adding new types of restorations, changing the manufacturing methods of restorations from handmade to computer-aided manufacturing, bringing new operating models of dental laboratories, and promoting the academic status of the prosthodontic technology. 
+415	Digital prosthodontic technology still has some problems, such as insufficient precision for some manufacturing methods and shortage of professionals. 
+416	Technicians and administrators of prosthodontic technology should face up to the problems and seize the opportunities, to improve the level of prosthodontic technology and train the highly educated professionals. 
+417	At the same time, attentions should be payed to the advantages of the traditional prosthodontic technology while grasping the development of the digital prosthodontic technology. 
+418	The dentists and the dental technicians should learn together and enhance communication to each other, to promote the progress of digital prosthodontic technology in China.
+419	Black Lives Matter is a clarion call for racial equality and racial justice. 
+420	With the arrival of Africans as slaves in 1619, a racial hierarchy was formed in the United States. 
+421	However, slavery is commonly dismissed as that less than noble aspect of the United States' history without really confronting the legacies of racial inequality and racial injustice left in its wake. 
+422	White supremacy, based on the myths of white superiority and Black inferiority, have obscured racial inequality and racial injustice, resulting in blaming the victims. 
+423	Using Black Lives Matter as a platform, we focus on some key considerations for theory, research, education, training, and practice in clinical, community, and larger systems contexts. 
+424	Broadly, we focus on Black Lives Matter, literally; Black dehumanization; historical oppression; healing; and implications for the field of family therapy. 
+425	More specifically, we draw attention to health disparities, mass incarceration and aggressive policing, intergenerational racial trauma, restorative justice, and antiracist work.
